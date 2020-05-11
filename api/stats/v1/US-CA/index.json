@@ -7,12 +7,12 @@
     "isoCode": "US-CA",
     "lat": 36.778261
   },
-  "updatedDateTime": "2020-05-11T20:45:07.8794763Z",
+  "updatedDateTime": "2020-05-11T21:45:08.8327572Z",
   "stats": {
-    "totalConfirmedCases": 68142,
-    "newlyConfirmedCases": 142,
-    "totalDeaths": 2754,
-    "newDeaths": 11,
+    "totalConfirmedCases": 68221,
+    "newlyConfirmedCases": 221,
+    "totalDeaths": 2770,
+    "newDeaths": 27,
     "totalRecoveredCases": 10980,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 68142,
-        "deaths": 2754,
+        "confirmed": 68221,
+        "deaths": 2770,
         "recovered": 10980
       }
     ],

@@ -7,14 +7,14 @@
     "isoCode": "US-WY",
     "lat": 43.075968
   },
-  "updatedDateTime": "2020-05-11T20:45:08.3878029Z",
+  "updatedDateTime": "2020-05-11T21:45:09.3491218Z",
   "stats": {
-    "totalConfirmedCases": 665,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 669,
+    "newlyConfirmedCases": 4,
     "totalDeaths": 7,
     "newDeaths": 0,
-    "totalRecoveredCases": 428,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 451,
+    "newlyRecoveredCases": 23,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 665,
+        "confirmed": 669,
         "deaths": 7,
-        "recovered": 428
+        "recovered": 451
       }
     ],
     "breakdowns": [

@@ -7,12 +7,12 @@
     "isoCode": "US-OR",
     "lat": 43.804133
   },
-  "updatedDateTime": "2020-05-11T20:45:08.1709235Z",
+  "updatedDateTime": "2020-05-11T21:45:09.1243657Z",
   "stats": {
-    "totalConfirmedCases": 3228,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 127,
-    "newDeaths": 0,
+    "totalConfirmedCases": 3286,
+    "newlyConfirmedCases": 58,
+    "totalDeaths": 130,
+    "newDeaths": 3,
     "totalRecoveredCases": 1125,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 3228,
-        "deaths": 127,
+        "confirmed": 3286,
+        "deaths": 130,
         "recovered": 1125
       }
     ],

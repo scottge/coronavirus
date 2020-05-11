@@ -7,12 +7,12 @@
     "isoCode": "US-SC",
     "lat": 33.836081
   },
-  "updatedDateTime": "2020-05-11T20:45:08.2013555Z",
+  "updatedDateTime": "2020-05-11T21:45:09.1558722Z",
   "stats": {
-    "totalConfirmedCases": 7706,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 331,
-    "newDeaths": 0,
+    "totalConfirmedCases": 7792,
+    "newlyConfirmedCases": 86,
+    "totalDeaths": 346,
+    "newDeaths": 15,
     "totalRecoveredCases": 4881,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 7706,
-        "deaths": 331,
+        "confirmed": 7792,
+        "deaths": 346,
         "recovered": 4881
       }
     ],

@@ -7,12 +7,12 @@
     "isoCode": "US-MO",
     "lat": 37.964253
   },
-  "updatedDateTime": "2020-05-11T20:45:08.0575456Z",
+  "updatedDateTime": "2020-05-11T21:45:09.0091123Z",
   "stats": {
-    "totalConfirmedCases": 10093,
-    "newlyConfirmedCases": 85,
-    "totalDeaths": 503,
-    "newDeaths": 6,
+    "totalConfirmedCases": 10135,
+    "newlyConfirmedCases": 127,
+    "totalDeaths": 504,
+    "newDeaths": 7,
     "totalRecoveredCases": 2063,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 10093,
-        "deaths": 503,
+        "confirmed": 10135,
+        "deaths": 504,
         "recovered": 2063
       }
     ],
