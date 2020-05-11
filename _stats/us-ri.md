@@ -2,8 +2,8 @@
 category: stats
 title: "US - Rhode Island Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Rhode Island. Total Cases: 11450 (+176), Deaths: 430 (+8), Recoveries: 730(-)."
-publishedDateTime: 2020-05-11T18:45:16Z
-updatedDateTime: 2020-05-11T18:45:16Z
+publishedDateTime: 2020-05-11T19:45:10Z
+updatedDateTime: 2020-05-11T19:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ri/"
 type: article
 heat: 100

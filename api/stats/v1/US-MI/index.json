@@ -7,12 +7,12 @@
     "isoCode": "US-MI",
     "lat": 44.314844
   },
-  "updatedDateTime": "2020-05-11T18:45:14.419825Z",
+  "updatedDateTime": "2020-05-11T19:45:08.5249358Z",
   "stats": {
-    "totalConfirmedCases": 47138,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 4551,
-    "newDeaths": 0,
+    "totalConfirmedCases": 47552,
+    "newlyConfirmedCases": 414,
+    "totalDeaths": 4584,
+    "newDeaths": 33,
     "totalRecoveredCases": 22686,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 47138,
-        "deaths": 4551,
+        "confirmed": 47552,
+        "deaths": 4584,
         "recovered": 22686
       }
     ],

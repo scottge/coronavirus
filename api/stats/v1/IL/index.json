@@ -7,14 +7,14 @@
     "isoCode": "IL",
     "lat": 31.0
   },
-  "updatedDateTime": "2020-05-11T18:45:15.0690825Z",
+  "updatedDateTime": "2020-05-11T19:45:09.1488171Z",
   "stats": {
-    "totalConfirmedCases": 16492,
-    "newlyConfirmedCases": 15,
-    "totalDeaths": 254,
-    "newDeaths": 2,
-    "totalRecoveredCases": 11548,
-    "newlyRecoveredCases": 118,
+    "totalConfirmedCases": 16506,
+    "newlyConfirmedCases": 29,
+    "totalDeaths": 258,
+    "newDeaths": 6,
+    "totalRecoveredCases": 11843,
+    "newlyRecoveredCases": 413,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 16492,
-        "deaths": 254,
-        "recovered": 11548
+        "confirmed": 16506,
+        "deaths": 258,
+        "recovered": 11843
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "IL",
           "lat": 31.0
         },
-        "totalConfirmedCases": 16492,
-        "newlyConfirmedCases": 15,
-        "totalDeaths": 254,
-        "newDeaths": 2,
-        "totalRecoveredCases": 11548,
-        "newlyRecoveredCases": 118
+        "totalConfirmedCases": 16506,
+        "newlyConfirmedCases": 29,
+        "totalDeaths": 258,
+        "newDeaths": 6,
+        "totalRecoveredCases": 11843,
+        "newlyRecoveredCases": 413
       }
     ]
   }

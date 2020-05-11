@@ -7,12 +7,12 @@
     "isoCode": "US-KS",
     "lat": 39.011902
   },
-  "updatedDateTime": "2020-05-11T18:45:14.0918132Z",
+  "updatedDateTime": "2020-05-11T19:45:08.2075197Z",
   "stats": {
-    "totalConfirmedCases": 7055,
-    "newlyConfirmedCases": 24,
-    "totalDeaths": 175,
-    "newDeaths": 0,
+    "totalConfirmedCases": 7056,
+    "newlyConfirmedCases": 25,
+    "totalDeaths": 180,
+    "newDeaths": 5,
     "totalRecoveredCases": 1675,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 7055,
-        "deaths": 175,
+        "confirmed": 7056,
+        "deaths": 180,
         "recovered": 1675
       }
     ],

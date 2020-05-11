@@ -2,8 +2,8 @@
 category: stats
 title: "Spain Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Spain. Total Cases: 268143 (+3480), Deaths: 26744 (+123), Recoveries: 177846(+1407)."
-publishedDateTime: 2020-05-11T18:45:16Z
-updatedDateTime: 2020-05-11T18:45:16Z
+publishedDateTime: 2020-05-11T19:45:10Z
+updatedDateTime: 2020-05-11T19:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/spain/"
 type: article
 heat: 100

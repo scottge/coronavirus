@@ -7,14 +7,14 @@
     "isoCode": "US-TN",
     "lat": 35.517491
   },
-  "updatedDateTime": "2020-05-11T18:45:14.3156364Z",
+  "updatedDateTime": "2020-05-11T19:45:08.4230752Z",
   "stats": {
-    "totalConfirmedCases": 15290,
-    "newlyConfirmedCases": 66,
+    "totalConfirmedCases": 15544,
+    "newlyConfirmedCases": 320,
     "totalDeaths": 258,
     "newDeaths": 0,
-    "totalRecoveredCases": 7369,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 8038,
+    "newlyRecoveredCases": 669,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 15290,
+        "confirmed": 15544,
         "deaths": 258,
-        "recovered": 7369
+        "recovered": 8038
       }
     ],
     "breakdowns": [

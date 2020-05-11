@@ -7,12 +7,12 @@
     "isoCode": "US-WI",
     "lat": 43.78444
   },
-  "updatedDateTime": "2020-05-11T18:45:14.3987258Z",
+  "updatedDateTime": "2020-05-11T19:45:08.5041979Z",
   "stats": {
-    "totalConfirmedCases": 10221,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 401,
-    "newDeaths": 0,
+    "totalConfirmedCases": 10418,
+    "newlyConfirmedCases": 197,
+    "totalDeaths": 409,
+    "newDeaths": 8,
     "totalRecoveredCases": 5014,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 10221,
-        "deaths": 401,
+        "confirmed": 10418,
+        "deaths": 409,
         "recovered": 5014
       }
     ],

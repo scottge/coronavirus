@@ -7,12 +7,12 @@
     "isoCode": "US-OH",
     "lat": 40.417287
   },
-  "updatedDateTime": "2020-05-11T18:45:14.2388721Z",
+  "updatedDateTime": "2020-05-11T19:45:08.349716Z",
   "stats": {
-    "totalConfirmedCases": 24777,
-    "newlyConfirmedCases": 689,
-    "totalDeaths": 1357,
-    "newDeaths": 10,
+    "totalConfirmedCases": 24787,
+    "newlyConfirmedCases": 699,
+    "totalDeaths": 1360,
+    "newDeaths": 13,
     "totalRecoveredCases": 448,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 24777,
-        "deaths": 1357,
+        "confirmed": 24787,
+        "deaths": 1360,
         "recovered": 448
       }
     ],
