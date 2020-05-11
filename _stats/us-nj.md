@@ -2,8 +2,8 @@
 category: stats
 title: "US - New Jersey State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-New Jersey. Total Cases: 140930 (+922), Deaths: 9312 (+48), Recoveries: 1535(-)."
-publishedDateTime: 2020-05-11T21:45:10Z
-updatedDateTime: 2020-05-11T21:45:10Z
+publishedDateTime: 2020-05-11T22:45:10Z
+updatedDateTime: 2020-05-11T22:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-nj/"
 type: article
 heat: 100

@@ -7,10 +7,10 @@
     "isoCode": "CA-AB",
     "lat": 53.9333
   },
-  "updatedDateTime": "2020-05-11T21:45:07.7678289Z",
+  "updatedDateTime": "2020-05-11T22:45:07.6896264Z",
   "stats": {
-    "totalConfirmedCases": 6253,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 6300,
+    "newlyConfirmedCases": 47,
     "totalDeaths": 117,
     "newDeaths": 0,
     "totalRecoveredCases": 0,
@@ -678,7 +678,7 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 6253,
+        "confirmed": 6300,
         "deaths": 117,
         "recovered": 0
       }
@@ -693,8 +693,8 @@
           "isoCode": "CA-AB",
           "lat": 53.9333
         },
-        "totalConfirmedCases": 6253,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 6300,
+        "newlyConfirmedCases": 47,
         "totalDeaths": 117,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

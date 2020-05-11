@@ -7,14 +7,14 @@
     "isoCode": "US-CO",
     "lat": 39.550051
   },
-  "updatedDateTime": "2020-05-11T21:45:08.844318Z",
+  "updatedDateTime": "2020-05-11T22:45:08.7085748Z",
   "stats": {
-    "totalConfirmedCases": 19703,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 971,
-    "newDeaths": 0,
-    "totalRecoveredCases": 559,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 19879,
+    "newlyConfirmedCases": 176,
+    "totalDeaths": 987,
+    "newDeaths": 16,
+    "totalRecoveredCases": 612,
+    "newlyRecoveredCases": 53,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 19703,
-        "deaths": 971,
-        "recovered": 559
+        "confirmed": 19879,
+        "deaths": 987,
+        "recovered": 612
       }
     ],
     "breakdowns": [

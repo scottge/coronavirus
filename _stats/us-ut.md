@@ -2,8 +2,8 @@
 category: stats
 title: "US - Utah State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Utah. Total Cases: 6470 (-), Deaths: 70 (-), Recoveries: 3181(+996)."
-publishedDateTime: 2020-05-11T21:45:10Z
-updatedDateTime: 2020-05-11T21:45:10Z
+publishedDateTime: 2020-05-11T22:45:10Z
+updatedDateTime: 2020-05-11T22:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ut/"
 type: article
 heat: 100

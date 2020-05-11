@@ -7,14 +7,14 @@
     "isoCode": "KY",
     "lat": 19.513469
   },
-  "updatedDateTime": "2020-05-11T21:45:09.5918381Z",
+  "updatedDateTime": "2020-05-11T22:45:09.5254172Z",
   "stats": {
-    "totalConfirmedCases": 81,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 84,
+    "newlyConfirmedCases": 3,
     "totalDeaths": 1,
     "newDeaths": 0,
-    "totalRecoveredCases": 41,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 47,
+    "newlyRecoveredCases": 6,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 81,
+        "confirmed": 84,
         "deaths": 1,
-        "recovered": 41
+        "recovered": 47
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "KY",
           "lat": 19.513469
         },
-        "totalConfirmedCases": 81,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 84,
+        "newlyConfirmedCases": 3,
         "totalDeaths": 1,
         "newDeaths": 0,
-        "totalRecoveredCases": 41,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 47,
+        "newlyRecoveredCases": 6
       }
     ]
   }

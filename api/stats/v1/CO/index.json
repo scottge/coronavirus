@@ -7,14 +7,14 @@
     "isoCode": "CO",
     "lat": 4.5709
   },
-  "updatedDateTime": "2020-05-11T21:45:09.6230351Z",
+  "updatedDateTime": "2020-05-11T22:45:09.5652108Z",
   "stats": {
-    "totalConfirmedCases": 11063,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 463,
-    "newDeaths": 0,
-    "totalRecoveredCases": 2705,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 11613,
+    "newlyConfirmedCases": 550,
+    "totalDeaths": 479,
+    "newDeaths": 16,
+    "totalRecoveredCases": 2825,
+    "newlyRecoveredCases": 120,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 11063,
-        "deaths": 463,
-        "recovered": 2705
+        "confirmed": 11613,
+        "deaths": 479,
+        "recovered": 2825
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "CO",
           "lat": 4.5709
         },
-        "totalConfirmedCases": 11063,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 463,
-        "newDeaths": 0,
-        "totalRecoveredCases": 2705,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 11613,
+        "newlyConfirmedCases": 550,
+        "totalDeaths": 479,
+        "newDeaths": 16,
+        "totalRecoveredCases": 2825,
+        "newlyRecoveredCases": 120
       }
     ]
   }
