@@ -2,8 +2,8 @@
 category: stats
 title: "US - Oregon State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Oregon. Total Cases: 3228 (-), Deaths: 127 (-), Recoveries: 1125(-)."
-publishedDateTime: 2020-05-11T19:45:10Z
-updatedDateTime: 2020-05-11T19:45:10Z
+publishedDateTime: 2020-05-11T20:45:09Z
+updatedDateTime: 2020-05-11T20:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-or/"
 type: article
 heat: 100

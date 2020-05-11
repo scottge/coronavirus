@@ -2,8 +2,8 @@
 category: stats
 title: "US - Kentucky State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Kentucky. Total Cases: 6519 (+17), Deaths: 307 (-), Recoveries: 2308(-)."
-publishedDateTime: 2020-05-11T19:45:10Z
-updatedDateTime: 2020-05-11T19:45:10Z
+publishedDateTime: 2020-05-11T20:45:09Z
+updatedDateTime: 2020-05-11T20:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ky/"
 type: article
 heat: 100

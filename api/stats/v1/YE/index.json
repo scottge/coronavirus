@@ -7,12 +7,12 @@
     "isoCode": "YE",
     "lat": 15.552727
   },
-  "updatedDateTime": "2020-05-11T19:45:09.8154087Z",
+  "updatedDateTime": "2020-05-11T20:45:09.6207685Z",
   "stats": {
-    "totalConfirmedCases": 51,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 8,
-    "newDeaths": 0,
+    "totalConfirmedCases": 56,
+    "newlyConfirmedCases": 5,
+    "totalDeaths": 9,
+    "newDeaths": 1,
     "totalRecoveredCases": 1,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 51,
-        "deaths": 8,
+        "confirmed": 56,
+        "deaths": 9,
         "recovered": 1
       }
     ],
@@ -693,10 +693,10 @@
           "isoCode": "YE",
           "lat": 15.552727
         },
-        "totalConfirmedCases": 51,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 8,
-        "newDeaths": 0,
+        "totalConfirmedCases": 56,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 9,
+        "newDeaths": 1,
         "totalRecoveredCases": 1,
         "newlyRecoveredCases": 0
       }

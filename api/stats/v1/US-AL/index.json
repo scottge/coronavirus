@@ -7,10 +7,10 @@
     "isoCode": "US-AL",
     "lat": 32.318231
   },
-  "updatedDateTime": "2020-05-11T19:45:08.3615483Z",
+  "updatedDateTime": "2020-05-11T20:45:08.1472138Z",
   "stats": {
-    "totalConfirmedCases": 9953,
-    "newlyConfirmedCases": 64,
+    "totalConfirmedCases": 10009,
+    "newlyConfirmedCases": 120,
     "totalDeaths": 401,
     "newDeaths": 5,
     "totalRecoveredCases": 20,
@@ -678,7 +678,7 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 9953,
+        "confirmed": 10009,
         "deaths": 401,
         "recovered": 20
       }

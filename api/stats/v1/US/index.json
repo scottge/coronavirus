@@ -7,12 +7,12 @@
     "isoCode": "US",
     "lat": 37.09024
   },
-  "updatedDateTime": "2020-05-11T19:45:09.668983Z",
+  "updatedDateTime": "2020-05-11T20:45:09.4790838Z",
   "stats": {
-    "totalConfirmedCases": 1369352,
-    "newlyConfirmedCases": 10892,
-    "totalDeaths": 80841,
-    "newDeaths": 400,
+    "totalConfirmedCases": 1370338,
+    "newlyConfirmedCases": 11878,
+    "totalDeaths": 81012,
+    "newDeaths": 571,
     "totalRecoveredCases": 249086,
     "newlyRecoveredCases": 2354,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 1369352,
-        "deaths": 80841,
+        "confirmed": 1370338,
+        "deaths": 81012,
         "recovered": 249086
       }
     ],
@@ -741,8 +741,8 @@
           "isoCode": "US-AL",
           "lat": 32.318231
         },
-        "totalConfirmedCases": 9953,
-        "newlyConfirmedCases": 64,
+        "totalConfirmedCases": 10009,
+        "newlyConfirmedCases": 120,
         "totalDeaths": 401,
         "newDeaths": 5,
         "totalRecoveredCases": 20,
@@ -837,10 +837,10 @@
           "isoCode": "US-CT",
           "lat": 41.603221
         },
-        "totalConfirmedCases": 33554,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 2967,
-        "newDeaths": 0,
+        "totalConfirmedCases": 33765,
+        "newlyConfirmedCases": 211,
+        "totalDeaths": 3008,
+        "newDeaths": 41,
         "totalRecoveredCases": 65,
         "newlyRecoveredCases": 0
       },
@@ -1109,10 +1109,10 @@
           "isoCode": "US-MA",
           "lat": 42.407211
         },
-        "totalConfirmedCases": 77793,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 4979,
-        "newDeaths": 0,
+        "totalConfirmedCases": 78462,
+        "newlyConfirmedCases": 669,
+        "totalDeaths": 5108,
+        "newDeaths": 129,
         "totalRecoveredCases": 22148,
         "newlyRecoveredCases": 0
       },
@@ -1477,10 +1477,10 @@
           "isoCode": "US-TX",
           "lat": 31.968599
         },
-        "totalConfirmedCases": 40201,
-        "newlyConfirmedCases": 311,
-        "totalDeaths": 1136,
-        "newDeaths": 3,
+        "totalConfirmedCases": 40251,
+        "newlyConfirmedCases": 361,
+        "totalDeaths": 1137,
+        "newDeaths": 4,
         "totalRecoveredCases": 23570,
         "newlyRecoveredCases": 0
       },

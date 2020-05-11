@@ -7,12 +7,12 @@
     "isoCode": "US-TX",
     "lat": 31.968599
   },
-  "updatedDateTime": "2020-05-11T19:45:08.4349094Z",
+  "updatedDateTime": "2020-05-11T20:45:08.2227519Z",
   "stats": {
-    "totalConfirmedCases": 40201,
-    "newlyConfirmedCases": 311,
-    "totalDeaths": 1136,
-    "newDeaths": 3,
+    "totalConfirmedCases": 40251,
+    "newlyConfirmedCases": 361,
+    "totalDeaths": 1137,
+    "newDeaths": 4,
     "totalRecoveredCases": 23570,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 40201,
-        "deaths": 1136,
+        "confirmed": 40251,
+        "deaths": 1137,
         "recovered": 23570
       }
     ],

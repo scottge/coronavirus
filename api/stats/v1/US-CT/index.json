@@ -7,12 +7,12 @@
     "isoCode": "US-CT",
     "lat": 41.603221
   },
-  "updatedDateTime": "2020-05-11T19:45:08.1278043Z",
+  "updatedDateTime": "2020-05-11T20:45:07.9017671Z",
   "stats": {
-    "totalConfirmedCases": 33554,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 2967,
-    "newDeaths": 0,
+    "totalConfirmedCases": 33765,
+    "newlyConfirmedCases": 211,
+    "totalDeaths": 3008,
+    "newDeaths": 41,
     "totalRecoveredCases": 65,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 33554,
-        "deaths": 2967,
+        "confirmed": 33765,
+        "deaths": 3008,
         "recovered": 65
       }
     ],

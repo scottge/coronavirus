@@ -7,12 +7,12 @@
     "isoCode": "US-MA",
     "lat": 42.407211
   },
-  "updatedDateTime": "2020-05-11T19:45:08.2526806Z",
+  "updatedDateTime": "2020-05-11T20:45:08.0357579Z",
   "stats": {
-    "totalConfirmedCases": 77793,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 4979,
-    "newDeaths": 0,
+    "totalConfirmedCases": 78462,
+    "newlyConfirmedCases": 669,
+    "totalDeaths": 5108,
+    "newDeaths": 129,
     "totalRecoveredCases": 22148,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 77793,
-        "deaths": 4979,
+        "confirmed": 78462,
+        "deaths": 5108,
         "recovered": 22148
       }
     ],

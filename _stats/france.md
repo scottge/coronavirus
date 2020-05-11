@@ -2,8 +2,8 @@
 category: stats
 title: "France Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in France. Total Cases: 177423 (+453), Deaths: 26643 (+263), Recoveries: 56724(+507)."
-publishedDateTime: 2020-05-11T19:45:10Z
-updatedDateTime: 2020-05-11T19:45:10Z
+publishedDateTime: 2020-05-11T20:45:09Z
+updatedDateTime: 2020-05-11T20:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/france/"
 type: article
 heat: 100
