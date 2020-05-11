@@ -2,8 +2,8 @@
 category: stats
 title: "Iran Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Iran. Total Cases: 109286 (+1683), Deaths: 6685 (+45), Recoveries: 87422(+1279)."
-publishedDateTime: 2020-05-11T17:45:32Z
-updatedDateTime: 2020-05-11T17:45:32Z
+publishedDateTime: 2020-05-11T18:45:16Z
+updatedDateTime: 2020-05-11T18:45:16Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/iran/"
 type: article
 heat: 100

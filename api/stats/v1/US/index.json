@@ -7,12 +7,12 @@
     "isoCode": "US",
     "lat": 37.09024
   },
-  "updatedDateTime": "2020-05-11T17:45:32.2401229Z",
+  "updatedDateTime": "2020-05-11T18:45:15.6106Z",
   "stats": {
-    "totalConfirmedCases": 1366116,
-    "newlyConfirmedCases": 7656,
-    "totalDeaths": 80698,
-    "newDeaths": 257,
+    "totalConfirmedCases": 1366985,
+    "newlyConfirmedCases": 8525,
+    "totalDeaths": 80742,
+    "newDeaths": 301,
     "totalRecoveredCases": 248432,
     "newlyRecoveredCases": 1700,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 1366116,
-        "deaths": 80698,
+        "confirmed": 1366985,
+        "deaths": 80742,
         "recovered": 248432
       }
     ],
@@ -933,10 +933,10 @@
           "isoCode": "US-GA",
           "lat": 32.157435
         },
-        "totalConfirmedCases": 33833,
-        "newlyConfirmedCases": 325,
-        "totalDeaths": 1415,
-        "newDeaths": 0,
+        "totalConfirmedCases": 33927,
+        "newlyConfirmedCases": 419,
+        "totalDeaths": 1441,
+        "newDeaths": 26,
         "totalRecoveredCases": 340,
         "newlyRecoveredCases": 0
       },
@@ -1029,8 +1029,8 @@
           "isoCode": "US-KS",
           "lat": 39.011902
         },
-        "totalConfirmedCases": 7054,
-        "newlyConfirmedCases": 23,
+        "totalConfirmedCases": 7055,
+        "newlyConfirmedCases": 24,
         "totalDeaths": 175,
         "newDeaths": 0,
         "totalRecoveredCases": 1675,
@@ -1173,10 +1173,10 @@
           "isoCode": "US-MO",
           "lat": 37.964253
         },
-        "totalConfirmedCases": 10008,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 497,
-        "newDeaths": 0,
+        "totalConfirmedCases": 10093,
+        "newlyConfirmedCases": 85,
+        "totalDeaths": 503,
+        "newDeaths": 6,
         "totalRecoveredCases": 2063,
         "newlyRecoveredCases": 0
       },
@@ -1349,10 +1349,10 @@
           "isoCode": "US-OH",
           "lat": 40.417287
         },
-        "totalConfirmedCases": 24088,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 1347,
-        "newDeaths": 0,
+        "totalConfirmedCases": 24777,
+        "newlyConfirmedCases": 689,
+        "totalDeaths": 1357,
+        "newDeaths": 10,
         "totalRecoveredCases": 448,
         "newlyRecoveredCases": 0
       },
@@ -1367,8 +1367,8 @@
         },
         "totalConfirmedCases": 4613,
         "newlyConfirmedCases": 20,
-        "totalDeaths": 272,
-        "newDeaths": 0,
+        "totalDeaths": 274,
+        "newDeaths": 2,
         "totalRecoveredCases": 3204,
         "newlyRecoveredCases": 0
       },

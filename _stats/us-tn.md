@@ -2,8 +2,8 @@
 category: stats
 title: "US - Tennessee State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Tennessee. Total Cases: 15290 (+66), Deaths: 258 (-), Recoveries: 7369(-)."
-publishedDateTime: 2020-05-11T17:45:32Z
-updatedDateTime: 2020-05-11T17:45:32Z
+publishedDateTime: 2020-05-11T18:45:16Z
+updatedDateTime: 2020-05-11T18:45:16Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-tn/"
 type: article
 heat: 100

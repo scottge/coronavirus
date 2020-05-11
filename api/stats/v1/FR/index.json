@@ -7,14 +7,14 @@
     "isoCode": "FR",
     "lat": 46.2276
   },
-  "updatedDateTime": "2020-05-11T17:45:31.4452859Z",
+  "updatedDateTime": "2020-05-11T18:45:14.9016749Z",
   "stats": {
-    "totalConfirmedCases": 176970,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 26380,
-    "newDeaths": 0,
-    "totalRecoveredCases": 56217,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 177423,
+    "newlyConfirmedCases": 453,
+    "totalDeaths": 26643,
+    "newDeaths": 263,
+    "totalRecoveredCases": 56724,
+    "newlyRecoveredCases": 507,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 176970,
-        "deaths": 26380,
-        "recovered": 56217
+        "confirmed": 177423,
+        "deaths": 26643,
+        "recovered": 56724
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "FR",
           "lat": 46.2276
         },
-        "totalConfirmedCases": 176970,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 26380,
-        "newDeaths": 0,
-        "totalRecoveredCases": 56217,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 177423,
+        "newlyConfirmedCases": 453,
+        "totalDeaths": 26643,
+        "newDeaths": 263,
+        "totalRecoveredCases": 56724,
+        "newlyRecoveredCases": 507
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "TR",
     "lat": 38.9637
   },
-  "updatedDateTime": "2020-05-11T17:45:32.1994198Z",
+  "updatedDateTime": "2020-05-11T18:45:15.5756403Z",
   "stats": {
-    "totalConfirmedCases": 138657,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 3786,
-    "newDeaths": 0,
-    "totalRecoveredCases": 92691,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 139771,
+    "newlyConfirmedCases": 1114,
+    "totalDeaths": 3841,
+    "newDeaths": 55,
+    "totalRecoveredCases": 95780,
+    "newlyRecoveredCases": 3089,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 138657,
-        "deaths": 3786,
-        "recovered": 92691
+        "confirmed": 139771,
+        "deaths": 3841,
+        "recovered": 95780
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "TR",
           "lat": 38.9637
         },
-        "totalConfirmedCases": 138657,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 3786,
-        "newDeaths": 0,
-        "totalRecoveredCases": 92691,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 139771,
+        "newlyConfirmedCases": 1114,
+        "totalDeaths": 3841,
+        "newDeaths": 55,
+        "totalRecoveredCases": 95780,
+        "newlyRecoveredCases": 3089
       }
     ]
   }
