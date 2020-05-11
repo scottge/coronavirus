@@ -2,8 +2,8 @@
 category: stats
 title: "US - California State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-California. Total Cases: 68142 (+142), Deaths: 2754 (+11), Recoveries: 10980(-)."
-publishedDateTime: 2020-05-11T17:42:25Z
-updatedDateTime: 2020-05-11T17:42:25Z
+publishedDateTime: 2020-05-11T17:45:32Z
+updatedDateTime: 2020-05-11T17:45:32Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ca/"
 type: article
 heat: 100

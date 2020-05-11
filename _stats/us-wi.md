@@ -2,8 +2,8 @@
 category: stats
 title: "US - Wisconsin State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Wisconsin. Total Cases: 10221 (-), Deaths: 401 (-), Recoveries: 5014(-)."
-publishedDateTime: 2020-05-11T17:42:25Z
-updatedDateTime: 2020-05-11T17:42:25Z
+publishedDateTime: 2020-05-11T17:45:32Z
+updatedDateTime: 2020-05-11T17:45:32Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-wi/"
 type: article
 heat: 100

@@ -2,8 +2,8 @@
 category: stats
 title: "US - Vermont State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Vermont. Total Cases: 927 (-), Deaths: 54 (-), Recoveries: 785(+8)."
-publishedDateTime: 2020-05-11T17:42:26Z
-updatedDateTime: 2020-05-11T17:42:26Z
+publishedDateTime: 2020-05-11T17:45:32Z
+updatedDateTime: 2020-05-11T17:45:32Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-vt/"
 type: article
 heat: 100

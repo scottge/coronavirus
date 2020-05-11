@@ -2,8 +2,8 @@
 category: stats
 title: "US - Alabama State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Alabama. Total Cases: 9953 (+64), Deaths: 401 (+5), Recoveries: 20(-)."
-publishedDateTime: 2020-05-11T17:42:25Z
-updatedDateTime: 2020-05-11T17:42:25Z
+publishedDateTime: 2020-05-11T17:45:32Z
+updatedDateTime: 2020-05-11T17:45:32Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-al/"
 type: article
 heat: 100

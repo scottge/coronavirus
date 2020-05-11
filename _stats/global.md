@@ -2,8 +2,8 @@
 category: stats
 title: "Global Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in the World. Total Cases: 4224978 (+48332), Deaths: 285210 (+1482), Recoveries: 1482259(+19500)."
-publishedDateTime: 2020-05-11T17:42:24Z
-updatedDateTime: 2020-05-11T17:42:24Z
+publishedDateTime: 2020-05-11T17:45:32Z
+updatedDateTime: 2020-05-11T17:45:32Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/global/"
 type: article
 heat: 1000

@@ -2,8 +2,8 @@
 category: stats
 title: "Canada - Alberta Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Canada-Alberta. Total Cases: 6253 (-), Deaths: 117 (-), Recoveries: 0(-)."
-publishedDateTime: 2020-05-11T17:42:26Z
-updatedDateTime: 2020-05-11T17:42:26Z
+publishedDateTime: 2020-05-11T17:45:32Z
+updatedDateTime: 2020-05-11T17:45:32Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/canada-ab/"
 type: article
 heat: 100

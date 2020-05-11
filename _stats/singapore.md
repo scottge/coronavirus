@@ -2,8 +2,8 @@
 category: stats
 title: "Singapore Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Singapore. Total Cases: 23822 (+486), Deaths: 21 (+1), Recoveries: 3225(+504)."
-publishedDateTime: 2020-05-11T17:42:26Z
-updatedDateTime: 2020-05-11T17:42:26Z
+publishedDateTime: 2020-05-11T17:45:32Z
+updatedDateTime: 2020-05-11T17:45:32Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/singapore/"
 type: article
 heat: 500

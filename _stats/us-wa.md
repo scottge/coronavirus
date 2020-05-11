@@ -2,8 +2,8 @@
 category: stats
 title: "US - Washington State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Washington. Total Cases: 17911 (+105), Deaths: 940 (+8), Recoveries: 3646(-)."
-publishedDateTime: 2020-05-11T17:42:25Z
-updatedDateTime: 2020-05-11T17:42:25Z
+publishedDateTime: 2020-05-11T17:45:32Z
+updatedDateTime: 2020-05-11T17:45:32Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-wa/"
 type: article
 heat: 100
