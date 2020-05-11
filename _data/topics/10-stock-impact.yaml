@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: stock-impact
+name: Stock Impact
+shortname: Stock Impact
+parent: Coronavirus
+keywords:
+  - stock
+  - dow
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/stock-impact.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/stock-impact-2.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/stock-impact/

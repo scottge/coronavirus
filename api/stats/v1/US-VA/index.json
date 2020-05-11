@@ -1,0 +1,2757 @@
+{
+  "location": {
+    "long": -78.656894,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Virginia",
+    "county": null,
+    "isoCode": "US-VA",
+    "lat": 37.431573
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.8450237Z",
+  "stats": {
+    "totalConfirmedCases": 23196,
+    "newlyConfirmedCases": 854,
+    "totalDeaths": 827,
+    "newDeaths": 15,
+    "totalRecoveredCases": 3124,
+    "newlyRecoveredCases": 127,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 8,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 20,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 37,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 48,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 47,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 55,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 70,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 76,
+        "deaths": 2,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 103,
+        "deaths": 2,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 123,
+        "deaths": 2,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 155,
+        "deaths": 3,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 241,
+        "deaths": 6,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 281,
+        "deaths": 7,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 327,
+        "deaths": 9,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 421,
+        "deaths": 13,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 491,
+        "deaths": 14,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 627,
+        "deaths": 16,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 754,
+        "deaths": 17,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 899,
+        "deaths": 24,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 1029,
+        "deaths": 25,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 1258,
+        "deaths": 27,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 1487,
+        "deaths": 35,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 1688,
+        "deaths": 41,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 1964,
+        "deaths": 47,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 2341,
+        "deaths": 52,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 2569,
+        "deaths": 52,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 2801,
+        "deaths": 66,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 3253,
+        "deaths": 66,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 3554,
+        "deaths": 75,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 3944,
+        "deaths": 109,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 4398,
+        "deaths": 121,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 4957,
+        "deaths": 130,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 5148,
+        "deaths": 141,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 5608,
+        "deaths": 149,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 6035,
+        "deaths": 157,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 6351,
+        "deaths": 195,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 6729,
+        "deaths": 208,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 7318,
+        "deaths": 231,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 7870,
+        "deaths": 258,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 8339,
+        "deaths": 277,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 8782,
+        "deaths": 300,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 9412,
+        "deaths": 324,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 10044,
+        "deaths": 349,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 10767,
+        "deaths": 373,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 11546,
+        "deaths": 436,
+        "recovered": 721
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 12366,
+        "deaths": 438,
+        "recovered": 1672
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 12970,
+        "deaths": 448,
+        "recovered": 1815
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 13535,
+        "deaths": 460,
+        "recovered": 1815
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 14339,
+        "deaths": 493,
+        "recovered": 1815
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 14961,
+        "deaths": 523,
+        "recovered": 2042
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 15846,
+        "deaths": 554,
+        "recovered": 2104
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 16770,
+        "deaths": 580,
+        "recovered": 2208
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 17731,
+        "deaths": 619,
+        "recovered": 2312
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 18671,
+        "deaths": 662,
+        "recovered": 2497
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 19492,
+        "deaths": 687,
+        "recovered": 2497
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 20256,
+        "deaths": 713,
+        "recovered": 2497
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 20256,
+        "deaths": 715,
+        "recovered": 2734
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 21570,
+        "deaths": 769,
+        "recovered": 2734
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 22342,
+        "deaths": 812,
+        "recovered": 2997
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 23196,
+        "deaths": 827,
+        "recovered": 3124
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -75.662,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Accomack",
+          "isoCode": "US-VA",
+          "lat": 37.9299
+        },
+        "totalConfirmedCases": 496,
+        "newlyConfirmedCases": 33,
+        "totalDeaths": 7,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.2405,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Fairfax",
+          "isoCode": "US-VA",
+          "lat": 38.9085
+        },
+        "totalConfirmedCases": 5610,
+        "newlyConfirmedCases": 272,
+        "totalDeaths": 230,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.4386,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Albemarle",
+          "isoCode": "US-VA",
+          "lat": 38.1266
+        },
+        "totalConfirmedCases": 119,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.3459,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Prince William",
+          "isoCode": "US-VA",
+          "lat": 38.6473
+        },
+        "totalConfirmedCases": 2548,
+        "newlyConfirmedCases": 74,
+        "totalDeaths": 47,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.0861,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Alexandria",
+          "isoCode": "US-VA",
+          "lat": 38.8185
+        },
+        "totalConfirmedCases": 1142,
+        "newlyConfirmedCases": 32,
+        "totalDeaths": 30,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.091,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Arlington",
+          "isoCode": "US-VA",
+          "lat": 38.8816
+        },
+        "totalConfirmedCases": 1332,
+        "newlyConfirmedCases": 51,
+        "totalDeaths": 60,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.7903,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Alleghany",
+          "isoCode": "US-VA",
+          "lat": 37.7985
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.4768,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Henrico",
+          "isoCode": "US-VA",
+          "lat": 37.6133
+        },
+        "totalConfirmedCases": 1054,
+        "newlyConfirmedCases": 22,
+        "totalDeaths": 110,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.9882,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Amelia",
+          "isoCode": "US-VA",
+          "lat": 37.3366
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.1057,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Amherst",
+          "isoCode": "US-VA",
+          "lat": 37.4487
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.6536,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Loudoun",
+          "isoCode": "US-VA",
+          "lat": 39.0768
+        },
+        "totalConfirmedCases": 1127,
+        "newlyConfirmedCases": 57,
+        "totalDeaths": 30,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.3194,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Chesterfield",
+          "isoCode": "US-VA",
+          "lat": 37.3273
+        },
+        "totalConfirmedCases": 765,
+        "newlyConfirmedCases": 24,
+        "totalDeaths": 26,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.8269,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Appomattox",
+          "isoCode": "US-VA",
+          "lat": 37.3591
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.8735,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Harrisonburg",
+          "isoCode": "US-VA",
+          "lat": 38.4362
+        },
+        "totalConfirmedCases": 578,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 21,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.0435,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Virginia Beach",
+          "isoCode": "US-VA",
+          "lat": 36.7335
+        },
+        "totalConfirmedCases": 478,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 17,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.8413,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Augusta",
+          "isoCode": "US-VA",
+          "lat": 38.1618
+        },
+        "totalConfirmedCases": 64,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.8239,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Bath",
+          "isoCode": "US-VA",
+          "lat": 38.0013
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.761,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Richmond",
+          "isoCode": "US-VA",
+          "lat": 37.9603
+        },
+        "totalConfirmedCases": 512,
+        "newlyConfirmedCases": 18,
+        "totalDeaths": 18,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.7253,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Bedford",
+          "isoCode": "US-VA",
+          "lat": 37.3866
+        },
+        "totalConfirmedCases": 38,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.3024,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Chesapeake",
+          "isoCode": "US-VA",
+          "lat": 36.6778
+        },
+        "totalConfirmedCases": 325,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.1161,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Bland",
+          "isoCode": "US-VA",
+          "lat": 37.1
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.3806,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Stafford",
+          "isoCode": "US-VA",
+          "lat": 38.4597
+        },
+        "totalConfirmedCases": 354,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.8206,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Botetourt",
+          "isoCode": "US-VA",
+          "lat": 37.3783
+        },
+        "totalConfirmedCases": 30,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.9228,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Rockingham",
+          "isoCode": "US-VA",
+          "lat": 38.4465
+        },
+        "totalConfirmedCases": 339,
+        "newlyConfirmedCases": 19,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.1607,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Bristol",
+          "isoCode": "US-VA",
+          "lat": 36.6179
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.2859,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Norfolk",
+          "isoCode": "US-VA",
+          "lat": 36.8508
+        },
+        "totalConfirmedCases": 290,
+        "newlyConfirmedCases": 16,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.4838,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Manassas",
+          "isoCode": "US-VA",
+          "lat": 38.7479
+        },
+        "totalConfirmedCases": 358,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.9839,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Brunswick",
+          "isoCode": "US-VA",
+          "lat": 36.5759
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.7052,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "James",
+          "isoCode": "US-VA",
+          "lat": 37.2679
+        },
+        "totalConfirmedCases": 170,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 15,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.0988,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Buchanan",
+          "isoCode": "US-VA",
+          "lat": 37.2754
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.5514,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Buckingham",
+          "isoCode": "US-VA",
+          "lat": 37.5541
+        },
+        "totalConfirmedCases": 246,
+        "newlyConfirmedCases": 21,
+        "totalDeaths": 1,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.6398,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Suffolk",
+          "isoCode": "US-VA",
+          "lat": 36.6953
+        },
+        "totalConfirmedCases": 215,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 19,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.3539238,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Buena Vista",
+          "isoCode": "US-VA",
+          "lat": 37.7343004
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.5185,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Newport News",
+          "isoCode": "US-VA",
+          "lat": 37.1051
+        },
+        "totalConfirmedCases": 152,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 10,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.9863,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Campbell",
+          "isoCode": "US-VA",
+          "lat": 37.3426
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.5161,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Hanover",
+          "isoCode": "US-VA",
+          "lat": 37.7772
+        },
+        "totalConfirmedCases": 163,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 16,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.5244,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Caroline",
+          "isoCode": "US-VA",
+          "lat": 37.9856
+        },
+        "totalConfirmedCases": 38,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 2,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.6688,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Carroll",
+          "isoCode": "US-VA",
+          "lat": 36.5815
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.354,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Portsmouth",
+          "isoCode": "US-VA",
+          "lat": 36.8468
+        },
+        "totalConfirmedCases": 202,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.0687,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Charles",
+          "isoCode": "US-VA",
+          "lat": 37.3441
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.3629,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Hampton",
+          "isoCode": "US-VA",
+          "lat": 37.0551
+        },
+        "totalConfirmedCases": 138,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.6078,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Spotsylvania",
+          "isoCode": "US-VA",
+          "lat": 38.2042
+        },
+        "totalConfirmedCases": 239,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.6009,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Charlotte",
+          "isoCode": "US-VA",
+          "lat": 36.9933
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.4855,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Charlottesville",
+          "isoCode": "US-VA",
+          "lat": 38.0375
+        },
+        "totalConfirmedCases": 66,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.0001,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Culpeper",
+          "isoCode": "US-VA",
+          "lat": 38.4705
+        },
+        "totalConfirmedCases": 253,
+        "newlyConfirmedCases": 14,
+        "totalDeaths": 5,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.223,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Frederick",
+          "isoCode": "US-VA",
+          "lat": 39.0902
+        },
+        "totalConfirmedCases": 162,
+        "newlyConfirmedCases": 12,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.6747,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Isle of Wight",
+          "isoCode": "US-VA",
+          "lat": 37.0836
+        },
+        "totalConfirmedCases": 108,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.1107,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Mecklenburg",
+          "isoCode": "US-VA",
+          "lat": 36.5762
+        },
+        "totalConfirmedCases": 118,
+        "newlyConfirmedCases": 7,
+        "totalDeaths": 10,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.0601,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Clarke",
+          "isoCode": "US-VA",
+          "lat": 39.0933
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.5027,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Page",
+          "isoCode": "US-VA",
+          "lat": 38.5769
+        },
+        "totalConfirmedCases": 128,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 12,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.3969,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Colonial Heights",
+          "isoCode": "US-VA",
+          "lat": 37.265
+        },
+        "totalConfirmedCases": 65,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.9868,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Covington",
+          "isoCode": "US-VA",
+          "lat": 37.7785
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.637,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Fauquier",
+          "isoCode": "US-VA",
+          "lat": 38.654
+        },
+        "totalConfirmedCases": 168,
+        "newlyConfirmedCases": 15,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.1989,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Southampton",
+          "isoCode": "US-VA",
+          "lat": 36.5778
+        },
+        "totalConfirmedCases": 131,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.1119,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Craig",
+          "isoCode": "US-VA",
+          "lat": 37.5013
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.2627,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Fluvanna",
+          "isoCode": "US-VA",
+          "lat": 37.8652
+        },
+        "totalConfirmedCases": 79,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.2577,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Cumberland",
+          "isoCode": "US-VA",
+          "lat": 37.4914
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.4088,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Danville",
+          "isoCode": "US-VA",
+          "lat": 36.5831
+        },
+        "totalConfirmedCases": 39,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.6513,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Shenandoah",
+          "isoCode": "US-VA",
+          "lat": 38.7394
+        },
+        "totalConfirmedCases": 242,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 6,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.2931,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Dickenson",
+          "isoCode": "US-VA",
+          "lat": 37.2151
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.8944,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Goochland",
+          "isoCode": "US-VA",
+          "lat": 37.6973
+        },
+        "totalConfirmedCases": 81,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.4405,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Montgomery",
+          "isoCode": "US-VA",
+          "lat": 37.0676
+        },
+        "totalConfirmedCases": 64,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.7219,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Dinwiddie",
+          "isoCode": "US-VA",
+          "lat": 36.9853
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.5356,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Emporia",
+          "isoCode": "US-VA",
+          "lat": 36.6953
+        },
+        "totalConfirmedCases": 47,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.1909,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Lynchburg",
+          "isoCode": "US-VA",
+          "lat": 37.4003
+        },
+        "totalConfirmedCases": 68,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.8667,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Essex",
+          "isoCode": "US-VA",
+          "lat": 37.9187
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.445,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Manassas Park",
+          "isoCode": "US-VA",
+          "lat": 38.7718
+        },
+        "totalConfirmedCases": 116,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.5146,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "York",
+          "isoCode": "US-VA",
+          "lat": 37.2352
+        },
+        "totalConfirmedCases": 55,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.1751,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Falls Church",
+          "isoCode": "US-VA",
+          "lat": 38.8847
+        },
+        "totalConfirmedCases": 37,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.3184,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Floyd",
+          "isoCode": "US-VA",
+          "lat": 36.9118
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.1033,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Warren",
+          "isoCode": "US-VA",
+          "lat": 38.9231
+        },
+        "totalConfirmedCases": 82,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 1,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.9985,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Louisa",
+          "isoCode": "US-VA",
+          "lat": 38.0212
+        },
+        "totalConfirmedCases": 55,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.6971,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Franklin",
+          "isoCode": "US-VA",
+          "lat": 37.1233
+        },
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.8888,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Roanoke",
+          "isoCode": "US-VA",
+          "lat": 37.2746
+        },
+        "totalConfirmedCases": 93,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.4002,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Prince Edward",
+          "isoCode": "US-VA",
+          "lat": 37.2959
+        },
+        "totalConfirmedCases": 66,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.4872,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Fredericksburg",
+          "isoCode": "US-VA",
+          "lat": 38.2992
+        },
+        "totalConfirmedCases": 58,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.9176,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Galax",
+          "isoCode": "US-VA",
+          "lat": 36.666
+        },
+        "totalConfirmedCases": 34,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.1746,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Winchester",
+          "isoCode": "US-VA",
+          "lat": 39.1735
+        },
+        "totalConfirmedCases": 64,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8083,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Giles",
+          "isoCode": "US-VA",
+          "lat": 37.3315
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.5043,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Gloucester",
+          "isoCode": "US-VA",
+          "lat": 37.2766
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.4689,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Greensville",
+          "isoCode": "US-VA",
+          "lat": 36.816
+        },
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 7,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.4413,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Grayson",
+          "isoCode": "US-VA",
+          "lat": 36.7022
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.3325,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Prince George",
+          "isoCode": "US-VA",
+          "lat": 37.2357
+        },
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.4367,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Greene",
+          "isoCode": "US-VA",
+          "lat": 38.2991
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.7891,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Washington",
+          "isoCode": "US-VA",
+          "lat": 36.6326
+        },
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.0956,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Sussex",
+          "isoCode": "US-VA",
+          "lat": 37.034
+        },
+        "totalConfirmedCases": 32,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.7284,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Halifax",
+          "isoCode": "US-VA",
+          "lat": 36.839
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.3913,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Petersburg",
+          "isoCode": "US-VA",
+          "lat": 37.2043
+        },
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.2423,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "King George",
+          "isoCode": "US-VA",
+          "lat": 38.3282
+        },
+        "totalConfirmedCases": 38,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.1879,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Orange",
+          "isoCode": "US-VA",
+          "lat": 38.136
+        },
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.9424,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Henry",
+          "isoCode": "US-VA",
+          "lat": 36.7009
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.5809,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Highland",
+          "isoCode": "US-VA",
+          "lat": 38.4116
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.2985,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Hopewell",
+          "isoCode": "US-VA",
+          "lat": 37.2915
+        },
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.8782,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "King and Queen",
+          "isoCode": "US-VA",
+          "lat": 37.6683
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.9862,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "New Kent",
+          "isoCode": "US-VA",
+          "lat": 37.5095
+        },
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.1315,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "King William",
+          "isoCode": "US-VA",
+          "lat": 37.7458
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.0093,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Northampton",
+          "isoCode": "US-VA",
+          "lat": 37.257
+        },
+        "totalConfirmedCases": 159,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 5,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.4205,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Lancaster",
+          "isoCode": "US-VA",
+          "lat": 37.6621
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.7076,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Williamsburg",
+          "isoCode": "US-VA",
+          "lat": 37.2692
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.9433,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Lee",
+          "isoCode": "US-VA",
+          "lat": 36.7764
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.6071,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Wise",
+          "isoCode": "US-VA",
+          "lat": 37.126
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.444,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Lexington",
+          "isoCode": "US-VA",
+          "lat": 37.7825
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.9784,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Westmoreland",
+          "isoCode": "US-VA",
+          "lat": 38.2565
+        },
+        "totalConfirmedCases": 37,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.1283,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Lunenburg",
+          "isoCode": "US-VA",
+          "lat": 36.9608
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.2586,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Madison",
+          "isoCode": "US-VA",
+          "lat": 38.3792
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.8636,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Martinsville",
+          "isoCode": "US-VA",
+          "lat": 36.6827
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.2883,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Mathews",
+          "isoCode": "US-VA",
+          "lat": 37.4984
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.6832,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Smyth",
+          "isoCode": "US-VA",
+          "lat": 36.8009
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.317414,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Matthews",
+          "isoCode": "US-VA",
+          "lat": 37.3912302
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.5747,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Middlesex",
+          "isoCode": "US-VA",
+          "lat": 37.6395
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.9382,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Nelson",
+          "isoCode": "US-VA",
+          "lat": 37.9161
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.1307,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Nottoway",
+          "isoCode": "US-VA",
+          "lat": 37.1812
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.3029,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Pittsylvania",
+          "isoCode": "US-VA",
+          "lat": 37.0954
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.9267,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Powhatan",
+          "isoCode": "US-VA",
+          "lat": 37.5427
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.0881,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Wythe",
+          "isoCode": "US-VA",
+          "lat": 36.953
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.4785,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Northumberland",
+          "isoCode": "US-VA",
+          "lat": 37.92
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.6262,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Norton",
+          "isoCode": "US-VA",
+          "lat": 36.9314
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.7255,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Pulaski",
+          "isoCode": "US-VA",
+          "lat": 36.9342
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.0611,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Staunton",
+          "isoCode": "US-VA",
+          "lat": 38.1593
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.9014,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Waynesboro",
+          "isoCode": "US-VA",
+          "lat": 38.0674
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.1985,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Patrick",
+          "isoCode": "US-VA",
+          "lat": 36.6344
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.3569,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Poquoson",
+          "isoCode": "US-VA",
+          "lat": 37.1318
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.0555,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Salem",
+          "isoCode": "US-VA",
+          "lat": 37.2864
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.5587,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Radford",
+          "isoCode": "US-VA",
+          "lat": 37.1229
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.5067,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Rockbridge",
+          "isoCode": "US-VA",
+          "lat": 37.9901
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.2322,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Rappahannock",
+          "isoCode": "US-VA",
+          "lat": 38.6562
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5782,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Scott",
+          "isoCode": "US-VA",
+          "lat": 36.6401
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.296,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Russell",
+          "isoCode": "US-VA",
+          "lat": 36.9792
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.8333,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Surry",
+          "isoCode": "US-VA",
+          "lat": 37.1371
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.808,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Virginia",
+          "county": "Tazewell",
+          "isoCode": "US-VA",
+          "lat": 37.0879
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

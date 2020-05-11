@@ -1,0 +1,1421 @@
+{
+  "page": 24,
+  "value": [
+    {
+      "path": "_news/2020-03-17-londons-cultural-landmarks-shutter-amid-coronavirus-threat.md",
+      "title": "London’s Cultural Landmarks Shutter Amid Coronavirus Threat",
+      "excerpt": "The city’s West End theater district, Royal Opera House and other premier venues closed Monday after the prime minister warned patrons to avoid the theater during the outbreak. LONDON — Last week, the lights went out on Broadway.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/16/theater/coronavirus-west-end-london.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/16/theater/coronavirus-west-end-london.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/16/theater/coronavirus-west-end-london.amp.html",
+      "publishedDateTime": "2020-03-16T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/16/arts/16virus-westend1/16virus-westend1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "London’s Cultural Landmarks Shutter Amid Coronavirus Threat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-the-eu-will-ban-all-nonessential-travel-into-europe-for-30-days-to-slow-the-spread-of-the-coronavirus.md",
+      "title": "The EU will ban all nonessential travel into Europe for 30 days to slow the spread of the coronavirus",
+      "excerpt": "All nonessential travel into the EU will be banned for at least 30 days, European Commission President Ursula von der Leyen said.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/coronavirus-eu-to-ban-non-essential-travel-for-thirty-days-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/coronavirus-eu-to-ban-non-essential-travel-for-thirty-days-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-eu-to-ban-non-essential-travel-for-thirty-days-2020-3?amp",
+      "publishedDateTime": "2020-03-16T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e6f9bb2c485401e2a298396?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "The EU will ban all nonessential travel into Europe for 30 days to slow the spread of the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-fears-intensify-over-european-banks-ability-to-weather-coronavirus-crisis.md",
+      "title": "Fears Intensify Over European Banks’ Ability to Weather Coronavirus Crisis",
+      "excerpt": "Investors weigh embattled banking sector’s exposure to airlines, retail and oil giants alongside small business across the continent.",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/european-banks-are-hit-again-despite-central-bank-intervention-11584382483",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/european-banks-are-hit-again-despite-central-bank-intervention-11584382483",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/european-banks-are-hit-again-despite-central-bank-intervention-11584382483",
+      "publishedDateTime": "2020-03-16T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-165134/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Fears Intensify Over European Banks’ Ability to Weather Coronavirus Crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-frances-macron-orders-nationwide-quarantine-over-coronavirus.md",
+      "title": "France’s Macron Orders Nationwide Quarantine Over Coronavirus",
+      "excerpt": "Under the new rules, people can only leave their houses to shop for groceries and medicine or to exercise.",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/frances-macron-orders-nationwide-quarantine-over-coronavirus-11584389802",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/frances-macron-orders-nationwide-quarantine-over-coronavirus-11584389802",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frances-macron-orders-nationwide-quarantine-over-coronavirus-11584389802",
+      "publishedDateTime": "2020-03-16T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-165213/social",
+          "width": 1280,
+          "height": 640,
+          "title": "France’s Macron Orders Nationwide Quarantine Over Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-europe-mulls-shutting-external-borders-in-fight-against-coronavirus.md",
+      "title": "Europe mulls shutting external borders in fight against coronavirus",
+      "excerpt": "Europe proposed shutting its external borders to foreigners for 30 days on Monday in a bid to turn the page on its scramble to contain the coronavirus, but it drew criticism for doing too little, too late.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-eu-vonderleyen-idUSKBN2132K7",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2132K7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2132K7",
+      "publishedDateTime": "2020-03-16T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1504073225&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2F1YX",
+          "width": 817,
+          "height": 545,
+          "title": "Europe mulls shutting external borders in fight against coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-london-stocks-plunge-as-airlines-gasp-for-survival-amid-coronavirus.md",
+      "title": "London stocks plunge as airlines gasp for survival amid coronavirus",
+      "excerpt": "UK shares plunged on Monday as airlines announced flight cuts and stepped up calls for emergency aid to get through the coronavirus outbreak. By Shivani Kumaresan and Devik Jain March 16 (Reuters) - UK shares plunged on Monday as airlines announced flight cuts and stepped up calls for emergency aid to get through the coronavirus outbreak.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/london-stocks-plunge-as-airlines-gasp-for-survival-amid-coronavirus-2020-03-16",
+      "ampWebUrl": "https://www.nasdaq.com/articles/london-stocks-plunge-as-airlines-gasp-for-survival-amid-coronavirus-2020-03-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/london-stocks-plunge-as-airlines-gasp-for-survival-amid-coronavirus-2020-03-16?amp",
+      "publishedDateTime": "2020-03-16T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2020-03-13T211534Z_1_KI3_RTRLXPP_2_LYNXPACKAGER.JPG",
+          "width": 450,
+          "height": 299,
+          "title": "London stocks plunge as airlines gasp for survival amid coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-germany-government-expects-economy-to-shrink-this-year-due-to-coronavirus-sources.md",
+      "title": "Germany government expects economy to shrink this year due to coronavirus: sources",
+      "excerpt": "The German government expects the economy to shrink this year due to the impact of the coronavirus, government sources said on Monday, adding that the crisis is likely to push tax revenues down and require higher state spending.",
+      "heat": 124,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-healthcare-coronavirus-germany-budget-idUSKBN2132NM",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2132NM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2132NM",
+      "publishedDateTime": "2020-03-16T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1504020883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2F1OZ",
+          "width": 822,
+          "height": 545,
+          "title": "Germany government expects economy to shrink this year due to coronavirus: sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Economic Impact",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-coronavirus-germany-latest-country-to-close-borders.md",
+      "title": "Coronavirus: Germany latest country to close borders",
+      "excerpt": "Germany has become the latest country to close borders as European nations try to stem the spread of the coronavirus. Its borders with France, Austria and Switzerland were shut on Monday, except for commercial traffic. Spain will also close its borders later while France is considering more stringent lockdowns. Meanwhile, the European ...",
+      "heat": 105,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-europe-51905129",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-europe-51905129",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-51905129",
+      "publishedDateTime": "2020-03-16T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16393/production/_111272019_mediaitem111272018.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Germany latest country to close borders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-coronavirus-germany-to-impose-border-controls-over-coronavirus.md",
+      "title": "Coronavirus: Germany to impose border controls over coronavirus",
+      "excerpt": "Germany will impose temporary controls on its borders with France, Switzerland, Austria, Denmark and Luxembourg on Monday to stop coronavirus spreading. Other EU states are also taking radical action, with Austria banning gatherings of more than five people from Monday. The Republic of Ireland is asking all pubs to shut until 29 March and ...",
+      "heat": 115,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-europe-51897069",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-europe-51897069",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-51897069",
+      "publishedDateTime": "2020-03-16T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5A92/production/_111268132_mediaitem111268131.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Germany to impose border controls over coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-france-struggling-to-curb-rate-of-coronavirus-pandemic-health-official-says.md",
+      "title": "France struggling to curb rate of coronavirus pandemic, health official says",
+      "excerpt": "France is struggling to curb the spread of the coronavirus pandemic in the country, its top health official Jerome Salomon said on Monday, as authorities consider whether to implement a partial lockdown.",
+      "heat": 102,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-france-idUSKBN2130SL",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2130SL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2130SL",
+      "publishedDateTime": "2020-03-16T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1504033651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2F1RV",
+          "width": 817,
+          "height": 545,
+          "title": "France struggling to curb rate of coronavirus pandemic, health official says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-big-uk-airlines-ground-most-of-their-fleets-to-survive-coronavirus.md",
+      "title": "Big UK airlines ground most of their fleets to survive coronavirus",
+      "excerpt": "Britain’s big airlines said on Monday they would have to ground most of their fleets to survive the coronavirus crisis, with easyJet and Virgin - though not British Airways - appealing for government bailouts to save the industry from collapse.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-easyjet-idUSKBN2130S9",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2130S9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2130S9",
+      "publishedDateTime": "2020-03-16T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1503858134&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2F0OA",
+          "width": 817,
+          "height": 545,
+          "title": "Big UK airlines ground most of their fleets to survive coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-coronavirus-spreading-faster-in-london-than-rest-of-uk-pm-johnson.md",
+      "title": "Coronavirus spreading faster in London than rest of UK-PM Johnson",
+      "excerpt": "LONDON, March 16 (Reuters) - Coronavirus in spreading faster in London than in other parts of Britain, with the capital a few weeks nearer the peak of the epidemic than elsewhere, Prime Minister Boris Johnson said on Monday as he stepped up the response to the crisis. He said by this weekend it would be necessary to shield those with the most ...",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-britain-london/coronavirus-spreading-faster-in-london-than-rest-of-uk-pm-johnson-idUSS8N29D09U",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSS8N29D09U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSS8N29D09U",
+      "publishedDateTime": "2020-03-16T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus spreading faster in London than rest of UK-PM Johnson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-swedens-getinge-to-deliver-500-ventilators-to-italy-as-demand-rockets.md",
+      "title": "Sweden's Getinge to deliver 500 ventilators to Italy as demand rockets",
+      "excerpt": "STOCKHOLM (Reuters) - Swedish medical equipment group Getinge (GETIb.ST) will deliver 500 ventilators to Italy, its chief executive told Reuters on Monday, as a growing number of countries rush to buy the machines to treat people worst hit by the coronavirus outbreak. As Europe becomes the epicenter of the outbreak, authorities are becoming ...",
+      "heat": 115,
+      "tags": [
+        "Sweden",
+        "SE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-getinge-ventilator/swedens-getinge-to-deliver-500-ventilators-to-italy-as-demand-rockets-idUSKBN2133NL",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2133NL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2133NL",
+      "publishedDateTime": "2020-03-16T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Sweden's Getinge to deliver 500 ventilators to Italy as demand rockets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-italys-coronavirus-cases-see-largest-daily-jump-death-toll-tops-1800.md",
+      "title": "Italy's coronavirus cases see largest daily jump; death toll tops 1,800",
+      "excerpt": "The number of coronavirus cases in Italy surged higher Sunday, with the nation described as the pandemic's epicenter in Europe recording over 3,500 cases in its largest single-day increase of infections to date. Italy’s Civil Protection chief Angelo Borrelli announced the 3,590 new COVID-19 cases topped the previous day’s increase by nearly ...",
+      "heat": 180,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/italy-coronavirus-cases-deaths-europe",
+      "ampWebUrl": "https://www.foxnews.com/world/italy-coronavirus-cases-deaths-europe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/italy-coronavirus-cases-deaths-europe.amp",
+      "publishedDateTime": "2020-03-16T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Italians-Singing-AP-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Italy's coronavirus cases see largest daily jump; death toll tops 1,800",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-italy-has-the-highest-number-of-coronavirus-cases-in-the-world-outside-of-china.md",
+      "title": "Italy has the highest number of coronavirus cases in the world outside of China",
+      "excerpt": "Governments in Europe are working to slow the spread of the coronavirus. Italy has the highest number of cases on the continent, and the most of any country outside of China. Elizabeth Palmer reports.",
+      "heat": 146,
+      "tags": [
+        "CN",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/video/italy-has-the-highest-number-of-coronavirus-cases-in-the-world-outside-of-china/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/15/8303e2ab-53da-404d-aec1-4c7c83f84b87/thumbnail/1200x630/ae707ed2c9671d4027d660e148ac068f/cbsn-fusion-italy-has-the-highest-number-of-coronavirus-cases-in-the-world-outside-of-china-thumbnail-456926-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Italy has the highest number of coronavirus cases in the world outside of China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-update-3-carmakers-curb-european-production-as-coronavirus-hits.md",
+      "title": "UPDATE 3-Carmakers curb European production as coronavirus hits",
+      "excerpt": "*Italy worst hit, Portugal, Spain also impacted. *Plants in Italy, Serbia, Poland affected. Italy has been the European country worst hit by the crisis and the first to enforce a nationwide lockdown,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/16/reuters-america-update-3-carmakers-curb-european-production-as-coronavirus-hits.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/16/reuters-america-update-3-carmakers-curb-european-production-as-coronavirus-hits.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/16/reuters-america-update-3-carmakers-curb-european-production-as-coronavirus-hits.html",
+      "publishedDateTime": "2020-03-16T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 3-Carmakers curb European production as coronavirus hits",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-pm-suggests-uk-will-help-lowest-paid-affected-by-coronavirus.md",
+      "title": "PM suggests UK will help lowest-paid affected by coronavirus",
+      "excerpt": "PM says no one should be penalised for self-isolating after Labour urges protection of poorest",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/16/johnson-suggests-uk-will-help-lowest-paid-affected-by-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/16/johnson-suggests-uk-will-help-lowest-paid-affected-by-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/16/johnson-suggests-uk-will-help-lowest-paid-affected-by-coronavirus",
+      "publishedDateTime": "2020-03-16T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/87fa685f06c7dd68dfb00d549daccbca20df3020/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=918352ba3eb82a777428bf900590c337",
+          "width": 600,
+          "height": 360,
+          "title": "PM suggests UK will help lowest-paid affected by coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-italy-ready-to-offer-further-measures-to-combat-coronavirus-pm-tells-paper.md",
+      "title": "Italy ready to offer further measures to combat coronavirus, PM tells paper",
+      "excerpt": "Italy’s government is ready to intervene again, if needed, as measures approved so far are not enough to support businesses and households hit by a coronavirus outbreak, the prime minister said on Monday.",
+      "heat": 118,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-conte-idUSKBN2130OK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2130OK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2130OK",
+      "publishedDateTime": "2020-03-16T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1503850334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2F0LG",
+          "width": 855,
+          "height": 545,
+          "title": "Italy ready to offer further measures to combat coronavirus, PM tells paper",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-london-west-end-theaters-close-because-of-coronavirus-sparking-anger.md",
+      "title": "London West End Theaters Close Because Of Coronavirus, Sparking Anger",
+      "excerpt": "London’s West End theaters are following the lead of Broadway and closing because of the dangers of coronavirus. Shows in the British capital and elsewhere in the country are being cancelled, both theatrical and musical. The announcement came after the U.K. Prime Minister Boris Johnson advised against theatre visits because of health dangers.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/markbeech/2020/03/16/london-west-end-theaters-close-because-of-coronavirus-following-broadway/",
+      "ampWebUrl": "https://www.forbes.com/sites/markbeech/2020/03/16/london-west-end-theaters-close-because-of-coronavirus-following-broadway/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markbeech/2020/03/16/london-west-end-theaters-close-because-of-coronavirus-following-broadway/amp/",
+      "publishedDateTime": "2020-03-16T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1056182524%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": "London West End Theaters Close Because Of Coronavirus, Sparking Anger",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-germany-tries-to-stop-trump-from-luring-away-firm-working-on-coronavirus-vaccine.md",
+      "title": "Germany tries to stop Trump from luring away firm working on coronavirus vaccine",
+      "excerpt": "BERLIN — Berlin is trying to stop Washington from persuading a German company seeking a coronavirus vaccine to move its research to the United States, prompting German politicians to insist no country should have a monopoly on any future vaccine. German government sources told Reuters on Sunday that the U.S. administration was looking into ...",
+      "heat": 110,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/news/us-news/germany-tries-stop-trump-luring-away-firm-working-coronavirus-vaccine-n1159426",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1159426",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1159426",
+      "publishedDateTime": "2020-03-16T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_11/3270481/200315-germany-coronavirus-vaccine-cs-1138a_803c9bbc95f254461bae5780bc94180e.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Germany tries to stop Trump from luring away firm working on coronavirus vaccine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-coronavirus-france-imposes-lockdown-as-eu-calls-for-30-day-travel-ban.md",
+      "title": "Coronavirus: France imposes lockdown as EU calls for 30-day travel ban",
+      "excerpt": "Ursula von der Leyen calls for end to non-essential travel as governments impose measures rarely seen outside wartime",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/16/coronavirus-spain-takes-over-private-healthcare-amid-more-european-lockdowns",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/16/coronavirus-spain-takes-over-private-healthcare-amid-more-european-lockdowns",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/16/coronavirus-spain-takes-over-private-healthcare-amid-more-european-lockdowns",
+      "publishedDateTime": "2020-03-16T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d5f13efdc223e918bf48cd09f9294897196d672c/0_254_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=06173a3dd5a3a583232b493d8859eafe",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus: France imposes lockdown as EU calls for 30-day travel ban",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-uk-government-vows-to-accelerate-coronavirus-testing.md",
+      "title": "UK government vows to accelerate coronavirus testing",
+      "excerpt": "Chief medical officer’s comments follow criticism from WHO and health workers",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/16/coronavirus-government-vows-accelerate-testing",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/16/coronavirus-government-vows-accelerate-testing",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/16/coronavirus-government-vows-accelerate-testing",
+      "publishedDateTime": "2020-03-16T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f5bfe6e2bd5971e1cf71bf661f48c8c60d3c5c83/0_41_3424_2055/master/3424.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=066309c169a43c96b7dde233e74c9d68",
+          "width": 600,
+          "height": 360,
+          "title": "UK government vows to accelerate coronavirus testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-italy-announces-nearly-28000-coronavirus-cases-2158-dead.md",
+      "title": "Italy announces nearly 28,000 coronavirus cases, 2,158 dead",
+      "excerpt": "Major U.S. cities are following European nations and capitals in shutting down schools, bars and theaters as measures to delay the spread of coronavirus step up across the world. New York, Los Angeles and Washington state have all announced public buildings will be shut temporarily,",
+      "heat": 130,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-cities-close-public-buildings-global-n1160106/ncrd1160691",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1160106",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1160106",
+      "publishedDateTime": "2020-03-16T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_12/3271591/200316-washington-union-station-mn-1030_424cc344f8b3f2a794ee7e8e39f0c295.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Italy announces nearly 28,000 coronavirus cases, 2,158 dead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-will-us-coronavirus-outbreak-look-like-south-korea-or-italy-weve-got-a-choice-to-make.md",
+      "title": "Will U.S. coronavirus outbreak look like South Korea or Italy? \"We've got a choice to make\"",
+      "excerpt": "The United States is at \"a critical inflection point\" in the coronavirus outbreak, the U.S. Surgeon General Dr. Jerome Adams said Monday. To ensure the country's hospitals can treat the people who get sick, aggressive mitigation steps are needed, he said. \"We have the same number of cases that Italy had two weeks ago. So we've got a choice to make.",
+      "heat": 145,
+      "tags": [
+        "Italy",
+        "IT",
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/coronavirus-us-cases-south-korea-italy-surgeon-general-jerome-adams/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/coronavirus-us-cases-south-korea-italy-surgeon-general-jerome-adams/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-us-cases-south-korea-italy-surgeon-general-jerome-adams/",
+      "publishedDateTime": "2020-03-16T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/16/b1a2469b-c31a-4dbc-be68-de2c32bd02e1/thumbnail/1200x630/c0d09867feaab16f2fbfddcfad97fa51/cbsn-fusion-us-surgeon-general-on-if-hospitals-are-ready-for-more-coronavirus-cases-thumbnail-457091-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Will U.S. coronavirus outbreak look like South Korea or Italy? \"We've got a choice to make\"",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-france-struggling-to-curb-rate-of-coronavirus-pandemic-health-official.md",
+      "title": "France struggling to curb rate of coronavirus pandemic - health official",
+      "excerpt": "PARIS, March 16- France is struggling to curb the spread of the coronavirus pandemic in the country, its top health official Jerome Salomon said on Monday, as authorities consider whether to implement a partial lockdown.",
+      "heat": 114,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/16/reuters-america-france-struggling-to-curb-rate-of-coronavirus-pandemic--health-official.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/16/reuters-america-france-struggling-to-curb-rate-of-coronavirus-pandemic--health-official.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/16/reuters-america-france-struggling-to-curb-rate-of-coronavirus-pandemic--health-official.html",
+      "publishedDateTime": "2020-03-16T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "France struggling to curb rate of coronavirus pandemic - health official",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-coronavirus-spreading-faster-in-london-than-rest-of-uk-pm-johnson.md",
+      "title": "Coronavirus spreading faster in London than rest of UK-PM Johnson",
+      "excerpt": "LONDON (Reuters) - Coronavirus in spreading faster in London than in other parts of Britain, with the capital a few weeks nearer the peak of the epidemic than elsewhere, Prime Minister Boris Johnson said on Monday as he stepped up the response to the crisis. He said by this weekend it would be necessary to shield those with the most serious ...",
+      "heat": 115,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://uk.reuters.com/article/uk-health-coronavirus-britain-london/coronavirus-spreading-faster-in-london-than-rest-of-uk-pm-johnson-idUKKBN21332B?feedType=RSS&feedName=topNews",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN21332B",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN21332B",
+      "publishedDateTime": "2020-03-16T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus spreading faster in London than rest of UK-PM Johnson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-italys-coronavirus-victims-face-death-alone-with-funerals-postponed.md",
+      "title": "Italy’s Coronavirus Victims Face Death Alone, With Funerals Postponed",
+      "excerpt": "ROME — At around midnight on Wednesday, Renzo Carlo Testa, 85, died from the coronavirus in a hospital in the northern Italian town of Bergamo. Five days later, his body was still sitting in a coffin,",
+      "heat": 180,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/16/world/europe/italy-coronavirus-funerals.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/16/world/europe/italy-coronavirus-funerals.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/16/world/europe/italy-coronavirus-funerals.amp.html",
+      "publishedDateTime": "2020-03-16T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/16/world/16Italy-Bodies01/16Italy-Bodies01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "Italy’s Coronavirus Victims Face Death Alone, With Funerals Postponed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-germany-to-counter-coronavirus-impact-with-full-force-scholz-in-letter.md",
+      "title": "Germany to counter coronavirus impact 'with full force': Scholz in letter",
+      "excerpt": "Germany will counter the social and economic impact of the coronavirus crisis “with full force”, Finance Minister Olaf Scholz told lawmakers in a letter on Monday, without putting a figure on the promised fiscal push.",
+      "heat": 104,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-healthcare-coronavirus-germany-budget-idUSKBN2132VK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2132VK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2132VK",
+      "publishedDateTime": "2020-03-16T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Germany to counter coronavirus impact 'with full force': Scholz in letter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-germany-govt-expects-economy-to-shrink-this-year-due-to-coronavirus-sources.md",
+      "title": "Germany gov't expects economy to shrink this year due to coronavirus - sources",
+      "excerpt": "BERLIN, March 16 (Reuters) - The German government expects the economy to shrink this year due to the impact of the coronavirus, government sources said on Monday, adding that the crisis is likely to push tax revenues down and require higher state spending. The finance ministry will present a provisional budget plan for 2021 and the mid-term ...",
+      "heat": 146,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://in.reuters.com/article/healthcare-coronavirus-germany-budget-idUSL8N2B97EY",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idUSL8N2B97EY",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idUSL8N2B97EY",
+      "publishedDateTime": "2020-03-16T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Germany gov't expects economy to shrink this year due to coronavirus - sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Economic Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-london-tube-passengers-drop-19-due-to-coronavirus.md",
+      "title": "London Tube passengers drop 19% due to coronavirus",
+      "excerpt": "Passenger numbers on London’s Underground network have fallen by 19% as people change behaviour to cope with the coronavirus outbreak, with the decline accelerating as more companies asked staff to work from home,",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-london-transport-idUSFWN2B90SY",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2B90SY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2B90SY",
+      "publishedDateTime": "2020-03-16T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "London Tube passengers drop 19% due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 25
+}

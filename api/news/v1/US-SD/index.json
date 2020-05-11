@@ -1,0 +1,318 @@
+{
+  "location": {
+    "long": -99.901813,
+    "countryOrRegion": "United States",
+    "provinceOrState": "South Dakota",
+    "county": null,
+    "isoCode": "US-SD",
+    "lat": 43.969515
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.9418081Z",
+  "news": [
+    {
+      "path": "_news/2020-05-10-sioux-tribe-rejects-south-dakota-governors-request-to-remove-coronavirus-travel-checkpoints.md",
+      "title": "Sioux tribe rejects South Dakota governor's request to remove coronavirus travel checkpoints",
+      "excerpt": "\"I absolutely agree that we need to work together during this time of crisis, however you continuing to interfere in our efforts to do what science and facts dictate seriously undermine our ability to protect everyone on the reservation,",
+      "heat": 114,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/sioux-tribe-rejects-south-dakota-governors-request-to-remove-coronavirus-checkpoints/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/sioux-tribe-rejects-south-dakota-governors-request-to-remove-coronavirus-checkpoints/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sioux-tribe-rejects-south-dakota-governors-request-to-remove-coronavirus-checkpoints/",
+      "publishedDateTime": "2020-05-09T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/05/10/3310b480-c405-4866-971f-519f4f976a0a/thumbnail/1200x630/4bc8e2e6a5ce5c09e00c4e47979600e9/gettyimages-1189041682.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Sioux tribe rejects South Dakota governor's request to remove coronavirus travel checkpoints",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-south-dakotas-official-coronavirus-app-shows-limits-of-contact-tracing-tech.md",
+      "title": "South Dakota's Official Coronavirus App Shows Limits of Contact Tracing Tech",
+      "excerpt": "This is not to say that app is not working as intended, but the news shows the potential limitations of contact tracing apps that are supposed to help track and contain the spread of coronavirus. The news comes after Motherboard found that another app from the United Nations didn't even function correctly at all.",
+      "heat": 102,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/3az859/south-dakota-official-coronavirus-contact-tracing-app-limitations",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/3az859/south-dakota-official-coronavirus-contact-tracing-app-limitations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/3az859/south-dakota-official-coronavirus-contact-tracing-app-limitations",
+      "publishedDateTime": "2020-05-06T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5eb30b005173a8009895e1a3/lede/1588793569276-people-holding-their-phones-3184435.jpeg?crop=1xw:0.6542xh;0xw,0.1914xh",
+          "width": 4004,
+          "height": 2249,
+          "title": "South Dakota's Official Coronavirus App Shows Limits of Contact Tracing Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-south-dakota-reports-3-coronavirus-deaths-53-new-cases.md",
+      "title": "South Dakota reports 3 coronavirus deaths, 53 new cases",
+      "excerpt": "South Dakota health officials on Tuesday reported three deaths from COVID-19, along with 53 new confirmed cases. All three deaths were in Minnehaha County, which has seen most of the infections in the state.",
+      "heat": 170,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/article/South-Dakota-reports-3-coronavirus-deaths-53-new-15248103.php",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/South-Dakota-reports-3-coronavirus-deaths-53-new-15248103.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/South-Dakota-reports-3-coronavirus-deaths-53-new-15248103.php",
+      "publishedDateTime": "2020-05-05T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "South Dakota reports 3 coronavirus deaths, 53 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-south-dakota-reports-3-coronavirus-deaths-53-new-cases.md",
+      "title": "South Dakota Reports 3 Coronavirus Deaths, 53 New Cases",
+      "excerpt": "A total of 2,721 cases of coronavirus have been confirmed, but the actual number of infections is thought to be far higher than the number of confirmed because many people have not been tested and people can be infected without feeling sick.",
+      "heat": null,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/south-dakota/articles/2020-05-05/south-dakota-reports-3-coronavirus-deaths-53-new-cases",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-noem-south-dakota-budget-to-take-big-hit-from-covid-19.md",
+      "title": "Noem: South Dakota budget to take big hit from COVID-19",
+      "excerpt": "Gov. Kristi Noem said Monday that South Dakota’s budget is expected to take a big hit from the economic shock of the coronavirus pandemic. Noem said South",
+      "heat": null,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/a3c2315c2b61ece0101dd7f29aa138f1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": "Noem: South Dakota budget to take big hit from COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-south-dakota-reports-71-active-hospitalizations-of-covid-19-patients.md",
+      "title": "South Dakota reports 71 active hospitalizations of COVID-19 patients",
+      "excerpt": "The South Dakota Department of Health reported 43 more positive cases of COVID-19 on Sunday, May 3, for a total of 2,631.",
+      "heat": null,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://www.mitchellrepublic.com/newsmd/coronavirus/6475366-South-Dakota-reports-71-active-hospitalizations-of-COVID-19-patients",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mitchell Daily Republic",
+        "domain": "mitchellrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fccnn.com/incoming/5040375-mwz1vm-coronavirus-4942077_1920.jpg/alternates/BASE_LANDSCAPE/coronavirus-4942077_1920.jpg",
+          "width": 1140,
+          "height": 712,
+          "title": "South Dakota reports 71 active hospitalizations of COVID-19 patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-live-gov-kristi-noem-to-hold-briefing-on-covid-19-in-south-dakota-at-1045-am.md",
+      "title": "LIVE: Gov. Kristi Noem to hold briefing on COVID-19 in South Dakota at 10:45 am",
+      "excerpt": "Gov. Kristi Noem will hold a brief media availability at 10:45 a.m. CDT Friday, May 1, to discuss developments surrounding the coronavirus in South Dakota.",
+      "heat": null,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://www.inforum.com/newsmd/coronavirus/6468537-LIVE-Gov.-Kristi-Noem-to-hold-briefing-on-COVID-19-in-South-Dakota-at-1045-am",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "INFORUM",
+        "domain": "inforum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fccnn.com/incoming/5003910-u6mw9o-Noem-coronavirus-press-conference-3-17.jpg/alternates/BASE_LANDSCAPE/Noem%20coronavirus%20press%20conference%203-17.jpg",
+          "width": 1140,
+          "height": 712,
+          "title": "LIVE: Gov. Kristi Noem to hold briefing on COVID-19 in South Dakota at 10:45 am",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-south-dakota-reports-4-covid-19-deaths-76-new-cases.md",
+      "title": "South Dakota reports 4 COVID-19 deaths, 76 new cases",
+      "excerpt": "A total of 2,449 people have confirmed cases across the state. The actual number of COVID-19 infections is thought to be far higher than the number of confirmed because many people have not been tested and studies suggest people can be infected without feeling sick.",
+      "heat": null,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtontimes.com/news/2020/apr/30/south-dakota-reports-4-covid-19-deaths-76-new-case/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/04/23/virus_outbreak_south_dakota_42352_c0-349-4035-2702_s1200x700.jpg?2dfd820fc070ebbb45ddb9d9416936faa6a84d31",
+          "width": 1200,
+          "height": 700,
+          "title": "South Dakota reports 4 COVID-19 deaths, 76 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

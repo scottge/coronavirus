@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: coronavirus-in-canada
+name: Coronavirus in Canada
+shortname: Canada
+parent: Coronavirus
+keywords:
+  - canada
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-canada.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/coronavirus-in-canada/
+  stats: https://insideout.app/coronavirus/api/stats/coronavirus-in-canada/

@@ -1,0 +1,656 @@
+{
+  "location": {
+    "long": -120.554201,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Oregon",
+    "county": null,
+    "isoCode": "US-OR",
+    "lat": 43.804133
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.7541536Z",
+  "news": [
+    {
+      "path": "_news/2020-05-07-oregon-reports-2-new-deaths-70-new-cases-of-coronavirus.md",
+      "title": "Oregon reports 2 new deaths, 70 new cases of coronavirus",
+      "excerpt": "Oregon health officials said Wednesday that two more people have died from the new coronavirus and there are 70 new confirmed cases. The numbers bring the statewide death toll to 115 and the number of confirmed cases statewide to 2,",
+      "heat": 170,
+      "tags": [
+        "US-OR",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/article/Oregon-reports-2-new-deaths-70-new-cases-of-15251575.php",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/Oregon-reports-2-new-deaths-70-new-cases-of-15251575.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Oregon-reports-2-new-deaths-70-new-cases-of-15251575.php",
+      "publishedDateTime": "2020-05-06T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Oregon reports 2 new deaths, 70 new cases of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-cycle-oregon-cancels-all-2020-events-due-to-ongoing-coronavirus-pandemic.md",
+      "title": "Cycle Oregon cancels all 2020 events due to ongoing coronavirus pandemic",
+      "excerpt": "Registered riders will receive a 70 percent refund of their registration fee and a total refund of their add-on purchases.",
+      "heat": 149,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.oregonlive.com/pacific-northwest-news/2020/05/cycle-oregon-cancels-all-2020-events-due-to-ongoing-coronavirus-pandemic.html",
+      "ampWebUrl": "https://www.oregonlive.com/pacific-northwest-news/2020/05/cycle-oregon-cancels-all-2020-events-due-to-ongoing-coronavirus-pandemic.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/pacific-northwest-news/2020/05/cycle-oregon-cancels-all-2020-events-due-to-ongoing-coronavirus-pandemic.html?outputType=amp",
+      "publishedDateTime": "2020-05-06T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/OKINOQDDPVG2PK4BYMYTINY5FU.JPG",
+          "width": 5184,
+          "height": 3888,
+          "title": "Cycle Oregon cancels all 2020 events due to ongoing coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-oregons-first-known-coronavirus-patient-released-from-hospital-after-2-months.md",
+      "title": "Oregon’s first known coronavirus patient released from hospital after 2 months",
+      "excerpt": "The first known coronavirus patient in Oregon to test positive for the novel coronavirus has officially been released from the hospital following a more than two-month-long battle with COVID-19.",
+      "heat": 121,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/health/oregons-first-known-coronavirus-patient-released-from-hospital-after-2-months",
+      "ampWebUrl": "https://www.foxnews.com/health/oregons-first-known-coronavirus-patient-released-from-hospital-after-2-months.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/oregons-first-known-coronavirus-patient-released-from-hospital-after-2-months.amp",
+      "publishedDateTime": "2020-05-06T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Hector-Calderon-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Oregon’s first known coronavirus patient released from hospital after 2 months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-oregon-coronavirus-updates-may-5-4-new-covid-19-deaths-72-new-cases.md",
+      "title": "Oregon coronavirus updates, May 5: 4 new COVID-19 deaths; 72 new cases",
+      "excerpt": "Check back on this story throughout the day for the latest news about coronavirus and its effects in Salem and around Oregon",
+      "heat": 175,
+      "tags": [
+        "US",
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.statesmanjournal.com/story/news/2020/05/05/salem-coronavirus-updates-fred-meyer-offers-testing-frontline-workers/3083665001/",
+      "ampWebUrl": "https://amp.statesmanjournal.com/amp/3083665001",
+      "cdnAmpWebUrl": "https://amp-statesmanjournal-com.cdn.ampproject.org/c/s/amp.statesmanjournal.com/amp/3083665001",
+      "publishedDateTime": "2020-05-06T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statesman Journal",
+        "domain": "statesmanjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/04/15/USAT/c117f675-982e-410b-a279-aeb9c700aec2-61618JF001_STIMULUS.JPG?auto=webp&crop=2999,1687,x0,y240&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Oregon coronavirus updates, May 5: 4 new COVID-19 deaths; 72 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-oregons-1st-covid-19-patient-out-of-hospital-after-2-months.md",
+      "title": "Oregon's 1st COVID-19 patient out of hospital after 2 months",
+      "excerpt": "The first person in Oregon to be diagnosed with the new coronavirus has been discharged from the hospital more than two months after being admitted, the hospital said Tuesday. Hector Calderon spent many days in the intensive care unit,",
+      "heat": 105,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/article/Oregon-s-1st-COVID-19-patient-out-of-hospital-15249249.php",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/Oregon-s-1st-COVID-19-patient-out-of-hospital-15249249.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Oregon-s-1st-COVID-19-patient-out-of-hospital-15249249.php",
+      "publishedDateTime": "2020-05-05T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Oregon's 1st COVID-19 patient out of hospital after 2 months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-infects-workers-at-oregon-seafood-processing-plant.md",
+      "title": "Coronavirus infects workers at Oregon seafood processing plant",
+      "excerpt": "More than a dozen workers at a seafood processing plant in Oregon have contracted the novel coronavirus, forcing two of Bornstein Seafood's facilities in Astoria to temporarily close.",
+      "heat": 115,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/health/coronavirus-infects-workers-at-oregon-seafood-processing-plant",
+      "ampWebUrl": "https://www.foxnews.com/health/coronavirus-infects-workers-at-oregon-seafood-processing-plant.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/coronavirus-infects-workers-at-oregon-seafood-processing-plant.amp",
+      "publishedDateTime": "2020-05-05T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-1153667868.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Coronavirus infects workers at Oregon seafood processing plant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-oregon-health-authority-no-new-deaths-65-new-cases-of-covid-19.md",
+      "title": "Oregon Health Authority no new deaths, 65 new cases of COVID-19",
+      "excerpt": "The Oregon Health Authority reported 65 new confirmed cases in an update on Wednesday, bringing the state total to 2,745.",
+      "heat": 140,
+      "tags": [
+        "US",
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kdrv.com/content/news/Oregon-Health-Authority-no-new-deaths-65-new-cases-of-COVID-19-570180761.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KDRV",
+        "domain": "kdrv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/images/Coronavirus+CDC.jpg",
+          "width": 700,
+          "height": 393,
+          "title": "Oregon Health Authority no new deaths, 65 new cases of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-oregon-brewers-festival-the-states-largest-canceled-for-2020-because-of-coronavirus.md",
+      "title": "Oregon Brewers Festival, the state’s largest, canceled for 2020 because of coronavirus",
+      "excerpt": "For the first time in over three decades, the Oregon Brewers Festival – the state’s biggest craft beer showcase – won’t be a summertime stop for tens of thousands of suds enthusiasts as organizers have called off the party, the latest cancellation ... to hold a successful event in a post-pandemic world.” Coronavirus in Oregon: Latest ...",
+      "heat": 127,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.oregonlive.com/beer/2020/05/oregon-brewers-festival-the-states-largest-canceled-for-2020-because-of-coronavirus.html",
+      "ampWebUrl": "https://www.oregonlive.com/beer/2020/05/oregon-brewers-festival-the-states-largest-canceled-for-2020-because-of-coronavirus.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/beer/2020/05/oregon-brewers-festival-the-states-largest-canceled-for-2020-because-of-coronavirus.html?outputType=amp",
+      "publishedDateTime": "2020-05-04T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/2AKMLSIWEJBERAL56DJRT4GUM4.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": "Oregon Brewers Festival, the state’s largest, canceled for 2020 because of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-oregon-coronavirus-updates-may-2-portland-whole-foods-worker-speaks-out.md",
+      "title": "Oregon coronavirus updates May 2: Portland Whole Foods worker speaks out",
+      "excerpt": "We post a new blog post every day that tracks the daily changes in Oregon and Southwest Washington as we get them. CLICK HERE TO SEE THE LATEST UPDATES",
+      "heat": 124,
+      "tags": [
+        "US-OR",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kgw.com/article/news/health/coronavirus/oregon-coronavirus-updates-live-blog-covid-19/283-cda6c929-68ae-499b-b438-0c924d0aa69b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KGW8",
+        "domain": "kgw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.kgw.com/assets/KGW/images/e06671c3-fd18-4a09-8360-f3c13efb6848/e06671c3-fd18-4a09-8360-f3c13efb6848_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Oregon coronavirus updates May 2: Portland Whole Foods worker speaks out",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-oregon-health-authority-reports-two-additional-covid-19-deaths-64-new-cases-statewide.md",
+      "title": "Oregon Health Authority reports two additional COVID-19 deaths, 64 new cases statewide",
+      "excerpt": "The Oregon Health Authority reported two new COVID-19 deaths Thursday, along with 64 new cases statewide. As of Thursday morning, 103 people have died in Oregon from the coronavirus. The latest deaths were a 69-year-old man in Multnomah County who tested positive on April 7 and died Sunday at the hospital and a 77-year-old man in Marion County who tested positive on Saturday and died the same day at his home.",
+      "heat": 102,
+      "tags": [
+        "US-OR",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kptv.com/news/oregon-health-authority-reports-two-additional-covid-19-deaths-64-new-cases-statewide/article_7babc006-8b18-11ea-8884-6792045a7529.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 12 Oregon",
+        "domain": "kptv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-oregon-reports-two-deaths-61-new-confirmed-covid-19-cases.md",
+      "title": "Oregon reports two deaths, 61 new confirmed COVID-19 cases",
+      "excerpt": "COVID-19 has claimed two more lives in Oregon, raising the state’s death toll to 101, the Oregon Health Authority reported on Wednesday, April 29, according to a news release.",
+      "heat": 115,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.heraldandnews.com/news/local_news/oregon-reports-two-deaths-61-new-confirmed-covid-19-cases/article_3e1506b3-4d9b-512f-8630-b3d4c4470f4c.html",
+      "ampWebUrl": "https://www.heraldandnews.com/news/local_news/oregon-reports-two-deaths-61-new-confirmed-covid-19-cases/article_3e1506b3-4d9b-512f-8630-b3d4c4470f4c.amp.html",
+      "cdnAmpWebUrl": "https://www-heraldandnews-com.cdn.ampproject.org/c/s/www.heraldandnews.com/news/local_news/oregon-reports-two-deaths-61-new-confirmed-covid-19-cases/article_3e1506b3-4d9b-512f-8630-b3d4c4470f4c.amp.html",
+      "publishedDateTime": "2020-04-29T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Herald and News",
+        "domain": "heraldandnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/heraldandnews.com/content/tncms/assets/v3/editorial/b/23/b23fbef0-b3e3-5a62-bfca-0047cef084b7/5e8d0fcb335a3.image.jpg",
+          "width": 600,
+          "height": 362,
+          "title": "Oregon reports two deaths, 61 new confirmed COVID-19 cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-gov-kate-brown-unveils-plan-for-lifting-restrictions-on-hospitals-starting-next-month.md",
+      "title": "Gov. Kate Brown Unveils Plan For Lifting Restrictions On Hospitals Starting Next Month",
+      "excerpt": "Gov. Kate Brown announced on Thursday that she plans to lift restrictions on hospitals, allowing them to reopen for non-essential surgical procedures starting next month as long as they reserve enough hospital beds and protective gear — gowns,",
+      "heat": null,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.opb.org/news/article/oregon-governor-lifting-restrictions-hospital-non-essential-procedures-covid-19-coronavirus-may/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-coronavirus-kills-at-least-14-at-one-long-term-care-facility-in-portland.md",
+      "title": "Coronavirus Kills At Least 14 At One Long-Term Care Facility In Portland",
+      "excerpt": "In addition, the inspection report reads, “interviews with facility staff revealed staff did not feel like they had adequate staff to meet the needs of the residents.” Employees at Healthcare at Foster Creek in Portland did not have enough protective gear; employees only got one ... coronavirus-related deaths happened in long-term care ...",
+      "heat": null,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.opb.org/news/article/coronavirus-kills-at-least-14-in-one-long-term-care-facility-in-portland/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images3.opb.org/c_fill%2Ch_300%2Cq_90%2Cw_400/20200416_covid-19-stock_bp-1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "Coronavirus Kills At Least 14 At One Long-Term Care Facility In Portland",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-oregon-gov-kate-brown-wont-release-prisoners-over-covid-risks.md",
+      "title": "Oregon Gov. Kate Brown Won't Release Prisoners Over COVID Risks",
+      "excerpt": "Oregon Gov. Kate Brown said Tuesday she won’t release inmates over risks surrounding COVID-19. The decision comes the day after Brown received the ... ODAA said it opposes a mass release of prisoners because it is potentially damaging to crime victims, despite public health concerns. After Brown’s announcement Tuesday, ODAA put out ...",
+      "heat": null,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.opb.org/news/article/oregon-gov-wont-release-prisoners-over-covid-risks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images4.opb.org/c_fill%2Ch_300%2Cq_90%2Cw_400/news_yz7a0041_vjwgkw.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "Oregon Gov. Kate Brown Won't Release Prisoners Over COVID Risks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-oregon-woman-who-recovered-from-coronavirus-tested-positive-weeks-after-symptoms-were-gone.md",
+      "title": "Oregon woman who recovered from coronavirus tested positive weeks after symptoms were gone",
+      "excerpt": "In February, a Forest Grove woman was diagnosed with COVID-19 while on vacation in Japan. She and her husband could not come home to Oregon for a month. Then soon after they got back, the stay home orders went into place.",
+      "heat": null,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kgw.com/article/news/local/oregon-woman-who-recovered-from-coronavirus-tested-positive-after-symptoms-were-gone/283-8870bdd8-e0ad-4fb4-aec1-514d83d01e14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T17:43:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kgw.com/article/news/local/oregon-woman-who-recovered-from-coronavirus-tested-positive-after-symptoms-were-gone/283-8870bdd8-e0ad-4fb4-aec1-514d83d01e14",
+        "domain": "kgw.com/article/news/local/oregon-woman-who-recovered-from-coronavirus-tested-positive-after-symptoms-were-gone/283-8870bdd8-e0ad-4fb4-aec1-514d83d01e14",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-c-oregon-outdoor-options-clarified-whats-open-whats-not-and-what-are-the-rules.md",
+      "title": "C. Oregon outdoor options clarified: What’s open, what’s not and what are the rules?",
+      "excerpt": "Deschutes and Ochoco National Forests and the Crooked River National Grassland Dispersed camping – or camping other than at a developed campground - is allowed.Driving and parking along forest ...",
+      "heat": null,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.fs.usda.gov/detail/ochoco/news-events/?cid=FSEPRD724391products%2F%3Fcid%3Dfsbdev3_035882",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVZ",
+        "domain": "ktvz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-05-oregon-coronavirus-updates-april-4-100-more-positive-cases-reported-in-oregon-bringing-total-to-999.md",
+      "title": "Oregon coronavirus updates April 4: 100 more positive cases reported in Oregon bringing total to 999",
+      "excerpt": "PORTLAND, Ore. — Cases of COVID-19, a new strain of coronavirus, began popping up in the United States in January. On Feb. 28, the first case in Oregon was announced. We will post a new blog ...",
+      "heat": null,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kgw.com/article/news/health/coronavirus/oregon-coronavirus-updates-april-4-live-blog/283-8f1ccf8e-54be-4048-98d4-73ece9262256",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-04T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KGW8",
+        "domain": "kgw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.kgw.com/assets/KGW/images/73ae126f-e05e-4973-9dcd-fe1bbdef51e0/73ae126f-e05e-4973-9dcd-fe1bbdef51e0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Oregon coronavirus updates April 4: 100 more positive cases reported in Oregon bringing total to 999",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "page": 5,
+  "value": [
+    {
+      "path": "_news/2020-04-06-japan-to-declare-a-state-of-emergency-as-early-as-tuesday.md",
+      "title": "Japan to declare a state of emergency as early as Tuesday",
+      "excerpt": "Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, said that the U.S. is \"struggling\" the get the coronavirus outbreak under control, while Surgeon General Jerome Adams said \"the next week is going to be our Pearl Harbor moment.",
+      "heat": 125,
+      "tags": [
+        "JP"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-04-06-coronavirus-news-n1177341/ncrd1177386",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1177341",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1177341",
+      "publishedDateTime": "2020-04-06T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2020_15/3296846/200406-spain-coronavirus-mc-1225_0efe20f1197ed11710775cd9d1b223d2.fit-560w.JPG",
+          "width": 560,
+          "height": 365,
+          "title": "Japan to declare a state of emergency as early as Tuesday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Japan",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": null
+}

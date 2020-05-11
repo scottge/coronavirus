@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: travel-impact
+name: Travel Impact
+shortname: Travel Impact
+parent: Coronavirus
+keywords:
+  - travel
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/travel-impact.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/travel-impact/
+  learning: https://insideout.app/coronavirus/api/learning/travel-impact/

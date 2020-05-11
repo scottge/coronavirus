@@ -1,0 +1,91 @@
+{
+  "location": {
+    "long": -79.0193,
+    "countryOrRegion": "United States",
+    "provinceOrState": "North Carolina",
+    "county": null,
+    "isoCode": "US-NC",
+    "lat": 35.759573
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.6996259Z",
+  "news": [
+    {
+      "path": "_news/2020-04-29-pug-in-north-carolina-tests-positive-for-the-coronavirus-researchers-say.md",
+      "title": "Pug in North Carolina Tests Positive for the Coronavirus, Researchers Say",
+      "excerpt": "A pug in North Carolina named Winston has tested positive for the coronavirus in what is apparently the first known case in which the virus was detected in a dog in the United States, researchers at Duke University said on Tuesday.",
+      "heat": 104,
+      "tags": [
+        "US-NC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/04/28/us/dog-coronavirus-positive-test.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/04/28/us/dog-coronavirus-positive-test.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/28/us/dog-coronavirus-positive-test.amp.html",
+      "publishedDateTime": "2020-04-28T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/28/multimedia/28xp-virus-dog/28xp-virus-dog-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Pug in North Carolina Tests Positive for the Coronavirus, Researchers Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-north-carolina-pug-becomes-first-us-dog-diagnosed-with-coronavirus.md",
+      "title": "North Carolina pug becomes first U.S. dog diagnosed with coronavirus",
+      "excerpt": "A pug living in a North Carolina home with three people who have tested positive for coronavirus became the first U.S. dog diagnosed with the COVID-19 respiratory illness, the American Humane Society said on Tuesday.",
+      "heat": 105,
+      "tags": [
+        "US-NC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-dog-idUSKCN22B001",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22B001",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22B001",
+      "publishedDateTime": "2020-04-28T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516801968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3S001",
+          "width": 408,
+          "height": 545,
+          "title": "North Carolina pug becomes first U.S. dog diagnosed with coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

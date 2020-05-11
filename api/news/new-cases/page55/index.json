@@ -1,0 +1,1226 @@
+{
+  "page": 55,
+  "value": [
+    {
+      "path": "_news/2020-03-16-singapore-reports-17-new-cases-of-coronavirus-in-biggest-daily-jump.md",
+      "title": "Singapore Reports 17 New Cases of Coronavirus in Biggest Daily Jump",
+      "excerpt": "Singapore confirmed 17 more cases of the coronavirus, its health ministry said on Monday, marking the city-state's biggest daily jump.",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/16/world/asia/16reuters-health-coronavirus-singapore.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Singapore Reports 17 New Cases of Coronavirus in Biggest Daily Jump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-iran-state-tv-says-new-coronavirus-has-killed-another-129-people-pushing-death-toll-to-853-amid-14991-confirmed-cases.md",
+      "title": "Iran state TV says new coronavirus has killed another 129 people, pushing death toll to 853 amid 14,991 confirmed cases",
+      "excerpt": "TEHRAN, Iran — Iran state TV says new coronavirus has killed another 129 people, pushing death toll to 853 amid 14,991 confirmed cases. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+      "heat": 131,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/middle_east/iran-state-tv-says-new-coronavirus-has-killed-another-129-people-pushing-death-toll-to-853-amid-14991-confirmed-cases/2020/03/16/9f407c4a-6774-11ea-b199-3a9799c54512_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/middle_east/iran-state-tv-says-new-coronavirus-has-killed-another-129-people-pushing-death-toll-to-853-amid-14991-confirmed-cases/2020/03/16/9f407c4a-6774-11ea-b199-3a9799c54512_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/iran-state-tv-says-new-coronavirus-has-killed-another-129-people-pushing-death-toll-to-853-amid-14991-confirmed-cases/2020/03/16/9f407c4a-6774-11ea-b199-3a9799c54512_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-16T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-irans-death-toll-from-coronavirus-increases-to-853-official.md",
+      "title": "Iran's death toll from coronavirus increases to 853: official",
+      "excerpt": "Iran’s death toll from the new coronavirus has reached 853 with 129 new deaths in the past 24 hours, a health ministry official tweeted on Monday, adding that 14,991 people have been infected across Iran.",
+      "heat": 175,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKBN2131KJ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2131KJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2131KJ",
+      "publishedDateTime": "2020-03-16T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1503925889&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2F12Q",
+          "width": 817,
+          "height": 545,
+          "title": "Iran's death toll from coronavirus increases to 853: official",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-us-coronavirus-death-toll-reaches-61-as-cities-states-close-bars-and-other-venues.md",
+      "title": "US coronavirus death toll reaches 61 as cities, states close bars and other venues",
+      "excerpt": "The U.K.'s coronavirus death toll rose on Saturday from 11 to 21 and the total number of people testing positive passed 1,000. The Islamic Waqaf, the highest Islamic authority in Jerusalem for Muslims, has decided to close down the the third holiest place in Islam for prayer because of the coronavirus. The prayer will only be allowed at the ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/US/coronavirus-live-updates-passengers-stuck-long-lines-airports/story?id=69602911",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/coronavirus-live-updates-passengers-stuck-long-lines-airports/story?id=69602911",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/coronavirus-live-updates-passengers-stuck-long-lines-airports/story?id=69602911",
+      "publishedDateTime": "2020-03-16T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/coronavirus-22-gty-er-200315_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "US coronavirus death toll reaches 61 as cities, states close bars and other venues",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-update-1-london-metal-exchange-ring-dealing-member-employee-tests-positive-for-coronavirus.md",
+      "title": "UPDATE 1-London Metal Exchange ring-dealing member employee tests positive for coronavirus",
+      "excerpt": "SINGAPORE/BEIJING, March 16 (Reuters) - The London Metal Exchange (LME) said on Monday an employee of one its ring-dealing members had contracted the coronavirus, clean of the last open-outcry trading venue in Europe, prompting a number of precautionary measures, including a deep clean of its offices. “The LME was informed on Sunday that a ...",
+      "heat": 165,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-metals-lme-idUSL4N2B936S",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2B936S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2B936S",
+      "publishedDateTime": "2020-03-16T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 1-London Metal Exchange ring-dealing member employee tests positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-coronavirus-updates-as-us-death-toll-rises-governors-close-schools-bars-trump-promises-more-tests.md",
+      "title": "Coronavirus updates: As US death toll rises, governors close schools, bars; Trump promises more tests",
+      "excerpt": "As governors and mayors across the country took action over the weekend to stop the rapid spread of coronavirus, the pandemic that's sent the world spiraling, U.S. health officials on Sunday pledged to ramp up testing efforts by the tens of thousands. The death toll rose again in the U.S., to 69, with more than 3,770 confirmed cases as of ...",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/03/16/coronavirus-live-updates-us-death-toll-rises-cases-testing/5053816002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5053816002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5053816002",
+      "publishedDateTime": "2020-03-16T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/16/USAT/06f015b8-f79b-4427-b3e6-8fa5fc1fae6d-AP20076099068387.jpg?auto=webp&crop=5164,2905,x0,y262&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus updates: As US death toll rises, governors close schools, bars; Trump promises more tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-south-korea-reports-74-new-coronavirus-cases.md",
+      "title": "South Korea reports 74 new coronavirus cases",
+      "excerpt": "South Korea reported 74 new coronavirus infections on Monday, slightly lower than a day ago, according to the Korea Centers for Disease Control and Prevention. The new cases bring the country’s total to 8,",
+      "heat": 200,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-cases-t-idUSKBN21304K",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21304K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21304K",
+      "publishedDateTime": "2020-03-15T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1504012418&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2F02T",
+          "width": 742,
+          "height": 545,
+          "title": "South Korea reports 74 new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-mexican-media-in-conflict-over-reports-of-first-coronavirus-death.md",
+      "title": "Mexican Media in Conflict Over Reports of First Coronavirus Death",
+      "excerpt": "Mexican media published conflicting accounts on Sunday regarding what they had called the country's first coronavirus death, with some disputing that the individual in question, businessman Jose Kuri,",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/16/world/americas/16reuters-health-coronavirus-mexico-death.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Mexican Media in Conflict Over Reports of First Coronavirus Death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-alert-governor-to-shut-down-minnesota-schools-amid-the-coronavirus-pandemic-new-cases-in-state-up-to-21.md",
+      "title": "Alert: Governor to shut down Minnesota schools amid the coronavirus pandemic; new cases in state up to 21",
+      "excerpt": "ST. PAUL, Minn. (AP) — Governor to shut down Minnesota schools amid the coronavirus pandemic; new cases in state up to 21.",
+      "heat": 133,
+      "tags": [
+        "US-MN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/article/Alert-Governor-to-shut-down-Minnesota-schools-15132589.php",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/Alert-Governor-to-shut-down-Minnesota-schools-15132589.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Alert-Governor-to-shut-down-Minnesota-schools-15132589.php",
+      "publishedDateTime": "2020-03-15T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Alert: Governor to shut down Minnesota schools amid the coronavirus pandemic; new cases in state up to 21",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in US",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-the-400-billion-space-industry-is-bracing-for-coronavirus-as-two-nasa-employees-test-positive.md",
+      "title": "The $400 billion space industry is bracing for coronavirus, as two NASA employees test positive",
+      "excerpt": "NASA, Boeing, Lockheed Martin and Blue Origin are taking measures in response to coronavirus but SpaceX appears to move forward unabated.",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/15/the-400-billion-space-industry-and-nasa-brace-for-coronavirus.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/15/the-400-billion-space-industry-and-nasa-brace-for-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/15/the-400-billion-space-industry-and-nasa-brace-for-coronavirus.html",
+      "publishedDateTime": "2020-03-15T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105706254-154876841174131605487601_06279f1be4_k.jpg?v=1548768551",
+          "width": 2048,
+          "height": 1365,
+          "title": "The $400 billion space industry is bracing for coronavirus, as two NASA employees test positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-vermont-to-close-schools-amid-virus-announces-3-new-cases.md",
+      "title": "Vermont to close schools amid virus; announces 3 new cases",
+      "excerpt": "STOWE, Vt. (AP) - The governor ordered schools in Vermont closed by no later than Wednesday to stem the coronavirus outbreak, as public health officials announced additional cases Sunday, bringing the total number in the state to eight.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/education/article/Another-3-new-cases-of-virus-in-Vermont-involve-15132838.php",
+      "ampWebUrl": "https://www.sfgate.com/news/education/amp/Another-3-new-cases-of-virus-in-Vermont-involve-15132838.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/education/amp/Another-3-new-cases-of-virus-in-Vermont-involve-15132838.php",
+      "publishedDateTime": "2020-03-15T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Vermont to close schools amid virus; announces 3 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-army-disinfects-train-stations-as-spains-coronavirus-death-toll-doubles.md",
+      "title": "Army disinfects train stations as Spain's coronavirus death toll doubles",
+      "excerpt": "Army specialists in protective suits sprayed disinfectant in train stations and police in surgical masks ordered casual strollers to go home on Sunday after Spain clamped down during a coronavirus outbreak that saw deaths more than double overnight.",
+      "heat": 164,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-spain-idUSKBN2120FQ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2120FQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2120FQ",
+      "publishedDateTime": "2020-03-15T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200315&t=2&i=1503645409&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2E0V6",
+          "width": 817,
+          "height": 545,
+          "title": "Army disinfects train stations as Spain's coronavirus death toll doubles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-coronavirus-usa-update-us-death-toll-at-65-3349-confirmed-cases.md",
+      "title": "Coronavirus USA Update: US Death Toll At 65; 3,349 Confirmed Cases",
+      "excerpt": "The COVID-19 coronavirus continues its untrammeled march across the mainland United States with 49 states infected and has now reached Guam.",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/coronavirus-usa-update-us-death-toll-65-3349-confirmed-cases-2940553",
+      "ampWebUrl": "https://www.ibtimes.com/coronavirus-usa-update-us-death-toll-65-3349-confirmed-cases-2940553?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/coronavirus-usa-update-us-death-toll-65-3349-confirmed-cases-2940553?amp=1",
+      "publishedDateTime": "2020-03-15T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/14/people-wearing-masks-visit-new-yorks-times-square.jpg",
+          "width": 1024,
+          "height": 637,
+          "title": "Coronavirus USA Update: US Death Toll At 65; 3,349 Confirmed Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-coronavirus-23-new-cases-in-santa-clara-county-12-in-san-mateo-county.md",
+      "title": "Coronavirus: 23 new cases in Santa Clara County, 12 in San Mateo County",
+      "excerpt": "SAN JOSE — Health officials on Sunday confirmed 23 new cases of coronavirus in Santa Clara County, bringing the total number of cases to 114. “We expect numbers to grow and urge everyone to follow Public Health recommendations,” the county said in a statement. The confirmation comes a day after Santa Clara County officials ordered all ...",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.eastbaytimes.com/2020/03/15/coronavirus-23-new-cases-in-santa-clara-county-12-in-san-mateo-county/",
+      "ampWebUrl": "https://www.eastbaytimes.com/2020/03/15/coronavirus-23-new-cases-in-santa-clara-county-12-in-san-mateo-county/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/03/15/coronavirus-23-new-cases-in-santa-clara-county-12-in-san-mateo-county/amp/",
+      "publishedDateTime": "2020-03-15T18:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2020/03/RPE-L-SELFQUARANTINE-0228-2-5-1-3-1-1-1-10.jpg?w=1024&h=578",
+          "width": 1024,
+          "height": 577,
+          "title": "Coronavirus: 23 new cases in Santa Clara County, 12 in San Mateo County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-amid-coronavirus-pandemic-virginia-bans-public-gatherings-with-over-100-people-after-first-death-45-test-positive.md",
+      "title": "Amid Coronavirus Pandemic, Virginia Bans Public Gatherings With Over 100 People After First Death, 45 Test Positive",
+      "excerpt": "Virginia Governor Ralph Northam on Sunday banned public gatherings with more than 100 people after 45 individuals tested positive for the coronavirus, otherwise known as COVID-19, across the state. Northam announced the directive following a meeting with Peninsula Health District officials earlier in the day.",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/amid-coronavirus-pandemic-virginia-bans-public-gatherings-over-100-people-after-first-death-45-1492413",
+      "ampWebUrl": "https://www.newsweek.com/amid-coronavirus-pandemic-virginia-bans-public-gatherings-over-100-people-after-first-death-45-1492413?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/amid-coronavirus-pandemic-virginia-bans-public-gatherings-over-100-people-after-first-death-45-1492413?amp=1",
+      "publishedDateTime": "2020-03-15T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1574021/ralph-northam.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Amid Coronavirus Pandemic, Virginia Bans Public Gatherings With Over 100 People After First Death, 45 Test Positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-public-health-officials-confirm-16-new-cases-of-coronavirus-in-la-county.md",
+      "title": "Public Health Officials Confirm 16 New Cases Of Coronavirus In LA County",
+      "excerpt": "LOS ANGELES (CBSLA) — Public health officials Sunday have confirmed 16 new cases of the coronavirus for Los Angeles County. Of those, officials say three cases were exposed during recent travel; two were healthcare workers exposed in a healthcare setting; and four had close contact with a confirmed case. For the remaining cases, the origin of ...",
+      "heat": 109,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://losangeles.cbslocal.com/2020/03/15/public-health-officials-confirm-16-new-cases-of-coronavirus-in-la-county/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-sixteen-new-cases-of-coronavirus-diagnosed-in-la-county-total-now-69.md",
+      "title": "Sixteen New Cases of Coronavirus Diagnosed in LA County; Total Now 69",
+      "excerpt": "Sixteen new ... number of cases reported in the county to 69, according to the county's Public Health Department. Ten are likely community transmission cases. Health experts are continuing to encourage people across the country to stay home, avoid crowds and practice \"social distancing\" to help stop the spread of the 2019 novel coronavirus.",
+      "heat": 110,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbclosangeles.com/news/local/sixteen-new-cases-of-coronavirus-diagnosed-in-la-county-total-now-69/2329334/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Los Angeles",
+        "domain": "nbclosangeles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-coronavirus-florida-state-reports-39-new-cases-sunday.md",
+      "title": "Coronavirus Florida: State reports 39 new cases Sunday",
+      "excerpt": "15--The Florida Department of Health reported another big surge in coronavirus cases Sunday, with 39 more people testing positive for the virus ... but it is not clear that will be sufficient. The state of Washington recently announced that schools there will be closed until the end of April. \"I think this is something that we will be able ...",
+      "heat": 110,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://insurancenewsnet.com/oarticle/coronavirus-florida-state-reports-39-new-cases-sunday",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-french-health-minister-says-coronavirus-death-toll-hits-120.md",
+      "title": "French Health Minister Says Coronavirus Death Toll Hits 120",
+      "excerpt": "France's health minister said on Sunday that 120 people had now died from coronavirus in France, up from 91 on Saturday.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/15/world/europe/15reuters-health-coronavirus-france-casualties.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-coronavirus-latest-updates-italy-death-toll-up-by-368-as-flight-bans-and-lockdowns-increase-globally.md",
+      "title": "Coronavirus latest updates: Italy death toll up by 368 as flight bans and lockdowns increase globally",
+      "excerpt": "Number of UK deaths rises to 35 while other countries introduce stricter new measures",
+      "heat": 165,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/mar/15/coronavirus-latest-updates-trump-tests-negative-as-spain-orders-nationwide-lockdown-uk-us-australia-italy-europe-global-economy?page=with%3Ablock-5e6e61aa8f085e564ad848d3",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/mar/15/coronavirus-latest-updates-trump-tests-negative-as-spain-orders-nationwide-lockdown-uk-us-australia-italy-europe-global-economy",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/mar/15/coronavirus-latest-updates-trump-tests-negative-as-spain-orders-nationwide-lockdown-uk-us-australia-italy-europe-global-economy",
+      "publishedDateTime": "2020-03-15T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/de949c64a8948e5aacf7b4800ac325eefc0c66f8/0_140_4194_2516/master/4194.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=62630a08bb9add453d9c32279fb577a4",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus latest updates: Italy death toll up by 368 as flight bans and lockdowns increase globally",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-two-new-coronavirus-cases-confirmed-in-austin-travis-county-total-now-at-five.md",
+      "title": "Two new coronavirus cases confirmed in Austin-Travis County, total now at five",
+      "excerpt": "The number of cases of the coronavirus in the Austin-Travis County has risen to five, Austin Public Health confirmed.",
+      "heat": 131,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kxan.com/news/coronavirus/two-new-coronavirus-cases-confirmed-in-austin-travis-county-total-now-at-five/",
+      "ampWebUrl": "https://www.kxan.com/news/coronavirus/two-new-coronavirus-cases-confirmed-in-austin-travis-county-total-now-at-five/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/coronavirus/two-new-coronavirus-cases-confirmed-in-austin-travis-county-total-now-at-five/amp/",
+      "publishedDateTime": "2020-03-15T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2020/03/Coronavirus-COVID-19-AP_GB-1-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Two new coronavirus cases confirmed in Austin-Travis County, total now at five",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-schiff-staffer-who-led-impeachment-questioning-tests-positive-for-the-coronavirus.md",
+      "title": "Schiff staffer who led impeachment questioning tests positive for the coronavirus",
+      "excerpt": "Adam Schiff’s office 10 days ago has tested positive for COVID-19 ... “In fact, I was told that NYC hospitals STILL would not test my wife — with similar symptoms — unless admitted.” Schiff had said medical professionals believe the staffer likely contracted the coronavirus after leaving the congressman’s office.",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://ktla.com/news/coronavirus/former-staffer-at-rep-schiffs-office-tests-positive-for-the-coronavirus/",
+      "ampWebUrl": "https://ktla.com/news/coronavirus/former-staffer-at-rep-schiffs-office-tests-positive-for-the-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/coronavirus/former-staffer-at-rep-schiffs-office-tests-positive-for-the-coronavirus/amp/",
+      "publishedDateTime": "2020-03-15T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2020/03/GettyImages-1183437091.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Schiff staffer who led impeachment questioning tests positive for the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-vdem-employee-tests-positive-for-coronavirus.md",
+      "title": "VDEM employee tests positive for coronavirus",
+      "excerpt": "(WRIC) — The Virginia Department of Emergency Management announced that one of their employees tested positive ... elbow bumps instead of handshakes as the coronavirus pandemic spreads around the globe. (WJW) -- Heidi Klum says she and her husband are awaiting the results of a coronavirus test. The model and America's Got Talent judge ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wric.com/health/coronavirus/vdem-employee-tests-positive-for-coronavirus/",
+      "ampWebUrl": "https://www.wric.com/health/coronavirus/vdem-employee-tests-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/health/coronavirus/vdem-employee-tests-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-15T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRIC",
+        "domain": "wric.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wric.com/wp-content/uploads/sites/74/2020/03/update-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "VDEM employee tests positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-udpated-vdem-employee-tests-positive-for-coronavirus-northam-bans-events-over-100-people-statewide.md",
+      "title": "UDPATED: VDEM employee tests positive for coronavirus; Northam bans events over 100 people statewide",
+      "excerpt": "UPDATED: A Virginia Department of Emergency Management employee has tested positive for the coronavirus, the agency announced Sunday afternoon.",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.richmond.com/news/virginia/udpated-vdem-employee-tests-positive-for-coronavirus-northam-bans-events/article_1f99e1b2-8af1-5ce7-b878-6790adf90d3d.html",
+      "ampWebUrl": "https://www.richmond.com/news/virginia/udpated-vdem-employee-tests-positive-for-coronavirus-northam-bans-events/article_1f99e1b2-8af1-5ce7-b878-6790adf90d3d.amp.html",
+      "cdnAmpWebUrl": "https://www-richmond-com.cdn.ampproject.org/c/s/www.richmond.com/news/virginia/udpated-vdem-employee-tests-positive-for-coronavirus-northam-bans-events/article_1f99e1b2-8af1-5ce7-b878-6790adf90d3d.amp.html",
+      "publishedDateTime": "2020-03-15T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Richmond",
+        "domain": "richmond.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/7/14/7145ede7-52c9-5c7a-bb6a-3104dca7e7d5/5e59a90af266b.image.jpg",
+          "width": 512,
+          "height": 341,
+          "title": "UDPATED: VDEM employee tests positive for coronavirus; Northam bans events over 100 people statewide",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-the-latest-cayman-islands-reports-first-death-from-covid-19.md",
+      "title": "The Latest: Cayman Islands reports first death from COVID-19",
+      "excerpt": "A man removed from a Caribbean cruise has become the first death from COVID-19 in the Cayman Islands. The man apparently was a passenger on the same vessel, the Costa Luminosa, that experienced two other confirmed cases of the virus. Officials spray disinfectant to prevent the new coronavirus at a beach in Bali, Indonesia, Sunday, March 15 ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/news/region-state/the-latest-cruise-ship-in-new-zealand-awaits-virus-test-1.43107645",
+      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/the-latest-cruise-ship-in-new-zealand-awaits-virus-test-1.43107645",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/the-latest-cruise-ship-in-new-zealand-awaits-virus-test-1.43107645",
+      "publishedDateTime": "2020-03-15T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.43140561.1584297376!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "The Latest: Cayman Islands reports first death from COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-coronavirus-florida-one-new-death-four-new-tampa-bay-cases-39-new-cases-statewide.md",
+      "title": "Coronavirus Florida: One new death, four new Tampa Bay cases, 39 new cases statewide",
+      "excerpt": "A 77-year-old from Lee County is the fourth Florida resident to die after testing positive for coronavirus, the Florida Department of Health announced Saturday evening on Twitter. Stories about the coronavirus pandemic are free to read as a public service at tampabay.",
+      "heat": 143,
+      "tags": [
+        "US",
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.tampabay.com/news/health/2020/03/14/coronavirus-florida-lee-county-resident-77-is-fourth-floridian-to-die-after-infection/",
+      "ampWebUrl": "https://www.tampabay.com/news/health/2020/03/14/coronavirus-florida-lee-county-resident-77-is-fourth-floridian-to-die-after-infection/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/health/2020/03/14/coronavirus-florida-lee-county-resident-77-is-fourth-floridian-to-die-after-infection/?outputType=amp",
+      "publishedDateTime": "2020-03-15T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/jQo9lY1FybFN76UbUHgXTxowOB8=/800x450/smart/arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/57S7WBLF5NCSFLPO7OZ72ACWPE.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Coronavirus Florida: One new death, four new Tampa Bay cases, 39 new cases statewide",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-23-new-coronavirus-cases-in-santa-clara-county-bringing-total-to-114.md",
+      "title": "23 new coronavirus cases in Santa Clara County, bringing total to 114",
+      "excerpt": "Santa Clara County on Sunday reported 23 new cases of COVID-19, bringing the the total number of cases to 114. In a statement, the county said those numbers are expected to grow and health officials urged everyone to wash hands and follow social distancing rules, if not stay indoors completely. Santa Clara has had two coronavirus-related ...",
+      "heat": 115,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ktvu.com/news/23-new-coronavirus-cases-in-santa-clara-county-bringing-total-to-114",
+      "ampWebUrl": "https://www.ktvu.com/news/23-new-coronavirus-cases-in-santa-clara-county-bringing-total-to-114.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/23-new-coronavirus-cases-in-santa-clara-county-bringing-total-to-114.amp",
+      "publishedDateTime": "2020-03-15T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-ford-closes-plant-in-valencia-spain-after-3-employees-test-positive-for-covid-19.md",
+      "title": "Ford closes plant in Valencia, Spain after 3 employees test positive for COVID-19",
+      "excerpt": "(WXYZ) — The Ford plant in Valencia, Spain, has shut down after three employees tested positive for coronavirus (COVID-19) within a 24-hour span, a spokesman for the automotive company said Sunday. \"We are taking quick action to follow the established protocol, including the identification and self-isolation of all employees who had close ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wxyz.com/news/ford-closes-plant-in-valencia-spain-after-3-employees-test-positive-for-covid-19",
+      "ampWebUrl": "https://www.wxyz.com/news/ford-closes-plant-in-valencia-spain-after-3-employees-test-positive-for-covid-19?_amp=true",
+      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/ford-closes-plant-in-valencia-spain-after-3-employees-test-positive-for-covid-19?_amp=true",
+      "publishedDateTime": "2020-03-15T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WXYZ Detroit",
+        "domain": "wxyz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/991ffe4/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F84%2F9d%2Fa7c24b024225bd3f59ae4c1a3e19%2Fdownload.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": "Ford closes plant in Valencia, Spain after 3 employees test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-two-kroger-employees-test-positive-for-coronavirus-company-adds-emergency-leave-policy.md",
+      "title": "Two Kroger employees test positive for coronavirus; company adds emergency leave policy",
+      "excerpt": "Two Kroger Co. employees have tested positive for coronavirus, and the supermarket giant has implemented an emergency leave policy for its employees. Downtown Cincinnati-based Kroger (NYSE: KR), the nation’s largest operator of traditional supermarkets,",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/cincinnati/news/2020/03/15/two-kroger-employees-test-positive-for-coronavirus.html",
+      "ampWebUrl": "https://www.bizjournals.com/cincinnati/news/2020/03/15/two-kroger-employees-test-positive-for-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2020/03/15/two-kroger-employees-test-positive-for-coronavirus.amp.html",
+      "publishedDateTime": "2020-03-15T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/4539801/pic-kroger*600xx985-655-0-619.jpg",
+          "width": 600,
+          "height": 398,
+          "title": "Two Kroger employees test positive for coronavirus; company adds emergency leave policy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-coronavirus-death-toll-in-italys-lombardy-region-hits-1218.md",
+      "title": "Coronavirus Death Toll in Italy's Lombardy Region Hits 1,218",
+      "excerpt": "The death toll from coronavirus in Lombardy, Italy's worst affected region, rose by 252 to 1,218 on Sunday, from 966 a day earlier, the region's senior health official said.",
+      "heat": 160,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/15/world/europe/15reuters-health-coronavirus-italy-lombardy.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus Death Toll in Italy's Lombardy Region Hits 1,218",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    }
+  ],
+  "nextPage": 56
+}

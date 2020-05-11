@@ -1,0 +1,265 @@
+#----------------------------------------------------------------------------------
+# Site Settings
+#----------------------------------------------------------------------------------
+
+title: Coronavirus Inside Out
+url: https://insideout.app
+baseurl: "/coronavirus"
+webUrl: https://smartable.ai/apps/coronavirus
+locale: "en-us"
+charset: utf-8
+repository: insideout/coronavirus
+topic: Coronavirus
+
+
+#----------------------------------------------------------------------------------
+# Post Settings
+#----------------------------------------------------------------------------------
+
+# The permalink of posts
+# For multilingual site, /:path/ is the only global permalink setting that works.
+# Other permalink settings cannot prepend the post locale to the URL.
+permalink: /:year/:month/:day/:title/
+
+# Default settings of posts
+default_post_settings: &default_post_settings
+  layout: post
+  permalink: /api/:categories/:year/:month/:day/:title/index.json
+  deleted: false
+  related: true
+
+pagination:
+  page_size: 20
+
+
+#----------------------------------------------------------------------------------
+# Learning Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of learning
+default_learning_settings: &default_learning_settings
+  layout: post
+  category: learning
+  permalink: /api/learning/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# Stats Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of stats
+default_stats_settings: &default_stats_settings
+  layout: post
+  category: stats
+  permalink: /api/stats/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# Story Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of stories
+default_story_settings: &default_story_settings
+  layout: post
+  category: story
+  permalink: /api/stories/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# Company Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of companies
+default_company_settings: &default_company_settings
+  layout: post
+  category: company
+  permalink: /api/companies/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# Paper Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of papers
+default_paper_settings: &default_paper_settings
+  layout: post
+  category: paper
+  permalink: /api/paper/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# Donation Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of donations
+default_donation_settings: &default_donation_settings
+  layout: post
+  category: donation
+  permalink: /api/donations/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# Newsletter Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of newsletter issues
+default_newsletter_settings: &default_newsletter_settings
+  layout: newsletter
+  category: newsletter
+  permalink: /web/newsletters/:path
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# System Settings
+# DO NOT CHANGE if you do not know what you are doing
+#----------------------------------------------------------------------------------
+
+collections:
+  sponsorships:
+    output: true
+  posts:
+    output: true
+  learning:
+    output: true
+  stats:
+    output: true
+  stories:
+    output: true
+  companies:
+    output: true
+  papers:
+    output: true
+  donations:
+    output: true
+  newsletters:
+    output: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      <<: *default_post_settings
+  # _learning
+  - scope:
+      path: ""
+      type: learning
+    values:
+      <<: *default_learning_settings
+  - scope:
+      path: "_learning/collections"
+    values:
+      layout: collection
+      category: learning
+      permalink: /api/learning/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _stats
+  - scope:
+      path: ""
+      type: stats
+    values:
+      <<: *default_stats_settings
+  - scope:
+      path: "_stats/collections"
+    values:
+      layout: collection
+      category: stats
+      permalink: /api/stats/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _stories
+  - scope:
+      path: ""
+      type: stories
+    values:
+      <<: *default_story_settings
+  # _companies
+  - scope:
+      path: ""
+      type: companies
+    values:
+      <<: *default_company_settings
+  - scope:
+      path: "_companies/collections"
+    values:
+      layout: collection
+      category: company
+      permalink: /api/companies/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _papers
+  - scope:
+      path: ""
+      type: papers
+    values:
+      <<: *default_paper_settings
+  - scope:
+      path: "_papers/collections"
+    values:
+      layout: collection
+      category: paper
+      permalink: /api/papers/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _donations
+  - scope:
+      path: ""
+      type: donations
+    values:
+      <<: *default_donation_settings
+  - scope:
+      path: "_donations/collections"
+    values:
+      layout: collection
+      category: donation
+      permalink: /api/donations/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _newsletters
+  - scope:
+      path: ""
+      type: newsletters
+    values:
+      <<: *default_newsletter_settings
+  # apis
+  - scope:
+      path: "api/*/*"
+    values:
+      layout: collection
+      permalink: /:path/index.json
+      support_paging: true
+
+
+# Use the following Jekyll plug-ins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-relative-links # Convert relative links to md files to their rendered equivalents
+  - jemoji # Enable Emoji
+  - jekyll-remote-theme
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - .htaccess
+
+# Exclude these files from your production _site
+exclude:
+  - CNAME
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .cache
+  - .sass-cache
+
+incremental: false

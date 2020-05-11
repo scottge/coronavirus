@@ -1,0 +1,213 @@
+{
+  "location": {
+    "long": -73.087749,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Connecticut",
+    "county": null,
+    "isoCode": "US-CT",
+    "lat": 41.603221
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.3356934Z",
+  "news": [
+    {
+      "path": "_news/2020-05-05-daily-coronavirus-updates-covid-19-hospitalizations-in-connecticut-increase-reversing-downward-trend-schools-closed-for-rest-of-year.md",
+      "title": "Daily coronavirus updates: COVID-19 hospitalizations in Connecticut increase, reversing downward trend; schools closed for rest of year",
+      "excerpt": "Connecticut Secretary of the State Denise Merrill unveiled plans to send out absentee ballot applications to every registered voter in the state as coronavirus concerns spill into the 2020 election.",
+      "heat": 118,
+      "tags": [
+        "US-CT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-0505-20200505-g7bd6k2qrjcozlj3of4z3huxee-story.html",
+      "ampWebUrl": "https://www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-0505-20200505-g7bd6k2qrjcozlj3of4z3huxee-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-0505-20200505-g7bd6k2qrjcozlj3of4z3huxee-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-05T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hartford Courant",
+        "domain": "courant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.courant.com/resizer/0vDllXpqTn9rr3TsUQeyg6KmDgc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/IBXVV5ZNXFAWRPXXAJTN6IWH5Q.JPG",
+          "width": 1200,
+          "height": 799,
+          "title": "Daily coronavirus updates: COVID-19 hospitalizations in Connecticut increase, reversing downward trend; schools closed for rest of year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-news-connecticut-schools-will-remain-closed-for-the-rest-of-the-academic-year.md",
+      "title": "Coronavirus News: Connecticut schools will remain closed for the rest of the academic year",
+      "excerpt": "Gov. Ned Lamont said Tuesday he is canceling in-person classes at all Connecticut K-12 public schools for the rest of this school year amid the coronavirus pandemic, requiring districts to continue distance learning.",
+      "heat": 155,
+      "tags": [
+        "US-CT"
+      ],
+      "type": "article",
+      "webUrl": "https://abc7ny.com/connecticut-schools-closed-coronavirus-news-update/6153095/",
+      "ampWebUrl": "https://abc7ny.com/amp/connecticut-schools-closed-coronavirus-news-update/6153095/",
+      "cdnAmpWebUrl": "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/connecticut-schools-closed-coronavirus-news-update/6153095/",
+      "publishedDateTime": "2020-05-05T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc7NY",
+        "domain": "abc7ny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/6009397_NEW-wabc-coronavirus-connecticut-geneic-img.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Coronavirus News: Connecticut schools will remain closed for the rest of the academic year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-connecticut-schools-closed-for-remainder-of-academic-year-governor-says.md",
+      "title": "Connecticut schools closed for remainder of academic year, governor says",
+      "excerpt": "Connecticut schools will remain closed for the rest of the academic year due to the ongoing COVID-19 pandemic, Gov. Ned Lamont announced Tuesday.",
+      "heat": 109,
+      "tags": [
+        "US-CT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.pix11.com/news/coronavirus/connecticut-schools-closed-for-remainder-of-academic-year-governor-says",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPIX",
+        "domain": "pix11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/354d6b0/2147483647/strip/true/crop/724x380+0+51/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediaassets.pix11.com%2Ftribune-network%2Ftribwpix-files-wordpress%2F2019%2F04%2Fgettyimages-903609746.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Connecticut schools closed for remainder of academic year, governor says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-coronavirus-updates-connecticut-eyes-may-20th-for-opening-outdoor-restaurants-hair-and-nail-salons.md",
+      "title": "Coronavirus Updates: Connecticut Eyes May 20th For Opening Outdoor Restaurants, Hair And Nail Salons",
+      "excerpt": "This is our daily update of breaking COVID-19 news for Friday, May 1st, 2020. Previous daily updates can be found here, and up-to-date statistics are here. Read our guide to understanding New York on PAUSE,",
+      "heat": 120,
+      "tags": [
+        "US-CT"
+      ],
+      "type": "article",
+      "webUrl": "https://gothamist.com/news/coronavirus-updates-may-1",
+      "ampWebUrl": "https://champ.gothamist.com/champ/gothamist/news/coronavirus-updates-may-1",
+      "cdnAmpWebUrl": "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/coronavirus-updates-may-1",
+      "publishedDateTime": "2020-05-01T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gothamist",
+        "domain": "gothamist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.prod.nypr.digital/images/304167/original",
+          "width": 5472,
+          "height": 3648,
+          "title": "Coronavirus Updates: Connecticut Eyes May 20th For Opening Outdoor Restaurants, Hair And Nail Salons",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-daily-coronavirus-updates-rep-jahana-hayes-in-quarantine-after-husband-tests-positive-state-reaches-2168-covid-19-deaths-as-hospitalizations-drop.md",
+      "title": "Daily coronavirus updates: Rep. Jahana Hayes in quarantine after husband tests positive; state reaches 2,168 COVID-19 deaths as hospitalizations drop",
+      "excerpt": "Rep. Jahana Hayes will quarantine at home for 14 days after her husband, a first responder in Waterbury, tested positive for COVID-19, she announced Thursday.",
+      "heat": 111,
+      "tags": [
+        "US-CT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-0430-20200430-mogn56d6frdlfm64vw7sxwsuji-story.html",
+      "ampWebUrl": "https://www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-0430-20200430-mogn56d6frdlfm64vw7sxwsuji-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-0430-20200430-mogn56d6frdlfm64vw7sxwsuji-story.html?outputType=amp",
+      "publishedDateTime": "2020-04-30T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hartford Courant",
+        "domain": "courant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.courant.com/resizer/6Jq4mRuk2KNnsShkLtVrMzRrYTU=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/DONKWJNIFRCX7K5DTNTWLU2RE4.jpg",
+          "width": 1200,
+          "height": 984,
+          "title": "Daily coronavirus updates: Rep. Jahana Hayes in quarantine after husband tests positive; state reaches 2,168 COVID-19 deaths as hospitalizations drop",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    }
+  ]
+}

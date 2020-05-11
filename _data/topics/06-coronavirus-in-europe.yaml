@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: coronavirus-in-europe
+name: Coronavirus in Europe
+shortname: Europe
+parent: Coronavirus
+keywords:
+  - italy
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-europe.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-europe-2.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/coronavirus-in-europe/
+  stats: https://insideout.app/coronavirus/api/stats/coronavirus-in-europe/

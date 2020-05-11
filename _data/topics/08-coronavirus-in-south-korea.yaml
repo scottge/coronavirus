@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: coronavirus-in-south-korea
+name: Coronavirus in South Korea
+shortname: South Korea
+parent: Coronavirus in Asia
+keywords:
+  - korea
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-south-korea.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-south-korea-2.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/coronavirus-in-south-korea/
+  stats: https://insideout.app/coronavirus/api/stats/coronavirus-in-south-korea/

@@ -1,0 +1,409 @@
+{
+  "location": {
+    "long": -82.907123,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Ohio",
+    "county": null,
+    "isoCode": "US-OH",
+    "lat": 40.417287
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.7160773Z",
+  "news": [
+    {
+      "path": "_news/2020-05-08-ohio-lawmakers-hope-for-bipartisan-reform-of-prison-system-stressed-by-covid-19.md",
+      "title": "Ohio lawmakers hope for bipartisan reform of prison system stressed by COVID-19",
+      "excerpt": "Ohio lawmakers, lobbyists and researchers of various political stripes are finding a common cause in prison reform.",
+      "heat": 101,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/ohio-prison-reform-system-covid-19",
+      "ampWebUrl": "https://www.foxnews.com/politics/ohio-prison-reform-system-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-prison-reform-system-covid-19.amp",
+      "publishedDateTime": "2020-05-08T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Rep.-Diane-Grendell-.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Ohio lawmakers hope for bipartisan reform of prison system stressed by COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-ohios-schools-face-another-challenge-during-coronavirus-pandemic-balancing-the-budget.md",
+      "title": "Ohio’s schools face another challenge during coronavirus pandemic: balancing the budget",
+      "excerpt": "Though the cuts in state aid Gov. Mike DeWine announced this week — $300 million, or about 4% of overall state funding — are the most-",
+      "heat": 127,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dispatch.com/news/20200508/ohiorsquos-schools-face-another-challenge-during-coronavirus-pandemic-balancing-budget",
+      "ampWebUrl": "https://www.dispatch.com/news/20200508/ohios-schools-face-another-challenge-during-coronavirus-pandemic-balancing-budget?template=ampart",
+      "cdnAmpWebUrl": "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200508/ohios-schools-face-another-challenge-during-coronavirus-pandemic-balancing-budget?template=ampart",
+      "publishedDateTime": "2020-05-08T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbus Dispatch",
+        "domain": "dispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200508&Category=NEWS&ArtNo=200508866&Ref=AR",
+          "width": 750,
+          "height": 422,
+          "title": "Ohio’s schools face another challenge during coronavirus pandemic: balancing the budget",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-gov-mike-dewine-on-reopening-ohio-coronavirus-cases-will-increase.md",
+      "title": "Gov. Mike DeWine on reopening Ohio: Coronavirus cases will increase",
+      "excerpt": "Gov. Mike DeWine in announcing steps to reopen restaurants, bars and salons urged Ohioans to accept a new normal due to coronavirus.",
+      "heat": 115,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cleveland.com/metro/2020/05/gov-mike-dewine-on-reopening-ohio-coronavirus-cases-will-increase.html",
+      "ampWebUrl": "https://www.cleveland.com/metro/2020/05/gov-mike-dewine-on-reopening-ohio-coronavirus-cases-will-increase.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/metro/2020/05/gov-mike-dewine-on-reopening-ohio-coronavirus-cases-will-increase.html?outputType=amp",
+      "publishedDateTime": "2020-05-07T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/P4R7CCUJ5JD2PIZNMLCNTLL74M.jpg",
+          "width": 5472,
+          "height": 3648,
+          "title": "Gov. Mike DeWine on reopening Ohio: Coronavirus cases will increase",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-ohio-health-officials-hiring-coronavirus-contact-tracers-to-help-stop-spread-of-covid-19.md",
+      "title": "Ohio health officials hiring coronavirus 'contact tracers' to help stop spread of COVID-19",
+      "excerpt": "Get the latest news on coronavirus and more delivered daily to your inbox.  Heads up, Ohioans: If you’re in need of a job, the state Department of Health may have one for you. The Ohio Department of Health on Wednesday announced its need for “disease detectives” — or contact tracers — to help stop the spread of the novel coronavirus.",
+      "heat": 120,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/health/ohio-health-officials-hiring-coronavirus-contact-tracers-stop-spread-covid-19",
+      "ampWebUrl": "https://www.foxnews.com/health/ohio-health-officials-hiring-coronavirus-contact-tracers-stop-spread-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ohio-health-officials-hiring-coronavirus-contact-tracers-stop-spread-covid-19.amp",
+      "publishedDateTime": "2020-05-07T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-1179336021.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Ohio health officials hiring coronavirus 'contact tracers' to help stop spread of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ohio-gamblers-turning-to-old-school-lottery-favorites-during-coronavirus-pandemic.md",
+      "title": "Ohio gamblers turning to old-school lottery favorites during coronavirus pandemic",
+      "excerpt": "Ohio lost out on potentially tens of millions of dollars when Gov. Mike DeWine closed the state’s casinos, but the COVID-19 lockdown led many gamblers to the state lottery, which has seen an uptick is some of its more traditional games.",
+      "heat": 110,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wkyc.com/article/news/lottery/ohio-gamblers-turning-to-old-school-lottery-favorites/95-82c1bba5-cc21-46f9-aac9-0b2a35573e80",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKYC3",
+        "domain": "wkyc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wkyc.com/assets/WKYC/images/46232b3a-acff-4611-92b5-12a4529b72e6/46232b3a-acff-4611-92b5-12a4529b72e6_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Ohio gamblers turning to old-school lottery favorites during coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-in-ohio-775-million-in-budget-cuts-due-to-pandemic-include-300-million-reduction-to-schools.md",
+      "title": "Coronavirus in Ohio: $775 million in budget cuts due to pandemic include $300 million reduction to schools",
+      "excerpt": "With the financial fallout from the coronavirus pandemic devastating state tax collections, Ohio Gov. Mike DeWine announced \"significant\" cuts",
+      "heat": 127,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dispatch.com/news/20200505/coronavirus-in-ohio-775-million-in-budget-cuts-due-to-pandemic-include-300-million-reduction-to-schools",
+      "ampWebUrl": "https://www.dispatch.com/news/20200505/coronavirus-in-ohio-775-million-in-budget-cuts-due-to-pandemic-include-300-million-reduction-to-schools?template=ampart",
+      "cdnAmpWebUrl": "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200505/coronavirus-in-ohio-775-million-in-budget-cuts-due-to-pandemic-include-300-million-reduction-to-schools?template=ampart",
+      "publishedDateTime": "2020-05-05T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbus Dispatch",
+        "domain": "dispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200505&Category=NEWS&ArtNo=200509370&Ref=AR",
+          "width": 4798,
+          "height": 3199,
+          "title": "Coronavirus in Ohio: $775 million in budget cuts due to pandemic include $300 million reduction to schools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-ohio-schools-families-get-creative-to-honor-2020-high-school-graduates-amid-coronavirus.md",
+      "title": "Ohio schools, families get creative to honor 2020 high school graduates amid coronavirus",
+      "excerpt": "Not only are parents of this year’s high school seniors grappling with how to best honor graduates amid stay-at-home orders and strict restrictions",
+      "heat": 126,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dispatch.com/news/20200503/ohio-schools-families-get-creative-to-honor-2020-high-school-graduates-amid-coronavirus",
+      "ampWebUrl": "https://www.dispatch.com/news/20200503/ohio-schools-families-get-creative-to-honor-2020-high-school-graduates-amid-coronavirus?template=ampart",
+      "cdnAmpWebUrl": "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200503/ohio-schools-families-get-creative-to-honor-2020-high-school-graduates-amid-coronavirus?template=ampart",
+      "publishedDateTime": "2020-05-03T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbus Dispatch",
+        "domain": "dispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200503&Category=NEWS&ArtNo=200509678&Ref=AR",
+          "width": 4149,
+          "height": 2400,
+          "title": "Ohio schools, families get creative to honor 2020 high school graduates amid coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-coronavirus-in-ohio-state-reports-592-new-covid-19-cases-19-new-deaths.md",
+      "title": "Coronavirus in Ohio: State reports 592 new COVID-19 cases, 19 new deaths",
+      "excerpt": "(WKBN) – The Ohio Department of Health reported 19,335 COVID-19 cases and 1,021 related deaths on Saturday. That’s an increase of 592 cases and 19 deaths. Friday, the state reported 18,743 cases and 1,",
+      "heat": 149,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wkbn.com/news/coronavirus/coronavirus-in-ohio-state-reports-592-new-covid-19-cases-19-new-deaths/",
+      "ampWebUrl": "https://www.wkbn.com/news/coronavirus/coronavirus-in-ohio-state-reports-592-new-covid-19-cases-19-new-deaths/amp/",
+      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/coronavirus/coronavirus-in-ohio-state-reports-592-new-covid-19-cases-19-new-deaths/amp/",
+      "publishedDateTime": "2020-05-02T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBN",
+        "domain": "wkbn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2020/03/coronavirus-covid-19-generic-1-1.jpg?w=960&h=540&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Coronavirus in Ohio: State reports 592 new COVID-19 cases, 19 new deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-biden-wins-ohios-mail-in-primary-delayed-by-coronavirus.md",
+      "title": "Biden Wins Ohio’s Mail-in Primary Delayed by Coronavirus",
+      "excerpt": "Joe Biden won Ohio’s presidential primary Tuesday, clinching a contest that was less about the Democratic nomination and more about how states can conduct elections in the era of the coronavirus. The primary was the first major test of statewide elections via mail amid an outbreak.",
+      "heat": 125,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnewyork.com/news/politics/biden-wins-ohios-mail-in-primary-delayed-by-coronavirus/2394013/",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/politics/biden-wins-ohios-mail-in-primary-delayed-by-coronavirus/2394013/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-wins-ohios-mail-in-primary-delayed-by-coronavirus/2394013/?amp",
+      "publishedDateTime": "2020-04-28T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2019/09/GettyImages-1211222458.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Biden Wins Ohio’s Mail-in Primary Delayed by Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-ohios-gop-governor-splits-from-trump-and-rises-in-popularity.md",
+      "title": "Ohio’s G.O.P. Governor Splits From Trump, and Rises in Popularity",
+      "excerpt": "Mike DeWine, a low-key career politician, has followed health experts’ guidance as Ohio confronts the coronavirus. His constituents are overwhelmingly appreciative.",
+      "heat": 100,
+      "tags": [
+        "US-OH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/04/28/us/politics/mike-dewine-ohio-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/04/28/us/politics/mike-dewine-ohio-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/28/us/politics/mike-dewine-ohio-coronavirus.amp.html",
+      "publishedDateTime": "2020-04-28T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/28/us/politics/28dewine-01/28dewine-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "Ohio’s G.O.P. Governor Splits From Trump, and Rises in Popularity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

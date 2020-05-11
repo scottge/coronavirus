@@ -1,0 +1,310 @@
+{
+  "page": 83,
+  "value": [
+    {
+      "path": "_news/2020-02-20-iran-announces-3-new-cases-of-new-virus-after-2-deaths.md",
+      "title": "Iran announces 3 new cases of new virus after 2 deaths",
+      "excerpt": "The new virus emerged in Wuhan ... SALEM, Ore. (AP) — Oregon's first coronavirus case emerged on Friday, and the infected person worked at an elementary school in the Portland area, which ...",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wavy.com/news/health/iran-announces-3-new-cases-of-coronavirus-after-2-deaths/",
+      "ampWebUrl": "https://www.wavy.com/news/health/iran-announces-3-new-cases-of-coronavirus-after-2-deaths/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/health/iran-announces-3-new-cases-of-coronavirus-after-2-deaths/amp/",
+      "publishedDateTime": "2020-02-19T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/02/ec2cead7063d4ccfaa27b1c1c3c75224.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Iran announces 3 new cases of new virus after 2 deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-south-korea-confirms-first-death-from-the-coronavirus-hubei-extends-work-suspension.md",
+      "title": "South Korea confirms first death from the coronavirus; Hubei extends work suspension",
+      "excerpt": "Holly Ellyatt 4.22 pm: South Korea reports first death from the coronavirus South Korea reported its first death from the coronavirus on Thursday. The country's Center for Disease Control (KCDC ...",
+      "heat": 148,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/20/coronavirus-latest-updates-hubei-china-deaths.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/20/coronavirus-latest-updates-hubei-china-deaths.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/20/coronavirus-latest-updates-hubei-china-deaths.html",
+      "publishedDateTime": "2020-02-19T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106399924-1582191406099gettyimages-1204585622.jpeg?v=1582191439",
+          "width": 4000,
+          "height": 2667,
+          "title": "South Korea confirms first death from the coronavirus; Hubei extends work suspension",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-february-20-coronavirus-news.md",
+      "title": "February 20 coronavirus news",
+      "excerpt": "The global number of confirmed coronavirus cases now exceeds 76,154 ... 13% full-year loss of passenger demand for carriers in the Asia-Pacific region. “The sharp downturn in demand as ...",
+      "heat": 185,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-20-20-intl-hnk/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/asia/live-news/coronavirus-outbreak-02-20-20-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/asia/live-news/coronavirus-outbreak-02-20-20-intl-hnk/index.html",
+      "publishedDateTime": "2020-02-19T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200219143145-coronavirus-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "February 20 coronavirus news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Travel Impact",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-iran-says-two-test-positive-for-coronavirus-global-death-toll-tops-2000.md",
+      "title": "Iran says two test positive for coronavirus, global death toll tops 2,000",
+      "excerpt": "Iran has not previously confirmed any cases of the coronavirus. — Meredith. 6:40 pm: Japan says 79 more people have tested positive for ... ship guests in Cambodia test negative Cambodia's ...",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/19/coronavirus-live-updates-china-hubei-deaths.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/19/coronavirus-live-updates-china-hubei-deaths.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/19/coronavirus-live-updates-china-hubei-deaths.html",
+      "publishedDateTime": "2020-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106392492-1581709423926gettyimages-1198804620.jpeg?v=1581709469",
+          "width": 4823,
+          "height": 3215,
+          "title": "Iran says two test positive for coronavirus, global death toll tops 2,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-02-16-taiwan-confirms-its-first-death-american-cruise-ship-passenger-tests-positive-in-malaysia.md",
+      "title": "Taiwan confirms its first death, American cruise ship passenger tests positive in Malaysia",
+      "excerpt": "Taiwan reported its first coronavirus death on the island on Sunday. An American cruise ship passenger tested positive for a second time after hundreds of passengers had already left the MS Westerdam.",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/16/coronavirus-latest-updates-china-death-toll-rises.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/16/coronavirus-latest-updates-china-death-toll-rises.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/16/coronavirus-latest-updates-china-death-toll-rises.html",
+      "publishedDateTime": "2020-02-15T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106393435-1581809761736gettyimages-1200641672.jpeg?v=1581809927",
+          "width": 4000,
+          "height": 2667,
+          "title": "Taiwan confirms its first death, American cruise ship passenger tests positive in Malaysia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-02-15-new-cases-are-reported-as-beijing-sets-new-rules.md",
+      "title": "New Cases Are Reported as Beijing Sets New Rules",
+      "excerpt": "Officials early Saturday reported 2,641 new coronavirus cases and 143 additional deaths ... a University of Oregon psychologist. Citing frustration, quarantined Russians escape hospitals.",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/14/world/asia/china-coronavirus.amp.html",
+      "publishedDateTime": "2020-02-14T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/world/14china-briefing6/14china-briefing6-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "New Cases Are Reported as Beijing Sets New Rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-44-new-cases-of-coronavirus-confirmed-on-quarantined-cruise-ship.md",
+      "title": "44 New Cases of Coronavirus Confirmed on Quarantined Cruise Ship",
+      "excerpt": "The other five cases have been found in Seattle; Phoenix ... there are now 43,141 confirmed cases of this new coronavirus, with the majority — 42,670 — occurring in mainland China.",
+      "heat": 160,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://people.com/health/44-new-cases-coronavirus-quarantined-cruise-ship/",
+      "ampWebUrl": "https://people.com/health/44-new-cases-coronavirus-quarantined-cruise-ship/amp/",
+      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/health/44-new-cases-coronavirus-quarantined-cruise-ship/amp/",
+      "publishedDateTime": "2020-02-14T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://peopledotcom.files.wordpress.com/2020/02/gettyimages-1198879339.jpg?crop=0px%2C176px%2C1800px%2C945px&resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
+          "title": "44 New Cases of Coronavirus Confirmed on Quarantined Cruise Ship",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    }
+  ],
+  "nextPage": null
+}

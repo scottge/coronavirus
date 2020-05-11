@@ -1,0 +1,1138 @@
+{
+  "page": 38,
+  "value": [
+    {
+      "path": "_news/2020-03-29-new-jersey-reports-2316-new-coronavirus-cases-and-21-more-deaths.md",
+      "title": "New Jersey reports 2,316 new coronavirus cases and 21 more deaths",
+      "excerpt": "Another 2,316 New Jerseyans have tested positive for the coronavirus since Saturday, Gov. Phil Murphy said Sunday, bringing the statewide total since the first case was reported earlier this month to 13,386. Murphy also announced that 21 more New Jerseyans have died from the virus, or complications associated with it, bringing that total to 161.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/states/new-jersey/story/2020/03/29/new-jersey-reports-2-316-new-coronavirus-cases-and-21-more-deaths-9422268",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-over-1000-new-cases-of-covid-19-18-new-deaths-as-of-sunday.md",
+      "title": "Over 1,000 new cases of COVID-19, 18 new deaths as of Sunday",
+      "excerpt": "The Illinois Department of Public Health announced Saturday there are 4,596 cases of coronavirus disease (COVID-19) in Illinois, including 65 deaths.",
+      "heat": 120,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wandtv.com/news/over-new-cases-of-covid--new-deaths-as-of/article_92756d50-71f0-11ea-80c5-7b8762bbd070.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAND",
+        "domain": "wandtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-iran-defends-virus-response-as-syria-reports-first-death.md",
+      "title": "Iran Defends Virus Response as Syria Reports First Death",
+      "excerpt": "Iran's president has lashed out at criticism of authorities' lagging response to the worst coronavirus outbreak in the Middle East.",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-29/irans-president-says-economy-is-a-factor-in-virus-response",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-in-oregon-69-new-cases-brings-state-count-to-548-no-new-deaths.md",
+      "title": "Coronavirus in Oregon: 69 new cases brings state count to 548, no new deaths",
+      "excerpt": "THE LATEST NEWS The new coronavirus cases were reported in Clackamas County (3), Deschutes County (3), Hood River County (1), Jackson County (11), Josephine County (1), Klamath County (2), Lane County (1), Linn County (4), Marion County (15), Multnomah County (10), Polk County (2), Tillamook County (1), Wasco County (1) and Washington County (14).",
+      "heat": 107,
+      "tags": [
+        "US",
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.oregonlive.com/coronavirus/2020/03/coronavirus-in-oregon-69-new-cases-in-last-day-brings-state-count-to-548-no-new-deaths.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-new-cases-of-coronavirus-in-southern-oregon-counties.md",
+      "title": "New cases of Coronavirus in southern Oregon counties",
+      "excerpt": "PORTLAND, Ore. -- As of Sunday March 29, 2020 the Oregon Health Authority is now reporting 548 cases of Coronavirus in the state of Oregon. No new deaths are being reported today. In the Sunday update, the OHA announced 69 new cases. The southern Oregon region claimed 14 of those cases. Below you can see a breakdown of the number of new cases ...",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kdrv.com/content/news/New-cases-of-Coronavirus-in-southern-Oregon-counties--569202921.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KDRV",
+        "domain": "kdrv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-first-death-recorded-in-linn-county-due-to-coronavirus-38-new-cases-across-iowa.md",
+      "title": "First death recorded in Linn County due to coronavirus, 38 new cases across Iowa",
+      "excerpt": "Sunday has brought reporting of 38 additional positive cases of Iowans with COVID-19, for a total of 336 positive cases across the state, according to notification received by the public health department and released by the governor’s office. A total of 5,013 negative tests have been logged to date. Of the new cases, six are from Linn County ...",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thegazette.com/subject/news/government/first-death-recorded-in-linn-county-due-to-coronavirus-38-new-cases-across-iowa-20200329",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-sen-cotton-chinese-government-still-lying-about-coronavirus-as-evidence-indicates-rising-death-tolls.md",
+      "title": "Sen. Cotton: Chinese government 'still lying' about coronavirus as evidence indicates rising death tolls",
+      "excerpt": "Ark., is calling out the Chinese government for continuing to lie about c, after their initial response to it – according to him – caused it to become the global problem that it is.",
+      "heat": 148,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/sen-cotton-chinese-government-still-lying-about-coronavirus-as-evidence-indicates-rising-death-tolls",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-cotton-chinese-government-still-lying-about-coronavirus-as-evidence-indicates-rising-death-tolls.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-chinese-government-still-lying-about-coronavirus-as-evidence-indicates-rising-death-tolls.amp",
+      "publishedDateTime": "2020-03-29T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dbac15b-3776-4f9a-a5d6-02e96162f4a6/3e67a425-259c-4437-945c-099e72047a5a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Sen. Cotton: Chinese government 'still lying' about coronavirus as evidence indicates rising death tolls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-three-sanford-fargo-employees-test-positive-for-covid-19.md",
+      "title": "Three Sanford Fargo Employees Test Positive for COVID-19",
+      "excerpt": "Three Sanford Fargo physical therapists (PT) tested positive for COVID-19. They work in the hospital, two at Sanford Medical Center Fargo ... We are taking all necessary precautions and are contacting employees and patients who may have come into close contact with them. Seven patients are being notified they may have been exposed.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kvrr.com/2020/03/29/three-sanford-fargo-employees-test-positive-for-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVRR",
+        "domain": "kvrr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.kvrr.com/content/uploads/2020/03/1585449596-9333c996c47f32b0ed85a2f1b98a5d7fbfb2c515.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Three Sanford Fargo Employees Test Positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-4-southland-grocery-workers-test-positive-for-coronavirus.md",
+      "title": "4 Southland Grocery Workers Test Positive For Coronavirus",
+      "excerpt": "At least 4 Southland grocery workers have tested positive for COVID-19 this week. Officials at each store said they're taking precautions.",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/california/pacificpalisades/4-southland-grocery-workers-test-positive-coronavirus",
+      "ampWebUrl": "https://patch.com/california/pacificpalisades/amp/28663093/4-southland-grocery-workers-test-positive-coronavirus",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/pacificpalisades/amp/28663093/4-southland-grocery-workers-test-positive-coronavirus",
+      "publishedDateTime": "2020-03-29T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/23735268/20200329/011409/styles/patch_image/public/shutterstock-1684121872___29130852896.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": "4 Southland Grocery Workers Test Positive For Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-san-mateo-county-reports-38-new-cases-in-two-days.md",
+      "title": "Coronavirus: San Mateo County reports 38 new cases in two days",
+      "excerpt": "With about 82 new cases in the past three days, San Mateo County is experiencing what ... s parks forced county officials to close all 23 parks it operates in an effort to stem the spread of the coronavirus. As of Saturday, the California Department of Public Health says there are 4,643 confirmed cases in the state, 101 people have died ...",
+      "heat": 160,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.eastbaytimes.com/2020/03/29/coronavirus-san-mateo-county-reports-38-new-cases-in-two-days/",
+      "ampWebUrl": "https://www.eastbaytimes.com/2020/03/29/coronavirus-san-mateo-county-reports-38-new-cases-in-two-days/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/03/29/coronavirus-san-mateo-county-reports-38-new-cases-in-two-days/amp/",
+      "publishedDateTime": "2020-03-29T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2020/03/TEASER_coronavirus_SAN_MATEO-19.jpg?w=1024&h=688",
+          "width": 1024,
+          "height": 688,
+          "title": "Coronavirus: San Mateo County reports 38 new cases in two days",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-county-confirms-first-coronavirus-death.md",
+      "title": "County Confirms First Coronavirus Death",
+      "excerpt": "The Santa Cruz County Public Health Division on Sunday announced the county's first death due to novel coronavirus. The victim, who died Saturday, was a man in his early 70s who had an underlying health condition and was hospitalized March 19 with symptoms that included fever and shortness of breath.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/bayarea/article/County-Confirms-First-Coronavirus-Death-15164792.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+          "width": 500,
+          "height": 261,
+          "title": "County Confirms First Coronavirus Death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-governor-cuomo-covid-19-march-29th-update-7195-new-cases-across-the-state-death-toll-up-to-965.md",
+      "title": "Governor Cuomo COVID-19 March 29th update - 7,195 new cases across the state, death toll up to 965",
+      "excerpt": "Governor Cuomo updated the media on Sunday with the latest COVID-19 numbers in the state. Albany, N.Y. - Governor Andrew Cuomo announced new COVID-19 confirmed cases are now up to 59,513 throughout the state,",
+      "heat": 136,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wktv.com/content/news/Governor-Cuomo-COVID-19-March-29th-update---7195-new-cases-across-the-state-death-toll-up-to-965-569202331.html",
+      "ampWebUrl": "http://www.wktv.com/templates/AMP?contentID=569202331",
+      "cdnAmpWebUrl": "https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=569202331",
+      "publishedDateTime": "2020-03-29T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKTV",
+        "domain": "wktv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/images/Governor+COVID19+update+March+29th.jpg",
+          "width": 495,
+          "height": 371,
+          "title": "Governor Cuomo COVID-19 March 29th update - 7,195 new cases across the state, death toll up to 965",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-illinois-infant-with-covid-19-dies-exact-cause-of-death-unknown.md",
+      "title": "Illinois infant with COVID-19 dies; exact cause of death unknown",
+      "excerpt": "An Illinois infant with COVID-19 has died, Gov. J.B. Pritzker said Saturday. The cause of death is unknown, and an investigation is underway. A state employee also was among 13 new deaths reported Saturday as Illinois Department of Public Health Director Dr. Ngozi Ezike urged people to do all they could to prevent the spread of the virus.",
+      "heat": 145,
+      "tags": [
+        "US-IL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-03-29/illinois-infant-with-covid-19-dies-cause-of-death-unknown",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-03-29/illinois-infant-with-covid-19-dies-cause-of-death-unknown?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-03-29/illinois-infant-with-covid-19-dies-cause-of-death-unknown?_amp=true",
+      "publishedDateTime": "2020-03-29T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/b68d7dc/2147483647/strip/true/crop/5000x3266+0+184/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2Ff3%2Fd143040245609fef78895acc60ab%2Fap20070377919994.jpg",
+          "width": 320,
+          "height": 209,
+          "title": "Illinois infant with COVID-19 dies; exact cause of death unknown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-latest-atlanta-coronavirus-news-200-new-cases-and-1-death-since-saturday.md",
+      "title": "Latest Atlanta coronavirus news: 200 new cases and 1 death since Saturday",
+      "excerpt": "Since Sunday, coronavirus cases in Georgia continued to increase as state health officials confirmed 2,651 cases and 80 deaths. The number of cases are up by 200 with one new death reported. Of Georgia’s overall cases,",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ajc.com/news/latest-atlanta-coronavirus-news-200-new-cases-and-death-since-saturday/5IjS1xNGRW0We9246P8sYM/",
+      "ampWebUrl": "https://www.ajc.com/news/latest-atlanta-coronavirus-news-200-new-cases-and-death-since-saturday/5IjS1xNGRW0We9246P8sYM/amp.html",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/latest-atlanta-coronavirus-news-200-new-cases-and-death-since-saturday/5IjS1xNGRW0We9246P8sYM/amp.html",
+      "publishedDateTime": "2020-03-29T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ajc.com/rf/image_medium/Pub/p11/AJC/2020/03/27/Videos/4866206.vpx",
+          "width": 750,
+          "height": 422,
+          "title": "Latest Atlanta coronavirus news: 200 new cases and 1 death since Saturday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-lapd-says-24-employees-tested-positive-for-covid-19.md",
+      "title": "LAPD Says 24 Employees Tested Positive For COVID-19",
+      "excerpt": "Twenty-four Los Angeles Police Department employees and six members of the Los Angeles Fire Department have tested positive for COVID-19 ... “So if you’ve been tested for COVID-19 and you’re waiting for your test results or you’ve been told by a provider that you should presume that you’re positive for COVID-19, we ask that you ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mynewsla.com/crime/2020/03/29/lapd-says-24-employees-tested-positive-for-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNewsLA",
+        "domain": "mynewsla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png",
+          "width": 583,
+          "height": 300,
+          "title": "LAPD Says 24 Employees Tested Positive For COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-turkeys-coronavirus-deaths-up-to-131-with-1815-new-cases.md",
+      "title": "Turkey's coronavirus deaths up to 131 with 1,815 new cases",
+      "excerpt": "Turkey’s deaths from the coronavirus increased by 23 to 131 on Sunday, as the number of confirmed cases rose by 1,815 to 9,217, Health Minister Fahrettin Koca said. Some 105 patients have recovered so far.",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-turkey-idUSL8N2BM0OD",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-22-new-cases-of-covid-19-brings-south-dakotas-total-to-90.md",
+      "title": "22 new cases of COVID-19 brings South Dakota’s total to 90",
+      "excerpt": "As of Sunday at 11:30 am., South Dakota now has 90 confirmed positive cases of COVID-19. According to the South Dakota Department of Health, there are 3,127 negative",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.keloland.com/news/healthbeat/coronavirus/22-new-cases-of-covid-19-brings-south-dakotas-total-to-90/",
+      "ampWebUrl": "https://www.keloland.com/news/healthbeat/coronavirus/22-new-cases-of-covid-19-brings-south-dakotas-total-to-90/amp/",
+      "cdnAmpWebUrl": "https://www-keloland-com.cdn.ampproject.org/c/s/www.keloland.com/news/healthbeat/coronavirus/22-new-cases-of-covid-19-brings-south-dakotas-total-to-90/amp/",
+      "publishedDateTime": "2020-03-29T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KELOLAND News",
+        "domain": "keloland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.keloland.com/wp-content/uploads/sites/103/2020/03/sdcoronavirus.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "22 new cases of COVID-19 brings South Dakota’s total to 90",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-3-in-portland-senior-community-test-positive-for-covid-19-2-killed-from-virus.md",
+      "title": "3 in Portland senior community test positive for COVID-19; 2 killed from virus",
+      "excerpt": "(WTVF) — At least three people in a senior living facility in Portland have tested positive for the new coronavirus. Portland Mayor Mike Callis said two residents ... Effective immediately, state employees who have been trained and certified to work from home within the state’s Alternative Workplace Solutions (AWS) program will work from ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newschannel5.com/news/3-in-portland-senior-community-test-positive-for-covid-19-2-killed-from-virus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Channel 5 Nashville",
+        "domain": "newschannel5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/0ed1d6a/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F18%2F57%2F8b8f75ef460ebc4e26a09425d86d%2Fap-500539831020.png",
+          "width": 1200,
+          "height": 630,
+          "title": "3 in Portland senior community test positive for COVID-19; 2 killed from virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-broward-employee-tests-positive-for-coronavirus-florida-juvenile-justice-says.md",
+      "title": "Broward employee tests positive for coronavirus, Florida Juvenile Justice says",
+      "excerpt": "An employee at the Florida Department of Juvenile Justice’s Broward Youth Treatment Center received a positive COVID-19 test result Friday, the department announced Sunday.",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.miamiherald.com/news/coronavirus/article241601716.html",
+      "ampWebUrl": "https://amp.miamiherald.com/news/coronavirus/article241601716.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article241601716.html",
+      "publishedDateTime": "2020-03-29T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/38879f63-c91f-4d3a-a6c9-cda83a9bc5f9/f9e58951-b9fe-484e-8885-cc49e7af9ef1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Broward employee tests positive for coronavirus, Florida Juvenile Justice says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-lapd-reports-total-of-24-employees-test-positive-for-covid-19.md",
+      "title": "LAPD Reports Total Of 24 Employees Test Positive For COVID-19",
+      "excerpt": "LOS ANGELES (CBSLA) — The Los Angeles Police Department says a total number of 24 employees have tested positive for COVID-19. In addition to those numbers, the department said Sunday that the Los Angeles Fire Department has six members who have also tested positive for the virus. Of those cases, authorities say all are self-isolating and are ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://losangeles.cbslocal.com/2020/03/29/lapd-reports-total-of-24-employees-test-positive-for-covid-19/",
+      "ampWebUrl": "https://losangeles.cbslocal.com/2020/03/29/lapd-reports-total-of-24-employees-test-positive-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/03/29/lapd-reports-total-of-24-employees-test-positive-for-covid-19/amp/",
+      "publishedDateTime": "2020-03-29T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-bolivia-uruguay-confirm-first-coronavirus-deaths.md",
+      "title": "Bolivia, Uruguay confirm first coronavirus deaths",
+      "excerpt": "Bolivia, which has 81 confirmed cases, has taken aggressive measures to slow the spread of the disease including a nationwide quarantine and closing the country’s borders. Nearby Uruguay also reported its first coronavirus death,",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-uruguay/bolivia-uruguay-confirm-first-coronavirus-deaths-idUSKBN21G0JW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G0JW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G0JW",
+      "publishedDateTime": "2020-03-29T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Bolivia, Uruguay confirm first coronavirus deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-death-toll-at-lambeth-house-in-new-orleans-at-13-more-cases-reported.md",
+      "title": "Coronavirus death toll at Lambeth House in New Orleans at 13; more cases reported",
+      "excerpt": "As coronavirus clusters continue to pop up in nursing homes across Louisiana, the number of cases and deaths have steadily increased at the first senior center in the state to",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nola.com/news/coronavirus/article_2d2478e2-71c3-11ea-8bf5-071db589376d.html",
+      "ampWebUrl": "https://www.nola.com/news/coronavirus/article_2d2478e2-71c3-11ea-8bf5-071db589376d.amp.html",
+      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/coronavirus/article_2d2478e2-71c3-11ea-8bf5-071db589376d.amp.html",
+      "publishedDateTime": "2020-03-29T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NOLA.com",
+        "domain": "nola.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/c4/4c45b30e-7168-11ea-8064-17d5132e5d3b/5e800d8178f49.image.jpg",
+          "width": 766,
+          "height": 487,
+          "title": "Coronavirus death toll at Lambeth House in New Orleans at 13; more cases reported",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-spain-toughens-restrictions-as-coronavirus-death-toll-surges.md",
+      "title": "Spain toughens restrictions as coronavirus death toll surges",
+      "excerpt": "Spain prepared to enter its third week under near-total lockdown on Sunday, as the government approved a strengthening of measures to curb the spread of and the death toll rose by 838 cases overnight to 6,",
+      "heat": 165,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-spain-idUSKBN21G0C0",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G0C0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G0C0",
+      "publishedDateTime": "2020-03-29T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200329&t=2&i=1509705448&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2S09K",
+          "width": 819,
+          "height": 545,
+          "title": "Spain toughens restrictions as coronavirus death toll surges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-2-louisville-va-medical-center-workers-test-positive-for-the-coronavirus.md",
+      "title": "2 Louisville VA Medical Center workers test positive for the coronavirus",
+      "excerpt": "2 Louisville VA Medical Center workers test positive for the coronavirus Two employees of the VA Medical Center tested psoitive for the coronavirus. One employee recently said there aren't proper safety measures in place. Check out this story on courier-journal.com: https://www.courier-journal.com/story/news/2020/03/29/louisville-va-medical ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courier-journal.com/story/news/2020/03/29/louisville-va-medical-center-employees-test-positive-coronavirus/2934210001/",
+      "ampWebUrl": "https://amp.courier-journal.com/amp/2934210001",
+      "cdnAmpWebUrl": "https://amp-courier--journal-com.cdn.ampproject.org/c/s/amp.courier-journal.com/amp/2934210001",
+      "publishedDateTime": "2020-03-29T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courier-Journal",
+        "domain": "courier-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/caafb4c389f5776312a09b3ca18bbc0134319c80/c=0-60-344-254/local/-/media/2016/12/08/Louisville/Louisville/636167949330647798-VA-McDonogh2.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": "2 Louisville VA Medical Center workers test positive for the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-mecklenburg-county-reports-16-new-cases-total-rises-to-315-health-officials-say.md",
+      "title": "Mecklenburg County reports 16 new cases. Total rises to 315, health officials say",
+      "excerpt": "Confirmed cases of COVID-19 in Mecklenburg County rose to 315 Sunday, according to the county’s health department. That’s up from 299 on Saturday, and nearly twice Wednesdays",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsobserver.com/news/coronavirus/article241600051.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Travel Impact",
+        "Economic Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-18-new-cases-of-coronavirus-at-canterbury-rehabilitation-healthcare-center.md",
+      "title": "18 new cases of coronavirus at Canterbury Rehabilitation & Healthcare Center",
+      "excerpt": "There have also been two new deaths at the center related to the virus, bringing the number of deaths up to eight. This is an ongoing story, check back with 8News for updates. WASHINGTON (AP) -- The U.S. government's foremost infection disease expert, Dr. Anthony Fauci, says the U.S. will certainly have “millions of cases” of COVID-19 and ...",
+      "heat": 157,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wric.com/health/coronavirus/18-new-cases-of-coronavirus-at-canterbury-rehabilitation-healthcare-center/",
+      "ampWebUrl": "https://www.wric.com/health/coronavirus/18-new-cases-of-coronavirus-at-canterbury-rehabilitation-healthcare-center/amp/",
+      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/health/coronavirus/18-new-cases-of-coronavirus-at-canterbury-rehabilitation-healthcare-center/amp/",
+      "publishedDateTime": "2020-03-29T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRIC",
+        "domain": "wric.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wric.com/wp-content/uploads/sites/74/2020/03/thumbnail_Image-4-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "18 new cases of coronavirus at Canterbury Rehabilitation & Healthcare Center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-50-tsa-screening-officers-and-19-more-employees-test-positive-for-coronavirus.md",
+      "title": "50 TSA screening officers and 19 more employees test positive for coronavirus",
+      "excerpt": "Fifty TSA screening officers and 19 additional TSA employees across the United States have tested positive for coronavirus in the last two weeks.",
+      "heat": 152,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/travel/airline-news/2020/03/29/coronavirus-50-tsa-officers-and-19-employees-test-positive/2935337001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/2935337001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2935337001",
+      "publishedDateTime": "2020-03-29T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/13/USAT/ddd7d77c-2ced-4b37-9ea9-7a008cf75d9b-USP_News__Coronavirus_Travel.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "50 TSA screening officers and 19 more employees test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-two-eastman-employees-at-kingsport-test-positive-for-coronavirus.md",
+      "title": "Two Eastman employees at Kingsport test positive for coronavirus",
+      "excerpt": "Eastman Chemical Company confirmed with News Channel 11 Sunday that two of its Kingsport plant employees have tested positive for COVID-19 in the past few days.",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wjhl.com/local-coronavirus-coverage/two-eastman-employees-at-kingsport-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://www.wjhl.com/local-coronavirus-coverage/two-eastman-employees-at-kingsport-test-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-wjhl-com.cdn.ampproject.org/c/s/www.wjhl.com/local-coronavirus-coverage/two-eastman-employees-at-kingsport-test-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-29T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJHL-TV",
+        "domain": "wjhl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wjhl.com/wp-content/uploads/sites/98/2018/10/eastmanpic_33889556_ver1.0.jpg?w=524&h=241&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Two Eastman employees at Kingsport test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-uk-coronavirus-death-toll-rises-to-1228-people.md",
+      "title": "UK coronavirus death toll rises to 1,228 people",
+      "excerpt": "The previous increase saw the death toll rise by 260 people.",
+      "heat": 175,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-casualties/uk-coronavirus-death-toll-rises-to-1228-people-idUSKBN21G0KD",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G0KD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G0KD",
+      "publishedDateTime": "2020-03-29T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200329&t=2&i=1509752874&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2S0DO",
+          "width": 833,
+          "height": 545,
+          "title": "UK coronavirus death toll rises to 1,228 people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-saudi-arabias-coronavirus-death-toll-doubles-to-eight-spokesman.md",
+      "title": "Saudi Arabia's Coronavirus Death Toll Doubles to Eight: Spokesman",
+      "excerpt": "General view shows the empty garden of the King Fahd Library, following the outbreak of coronavirus disease (COVID-19), in Riyadh, Saudi Arabia March 19, 2020. Picture taken March 19, 2020. REUTERS/Ahmed Yosri/File PhotoReuters RIYADH (Reuters) - Saudi Arabia recorded four new fatalities from the coronavirus,",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-29/saudi-arabias-coronavirus-death-toll-doubles-to-eight-spokesman",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 39
+}

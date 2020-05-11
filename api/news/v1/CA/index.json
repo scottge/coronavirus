@@ -1,0 +1,1196 @@
+{
+  "location": {
+    "long": -106.346771,
+    "countryOrRegion": "Canada",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "CA",
+    "lat": 56.130366
+  },
+  "updatedDateTime": "2020-05-10T05:45:39.4305715Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-1-more-death-3-new-cases-of-covid-19-in-nova-scotia.md",
+      "title": "1 more death, 3 new cases of COVID-19 in Nova Scotia",
+      "excerpt": "Nova Scotia reported one more death, bringing the province's total to 47, and three new cases of COVID-19 on Saturday. The latest death was reported at the Northwood long-term care home in Hailfax, where 41 people have died from the virus.",
+      "heat": 105,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-covid-19-update-saturday-may-9-1.5563119",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5563119",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5563119",
+      "publishedDateTime": "2020-05-09T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5545103.1587826736!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/kendra-macdonald-covid-19-qeii-microbiology-lab-halifax.JPG",
+          "width": 620,
+          "height": 349,
+          "title": "1 more death, 3 new cases of COVID-19 in Nova Scotia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-brief-canadas-coronavirus-death-toll-rises-35-to-4628.md",
+      "title": "BRIEF-Canada's coronavirus death toll rises 3.5% to 4,628",
+      "excerpt": "CANADA’S TOTAL CORONAVIRUS CASES RISE TO 66,780 FROM TO 65,399 ON MAY 8; 4,628 DEATHS, UP FROM 4,471 - PUBLIC HEALTH AGENCY DATA (Reporting by Rod Nickel) Our Standards:The Thomson Reuters Trust Principles.",
+      "heat": 120,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-canadas-coronavirus-death-toll-ris-idUSL1N2CR074",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2CR074",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2CR074",
+      "publishedDateTime": "2020-05-09T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-Canada's coronavirus death toll rises 3.5% to 4,628",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-covid-19-in-quebec-what-you-need-to-know-on-friday.md",
+      "title": "COVID-19 in Quebec: What you need to know on Friday",
+      "excerpt": "Quebec's director of public health, Dr. Horacio Arruda, offered more details on the province's testing for COVID-19, which has faced criticism from experts as the province opens up.",
+      "heat": 105,
+      "tags": [
+        "CA",
+        "CA-QC",
+        "Canada-QC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/canada/montreal/covid-19-quebec-may-8-1.5560951",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5560951",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5560951",
+      "publishedDateTime": "2020-05-09T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5560771.1588902843!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mask.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "COVID-19 in Quebec: What you need to know on Friday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-coronavirus-how-long-will-pandemic-related-job-losses-last-in-canada.md",
+      "title": "Coronavirus: How long will pandemic-related job losses last in Canada?",
+      "excerpt": "New figures are painting a grim picture of the coronavirus pandemic’s impact on Canadians: the economy shed nearly two million jobs in April, driving the tota",
+      "heat": 100,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.energeticcity.ca/2020/05/coronavirus-how-long-will-pandemic-related-job-losses-last-in-canada/",
+      "ampWebUrl": "https://www.energeticcity.ca/2020/05/coronavirus-how-long-will-pandemic-related-job-losses-last-in-canada/?amp",
+      "cdnAmpWebUrl": "https://www-energeticcity-ca.cdn.ampproject.org/c/s/www.energeticcity.ca/2020/05/coronavirus-how-long-will-pandemic-related-job-losses-last-in-canada/?amp",
+      "publishedDateTime": "2020-05-08T20:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Energeticcity",
+        "domain": "energeticcity.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://149382914.v2.pressablecdn.com/wp-content/uploads/2020/05/182739/coronavirus-how-long-will-pandemic-related-job-losses-last-in-canada.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Coronavirus: How long will pandemic-related job losses last in Canada?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-canada-gives-bidders-more-time-to-submit-fighter-jet-bids-cites-coronavirus.md",
+      "title": "Canada gives bidders more time to submit fighter jet bids, cites coronavirus",
+      "excerpt": "OTTAWA (Reuters) - Canada is giving potential bidders another month to submit proposals for a multibillion-dollar contract to supply 88 new fighter jets, time needed due to complications caused by the coronavirus outbreak. The move is the latest delay in a ...",
+      "heat": 137,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-canada-fighterjets/canada-gives-bidders-more-time-to-submit-fighter-jet-bids-cites-coronavirus-idUSKBN22K2NR",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22K2NR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K2NR",
+      "publishedDateTime": "2020-05-08T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Canada gives bidders more time to submit fighter jet bids, cites coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-covid-19-outbreak-confirmed-at-canada-post-main-plant-in-calgary.md",
+      "title": "COVID-19 outbreak confirmed at Canada Post main plant in Calgary",
+      "excerpt": "There is now an outbreak of COVID-19 at Canada Post's main plant in Calgary, Alberta's chief medical officer of health, Dr. Deena Hinshaw, confirmed Friday.",
+      "heat": 120,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/canada/calgary/canada-post-main-calgary-covid-outbreak-1.5562431",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5562431",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5562431",
+      "publishedDateTime": "2020-05-08T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.2460240.1386789863!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-post-parcel-service.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "COVID-19 outbreak confirmed at Canada Post main plant in Calgary",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-housing-starts-up-in-some-parts-of-canada-despite-covid-19.md",
+      "title": "Housing starts up in some parts of Canada despite COVID-19",
+      "excerpt": "Canada Mortgage and Housing Corp. says construction of multi-unit housing projects remained strong in some provinces last month despite the fight against the COVID-19 pandemic.",
+      "heat": 100,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/business/housing-starts-april-1.5561214",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5561214",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5561214",
+      "publishedDateTime": "2020-05-08T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5358323.1573674927!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/cranes-front-spadina.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Housing starts up in some parts of Canada despite COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-new-brunswick-loosens-covid-19-restrictions-a-second-time.md",
+      "title": "New Brunswick loosens COVID-19 restrictions a second time",
+      "excerpt": "Two weeks after taking the first step, New Brunswick is making a second larger step to try to get back to some semblance of normal. \"Today, we announce a further loosening of restrictions,\" said Premier Blaine Higgs at a news conference in Fredericton to announce what businesses can open under its state of emergency.",
+      "heat": 115,
+      "tags": [
+        "CA",
+        "CA-NB"
+      ],
+      "type": "article",
+      "webUrl": "https://atlantic.ctvnews.ca/new-brunswick-loosens-covid-19-restrictions-a-second-time-1.4931077",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/atlantic/2020/5/8/1_4931077.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/atlantic/2020/5/8/1_4931077.html",
+      "publishedDateTime": "2020-05-08T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/5/8/1_4931121.jpg?cache_timestamp=1588960549784",
+          "width": 947,
+          "height": 479,
+          "title": "New Brunswick loosens COVID-19 restrictions a second time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-canada-shed-2-million-jobs-in-april-amid-covid-19-statcan.md",
+      "title": "Canada shed 2 million jobs in April amid COVID-19: StatCan",
+      "excerpt": "Canada shed nearly two million jobs in April, as the novel coronavirus pandemic tore through the Canadian economy. [ Sign up for our Health IQ newsletter for the latest coronaviru",
+      "heat": 100,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://globalnews.ca/news/6920177/canada-2-million-jobs-lost-april-covid-19-statcan/",
+      "ampWebUrl": "https://globalnews.ca/news/6920177/canada-2-million-jobs-lost-april-covid-19-statcan/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6920177/canada-2-million-jobs-lost-april-covid-19-statcan/amp/",
+      "publishedDateTime": "2020-05-08T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thecanadianpress-a.akamaihd.net/graphics/2020/static/cp-unemployment-apr.png",
+          "width": 960,
+          "height": 575,
+          "title": "Canada shed 2 million jobs in April amid COVID-19: StatCan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-updates-may-8-covid-19-canada.md",
+      "title": "Coronavirus updates: May 8 COVID-19 Canada",
+      "excerpt": "South Korea on Friday advised nightclubs and similar venues to close for a month and may delay the reopening of schools after linking more than a",
+      "heat": 115,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thestar.com/news/canada/2020/05/08/coronavirus-updates-may-8-covid-19-canada.html",
+      "ampWebUrl": "https://www.thestar.com/amp/news/canada/2020/05/08/coronavirus-updates-may-8-covid-19-canada.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/05/08/coronavirus-updates-may-8-covid-19-canada.html",
+      "publishedDateTime": "2020-05-08T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.thestar.com/Q0UQsDUzXkeiJeo3zN3Amhi_l0E=/1200x800/smart/filters:cb(1588931414984)/https://www.thestar.com/content/dam/thestar/news/canada/2020/05/08/coronavirus-updates-may-8-covid-19-canada/rpjsecretblossoms02.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Coronavirus updates: May 8 COVID-19 Canada",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-alberta-announces-42-million-joint-aid-package-for-cattle-industry.md",
+      "title": "Alberta announces $42-million joint aid package for cattle industry",
+      "excerpt": "The money will be used to subsidize producers to hold onto and feed cattle for up to nine weeks to match reduced demand and processing capacity.",
+      "heat": 100,
+      "tags": [
+        "CA",
+        "CA-AB",
+        "Canada-AB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thestar.com/news/canada/2020/05/07/alberta-announces-42-million-joint-aid-package-for-cattle-industry.html",
+      "ampWebUrl": "https://www.thestar.com/amp/news/canada/2020/05/07/alberta-announces-42-million-joint-aid-package-for-cattle-industry.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/05/07/alberta-announces-42-million-joint-aid-package-for-cattle-industry.html",
+      "publishedDateTime": "2020-05-07T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.thestar.com/-iKDuCOI_sQMCc50MjwswdmxhOI=/1200x782/smart/filters:cb(1588906630760)/https://www.thestar.com/content/dam/thestar/news/canada/2020/05/07/alberta-announces-42-million-joint-aid-package-for-cattle-industry/jfj10662055.jpg",
+          "width": 1200,
+          "height": 782,
+          "title": "Alberta announces $42-million joint aid package for cattle industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-dozens-more-die-of-covid-in-canada-greyhound-to-shut-down-all-service.md",
+      "title": "Dozens more die of COVID in Canada; Greyhound to shut down all service",
+      "excerpt": "Dozens more people in Canada have succumbed to COVID-19, authorities reported on Thursday, as one of the country's major inter-city bus carriers announced it would be shutting down completely due to a",
+      "heat": 110,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sootoday.com/national-news/dozens-more-die-of-covid-in-canada-greyhound-to-shut-down-all-service-2331196",
+      "ampWebUrl": "https://www.sootoday.com/amp/national-news/dozens-more-die-of-covid-in-canada-greyhound-to-shut-down-all-service-2331196",
+      "cdnAmpWebUrl": "https://www-sootoday-com.cdn.ampproject.org/c/s/www.sootoday.com/amp/national-news/dozens-more-die-of-covid-in-canada-greyhound-to-shut-down-all-service-2331196",
+      "publishedDateTime": "2020-05-07T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SooToday",
+        "domain": "sootoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2020/05/cah30061911.jpg;w=650;h=433;mode=crop",
+          "width": 650,
+          "height": 433,
+          "title": "Dozens more die of COVID in Canada; Greyhound to shut down all service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-nova-scotia-reports-3-more-deaths-at-northwood-9-new-cases-of-covid-19.md",
+      "title": "Nova Scotia reports 3 more deaths at Northwood, 9 new cases of COVID-19",
+      "excerpt": "Nova Scotia is reporting three more deaths related to COVID-19 at the Northwood long-term care home in Halifax.",
+      "heat": 135,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://atlantic.ctvnews.ca/nova-scotia-reports-3-more-deaths-at-northwood-9-new-cases-of-covid-19-1.4929168",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/atlantic/2020/5/7/1_4929168.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/atlantic/2020/5/7/1_4929168.html",
+      "publishedDateTime": "2020-05-07T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/atlantic/2020/5/7/1_4929168/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 573,
+          "title": "Nova Scotia reports 3 more deaths at Northwood, 9 new cases of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-greyhound-canada-suspends-all-bus-routes-amid-coronavirus-pandemic.md",
+      "title": "Greyhound Canada suspends all bus routes amid coronavirus pandemic",
+      "excerpt": "Greyhound Canada has announced that it will temporarily suspend all of its bus routes in Canada next week, due to a rapid decrease of revenue and ridership amid the COVID-19 pandemic.",
+      "heat": 110,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ctvnews.ca/health/coronavirus/greyhound-canada-suspends-all-bus-routes-amid-coronavirus-pandemic-1.4928915",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/coronavirus/2020/5/7/1_4928915.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/coronavirus/2020/5/7/1_4928915.html",
+      "publishedDateTime": "2020-05-07T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/national/coronavirus/2020/5/7/1_4928915/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": "Greyhound Canada suspends all bus routes amid coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-coronavirus-updates-may-7-covid-19-canada.md",
+      "title": "Coronavirus updates: May 7 COVID-19 Canada",
+      "excerpt": "The number of confirmed coronavirus cases in Africa has surpassed 50,000 and deaths have surpassed 2,000, according to the Africa Centers for Disease",
+      "heat": 125,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thestar.com/news/canada/2020/05/07/coronavirus-updates-may-7-covid-19-canada.html",
+      "ampWebUrl": "https://www.thestar.com/amp/news/canada/2020/05/07/coronavirus-updates-may-7-covid-19-canada.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/05/07/coronavirus-updates-may-7-covid-19-canada.html",
+      "publishedDateTime": "2020-05-07T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.thestar.com/BM-2JLI6Wt1YyPRhjIG56kN3CAQ=/1200x800/smart/filters:cb(1588844568757)/https://www.thestar.com/content/dam/thestar/news/canada/2020/05/07/coronavirus-updates-may-7-covid-19-canada/afwcovidfeature01.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Coronavirus updates: May 7 COVID-19 Canada",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-canadas-british-columbia-the-latest-province-to-unveil-restart-plan.md",
+      "title": "Canada's British Columbia the latest province to unveil restart plan",
+      "excerpt": "The Canadian province of British Columbia will begin reopening its economy as early as mid-May, the premier said on Wednesday, as new coronavirus cases dwindle and other parts of the country, including Quebec and Manitoba,",
+      "heat": 105,
+      "tags": [
+        "CA",
+        "CA-BC",
+        "Canada-BC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-canada-idUSKBN22I2C2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I2C2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I2C2",
+      "publishedDateTime": "2020-05-06T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517677509&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG451H7",
+          "width": 817,
+          "height": 545,
+          "title": "Canada's British Columbia the latest province to unveil restart plan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-the-latest-nhl-offered-place-to-play-in-british-columbia.md",
+      "title": "The Latest: NHL offered place to play in British Columbia",
+      "excerpt": "British Columbia Premier John Horgan has offered the NHL a place to play if the league can find a way to resume the season. TOP STORIES Texas governor demands release of salon owner jailed for violating his executive order Coronavirus hype biggest political hoax in history Donald Trump Jr.",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-BC",
+        "Canada-BC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtontimes.com/news/2020/may/6/the-latest-german-soccer-could-be-cleared-to-resum/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/04/20/virus_outbreak_sports_poll_10233_c0-140-3359-2099_s1200x700.jpg?c9ed18d226ea968fb467046bcea6f29c38ba16e5",
+          "width": 1200,
+          "height": 700,
+          "title": "The Latest: NHL offered place to play in British Columbia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-canada-to-do-millionth-coronavirus-test-but-numbers-still-falling-short.md",
+      "title": "Canada to do millionth coronavirus test but numbers still falling short",
+      "excerpt": "Canada is on track to complete its millionth test for COVID-19 sometime in the next 24 hours but is still falling far short of the number of daily tests the country’s chief public health officer said last month should soon be possible.",
+      "heat": 110,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.680news.com/2020/05/06/canada-to-do-millionth-coronavirus-test-but-numbers-still-falling-short/",
+      "ampWebUrl": "https://www.680news.com/2020/05/06/canada-to-do-millionth-coronavirus-test-but-numbers-still-falling-short/amp/",
+      "cdnAmpWebUrl": "https://www-680news-com.cdn.ampproject.org/c/s/www.680news.com/2020/05/06/canada-to-do-millionth-coronavirus-test-but-numbers-still-falling-short/amp/",
+      "publishedDateTime": "2020-05-06T18:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "680 News",
+        "domain": "680news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.680news.com/wp-content/blogs.dir/sites/2/2020/05/RJB10260796.jpg",
+          "width": 1024,
+          "height": 707,
+          "title": "Canada to do millionth coronavirus test but numbers still falling short",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-canadas-coronavirus-deaths-rise-5-from-a-day-earlier-to-4111-official-data.md",
+      "title": "Canada's coronavirus deaths rise 5% from a day earlier to 4,111 - official data",
+      "excerpt": "OTTAWA, May 6 (Reuters) - The total number of people killed by the coronavirus in Canada rose by about 5% to 4,111 on Wednesday from a day earlier, official data posted by the public health agency showed. The figure for those diagnosed with the coronavirus rose to 62,458, according to Chief Public Health Officer Theresa Tam. On Tuesday ...",
+      "heat": 116,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-canada-idUSL1N2CO0Z1",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2CO0Z1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2CO0Z1",
+      "publishedDateTime": "2020-05-06T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Canada's coronavirus deaths rise 5% from a day earlier to 4,111 - official data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in Canada"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-canada-to-do-millionth-coronavirus-test-but-numbers-still-falling-short.md",
+      "title": "Canada to do millionth coronavirus test but numbers still falling short",
+      "excerpt": "Canada is on track to complete its millionth test for COVID-19 sometime in the next 24 hours but is still falling far short of the number of daily tests the country’s chief public health officer said last month should soon be possible.",
+      "heat": 120,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://toronto.citynews.ca/2020/05/06/canada-to-do-millionth-coronavirus-test-but-numbers-still-falling-short/",
+      "ampWebUrl": "https://toronto.citynews.ca/2020/05/06/canada-to-do-millionth-coronavirus-test-but-numbers-still-falling-short/amp/",
+      "cdnAmpWebUrl": "https://toronto-citynews-ca.cdn.ampproject.org/c/s/toronto.citynews.ca/2020/05/06/canada-to-do-millionth-coronavirus-test-but-numbers-still-falling-short/amp/",
+      "publishedDateTime": "2020-05-06T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City News",
+        "domain": "citynews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2020/05/RJB10260796.jpg",
+          "width": 1024,
+          "height": 707,
+          "title": "Canada to do millionth coronavirus test but numbers still falling short",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-canada-still-only-considering-gathering-race-based-covid-19-data.md",
+      "title": "Canada still only considering gathering race-based COVID-19 data",
+      "excerpt": "The Public Health Agency of Canada says it is still looking into the possibility of collecting race-based data on COVID-19, despite months of calls from advocates for a clearer",
+      "heat": 110,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/canada-still-only-considering-gathering-race-based-covid-19-data",
+      "ampWebUrl": "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/canada-still-only-considering-gathering-race-based-covid-19-data/amp",
+      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/canada-news-pmn/canada-still-only-considering-gathering-race-based-covid-19-data/amp",
+      "publishedDateTime": "2020-05-06T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nationalpostcom.files.wordpress.com/2020/05/ajw129-the-canadian-press.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": "Canada still only considering gathering race-based COVID-19 data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-canadas-sun-life-looking-at-acquisition-opportunities-even-amid-covid-19-challenges.md",
+      "title": "Canada's Sun life looking at acquisition opportunities even amid COVID-19 challenges",
+      "excerpt": "Canadian insurer Sun Life Financial is looking for acquisition opportunities, its chief executive said on Wednesday, even as the company flagged an uncertain sales outlook amid a raft of unknowns driven by the COVID-19 outbreak.",
+      "heat": 113,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/sun-life-results-call-idUSL1N2CO0UU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2CO0UU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2CO0UU",
+      "publishedDateTime": "2020-05-06T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Canada's Sun life looking at acquisition opportunities even amid COVID-19 challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-canadas-coronavirus-deaths-rise-5-from-a-day-earlier-to-4111-official-data.md",
+      "title": "Canada's coronavirus deaths rise 5% from a day earlier to 4,111: official data",
+      "excerpt": "The total number of people killed by the coronavirus in Canada rose by about 5% to 4,111 on Wednesday from a day earlier, official data posted by the public health agency showed.",
+      "heat": 126,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-canada-idUSKBN22I2C2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I2C2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I2C2",
+      "publishedDateTime": "2020-05-06T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517677509&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG451H7",
+          "width": 817,
+          "height": 545,
+          "title": "Canada's coronavirus deaths rise 5% from a day earlier to 4,111: official data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-updates-may-6-covid-19-canada.md",
+      "title": "Coronavirus updates: May 6 COVID-19 Canada",
+      "excerpt": "The coronavirus outbreak has delayed the September Indonesian regional elections being decided by more than 100 million voters until at least",
+      "heat": 125,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thestar.com/news/canada/2020/05/06/coronavirus-updates-may-6-covid-19-canada.html",
+      "ampWebUrl": "https://www.thestar.com/amp/news/canada/2020/05/06/coronavirus-updates-may-6-covid-19-canada.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/05/06/coronavirus-updates-may-6-covid-19-canada.html",
+      "publishedDateTime": "2020-05-06T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.thestar.com/uD7LWymMrKE3IcF2VkY1fSb15vA=/1200x753/smart/filters:cb(1588758446437)/https://www.thestar.com/content/dam/thestar/news/canada/2020/05/06/coronavirus-updates-may-6-covid-19-canada/rl_covid5_01.jpg",
+          "width": 1200,
+          "height": 753,
+          "title": "Coronavirus updates: May 6 COVID-19 Canada",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-why-the-covid-19-death-rate-is-higher-in-us-than-canada.md",
+      "title": "Why the COVID-19 death rate is higher in U.S. than Canada",
+      "excerpt": "Why was the death rate from COVID-19 in the U.S. so much higher than Canada's in the early days of the pandemic? Researchers who spoke to CBC outlined three broad reasons and said it didn't all come down to how the Trump administration handled the pandemic response.",
+      "heat": 100,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/world/covid-19-us-canada-death-rates-1.5553168",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5553168",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5553168",
+      "publishedDateTime": "2020-05-05T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5553194.1588372917!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump.JPG",
+          "width": 620,
+          "height": 349,
+          "title": "Why the COVID-19 death rate is higher in U.S. than Canada",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-canadas-covid-19-death-toll-set-to-pass-4000.md",
+      "title": "Canada's COVID-19 death toll set to pass 4,000",
+      "excerpt": "TORONTO — The number of people in Canada killed by COVID-19 was set to pass the 4,000 mark on Tuesday as provinces eased anti-pandemic restrictions and the government announced new aid for farmers. The grim fatality milestone came as the country’s two largest provinces each reported a jump in novel coronavirus-related deaths, although the ...",
+      "heat": 110,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://winnipegsun.com/news/national/canadas-covid-19-death-toll-set-to-pass-4000/wcm/d80ee35f-a659-4a20-8529-9b08a4e0c1cd",
+      "ampWebUrl": "https://winnipegsun.com/news/national/canadas-covid-19-death-toll-set-to-pass-4000/wcm/d80ee35f-a659-4a20-8529-9b08a4e0c1cd/amp",
+      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/news/national/canadas-covid-19-death-toll-set-to-pass-4000/wcm/d80ee35f-a659-4a20-8529-9b08a4e0c1cd/amp",
+      "publishedDateTime": "2020-05-05T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winnipeg Sun",
+        "domain": "winnipegsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://postmediacanoe.files.wordpress.com/2020/05/jdt101-the-canadian-press.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": "Canada's COVID-19 death toll set to pass 4,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-canada-to-spend-c252-million-to-help-farmers-and-food-processors-hurt-by-coronavirus.md",
+      "title": "Canada to spend C$252 million to help farmers and food processors hurt by coronavirus",
+      "excerpt": "Canada will invest C$252 million ($179.5 million) to help some of the country's farm and food processing sectors weather the coronavirus outbreak, Prime Minister Justin Trudeau said on Tuesday, adding more money could come later if needed.",
+      "heat": 113,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-to-spend-c252-million-to-help-farmers-and-food-processors-hurt-by-coronavirus-idUSKBN22H232",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H232",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H232",
+      "publishedDateTime": "2020-05-05T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517543053&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4417R",
+          "width": 817,
+          "height": 545,
+          "title": "Canada to spend C$252 million to help farmers and food processors hurt by coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-canadas-covid-19-death-toll-set-to-pass-4000-feds-announce-help-for-farmers.md",
+      "title": "Canada's COVID-19 death toll set to pass 4,000; feds announce help for farmers",
+      "excerpt": "TORONTO — The number of people in Canada killed by COVID-19 was set to pass the 4,000 mark on Tuesday as provinces eased anti-pandemic restrictions and the government announced new aid for farmers.",
+      "heat": null,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sootoday.com/national-news/canadas-covid-19-death-toll-set-to-pass-4000-feds-announce-help-for-farmers-2324737",
+      "ampWebUrl": "https://www.sootoday.com/amp/national-news/canadas-covid-19-death-toll-set-to-pass-4000-feds-announce-help-for-farmers-2324737",
+      "cdnAmpWebUrl": "https://www-sootoday-com.cdn.ampproject.org/c/s/www.sootoday.com/amp/national-news/canadas-covid-19-death-toll-set-to-pass-4000-feds-announce-help-for-farmers-2324737",
+      "publishedDateTime": "2020-05-05T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SooToday",
+        "domain": "sootoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2020/05/skp11061560.jpg;w=650;h=470;mode=crop",
+          "width": 650,
+          "height": 470,
+          "title": "Canada's COVID-19 death toll set to pass 4,000; feds announce help for farmers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-canada-updates-ontario-tops-18000-cases.md",
+      "title": "Coronavirus Canada updates: Ontario tops 18,000 cases",
+      "excerpt": "The province identified 387 new cases on Tuesday, a 2.2 per cent increase from the day before. It also reported 61 new deaths, bringing the total number of deaths in the province related to COVID-19 to 1,",
+      "heat": 100,
+      "tags": [
+        "CA",
+        "CA-ON",
+        "Canada-ON"
+      ],
+      "type": "article",
+      "webUrl": "https://www.lintelligencer.com/coronavirus-canada-updates-ontario-tops-18000-cases-3465-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lintelligencer",
+        "domain": "lintelligencer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.lintelligencer.com/wp-content/uploads/2020/05/Coronavirus-Canada-updates-Ontario-tops-18000-cases.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Coronavirus Canada updates: Ontario tops 18,000 cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-whats-happening-in-canada-and-around-the-world-may-4.md",
+      "title": "Coronavirus: What's happening in Canada and around the world May 4",
+      "excerpt": "Canada's health minister says even as several provinces and sectors engage in a \"cautious reopening,\" people need to understand that the coronavirus outbreak is \"not over.\" Here's a look at what's happening in Canada,",
+      "heat": 110,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/canada/coronavirus-covid19-canada-world-may4-1.5554249",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5554249",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5554249",
+      "publishedDateTime": "2020-05-05T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5498064.1588533981!/httpImage/image.jpeg_gen/derivatives/16x9_620/image.jpeg",
+          "width": 620,
+          "height": 349,
+          "title": "Coronavirus: What's happening in Canada and around the world May 4",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

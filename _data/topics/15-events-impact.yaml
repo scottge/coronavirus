@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: events-impact
+name: Events Impact
+shortname: Events Impact
+parent: Coronavirus
+keywords:
+  - event
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/events-impact.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/events-impact/

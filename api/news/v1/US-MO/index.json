@@ -1,0 +1,484 @@
+{
+  "location": {
+    "long": -91.831833,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Missouri",
+    "county": null,
+    "isoCode": "US-MO",
+    "lat": 37.964253
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.615007Z",
+  "news": [
+    {
+      "path": "_news/2020-05-06-reading-writing-and-separation-how-coronavirus-could-change-missouri-schools-when-they-reopen.md",
+      "title": "Reading, writing and separation: How coronavirus could change Missouri schools when they reopen",
+      "excerpt": "The report recommends canceling or reorganizing sports, extracurricular activities and before- and after-school programs.",
+      "heat": 123,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.stltoday.com/news/local/education/reading-writing-and-separation-how-coronavirus-could-change-missouri-schools-when-they-reopen/article_1fcf2373-db85-5c7d-8fbf-8c014b313692.html",
+      "ampWebUrl": "https://www.stltoday.com/news/local/education/reading-writing-and-separation-how-coronavirus-could-change-missouri-schools-when-they-reopen/article_1fcf2373-db85-5c7d-8fbf-8c014b313692.amp.html",
+      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/local/education/reading-writing-and-separation-how-coronavirus-could-change-missouri-schools-when-they-reopen/article_1fcf2373-db85-5c7d-8fbf-8c014b313692.amp.html",
+      "publishedDateTime": "2020-05-06T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/43/24350be0-a775-5ce6-b8e9-06ee9cdf03c7/5e791a10a3746.image.jpg?resize=1024%2C715",
+          "width": 1024,
+          "height": 715,
+          "title": "Reading, writing and separation: How coronavirus could change Missouri schools when they reopen",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-could-cancel-or-shorten-the-missouri-state-fair.md",
+      "title": "Coronavirus could cancel or shorten the Missouri State Fair",
+      "excerpt": "As other states cancel their state fairs because of concerns about coronavirus, Missouri Gov. Mike Parson said he’s waiting until June 1 to make that decision. On Thursday, members of the board of directors of the annual summer event will meet to discuss plans for the Aug.",
+      "heat": 135,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.stltoday.com/news/local/govt-and-politics/coronavirus-could-cancel-or-shorten-the-missouri-state-fair/article_f5541319-791b-5982-9f1c-6566bafe2087.html",
+      "ampWebUrl": "https://www.stltoday.com/news/local/govt-and-politics/coronavirus-could-cancel-or-shorten-the-missouri-state-fair/article_f5541319-791b-5982-9f1c-6566bafe2087.amp.html",
+      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/local/govt-and-politics/coronavirus-could-cancel-or-shorten-the-missouri-state-fair/article_f5541319-791b-5982-9f1c-6566bafe2087.amp.html",
+      "publishedDateTime": "2020-05-06T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/b1/ab1d13b4-eee7-5210-b71b-fe8f23034073/5b61d46589bd2.image.jpg?resize=1024%2C633",
+          "width": 1024,
+          "height": 633,
+          "title": "Coronavirus could cancel or shorten the Missouri State Fair",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-more-than-400-employees-at-missouri-food-plant-test-positive-for-covid-19.md",
+      "title": "More than 400 employees at Missouri food plant test positive for COVID-19",
+      "excerpt": "More than 400 workers at Triumph Foods have tested positive for COVID-19. The Missouri Department of Health and Senior Services conducted comprehensive testing of asymptomatic workers from April 27 to May 1.",
+      "heat": 134,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ksdk.com/article/news/health/coronavirus/missouri-food-plant-workers-test-positive-coronavirus/63-dbc52631-6465-426a-8507-ea7b451dfaed",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/health/coronavirus/missouri-food-plant-workers-test-positive-coronavirus/63-dbc52631-6465-426a-8507-ea7b451dfaed",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/health/coronavirus/missouri-food-plant-workers-test-positive-coronavirus/63-dbc52631-6465-426a-8507-ea7b451dfaed",
+      "publishedDateTime": "2020-05-05T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/9b906b04-2dd4-468f-a1f9-4f60da574175/9b906b04-2dd4-468f-a1f9-4f60da574175_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "More than 400 employees at Missouri food plant test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-nearly-400-workers-at-missouri-pork-plant-all-asymptomatic-test-positive-for-coronavirus.md",
+      "title": "Nearly 400 workers at Missouri pork plant, all asymptomatic, test positive for coronavirus",
+      "excerpt": "Triumph Foods, in St. Joseph, had begun to implement companywide testing of its asymptomatic employees in late April",
+      "heat": 165,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/food-drink/asymptomatic-workers-missouri-pork-plant-coronavirus-positive",
+      "ampWebUrl": "https://www.foxnews.com/food-drink/asymptomatic-workers-missouri-pork-plant-coronavirus-positive.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/food-drink/asymptomatic-workers-missouri-pork-plant-coronavirus-positive.amp",
+      "publishedDateTime": "2020-05-05T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/TriumphFoodsGoogleStreetView.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Nearly 400 workers at Missouri pork plant, all asymptomatic, test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-nearly-400-employees-test-positive-for-coronavirus-at-missouri-pork-processing-plant.md",
+      "title": "Nearly 400 employees test positive for coronavirus at Missouri pork processing plant",
+      "excerpt": "Nearly 400 employees test positive for coronavirus at Missouri pork processing plant",
+      "heat": 108,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.daytondailynews.com/video/hot-video/nearly-400-employees-test-positive-for-coronavirus-missouri-pork-processing-plant/7nS5WazDrLCa8LeWrOEbWJ/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dayton Daily News",
+        "domain": "daytondailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mcp-media.storage.googleapis.com/anv-iupl/F0B/EF0/F0BEF00DFE034F7E81FBC0EE2D67A194.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1683210013&Signature=klD%2Fak9Ny82ptZBMRs8wxTTZOlUDmvldyQTpH47VRuk5osT9qFswWJvrTgtEQVoZB9Rm8SrmOhpkr4IWomtEzZRUBHl1GeIWW6jq7nv%2FadqHIvKXgLeplI4TWLBJLyxgdPAquxIEft%2BqofjRopBU99SKwQEq33ARmz9djXDZfEljtMN0DyJyvi6f%2BKAVG55nSujSnIedzVohyklR23%2F%2Bvz42Qh4R6qulmy7GLI8lij4TKtKnlVcTsJ8vxbxrh4iuovIqT2O4UEfboaYCb5IHa0N1stoyNoVhFZdjKdFae%2F8mopLkUzwlby40q7lsfcutij104EdXw%2BpUV45ikuwRRg%3D%3D",
+          "width": 1280,
+          "height": 720,
+          "title": "Nearly 400 employees test positive for coronavirus at Missouri pork processing plant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-a-timeline-of-coronavirus-in-missouri-1100-new-cases-in-last-5-days.md",
+      "title": "A timeline of coronavirus in Missouri: 1,100 new cases in last 5 days",
+      "excerpt": "RELATED: Everything we know about coronavirus in the St. Louis area In the last two weeks, Missouri's cases have shown a similar upward trend, and on March 30, the state surpassed 1,000 cases. One week later, it now has more than 2,800. In this story, we will show a timeline of how the cases have increased, and continue to track cases as the ...",
+      "heat": 150,
+      "tags": [
+        "US-MO",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ksdk.com/article/news/health/coronavirus/a-timeline-of-coronavirus-in-missouri-1100-new-cases-in-last-5-days/63-98439849-3152-4f54-80d0-43fe6f50f01e",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/health/coronavirus/coronavirus-timeline-missouri/63-98439849-3152-4f54-80d0-43fe6f50f01e",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/health/coronavirus/coronavirus-timeline-missouri/63-98439849-3152-4f54-80d0-43fe6f50f01e",
+      "publishedDateTime": "2020-05-03T18:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/bdd06439-f04e-4359-9ef9-465882050d3b/bdd06439-f04e-4359-9ef9-465882050d3b_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "A timeline of coronavirus in Missouri: 1,100 new cases in last 5 days",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-coronavirus-strikes-nearly-80-missouri-nursing-homes-charlotte-observer.md",
+      "title": "Coronavirus strikes nearly 80 Missouri nursing homes | Charlotte Observer",
+      "excerpt": "Newly released information from the state shows that the coronavirus has infected residents in nearly 80 Missouri nursing homes and assisted care facilities.",
+      "heat": 114,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.charlotteobserver.com/news/article242458096.html",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/article242458096.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article242458096.html",
+      "publishedDateTime": "2020-05-02T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154290001/76b2abcc-652c-43f4-af5a-4c14c8cfd790/814743e9-e6ca-46f5-a8ca-b27f1f45b4e1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Coronavirus strikes nearly 80 Missouri nursing homes | Charlotte Observer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-107-year-old-missouri-man-celebrates-beating-covid-19.md",
+      "title": "107-year-old Missouri man celebrates beating COVID-19",
+      "excerpt": "Here are the latest coronavirus updates from around the world.",
+      "heat": 105,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/blog/2020-05-01-coronavirus-news-n1197431/ncrd1198496",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/blog/ncna1197431",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1197431",
+      "publishedDateTime": "2020-05-01T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_18/3334021/200501-orange-county-beach-protest-ac-757p_3bb0b4d48f64f415bd5211b3c942e103.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "107-year-old Missouri man celebrates beating COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-missouri-lawsuit-alleges-china-caused-coronavirus-pandemic.md",
+      "title": "Missouri lawsuit alleges China caused coronavirus pandemic",
+      "excerpt": "The state of Missouri filed a lawsuit Tuesday against the Chinese government over the coronavirus, alleging that nation’s officials are to blame for the global pandemic. The lawsuit, filed in federal court by the state’s top lawyer,",
+      "heat": 135,
+      "tags": [
+        "CN",
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/health/missouri-sues-china-over-coronavirus-pandemic/2020/04/21/c20e2a7c-83f5-11ea-81a3-9690c9881111_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/health/missouri-sues-china-over-coronavirus-pandemic/2020/04/21/c20e2a7c-83f5-11ea-81a3-9690c9881111_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/missouri-sues-china-over-coronavirus-pandemic/2020/04/21/c20e2a7c-83f5-11ea-81a3-9690c9881111_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-01T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-120-employees-at-missouri-food-plant-test-positive-for-covid-19.md",
+      "title": "120 employees at Missouri food plant test positive for COVID-19",
+      "excerpt": "The Missouri Department of Health and Senior Services said 94 of the people who tested positive at the St. Joseph plant had no symptoms",
+      "heat": 145,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ksdk.com/article/news/health/coronavirus/missouri-coronavirus-120-employees-at-meat-plant-test-positive/63-cf1f1fef-0bc9-42bc-a46b-a7a9d6f21f7f",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/health/coronavirus/missouri-coronavirus-120-employees-at-meat-plant-test-positive/63-cf1f1fef-0bc9-42bc-a46b-a7a9d6f21f7f",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/health/coronavirus/missouri-coronavirus-120-employees-at-meat-plant-test-positive/63-cf1f1fef-0bc9-42bc-a46b-a7a9d6f21f7f",
+      "publishedDateTime": "2020-04-30T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/9b906b04-2dd4-468f-a1f9-4f60da574175/9b906b04-2dd4-468f-a1f9-4f60da574175_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "120 employees at Missouri food plant test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-missouri-state-workers-seek-more-protection-from-covid-19.md",
+      "title": "Missouri state workers seek more protection from COVID-19",
+      "excerpt": "Advocates for Missouri state workers on Thursday called on Gov. Mike Parson to do more to protect employees from the coronavirus. Union leaders, Democratic",
+      "heat": 105,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/aaf97184f34748ccc21e1400cb1ff20b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": "Missouri state workers seek more protection from COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-watch-live-missouri-gov-mike-parson-giving-daily-coronavirus-briefing.md",
+      "title": "Watch Live: Missouri Gov. Mike Parson giving daily coronavirus briefing",
+      "excerpt": "Gov. Mike Parson and other state officials are giving a briefing on the state's response to COVID-19. There are 7,303 confirmed cases of the coronavirus in the state and 314 deaths, as of April 28. Also joining Parson at the briefing are Department of Health and Senior Services Director Dr.",
+      "heat": 115,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ksdk.com/article/news/local/missouri-gov-mike-parson-covid19-briefing-april-28/63-98add8eb-d12b-4505-8b68-d16a3615c987",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/missouri-gov-mike-parson-covid19-briefing-april-28/63-98add8eb-d12b-4505-8b68-d16a3615c987",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/missouri-gov-mike-parson-covid19-briefing-april-28/63-98add8eb-d12b-4505-8b68-d16a3615c987",
+      "publishedDateTime": "2020-04-28T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/0b8bef19-6f78-46a0-8e8b-87b4d65b8bda/0b8bef19-6f78-46a0-8e8b-87b4d65b8bda_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Watch Live: Missouri Gov. Mike Parson giving daily coronavirus briefing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

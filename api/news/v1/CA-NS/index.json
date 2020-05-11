@@ -1,0 +1,293 @@
+{
+  "location": {
+    "long": -63.7443,
+    "countryOrRegion": "Canada",
+    "provinceOrState": "Nova Scotia",
+    "county": null,
+    "isoCode": "CA-NS",
+    "lat": 44.682
+  },
+  "updatedDateTime": "2020-05-10T05:45:36.421672Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-1-more-death-3-new-cases-of-covid-19-in-nova-scotia.md",
+      "title": "1 more death, 3 new cases of COVID-19 in Nova Scotia",
+      "excerpt": "Nova Scotia reported one more death, bringing the province's total to 47, and three new cases of COVID-19 on Saturday. The latest death was reported at the Northwood long-term care home in Hailfax, where 41 people have died from the virus.",
+      "heat": 105,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-covid-19-update-saturday-may-9-1.5563119",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5563119",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5563119",
+      "publishedDateTime": "2020-05-09T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5545103.1587826736!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/kendra-macdonald-covid-19-qeii-microbiology-lab-halifax.JPG",
+          "width": 620,
+          "height": 349,
+          "title": "1 more death, 3 new cases of COVID-19 in Nova Scotia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-nova-scotia-reports-3-more-deaths-at-northwood-9-new-cases-of-covid-19.md",
+      "title": "Nova Scotia reports 3 more deaths at Northwood, 9 new cases of COVID-19",
+      "excerpt": "Nova Scotia is reporting three more deaths related to COVID-19 at the Northwood long-term care home in Halifax.",
+      "heat": 135,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://atlantic.ctvnews.ca/nova-scotia-reports-3-more-deaths-at-northwood-9-new-cases-of-covid-19-1.4929168",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/atlantic/2020/5/7/1_4929168.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/atlantic/2020/5/7/1_4929168.html",
+      "publishedDateTime": "2020-05-07T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/atlantic/2020/5/7/1_4929168/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 573,
+          "title": "Nova Scotia reports 3 more deaths at Northwood, 9 new cases of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-drive-through-covid-19-test-sites-up-and-running-in-nova-scotia.md",
+      "title": "Drive-through COVID-19 test sites up and running in Nova Scotia",
+      "excerpt": "Nova Scotians are getting some new options when it comes to COVID-19 testing. A number of drive-through test sites are up and running in the province, and the one outside the Dartmouth General is the result of some remarkable generosity from the man next door.",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://atlantic.ctvnews.ca/drive-through-covid-19-test-sites-up-and-running-in-nova-scotia-1.4924794?cache=yes%3FclipId%3D104059%3FclipId%3D89830%3FclipId%3D68596",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/atlantic/2020/5/4/1_4924794.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/atlantic/2020/5/4/1_4924794.html",
+      "publishedDateTime": "2020-05-04T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/5/5/1_4924801.jpg?cache_timestamp=1588686970837",
+          "width": 700,
+          "height": 394,
+          "title": "Drive-through COVID-19 test sites up and running in Nova Scotia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-outbreak-snowbirds-conduct-flyover-in-nova-scotia-to-pay-tribute-to-shooting-victims-canadians-battling-covid-19.md",
+      "title": "Coronavirus outbreak: Snowbirds conduct flyover in Nova Scotia to pay tribute to shooting victims, Canadians battling COVID-19",
+      "excerpt": "Snowbirds conduct flyover in Nova Scotia to pay tribute to shooting victims, Canadians battling COVID-19 Video Online, on GlobalNews.ca",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://globalnews.ca/video/6900066/coronavirus-outbreak-snowbirds-conduct-flyover-in-nova-scotia-to-pay-tribute-to-shooting-victims-canadians-battling-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/media.globalnews.ca/videostatic/news/atjusc7uw7-v3wsxne9mr/shubenacadie.jpg?w=500&quality=70&strip=all",
+          "width": 500,
+          "height": 281,
+          "title": "Coronavirus outbreak: Snowbirds conduct flyover in Nova Scotia to pay tribute to shooting victims, Canadians battling COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-nova-scotia-reports-two-new-covid-19-deaths-four-more-cases.md",
+      "title": "Nova Scotia reports two new COVID-19 deaths; four more cases",
+      "excerpt": "Nova Scotia is reporting two new COVID-19 related death on Saturday, bringing the total number of COVID-19 related deaths in the province to 31. The deaths occurred at the Northwood long-term care home in Halifax.",
+      "heat": 115,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://atlantic.ctvnews.ca/nova-scotia-reports-two-new-covid-19-deaths-four-more-cases-1.4922179",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/atlantic/2020/5/2/1_4922179.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/atlantic/2020/5/2/1_4922179.html",
+      "publishedDateTime": "2020-05-02T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/atlantic/2020/5/2/1_4922179/_jcr_content/root/responsivegrid/image.coreimg.png",
+          "width": 1020,
+          "height": 570,
+          "title": "Nova Scotia reports two new COVID-19 deaths; four more cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-coronavirus-canada-updates-one-more-death-in-nova-scotia.md",
+      "title": "Coronavirus Canada updates: One more death in Nova Scotia",
+      "excerpt": "Health officials have also diagnosed 12 patients with COVID-19, increasing Nova Scotia’s case count to 959. Among the province’s total cases are 592 people who have recovered from the virus, up by 47 since Thursday.",
+      "heat": 100,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://www.lintelligencer.com/coronavirus-canada-updates-one-more-death-in-nova-scotia-3389-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lintelligencer",
+        "domain": "lintelligencer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.lintelligencer.com/wp-content/uploads/2020/05/Coronavirus-Canada-updates-One-more-death-in-Nova-Scotia.jpg",
+          "width": 1349,
+          "height": 759,
+          "title": "Coronavirus Canada updates: One more death in Nova Scotia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-canadas-bishops-stand-united-with-the-people-of-nova-scotia.md",
+      "title": "Canada’s bishops stand united with the people of Nova Scotia",
+      "excerpt": "Canada’s bishops are rallying to comfort the people of Nova Scotia as they try to “heal the rupture within the hearts of a community” after 22 people were murdered in the largest mass killing in modern Canadian history on April 18-19.",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-NS"
+      ],
+      "type": "article",
+      "webUrl": "https://www.catholicregister.org/item/31528-canada-s-bishops-stand-united-with-the-people-of-nova-scotia",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Catholic Register",
+        "domain": "catholicregister.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.catholicregister.org/media/k2/items/cache/af5ed0cdb5bf0ecd62c8a8d810016434_L.jpg",
+          "width": 400,
+          "height": 267,
+          "title": "Canada’s bishops stand united with the people of Nova Scotia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

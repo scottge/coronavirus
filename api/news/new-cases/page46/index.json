@@ -1,0 +1,1262 @@
+{
+  "page": 46,
+  "value": [
+    {
+      "path": "_news/2020-03-26-covid-19-death-toll-rises-to-7-in-dallas-county-56-new-cases-confirmed.md",
+      "title": "COVID-19 death toll rises to 7 in Dallas County, 56 new cases confirmed",
+      "excerpt": "Dallas County is reporting a new death related to the coronavirus. There are also 56 new cases of the disease. The county now has a total of seven deaths and 303 confirmed positive COVID-19 cases, easily the highest in Texas. The latest person to die was a woman in her 90s who was a resident of Dallas. She did not have any high-risk chronic ...",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.fox4news.com/news/covid-19-death-toll-rises-to-7-in-dallas-county-56-new-cases-confirmed",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KDFW",
+        "domain": "fox4news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/724/407/CV-DALLAS-SKYLINE.jpg?ve=1&tl=1",
+          "width": 724,
+          "height": 407,
+          "title": "COVID-19 death toll rises to 7 in Dallas County, 56 new cases confirmed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-in-massachusetts-more-than-100-boston-hospital-employees-test-positive-for-covid-19.md",
+      "title": "Coronavirus in Massachusetts: More than 100 Boston hospital employees test positive for COVID-19",
+      "excerpt": "Boston Medical Center, Brigham and Women's Hospital and Massachusetts General Hospital each reported more than a dozen cases of the virus amongst their staffs.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-more-than-100-boston-hospital-employees-test-positive-for-covid-19.html",
+      "ampWebUrl": "https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-more-than-100-boston-hospital-employees-test-positive-for-covid-19.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-more-than-100-boston-hospital-employees-test-positive-for-covid-19.html?outputType=amp",
+      "publishedDateTime": "2020-03-26T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/DRDJZ46LAZBT7EAGXEXPU3WIZA.jpg",
+          "width": 6720,
+          "height": 4480,
+          "title": "Coronavirus in Massachusetts: More than 100 Boston hospital employees test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-two-tesla-employees-test-positive-for-coronavirus-business-insider.md",
+      "title": "Two Tesla employees test positive for coronavirus: Business Insider",
+      "excerpt": "Two employees of Tesla Inc (TSLA.O) have tested positive for coronavirus, Business Insider reported on Thursday, citing an internal email.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-tesla-idUSKBN21D2F0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-italys-coronavirus-cases-slow-for-fourth-day-in-a-row-but-spains-death-toll-jumps-past-4000.md",
+      "title": "Italy’s coronavirus cases slow for fourth day in a row – but Spain’s death toll jumps past 4,000",
+      "excerpt": "Italy’s latest death toll from the coronavirus peaked over 7,500 Thursday, according to the country’s Civil Protection Agency – but the number of new cases in the country slowed for the fourth consecutive day running.",
+      "heat": 167,
+      "tags": [
+        "Spain",
+        "ES",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/italy-spain-coronavirus-death-toll-past-china",
+      "ampWebUrl": "https://www.foxnews.com/world/italy-spain-coronavirus-death-toll-past-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/italy-spain-coronavirus-death-toll-past-china.amp",
+      "publishedDateTime": "2020-03-26T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/AP20085370497116.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Italy’s coronavirus cases slow for fourth day in a row – but Spain’s death toll jumps past 4,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-russian-government-says-employee-may-have-tested-positive-for-coronavirus.md",
+      "title": "Russian government says employee may have tested positive for coronavirus",
+      "excerpt": "A Russian government employee who may have tested positive for coronavirus has been quarantined and all colleagues he came into contact with placed under observation, the government office said on Thursday.",
+      "heat": 154,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-russia-government/russian-government-says-employee-may-have-tested-positive-for-coronavirus-idUSKBN21D27W",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21D27W",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21D27W",
+      "publishedDateTime": "2020-03-26T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Russian government says employee may have tested positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-us-death-toll-from-coronavirus-approaches-1000.md",
+      "title": "U.S. death toll from coronavirus approaches 1,000",
+      "excerpt": "The U.S. death toll from approached the milestone of 1,000 on Thursday as hospitals in New York and other hot spots struggled to treat a flood of patients and the U.S. Congress neared approval of $2 trillion in aid to counter the pandemic’s economic impact.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN21D1ZR",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-4-fort-meade-employees-test-positive-for-coronavirus.md",
+      "title": "4 Fort Meade employees test positive for coronavirus",
+      "excerpt": "Fort G. Meade officials confirmed that four employees have tested positive for the coronavirus, which causes the disease COVID-19 and has brought major portions of Maryland’s economy to a halt. The people who tested positive work on Fort Meade but do not live on post, said military base spokeswoman Mary Doyle. Fort Meade has been holding ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.baltimoresun.com/coronavirus/ac-cn-fort-meade-coronavirus-20200326-tnfqqtbp6fgetlgq3wqx2nfreq-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/coronavirus/ac-cn-fort-meade-coronavirus-20200326-tnfqqtbp6fgetlgq3wqx2nfreq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/ac-cn-fort-meade-coronavirus-20200326-tnfqqtbp6fgetlgq3wqx2nfreq-story.html?outputType=amp",
+      "publishedDateTime": "2020-03-26T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/dfmBm5vHq2MUmH7NcJrSJjcqSZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/UXXSKKJKS5HPZOCECPUXZFJWPA.jpg",
+          "width": 1200,
+          "height": 665,
+          "title": "4 Fort Meade employees test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-indiana-coronavirus-updates-what-we-know-thursday.md",
+      "title": "Indiana coronavirus updates: What we know Thursday",
+      "excerpt": "Get the news Let friends in your social network know what you are reading about COVID-19 news for Indiana and Indianapolis. A link has been sent to your friend's email address.",
+      "heat": 145,
+      "tags": [
+        "US-IN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.indystar.com/story/news/health/2020/03/26/latest-news-indiana-coronavirus-updates-indianapolis/2914303001/",
+      "ampWebUrl": "https://amp.indystar.com/amp/2914303001",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/2914303001",
+      "publishedDateTime": "2020-03-26T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/17/PIND/d2a1723c-cc41-4dff-88aa-043094f7bf5e-AP20077641996026.jpg?auto=webp&crop=5471,3078,x0,y182&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Indiana coronavirus updates: What we know Thursday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-mass-testing-explains-germanys-relatively-low-death-rate-from-coronavirus-virologist.md",
+      "title": "Mass testing explains Germany's relatively low death rate from coronavirus: virologist",
+      "excerpt": "Germany’s relatively low rate of deaths so far from coronavirus is largely due to the high number of tests being carried out in the country, meaning authorities are simply aware of more cases, including milder ones,",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-germany-tests-idUSKBN21D1FL",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21D1FL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21D1FL",
+      "publishedDateTime": "2020-03-26T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Mass testing explains Germany's relatively low death rate from coronavirus: virologist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-los-angeles-officials-backtrack-on-teens-covid-19-death-but-psychological-impact-of-children-dying-from-coronavirus-still-felt.md",
+      "title": "Los Angeles Officials Backtrack on Teen's COVID-19 Death, But Psychological Impact of Children Dying From Coronavirus Still Felt",
+      "excerpt": "Any threat to the health and well-being of children... has a significant psychological impact on adults and can trigger fear, anxiety, helplessness, and anger,\" one expert told Newsweek.",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/los-angeles-teen-covid-19-death-psychological-impact-1494368",
+      "ampWebUrl": "https://www.newsweek.com/los-angeles-teen-covid-19-death-psychological-impact-1494368?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/los-angeles-teen-covid-19-death-psychological-impact-1494368?amp=1",
+      "publishedDateTime": "2020-03-26T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1576680/patient-hosptial.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": "Los Angeles Officials Backtrack on Teen's COVID-19 Death, But Psychological Impact of Children Dying From Coronavirus Still Felt",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-five-mbta-employees-test-positive-for-coronavirus.md",
+      "title": "Five MBTA employees test positive for coronavirus",
+      "excerpt": "GOOD MORNING. WE KNEW ABOUT THREE T WORKERS OUT OF CABOT YARD HERE IN DORCHESTER TESTED POSITIVE FOR COVID-19. NOW, WE KNOW THAT OTHER EMPLOYEES WHO WORK OUT OF OT",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wcvb.com/article/5-investigates-mbta-bus-drivers-test-positive-for-coronavirus-march-25-2020/31925549",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/5-investigates-mbta-bus-drivers-test-positive-for-coronavirus-march-25-2020/31925549",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/5-investigates-mbta-bus-drivers-test-positive-for-coronavirus-march-25-2020/31925549",
+      "publishedDateTime": "2020-03-26T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mbta-transit-bus-mbta-bus-1573099832.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "Five MBTA employees test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-malaysia-reports-235-new-coronavirus-cases-in-biggest-daily-jump.md",
+      "title": "Malaysia reports 235 new coronavirus cases in biggest daily jump",
+      "excerpt": "Malaysia on Thursday reported 235 new coronavirus cases in its biggest daily jump, bringing the total number of cases to 2,031. The number of deaths from",
+      "heat": 185,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-malaysia-idUSKBN21D14C",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21D14C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21D14C",
+      "publishedDateTime": "2020-03-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200326&t=2&i=1508391904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2P0MX",
+          "width": 818,
+          "height": 545,
+          "title": "Malaysia reports 235 new coronavirus cases in biggest daily jump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-irans-death-toll-from-coronavirus-climbs-to-2234-ministry.md",
+      "title": "Iran's death toll from coronavirus climbs to 2,234: ministry",
+      "excerpt": "Iran reported 157 new coronavirus deaths in the past 24 hours, Iranian Health Ministry spokesman Kianush Jahanpur told state TV on Thursday, taking the death toll to 2,234 in the Islamic Republic with 29,",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-iran-toll-idUSKBN21D18F",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21D18F",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21D18F",
+      "publishedDateTime": "2020-03-26T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Iran's death toll from coronavirus climbs to 2,234: ministry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-first-uk-prison-covid-19-death-confirmed.md",
+      "title": "Coronavirus: First UK prison Covid-19 death confirmed",
+      "excerpt": "As of Wednesday, 19 inmates had tested positive for Covid-19 across 10 jails and four prison staff had tested positive for the disease across four jails. Three prisoner escort and",
+      "heat": 170,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-england-cambridgeshire-52047003",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-england-cambridgeshire-52047003",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-cambridgeshire-52047003",
+      "publishedDateTime": "2020-03-26T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13C1D/production/_87852908_000168741.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: First UK prison Covid-19 death confirmed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-tokyo-reports-more-than-40-new-coronavirus-cases-for-2nd-straight-day-jiji.md",
+      "title": "Tokyo reports more than 40 new coronavirus cases for 2nd straight day: Jiji",
+      "excerpt": "The Japanese capital of Tokyo reported more than 40 new cases of coronavirus infections on Thursday for the second day running, Jiji News reported. Tokyo Governor Yuriko Koike late on Wednesday held an emergency news conference to warn of the risk of an explosive rise in infections,",
+      "heat": 163,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-tokyo/tokyo-reports-more-than-40-new-coronavirus-cases-for-2nd-straight-day-jiji-idUSKBN21D0Q2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21D0Q2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21D0Q2",
+      "publishedDateTime": "2020-03-26T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Tokyo reports more than 40 new coronavirus cases for 2nd straight day: Jiji",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-more-amazon-warehouse-workers-test-positive-for-coronavirus.md",
+      "title": "More Amazon warehouse workers test positive for coronavirus",
+      "excerpt": "As of Wednesday, March 25, workers at least 10 Amazon warehouses in the U.S. have tested positive ... coronavirus diagnosis or quarantine, childcare costs where school closures impact workers, and hazard pay for increased risk to health during the outbreak. Amazon told Digital Trends last week that it’s put in place “measures to protect ...",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/more-amazon-warehouse-workers-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/more-amazon-warehouse-workers-test-positive-for-coronavirus/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/more-amazon-warehouse-workers-test-positive-for-coronavirus/?amp",
+      "publishedDateTime": "2020-03-25T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-alabamas-first-coronavirus-death-confirmed-jackson-county-woman-dead.md",
+      "title": "Alabama’s first coronavirus death confirmed; Jackson County woman dead",
+      "excerpt": "Alabama has its first coronavirus-related death. Tim Guffey, chairman of the Jackson County Commission, said in a letter one of the county’s part-time employees has died. “The (Alabama Department of Public Health) has confirmed that the employee passed away after having contracted COVID-19,",
+      "heat": 145,
+      "tags": [
+        "US-AL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.al.com/news/2020/03/first-coronavirus-death-reported-in-alabama.html",
+      "ampWebUrl": "https://www.al.com/news/2020/03/first-coronavirus-death-reported-in-alabama.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/03/first-coronavirus-death-reported-in-alabama.html?outputType=amp",
+      "publishedDateTime": "2020-03-25T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GRNBTXRR5VAX3F6FBA4IDFVNPI.png",
+          "width": 537,
+          "height": 297,
+          "title": "Alabama’s first coronavirus death confirmed; Jackson County woman dead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-two-oregon-postal-workers-test-positive-for-coronavirus.md",
+      "title": "Two Oregon postal workers test positive for coronavirus",
+      "excerpt": "PORTLAND, Ore. — Two U.S. Postal Service workers in Oregon tested positive for coronavirus, according to a spokesperson for the agency. One of the sick workers is a letter carrier in Oak Grove who delivers mail to homes and businesses. She was last at work on March 20 and tested positive on Tuesday. Co-workers who were in direct contact with ...",
+      "heat": 115,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kgw.com/article/news/health/coronavirus/portland-postal-worker-tested-positive-for-coronavirus/283-306be253-25df-4f22-87d3-6b9890b1a66d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KGW8",
+        "domain": "kgw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.kgw.com/assets/KGW/images/d3bc1f09-23fb-4903-92b1-686bada60196/d3bc1f09-23fb-4903-92b1-686bada60196_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Two Oregon postal workers test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-panama-reports-115-new-coronavirus-cases-bringing-total-to-558.md",
+      "title": "Panama Reports 115 New Coronavirus Cases, Bringing Total to 558",
+      "excerpt": "Panama's health minister on Wednesday confirmed 115 new coronavirus cases in the Central American nation, bringing its total number of cases to 558.",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/25/world/americas/25reuters-health-coronavirus-panama.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Panama Reports 115 New Coronavirus Cases, Bringing Total to 558",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-cases-surpass-60000-in-us-spain-death-toll-overtakes-china.md",
+      "title": "Coronavirus Cases Surpass 60,000 in U.S.; Spain Death Toll Overtakes China",
+      "excerpt": "Confirmed cases of the new coronavirus in the U.S. surpassed 60,000, led by a continued surge of infections in New York, as lawmakers worked to soften the economic consequences of the pandemic that has shut down wide swaths of the country.",
+      "heat": 213,
+      "tags": [
+        "CN",
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/coronavirus-lockdown-begins-in-india-as-global-cases-pass-420-000-11585133981",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/coronavirus-lockdown-begins-in-india-as-global-cases-pass-420-000-11585133981",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/coronavirus-lockdown-begins-in-india-as-global-cases-pass-420-000-11585133981",
+      "publishedDateTime": "2020-03-25T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-169174/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Coronavirus Cases Surpass 60,000 in U.S.; Spain Death Toll Overtakes China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-us-coronavirus-death-toll-passes-1000-mark.md",
+      "title": "U.S. Coronavirus Death Toll Passes 1,000 Mark",
+      "excerpt": "More than 1,000 people have died from the coronavirus in the United States alone, according to experts at Johns Hopkins University.",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/us-coronavirus-death-toll-passes-1000-mark-1494351",
+      "ampWebUrl": "https://www.newsweek.com/us-coronavirus-death-toll-passes-1000-mark-1494351?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-coronavirus-death-toll-passes-1000-mark-1494351?amp=1",
+      "publishedDateTime": "2020-03-25T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-costco-employees-are-testing-positive-for-the-coronavirus-and-their-co-workers-say-managers-arent-being-transparent.md",
+      "title": "Costco Employees Are Testing Positive For The Coronavirus And Their Co-Workers Say Managers Aren't Being Transparent",
+      "excerpt": "“Literally no one told us anything about it,” a warehouse employee in Colorado said about two coworkers who are sick with COVID-19.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/briannasacks/costco-employees-testing-positive-covid-19",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/briannasacks/costco-employees-testing-positive-covid-19",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/briannasacks/costco-employees-testing-positive-covid-19",
+      "publishedDateTime": "2020-03-25T20:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-the-latest-south-korea-reports-104-new-cases-5-more-deaths.md",
+      "title": "The Latest: South Korea reports 104 new cases, 5 more deaths",
+      "excerpt": "The Latest on the coronavirus pandemic. The new coronavirus causes mild or moderate symptoms for most people, but for some, especially older adults and people with existing health problems, it",
+      "heat": 145,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/a26fb931f24d8c9300ddeddc9347ade5",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/apnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/3212569a42c44041adc12847b5dc52ca/3000.jpeg",
+          "width": 3000,
+          "height": 2037,
+          "title": "The Latest: South Korea reports 104 new cases, 5 more deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-update-death-toll-tops-21000-globally.md",
+      "title": "Coronavirus update: Death toll tops 21,000 globally",
+      "excerpt": "The novel coronavirus pandemic continues to spread worldwide, sending countries into lockdown with millions under movement restrictions. Follow here for live updates",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/index.html",
+      "publishedDateTime": "2020-03-25T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/2ec7870c-2ccb-4c27-9d13-c0d5a77727e7.jpg",
+          "width": 900,
+          "height": 600,
+          "title": "Coronavirus update: Death toll tops 21,000 globally",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-skorea-reports-104-new-coronavirus-cases-total-9241-kcdc.md",
+      "title": "S.Korea reports 104 new coronavirus cases, total 9,241 -KCDC",
+      "excerpt": "South Korea reported 104 new coronavirus cases on Thursday, bringing its total infections to 9,241, the Korea Centers for Disease Control and Prevention said. The death toll from the pandemic in South Korea rose by five to reach a total of 131.",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-southkorea-cases-idUSP8N29S02J",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSP8N29S02J",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSP8N29S02J",
+      "publishedDateTime": "2020-03-25T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "S.Korea reports 104 new coronavirus cases, total 9,241 -KCDC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-usa-update-us-death-toll-nearing-1000-65527-confirmed-cases.md",
+      "title": "Coronavirus USA Update: US Death Toll Nearing 1,000; 65,527 Confirmed Cases",
+      "excerpt": "COVID-19 continues to rampage across the mainland United States with ramped-up tests uncovering 12,322 more cases Wednesday.",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/coronavirus-usa-update-us-death-toll-nearing-1000-65527-confirmed-cases-2946776",
+      "ampWebUrl": "https://www.ibtimes.com/coronavirus-usa-update-us-death-toll-nearing-1000-65527-confirmed-cases-2946776?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/coronavirus-usa-update-us-death-toll-nearing-1000-65527-confirmed-cases-2946776?amp=1",
+      "publishedDateTime": "2020-03-25T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/24/coronavirus-covid-19-new-york-usa-mask.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Coronavirus USA Update: US Death Toll Nearing 1,000; 65,527 Confirmed Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-richardson-woman-18-among-13-new-coronavirus-cases-in-collin-county.md",
+      "title": "Richardson woman, 18, among 13 new coronavirus cases in Collin County",
+      "excerpt": "McKinney Mayor George Fuller ordered residents and non-essential businesses to shelter in place effective midnight Wednesday.",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.star-telegram.com/news/coronavirus/article241514611.html",
+      "ampWebUrl": "https://amp.star-telegram.com/news/coronavirus/article241514611.html",
+      "cdnAmpWebUrl": "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/coronavirus/article241514611.html",
+      "publishedDateTime": "2020-03-25T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Worth Star-Telegram",
+        "domain": "star-telegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/b6deef53-febb-478d-8c45-078fdb64890c/b86946bb-5e5c-4aec-a867-987b6a9fb5ac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Richardson woman, 18, among 13 new coronavirus cases in Collin County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-three-new-cases-of-covid-19-dodge-countys-first-washington-countys-second-and-the-third-in-saunders-county.md",
+      "title": "Three new cases of COVID-19: Dodge County's first, Washington County's second and the third in Saunders County",
+      "excerpt": "Three Rivers Public Health Department has identified three additional cases of COVID-19, including the first case to be documented in Dodge County.",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://fremonttribune.com/news/local/crime-and-courts/three-new-cases-of-covid--dodge-county-s-first/article_bb494376-d891-5d65-89b8-6a933ecf7416.html",
+      "ampWebUrl": "https://fremonttribune.com/news/local/crime-and-courts/three-new-cases-of-covid--dodge-county-s-first/article_bb494376-d891-5d65-89b8-6a933ecf7416.amp.html",
+      "cdnAmpWebUrl": "https://fremonttribune-com.cdn.ampproject.org/c/s/fremonttribune.com/news/local/crime-and-courts/three-new-cases-of-covid--dodge-county-s-first/article_bb494376-d891-5d65-89b8-6a933ecf7416.amp.html",
+      "publishedDateTime": "2020-03-25T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fremont Tribune",
+        "domain": "fremonttribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fremonttribune.com/content/tncms/assets/v3/editorial/8/53/853ee6d7-105c-55a8-8de3-61df4bb4b309/5859799c56a89.image.jpg",
+          "width": 436,
+          "height": 255,
+          "title": "Three new cases of COVID-19: Dodge County's first, Washington County's second and the third in Saunders County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-mainland-china-reports-rise-in-new-coronavirus-cases-all-from-overseas.md",
+      "title": "Mainland China Reports Rise in New Coronavirus Cases, All From Overseas",
+      "excerpt": "Mainland China Reports Rise in New Coronavirus Cases, All From Overseas The commission said in a statement that a total of 67 new cases were reported as of end-Wednesday, up from 47 a day earlier, putting the total accumulated number of confirmed coronavirus cases to date at 81,",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-25/mainland-china-reports-rise-in-new-coronavirus-cases-all-from-overseas",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-first-known-us-youth-coronavirus-death-minor-dies-after-testing-positive-in-los-angeles-county.md",
+      "title": "First known US youth coronavirus death: Minor dies after testing positive in Los Angeles County",
+      "excerpt": "Los Angeles County health officials said a youth under the age of 18 has died as a result of the COVID-19 pandemic, marking the first in the nation.",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/03/24/first-known-us-youth-coronavirus-death-minor-dies-california/2911280001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/2911280001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2911280001",
+      "publishedDateTime": "2020-03-25T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/23/USAT/e6d36528-782c-4b59-955a-6c1b0995ff85-24501.jpg?auto=webp&crop=3737,2103,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "First known US youth coronavirus death: Minor dies after testing positive in Los Angeles County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 47
+}

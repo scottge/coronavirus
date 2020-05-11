@@ -1,0 +1,44 @@
+{
+  "page": 39,
+  "value": [
+    {
+      "path": "_news/2020-02-18-china-coronavirus-outbreak-all-the-latest-updates.md",
+      "title": "China coronavirus outbreak: All the latest updates",
+      "excerpt": "The death toll from the coronavirus outbreak in mainland China reached at least 1,868 with 72,436 infections confirmed, according to health officials. United Nations Secretary-General Antonio ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.aljazeera.com/news/2020/02/cloneofcloneof200215224437270-200216231809757-200217231044837.html",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/02/cloneofcloneof200215224437270-200216231809757-200217231044837.html",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/02/cloneofcloneof200215224437270-200216231809757-200217231044837.html",
+      "publishedDateTime": "2020-02-18T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/2/16/8be36073b86e4ad2b46a5e8c59f32e2d_18.jpg",
+          "width": 583,
+          "height": 325,
+          "title": "China coronavirus outbreak: All the latest updates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": null
+}

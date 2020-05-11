@@ -1,0 +1,1353 @@
+{
+  "page": 31,
+  "value": [
+    {
+      "path": "_news/2020-03-12-trumps-europe-us-travel-ban-is-another-blow-to-airlines-reeling-from-coronavirus.md",
+      "title": "Trump's Europe-US travel ban is another blow to airlines reeling from coronavirus",
+      "excerpt": "Trump's ban on foreign nationals who have been in Europe is a new problem for airlines already reeling from coronavirus.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/coronavirus-trumps-europe-travel-ban-is-another-blow-to-airlines.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/12/coronavirus-trumps-europe-travel-ban-is-another-blow-to-airlines.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/12/coronavirus-trumps-europe-travel-ban-is-another-blow-to-airlines.html",
+      "publishedDateTime": "2020-03-11T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106438030-1583990898614gettyimages-1210980374.jpeg?v=1583990953",
+          "width": 6000,
+          "height": 4000,
+          "title": "Trump's Europe-US travel ban is another blow to airlines reeling from coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-trump-bans-most-foreign-travelers-from-europe-amid-coronavirus-pandemic.md",
+      "title": "Trump bans most foreign travelers from Europe amid coronavirus pandemic",
+      "excerpt": "The president made the announcement after the number of coronavirus cases passed 1,000 and the stock market plummeted. WASHINGTON — President Donald Trump announced Wednesday that he would ban many foreign travelers from Europe for the next 30 days amid the growing coronavirus outbreak.",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-make-prime-time-address-coronavirus-wednesday-night-n1155941",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1155941",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1155941",
+      "publishedDateTime": "2020-03-11T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_11/3265941/200311-donald-trump-ac-413p_ed00841941cc1ef38e0674a94be471c6.jpg",
+          "width": 2500,
+          "height": 1621,
+          "title": "Trump bans most foreign travelers from Europe amid coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-se-asia-stocks-dive-as-us-suspends-travel-from-europe-who-calls-coronavirus-a-pandemic.md",
+      "title": "SE Asia Stocks-Dive as U.S. suspends travel from Europe, WHO calls coronavirus a pandemic",
+      "excerpt": "Southeast Asian stock markets stumbled on Thursday, with Indonesia and Vietnam entering bear market territory, after the United States imposed a temporary ban on travel from Europe and world health officials declared the coronavirus a pandemic.",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/southeast-asia-stocks-idUSL4N2B50WQ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2B50WQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2B50WQ",
+      "publishedDateTime": "2020-03-11T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "SE Asia Stocks-Dive as U.S. suspends travel from Europe, WHO calls coronavirus a pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-us-suspends-travel-from-europe-as-coronavirus-forces-italy-to-tighten-lockdown.md",
+      "title": "U.S. suspends travel from Europe as coronavirus forces Italy to tighten lockdown",
+      "excerpt": "U.S. President Donald Trump said the United States will suspend all passenger travel from continental Europe on Friday to limit the spread of the coronavirus after the outbreak was formally declared a pandemic,",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus/u-s-suspends-travel-from-europe-as-coronavirus-forces-italy-to-tighten-lockdown-idUSKBN20Z0DY?feedType=RSS&feedName=worldNews",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Z0DY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Z0DY",
+      "publishedDateTime": "2020-03-11T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200312&t=2&i=1502184247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2B065",
+          "width": 817,
+          "height": 545,
+          "title": "U.S. suspends travel from Europe as coronavirus forces Italy to tighten lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-what-you-need-to-know-about-trumps-travel-ban-from-europe-due-to-coronavirus.md",
+      "title": "What you need to know about Trump's travel ban from Europe due to coronavirus",
+      "excerpt": "Travelers are scrambling after President Donald Trump announced a travel suspension from Europe for the next 30 days to try to slow the spread of the coronavirus. Here's what travelers need to know: What's included in the ban? Trump said the administration would restrict “all travel” to the U.S. from Europe, which is reeling from the ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/travel/2020/03/11/coronavirus-what-travelers-should-know-after-europe-travel-ban/5027638002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5027638002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5027638002",
+      "publishedDateTime": "2020-03-11T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/27/USAT/e582d7ca-5196-42bf-b715-1898f6acbfc6-Day_in_pictures_Feb._27_2020_03.JPG?auto=webp&crop=5555,3125,x0,y282&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "What you need to know about Trump's travel ban from Europe due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-us-weighs-restrictions-on-travelers-from-europe-to-fight-coronavirus-spread.md",
+      "title": "U.S. weighs restrictions on travelers from Europe to fight coronavirus spread",
+      "excerpt": "The Trump administration was set on Wednesday to discuss new travel restrictions on European countries to fight coronavirus, sources said, as a top U.S. health official warned that the pandemic “is going to get worse” in the United States after ravaging China,",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-going-to-get-worse-as-us-looks-at-tightening-travel-idUSKBN20Y1Z0",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y1Z0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y1Z0",
+      "publishedDateTime": "2020-03-11T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200312&t=2&i=1501941782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2B00K",
+          "width": 817,
+          "height": 545,
+          "title": "U.S. weighs restrictions on travelers from Europe to fight coronavirus spread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-saudi-arabia-widens-travel-ban-to-europe-others-over-coronavirus.md",
+      "title": "Saudi Arabia Widens Travel Ban to Europe, Others Over Coronavirus",
+      "excerpt": "RIYADH — Saudi Arabia has extended flight and travel bans over coronavirus fears to include the European Union and 12 other countries after announcing 24 new cases overnight to bring its total to 45, state media reported on Thursday. Citizens and residents in the affected jurisdictions have 72 hours to return to the kingdom, state news agency ...",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/12/world/12reuters-health-coronavirus-saudi-travel.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Saudi Arabia Widens Travel Ban to Europe, Others Over Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-trump-announces-all-travel-from-europe-to-be-restricted-amid-coronavirus-threat.md",
+      "title": "Trump announces all travel from Europe to be restricted amid coronavirus threat",
+      "excerpt": "Amid growing public anxiety over the novel coronavirus, President Donald Trump announced that the United States is suspending all travel from Europe to the United States for a month, starting Friday. \"To keep new cases from entering our shores, we will be suspending all travel from Europe to the United States for the next 30 days,\" Trump ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Politics/trump-announces-travel-europe-restricted-amid-coronavirus-threat/story?id=69543646",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-announces-travel-europe-restricted-amid-coronavirus-threat/story?id=69543646",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-announces-travel-europe-restricted-amid-coronavirus-threat/story?id=69543646",
+      "publishedDateTime": "2020-03-11T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-coronavirus-speech-mo_hpMain_20200311-210807_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "Trump announces all travel from Europe to be restricted amid coronavirus threat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in US",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-coronavirus-us-update-trump-suspends-travel-between-us-and-europe.md",
+      "title": "Coronavirus US Update: Trump Suspends Travel Between US And Europe",
+      "excerpt": "President Donald Trump has suspended all travel between the United States and Europe, except the UK, for the next 30 days. The restriction has been put in place to prevent people infected with the coronavirus from coming into the United States from Europe. Italy now has the second highest highest death toll from COVID-19, behind China.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/coronavirus-us-update-trump-suspends-travel-between-us-europe-2938463",
+      "ampWebUrl": "https://www.ibtimes.com/coronavirus-us-update-trump-suspends-travel-between-us-europe-2938463?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/coronavirus-us-update-trump-suspends-travel-between-us-europe-2938463?amp=1",
+      "publishedDateTime": "2020-03-11T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/11/us-president-donald-trump-said-he-will-explain.jpg",
+          "width": 1024,
+          "height": 690,
+          "title": "Coronavirus US Update: Trump Suspends Travel Between US And Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-update-2-sweden-reports-first-coronavirus-death-bans-large-gatherings.md",
+      "title": "UPDATE 2-Sweden reports first coronavirus death, bans large gatherings",
+      "excerpt": "STOCKHOLM, March 11 (Reuters) - Sweden reported its first death from the new coronavirus on Wednesday and banned public gatherings of more than 500 people to try to stop the spread of the disease. Sweden has around 460 confirmed cases of the virus, the first of which was identified at the end of January. “The patient has had COVID-19 as well ...",
+      "heat": 105,
+      "tags": [
+        "Sweden"
+      ],
+      "type": "article",
+      "webUrl": "https://uk.reuters.com/article/health-coronavirus-sweden-death/update-2-sweden-reports-first-coronavirus-death-bans-large-gatherings-idUKL8N2B46NL",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKL8N2B46NL",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL8N2B46NL",
+      "publishedDateTime": "2020-03-11T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 2-Sweden reports first coronavirus death, bans large gatherings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-britain-italy-announce-war-chests-to-soften-impact-of-coronavirus.md",
+      "title": "Britain, Italy announce war chests to soften impact of coronavirus",
+      "excerpt": "Britain announced a $39-billion war chest to soften the economic impact of the coronavirus after the Bank of England cut interest rates on Wednesday and Italy, the worst-affected country outside China,",
+      "heat": 120,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus/britain-italy-announce-war-chests-to-soften-impact-of-coronavirus-idUSKBN20Y1RF?feedType=RSS&feedName=worldNews",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y1RF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y1RF",
+      "publishedDateTime": "2020-03-11T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501827346&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A247",
+          "width": 817,
+          "height": 545,
+          "title": "Britain, Italy announce war chests to soften impact of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-eu-parliament-president-in-self-isolation-after-travel-to-italy.md",
+      "title": "E.U. Parliament president in self-isolation after travel to Italy",
+      "excerpt": "Western Europe and the U.S. were braced Tuesday morning for a sharp increase in the number of coronavirus cases, as Italy continues to enforce an unprecedented country-wide lockdown in an attempt to mitigate the virus' spread.",
+      "heat": 105,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-europe-brace-infection-spread-italy-n1153801/ncrd1153911",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1153801",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1153801",
+      "publishedDateTime": "2020-03-11T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_11/3263616/200310-naples-al-1213_1b0fe8fe3d106e7a6f262bcab3066bfc.jpg",
+          "width": 2500,
+          "height": 1669,
+          "title": "E.U. Parliament president in self-isolation after travel to Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-italy-toughens-coronavirus-lockdown-after-death-toll-soars.md",
+      "title": "Italy Toughens Coronavirus Lockdown After Death Toll Soars",
+      "excerpt": "A woman wearing a protective face mask carries a tray on the second day of an unprecedented lockdown across all of the country, imposed to slow the outbreak of coronavirus, in Rome, Italy March 11, 2020.",
+      "heat": 140,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-11/italy-to-ramp-up-spending-on-coronavirus-further-restrictions-possible",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-sweden-reports-first-coronavirus-death-bans-large-gatherings.md",
+      "title": "Sweden Reports First Coronavirus Death, Bans Large Gatherings",
+      "excerpt": "STOCKHOLM (Reuters) - Sweden reported its first death from the new coronavirus on Wednesday and banned public gatherings of more than 500 people to try to stop the spread of the disease. Sweden has around 460 confirmed cases of the virus,",
+      "heat": 135,
+      "tags": [
+        "Sweden",
+        "SE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-11/sweden-reports-first-death-from-coronavirus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-uk-to-introduce-more-stringent-measures-to-tackle-coronavirus-outbreak.md",
+      "title": "UK to introduce more stringent measures to tackle coronavirus outbreak",
+      "excerpt": "British Prime Minister Boris Johnson will chair an emergency meeting on Thursday at which he is expected to approve moving to the “delay phase” of the coronavirus response that includes more stringent measures to counter the outbreak.",
+      "heat": 115,
+      "tags": [
+        "UK",
+        "GB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-idUSKBN20Y3IU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y3IU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y3IU",
+      "publishedDateTime": "2020-03-11T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501917525&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A2GU",
+          "width": 822,
+          "height": 545,
+          "title": "UK to introduce more stringent measures to tackle coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-italy-orders-all-stores-to-close-except-pharmacies-markets.md",
+      "title": "Italy orders all stores to close except pharmacies, markets",
+      "excerpt": "The coronavirus crisis continues to unfold across the globe as the World Health Organization uses the word for the first time.",
+      "heat": 105,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-cases-top-1-000-spread-n1155241/ncrd1156071",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1155241",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1155241",
+      "publishedDateTime": "2020-03-11T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_11/3265201/200311-slovakia-al-0847_44bcbb78070e9c3a19f16149f5f27a53.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Italy orders all stores to close except pharmacies, markets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-false-claim-military-tanks-are-deployed-amid-prison-riots-triggered-by-coronavirus-measures-in-italy.md",
+      "title": "False claim: Military tanks are deployed amid prison riots triggered by coronavirus measures in Italy",
+      "excerpt": "make the claim that military tanks have been deployed in response to a wave of prison riots triggered by measures imposed to contain the coronavirus. Some posts claim these tanks were seen in the city of Foggia,",
+      "heat": 105,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-italy-military-tanks-corona/false-claim-military-tanks-are-deployed-amid-prison-riots-triggered-by-coronavirus-measures-in-italy-idUSKBN20Y3EC",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y3EC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y3EC",
+      "publishedDateTime": "2020-03-11T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "False claim: Military tanks are deployed amid prison riots triggered by coronavirus measures in Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-coronavirus-uk-action-plan-poised-for-social-distancing-phase.md",
+      "title": "Coronavirus: UK action plan poised for 'social distancing' phase",
+      "excerpt": "Cobra meeting expected to rubber-stamp ‘delay’ measures, after eighth death",
+      "heat": 105,
+      "tags": [
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/11/coronavirus-uk-action-plan-poised-for-social-distancing-phase",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/11/coronavirus-uk-action-plan-poised-for-social-distancing-phase",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/11/coronavirus-uk-action-plan-poised-for-social-distancing-phase",
+      "publishedDateTime": "2020-03-11T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7ee8add3fb02f40e4304dc8aaf19a9e2a07066d4/0_0_2988_1793/master/2988.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=494487d7f61ef01418f94650061ba541",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus: UK action plan poised for 'social distancing' phase",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-britain-italy-announce-war-chests-to-try-to-halt-impact-of-coronavirus.md",
+      "title": "Britain, Italy announce war chests to try to halt impact of coronavirus",
+      "excerpt": "Britain announced a $39-billion war chest to soften the economic impact of the coronavirus after the Bank of England cut interest rates on Wednesday and Italy, the worst-affected country outside China,",
+      "heat": 130,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus/britain-italy-announce-war-chests-to-try-to-halt-impact-of-coronavirus-idUSKBN20Y1RF",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y1RF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y1RF",
+      "publishedDateTime": "2020-03-11T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501827346&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A247",
+          "width": 817,
+          "height": 545,
+          "title": "Britain, Italy announce war chests to try to halt impact of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-sweden-bans-public-meetings-of-more-than-500-people-to-limit-coronavirus-spread.md",
+      "title": "Sweden bans public meetings of more than 500 people to limit coronavirus spread",
+      "excerpt": "The Swedish government on Wednesday put a temporary ban on public gatherings with more than 500 people as it fights to limit the spread of the coronavirus in Sweden. “At an extraordinary government meeting tonight,",
+      "heat": 101,
+      "tags": [
+        "Sweden",
+        "SE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-sweden-ban-idUSS3N27Z02H",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSS3N27Z02H",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSS3N27Z02H",
+      "publishedDateTime": "2020-03-11T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Sweden bans public meetings of more than 500 people to limit coronavirus spread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-update-1-frances-coronavirus-death-toll-close-to-50-new-restrictions-imposed.md",
+      "title": "UPDATE 1-France's coronavirus death toll close to 50, new restrictions imposed",
+      "excerpt": "France’s coronavirus death toll rose by almost 50% to 48, French Health Minister Olivier Veran said on Wednesday, adding new restrictions would be implemented to try and contain the outbreak. Speaking during a news conference in Paris shortly after the World Health Organization called the virus a pandemic for the first time,",
+      "heat": 101,
+      "tags": [
+        "France"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-france-idUSL8N2B47R0",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2B47R0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2B47R0",
+      "publishedDateTime": "2020-03-11T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 1-France's coronavirus death toll close to 50, new restrictions imposed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-coronavirus-may-have-reached-italy-from-germany-scientists-say.md",
+      "title": "Coronavirus may have reached Italy from Germany, scientists say",
+      "excerpt": "A team of scientists in Milan believes Italy’s coronavirus epidemic might have come to the country via Germany and not directly from China as many experts initially assumed. Scientists have been hunting for the so-called “patient zero” ever since the contagion first came to light in the prosperous northern region of Lombardy on Feb.",
+      "heat": 120,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-scientists-idUSKBN20Y35B",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y35B",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y35B",
+      "publishedDateTime": "2020-03-11T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus may have reached Italy from Germany, scientists say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-italy-pm-conte-toughens-coronavirus-lockdown-with-new-measures.md",
+      "title": "Italy PM Conte Toughens Coronavirus Lockdown With New Measures",
+      "excerpt": "Prime Minister Giuseppe Conte added new restrictions on Wednesday to the lockdown imposed to fight the coronavirus after figures showed Italy posting the highest daily increase in deaths of any country since the outbreak began.",
+      "heat": 100,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/11/world/europe/11reuters-health-coronavirus-italy-crackdown.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Italy PM Conte Toughens Coronavirus Lockdown With New Measures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-fmr-italian-pm-to-eu-us-dont-repeat-italys-mistake.md",
+      "title": "Fmr. Italian PM to EU, US: Don't repeat Italy's mistake",
+      "excerpt": "Former Italian Prime Minister Matteo Renzi warns the rest of the world not to undervalue the risk of the coronavirus, saying \"Italy wasted time and this was a mistake.\"",
+      "heat": 105,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/videos/world/2020/03/11/interview-italy-coronavirus-matteo-renzi.cnn",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2020/03/11/interview-italy-coronavirus-matteo-renzi.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/03/11/interview-italy-coronavirus-matteo-renzi.cnn",
+      "publishedDateTime": "2020-03-11T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200311185134-interview-italy-coronavirus-matteo-renzi-00164829-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Fmr. Italian PM to EU, US: Don't repeat Italy's mistake",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-come-home-chinese-tell-relatives-in-spain-as-coronavirus-cases-jump.md",
+      "title": "'Come home,' Chinese tell relatives in Spain as coronavirus cases jump",
+      "excerpt": "In a usually bustling Madrid street popular with the city’s growing Chinese community, 14 of 17 Chinese-owned shops were closed on Wednesday, their shutters pulled down or notes stuck to window fronts saying the owners were away.",
+      "heat": 105,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-spain-china-idUSKBN20Y2WZ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y2WZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y2WZ",
+      "publishedDateTime": "2020-03-11T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501811321&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG2A20H",
+          "width": 640,
+          "height": 433,
+          "title": "'Come home,' Chinese tell relatives in Spain as coronavirus cases jump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-sweden-reports-first-death-from-coronavirus.md",
+      "title": "Sweden reports first death from coronavirus",
+      "excerpt": "Sweden reported its first death from the new coronavirus on Wednesday with a hospital in Stockholm saying an elderly patient had died in intensive care. “The patient has had COVID-19 as well as an underlying sickness,",
+      "heat": null,
+      "tags": [
+        "Sweden",
+        "SE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-sweden-death-idUSKBN20Y2G8",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y2G8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y2G8",
+      "publishedDateTime": "2020-03-11T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Sweden reports first death from coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-london-enhances-cleaning-regime-amid-coronavirus-outbreak.md",
+      "title": "London enhances 'cleaning regime' amid coronavirus outbreak",
+      "excerpt": "The United States now has more than 1,000 people infected with coronavirus — but testing in the U.S. is still ramping up, meaning that number could continue to climb. Meanwhile, the governor of New York has questioned the number of people who have been tested for the virus in the U.",
+      "heat": 105,
+      "tags": [
+        "UK",
+        "GB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-cases-top-1-000-spread-n1155241/ncrd1155351",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1155241",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1155241",
+      "publishedDateTime": "2020-03-11T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_11/3265201/200311-slovakia-al-0847_44bcbb78070e9c3a19f16149f5f27a53.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "London enhances 'cleaning regime' amid coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-merkel-warns-coronavirus-could-infect-two-thirds-of-germany.md",
+      "title": "Merkel warns coronavirus could infect two-thirds of Germany",
+      "excerpt": "BERLIN — Chancellor Angela Merkel warned Wednesday that more than two-thirds of Germany’s nearly 83 million people could be infected by the coronavirus. “The virus has arrived,” she said, speaking at a news conference in Berlin, the first time she had addressed the public on the issue. She urged the whole country to help work to slow ...",
+      "heat": 105,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/europe/merkel-coronavirus-germany/2020/03/11/e276252a-6399-11ea-8a8e-5c5336b32760_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/europe/merkel-coronavirus-germany/2020/03/11/e276252a-6399-11ea-8a8e-5c5336b32760_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/merkel-coronavirus-germany/2020/03/11/e276252a-6399-11ea-8a8e-5c5336b32760_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-11T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/tVXZJ1eNA_hc0HBxq4SOrv1w_sE=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MSLSZTDUMI6VLGKQDBCXPXJN4.jpg",
+          "width": 1440,
+          "height": 977,
+          "title": "Merkel warns coronavirus could infect two-thirds of Germany",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-number-of-confirmed-coronavirus-cases-in-uk-rises-to-456.md",
+      "title": "Number of confirmed coronavirus cases in UK rises to 456",
+      "excerpt": "The number of confirmed cases of coronavirus across the United Kingdom has risen to 456, up from 373 a day earlier, the health ministry said on Wednesday. The number of patients who died after testing positive for the virus remained unchanged at six.",
+      "heat": 105,
+      "tags": [
+        "UK",
+        "GB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-cases-idUSKBN20Y25U",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y25U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y25U",
+      "publishedDateTime": "2020-03-11T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501732432&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A1GV",
+          "width": 967,
+          "height": 545,
+          "title": "Number of confirmed coronavirus cases in UK rises to 456",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-angela-merkel-warns-70-percent-of-germany-could-get-coronavirus.md",
+      "title": "Angela Merkel warns 70 percent of Germany could get coronavirus",
+      "excerpt": "German Chancellor Angela Merkel issued a stark warning Wednesday, citing expert estimates that up to 60 to 70 percent of the population could be infected by the coronavirus. Speaking at a news conference in Berlin alongside Jens Spahn, German's health minister, Merkel said there was no known cure and the focus would be on slowing the spread of ...",
+      "heat": 105,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/angela-merkel-70-percent-germany-coronavirus",
+      "ampWebUrl": "https://www.foxnews.com/world/angela-merkel-70-percent-germany-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/angela-merkel-70-percent-germany-coronavirus.amp",
+      "publishedDateTime": "2020-03-11T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/AP20071414059235.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Angela Merkel warns 70 percent of Germany could get coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 32
+}

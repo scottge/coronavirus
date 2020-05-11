@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: coronavirus-in-japan
+name: Coronavirus in Japan
+shortname: Japan
+parent: Coronavirus in Asia
+keywords:
+  - japan
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-japan.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-japan-2.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/coronavirus-in-japan/
+  stats: https://insideout.app/coronavirus/api/stats/coronavirus-in-japan/

@@ -1,0 +1,1160 @@
+{
+  "location": {
+    "long": -81.515754,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Florida",
+    "county": null,
+    "isoCode": "US-FL",
+    "lat": 27.664827
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.3542689Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-barbershops-and-salons-can-reopen-monday-in-most-of-florida-desantis-says.md",
+      "title": "Barbershops and salons can reopen Monday in most of Florida, DeSantis says",
+      "excerpt": "They can operate under “enhanced safety protocols,” but the governor has not defined those protocols. Other states have clear guidelines.",
+      "heat": 108,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-08-20/h_beb73d006f4333247f560b87a92175fc",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Barbershops and salons can reopen Monday in most of Florida, DeSantis says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-new-nursing-facility-near-ju-taking-in-long-term-care-patients-with-covid-19.md",
+      "title": "New nursing facility near JU taking in long-term care patients with COVID-19",
+      "excerpt": "A new skilled nursing facility near the campus of Jacksonville University is partnering with the state to accept long-term care residents with COVID-19. Dolphin Pointe Health Care is working with the Florida Agency for Health Care Administration to isolate contagious COVID-19 patients that don’t require hospitalization,",
+      "heat": 122,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-08-20/h_c1e1dc774839f57d49718f5f0aa1cfe1",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-08-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-08-20/index.html",
+      "publishedDateTime": "2020-05-08T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jacksonville Daily Record",
+        "domain": "jaxdailyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_601/6c47ecdf-6510-4cc4-802f-aba30a590622.jpg",
+          "width": 900,
+          "height": 601,
+          "title": "New nursing facility near JU taking in long-term care patients with COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-florida-gardens-mall-set-to-reopen-may-15.md",
+      "title": "Coronavirus Florida: Gardens Mall set to reopen May 15",
+      "excerpt": "The Palm Beach Post will continue to provide essential coverage of the coronavirus for free. You can have coronavirus news delivered directly to your inbox by signing up for our Coronavirus Newsletter.",
+      "heat": 125,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.palmbeachpost.com/news/20200508/coronavirus-florida-gardens-mall-set-to-reopen-may-15",
+      "ampWebUrl": "https://www.palmbeachpost.com/news/20200508/coronavirus-florida-gardens-mall-set-to-reopen-may-15?template=ampart",
+      "cdnAmpWebUrl": "https://www-palmbeachpost-com.cdn.ampproject.org/c/s/www.palmbeachpost.com/news/20200508/coronavirus-florida-gardens-mall-set-to-reopen-may-15?template=ampart",
+      "publishedDateTime": "2020-05-08T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.palmbeachpost.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200508&Category=NEWS&ArtNo=200508175&Ref=AR",
+          "width": 5790,
+          "height": 3905,
+          "title": "Coronavirus Florida: Gardens Mall set to reopen May 15",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-florida-county-beaches-to-reopen-may-18-under-county-plan.md",
+      "title": "Coronavirus Florida: County beaches to reopen May 18 under county plan",
+      "excerpt": "This content is being provided for free as a public service to our readers during the coronavirus outbreak. Please support local journalism by subscribing to The Palm Beach Post. If you want breaking coronavirus news directly in your inbox,",
+      "heat": 135,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-08-20/h_a74afe094b96b31a0296c1322979bb8e",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-08-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-08-20/index.html",
+      "publishedDateTime": "2020-05-08T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Coronavirus Florida: County beaches to reopen May 18 under county plan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-florida-man-calls-the-coronavirus-fake-pandemic-in-tirade.md",
+      "title": "Florida man calls the coronavirus 'fake pandemic' in tirade",
+      "excerpt": "Footage of a man in Florida shows him screaming at an officer outside a Miami Beach grocery store after he resisted wearing a mask.",
+      "heat": 125,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/videos/us/2020/05/08/florida-man-grocery-store-tirade-miami-beach-mxp-vpx.hln",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/us/2020/05/08/florida-man-grocery-store-tirade-miami-beach-mxp-vpx.hln",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/us/2020/05/08/florida-man-grocery-store-tirade-miami-beach-mxp-vpx.hln",
+      "publishedDateTime": "2020-05-08T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200508033357-florida-man-yells-fake-pandemic-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Florida man calls the coronavirus 'fake pandemic' in tirade",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-testing-at-most-florida-prisons-remains-limited-especially-at-privately-run-facilities.md",
+      "title": "Coronavirus testing at most Florida prisons remains limited, especially at privately run facilities",
+      "excerpt": "While the state corrections department has recently expanded testing to include some asymptomatic inmates at the three prisons with the largest confirmed outbreaks, testing remains limited beyond those facilities — especially at some privately run prisons.",
+      "heat": 111,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.orlandosentinel.com/coronavirus/os-ne-coronavirus-third-state-inmate-dies-florida-corrections-20200416-baffem42szetpkevbgyg3yopze-story.html",
+      "ampWebUrl": "https://www.orlandosentinel.com/coronavirus/os-ne-coronavirus-third-state-inmate-dies-florida-corrections-20200416-baffem42szetpkevbgyg3yopze-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/os-ne-coronavirus-third-state-inmate-dies-florida-corrections-20200416-baffem42szetpkevbgyg3yopze-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-08T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/8kjjWwq6vDvUAf0sAvPO7hlxruU=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GHXR5JBTTFAKHJ4ASOUGMO6SGM.JPG",
+          "width": 1200,
+          "height": 879,
+          "title": "Coronavirus testing at most Florida prisons remains limited, especially at privately run facilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-let-us-reopen-palm-beach-county-makes-its-plea-to-the-governor.md",
+      "title": "Let us reopen: Palm Beach County makes its plea to the governor",
+      "excerpt": "Palm Beach County sent Gov. Ron DeSantis a letter Thursday asking for him to consider easing coronavirus restrictions in the county.",
+      "heat": 110,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-24-20/h_b44f4acb29e965d27f24f88f2faac123",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-24-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-24-20/index.html",
+      "publishedDateTime": "2020-05-07T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sun Sentinel",
+        "domain": "sun-sentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Let us reopen: Palm Beach County makes its plea to the governor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-a-mall-in-florida-has-reopened-steps-away-from-a-coronavirus-testing-facility.md",
+      "title": "A mall in Florida has reopened — steps away from a coronavirus testing facility",
+      "excerpt": "The mall is emblematic of retail outlets, restaurants and other businesses that have started to resume business amid the covid-19 pandemic.",
+      "heat": 101,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/politics/a-mall-in-florida-has-reopened--steps-away-from-a-coronavirus-testing-facility/2020/05/07/595483e2-8fca-11ea-a9c0-73b93422d691_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/a-mall-in-florida-has-reopened--steps-away-from-a-coronavirus-testing-facility/2020/05/07/595483e2-8fca-11ea-a9c0-73b93422d691_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/a-mall-in-florida-has-reopened--steps-away-from-a-coronavirus-testing-facility/2020/05/07/595483e2-8fca-11ea-a9c0-73b93422d691_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-07T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/kLtN8dhzjqTRQP38Nj_0HsSlL8A=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XKMT4ZEQZUI6VKOAOO4TIIWWSE.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "A mall in Florida has reopened — steps away from a coronavirus testing facility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-miami-beach-extends-its-emergency-orders-one-more-week.md",
+      "title": "Miami Beach extends its emergency orders one more week",
+      "excerpt": "Miami Beach commissioners may be eager for businesses to reopen, but the city isn’t budging. Today, the city manager extended his State of Emergency Declaration",
+      "heat": 110,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-07-20/h_2eb36420707fc1ccc49f1f8e9f9e585c",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-07-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-07-20/index.html",
+      "publishedDateTime": "2020-05-07T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time Out",
+        "domain": "timeout.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Miami Beach extends its emergency orders one more week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-coronavirus-testing-site-to-open-friday.md",
+      "title": "Coronavirus Testing Site To Open Friday",
+      "excerpt": "A hybrid drive-thru and walk-up COVID-19 test site is scheduled to open Friday outside the Miami Beach Convention Center.",
+      "heat": 105,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://miami.cbslocal.com/2020/05/06/miami-beach-to-open-walk-up-drive-thru-coronavirus-test-site-on-friday/",
+      "ampWebUrl": "https://miami.cbslocal.com/2020/05/06/miami-beach-to-open-walk-up-drive-thru-coronavirus-test-site-on-friday/amp/",
+      "cdnAmpWebUrl": "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/05/06/miami-beach-to-open-walk-up-drive-thru-coronavirus-test-site-on-friday/amp/",
+      "publishedDateTime": "2020-05-07T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-states-covid-19-testing-policy-an-unmitigated-disaster-for-residents-of-elder-homes.md",
+      "title": "State’s COVID-19 testing policy an ‘unmitigated disaster’ for residents of elder homes",
+      "excerpt": "On March 12, three days before state officials took any formal action against the emerging coronavirus pandemic, Doug Adkins put his 155-bed assisted living facility on full lock down.",
+      "heat": 117,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-08-20/h_c1e1dc774839f57d49718f5f0aa1cfe1",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-08-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-08-20/index.html",
+      "publishedDateTime": "2020-05-07T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "State’s COVID-19 testing policy an ‘unmitigated disaster’ for residents of elder homes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-restaurants-at-icon-park-on-international-drive-to-begin-opening-for-dine-in.md",
+      "title": "Restaurants at Icon Park on International Drive to begin opening for dine-in",
+      "excerpt": "Orlando’s once-bustling tourist district is starting to see movement again for the first time in more than a month as restaurants at Icon Park on International Drive begin accepting customers once again.",
+      "heat": 107,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.clickorlando.com/news/local/2020/05/06/restaurants-at-icon-park-on-international-drive-to-begin-opening-for-dine-in/",
+      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/05/06/restaurants-at-icon-park-on-international-drive-to-begin-opening-for-dine-in/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/05/06/restaurants-at-icon-park-on-international-drive-to-begin-opening-for-dine-in/?outputType=amp",
+      "publishedDateTime": "2020-05-06T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click Orlando",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.clickorlando.com/resizer/zK8pt7mnHcaTohcJGgEUIkZJv8s=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/VVFAUTOGEBHXLAST4N4ZJL75KM.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Restaurants at Icon Park on International Drive to begin opening for dine-in",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-florida-seeks-new-ways-to-expand-coronavirus-testing.md",
+      "title": "Florida Seeks New Ways to Expand Coronavirus Testing",
+      "excerpt": "Florida will look to new ways to expand coronavirus testing, such as allowing tests at pharmacies and randomly checking blood donations for COVIID-19 antibodies.",
+      "heat": null,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/florida/articles/2020-05-06/florida-seeks-new-ways-to-expand-coronavirus-testing",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/florida/articles/2020-05-06/florida-seeks-new-ways-to-expand-coronavirus-testing?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/florida/articles/2020-05-06/florida-seeks-new-ways-to-expand-coronavirus-testing?context=amp",
+      "publishedDateTime": "2020-05-06T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-palm-beach-county-considers-reopening-before-rest-of-south-florida.md",
+      "title": "Palm Beach County considers reopening before rest of South Florida",
+      "excerpt": "The county plans to ask Gov. Ron DeSantis for permission to join the rest of the state, outside South Florida, in a partial reopening from coronavirus restrictions, allowing restaurants and many other businesses to operate at 25% capacity.",
+      "heat": 110,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-24-20/h_b44f4acb29e965d27f24f88f2faac123",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-24-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-24-20/index.html",
+      "publishedDateTime": "2020-05-05T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sun Sentinel",
+        "domain": "sun-sentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Palm Beach County considers reopening before rest of South Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-priorities-usa-challenges-florida-voting-in-light-of-coronavirus.md",
+      "title": "Priorities USA challenges Florida voting in light of coronavirus",
+      "excerpt": "A Democratic super PAC sued Florida Gov. Ron DeSantis and other state officials on Monday, challenging voting laws it argues could limit turnout in the nation’s biggest swing state this fall. The lawsuit joins a persistent and ongoing legal battle over voting in a state that will be key to President Donald Trump’s reelection.",
+      "heat": 130,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/05/04/priorities-usa-florida-voting-coronavirus-234384",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/05/04/priorities-usa-florida-voting-coronavirus-234384",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/05/04/priorities-usa-florida-voting-coronavirus-234384",
+      "publishedDateTime": "2020-05-04T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/8a/de/8fad340547ffbedb81e075495097/200504-desantis-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Priorities USA challenges Florida voting in light of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-in-florida-25-more-deaths-in-miami-dade-with-numbers-predicted-to-rise.md",
+      "title": "Coronavirus in Florida: 25 more deaths in Miami-Dade, with numbers predicted to rise",
+      "excerpt": "Coronavirus projections from the IHME and the Trump administration expect COVID-19 numbers to rise amid relaxed social distancing rules.",
+      "heat": null,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.local10.com/news/local/2020/05/04/coronavirus-in-florida-latest-numbers-as-state-begins-reopening/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPLG",
+        "domain": "local10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-man-dresses-as-grim-reaper-to-warn-florida-beachgoers-about-coronavirus.md",
+      "title": "Man dresses as Grim Reaper to warn Florida beachgoers about coronavirus",
+      "excerpt": "A Florida man donned a \"Grim Reaper\" costume and walked along the state's crowded beaches to warn beachgoers about COVID-19. WJHG's Kellie Sanchez reports.",
+      "heat": 105,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-04-coronavirus-news-n1199156/ncrd1199491",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1199156",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1199156",
+      "publishedDateTime": "2020-05-04T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/j/newscms/2020_19/3335926/200504-churches-germany-mn-1315_e826ca522b788553b6103a93dc639eda.fit-560w.JPG",
+          "width": 560,
+          "height": 374,
+          "title": "Man dresses as Grim Reaper to warn Florida beachgoers about coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-five-year-old-florida-girl-gets-huge-parade-to-mark-last-cancer-treatment-after-coronavirus-cancels-party.md",
+      "title": "Five-Year-Old Florida Girl Gets Huge Parade to Mark Last Cancer Treatment After Coronavirus Cancels Party",
+      "excerpt": "Around 150 cars took part in a parade to celebrate five-year-old Selah Grace Feely's final chemotherapy treatment.",
+      "heat": 113,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/five-year-old-florida-girl-gets-huge-parade-mark-last-cancer-treatment-after-coronavirus-cancels-1501800",
+      "ampWebUrl": "https://www.newsweek.com/five-year-old-florida-girl-gets-huge-parade-mark-last-cancer-treatment-after-coronavirus-cancels-1501800?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/five-year-old-florida-girl-gets-huge-parade-mark-last-cancer-treatment-after-coronavirus-cancels-1501800?amp=1",
+      "publishedDateTime": "2020-05-04T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1587103/stock-photo-car-parade.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": "Five-Year-Old Florida Girl Gets Huge Parade to Mark Last Cancer Treatment After Coronavirus Cancels Party",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-the-tampa-bay-area-is-slowly-reopening-for-business-here-are-highlights.md",
+      "title": "The Tampa Bay area is slowly reopening for business. Here are highlights.",
+      "excerpt": "Gov. DeSantis announced the three-tiered plan to start lifting stay-at-home orders, with the first wave focused on restaurants and shops.",
+      "heat": null,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.clickorlando.com/news/local/2020/05/06/restaurants-at-icon-park-on-international-drive-to-begin-opening-for-dine-in/",
+      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/05/06/restaurants-at-icon-park-on-international-drive-to-begin-opening-for-dine-in/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/05/06/restaurants-at-icon-park-on-international-drive-to-begin-opening-for-dine-in/?outputType=amp",
+      "publishedDateTime": "2020-05-04T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.clickorlando.com/resizer/zK8pt7mnHcaTohcJGgEUIkZJv8s=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/VVFAUTOGEBHXLAST4N4ZJL75KM.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "The Tampa Bay area is slowly reopening for business. Here are highlights.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-florida-joins-gradual-coronavirus-reopening.md",
+      "title": "Florida Joins Gradual Coronavirus Reopening",
+      "excerpt": "The global number of confirmed cases from the coronavirus pandemic crossed 3.5 million, with nearly a quarter-million deaths.",
+      "heat": 105,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/coronavirus-latest-news-05-04-2020-11588585598",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/coronavirus-latest-news-05-04-2020-11588585598",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/coronavirus-latest-news-05-04-2020-11588585598",
+      "publishedDateTime": "2020-05-04T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183111/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Florida Joins Gradual Coronavirus Reopening",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-exposed-nursing-home-flaws-learn-options-for-keeping-elderly-with-family.md",
+      "title": "Coronavirus exposed nursing home flaws. Learn options for keeping elderly with family",
+      "excerpt": "Caring for elderly parents in a multigenerational home might bring the family closer together while cutting down on expenses and worry.",
+      "heat": null,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-08-20/h_c1e1dc774839f57d49718f5f0aa1cfe1",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-08-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-05-08-20/index.html",
+      "publishedDateTime": "2020-05-03T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Coronavirus exposed nursing home flaws. Learn options for keeping elderly with family",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-antibody-tests-to-begin-across-florida-gov-desantis-says.md",
+      "title": "Coronavirus antibody tests to begin across Florida, Gov. DeSantis says",
+      "excerpt": "You can go and test negative today, it doesn’t mean you can’t acquire the virus two days from now or three days from now,\" DeSantis said. \"[So what] you also need to have is serological testing, antibody testing,",
+      "heat": 125,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-25-20-intl/h_4a53d1bb3f4986994484916d39a8e504",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-25-20-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-25-20-intl/index.html",
+      "publishedDateTime": "2020-05-03T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200130165125-corona-virus-cdc-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Coronavirus antibody tests to begin across Florida, Gov. DeSantis says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-florida-hits-grim-milestone-over-1-million-workers-have-filed-unemployment-claims.md",
+      "title": "Florida hits grim milestone: over 1 million workers have filed unemployment claims",
+      "excerpt": "Florida has now reported over 1 million unemployed workers, a bleak milestone as the state continues to lag on processing a massive caseload.",
+      "heat": 104,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-03-20-intl/h_a30ef0421082356639fc99eb17ffe8d3",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-05-03-20-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-05-03-20-intl/index.html",
+      "publishedDateTime": "2020-05-03T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213161538-cdc-novel-coronavirus-test-kit-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Florida hits grim milestone: over 1 million workers have filed unemployment claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-protesters-rally-to-open-beach-state-in-laguna-beach-and-huntington-beach.md",
+      "title": "Protesters rally to open beach, state in Laguna Beach and Huntington Beach",
+      "excerpt": "Protesters expressed their discontent with the stay-at-home orders and Orange County beach closures in Laguna Beach and Huntington Beach on Saturday.",
+      "heat": 108,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-24-20/h_b44f4acb29e965d27f24f88f2faac123",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-24-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-24-20/index.html",
+      "publishedDateTime": "2020-05-02T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Protesters rally to open beach, state in Laguna Beach and Huntington Beach",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-fact-check-will-florida-order-residents-to-get-vaccinated-for-covid-19.md",
+      "title": "Fact check: Will Florida order residents to get vaccinated for COVID-19?",
+      "excerpt": "An Instagram post says Florida can order people to take a coronavirus vaccination. That is true, but it is false to imply this will happen right away.",
+      "heat": 104,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/05/02/fact-check-florida-could-order-covid-19-vaccination-but-not-right-now/3043319001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3043319001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3043319001",
+      "publishedDateTime": "2020-05-02T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/42e084393a5f51b4a8f72731e60ad9a31cdf1911/c=0-186-5166-3092/local/-/media/2020/04/01/USATODAY/usatsports/B9339864266Z.1_20200401020501_000_GAKQERSLV.2-0.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Fact check: Will Florida order residents to get vaccinated for COVID-19?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-floridas-unemployed-struggle-as-state-begins-to-lift-coronavirus-restrictions.md",
+      "title": "Florida's unemployed struggle as state begins to lift coronavirus restrictions",
+      "excerpt": "As unemployment claims across the nation continue to skyrocket, reaching more than 30 million this week, the Sunshine State is standing out for all the wrong reasons.",
+      "heat": 101,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/florida-struggles-with-coronavirus-related-unemployment",
+      "ampWebUrl": "https://www.foxnews.com/us/florida-struggles-with-coronavirus-related-unemployment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/florida-struggles-with-coronavirus-related-unemployment.amp",
+      "publishedDateTime": "2020-05-01T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e7ef11b-b59a-4f04-9b9c-079e87a311fb/8f0022a4-366a-40a2-b9ee-b814d83c8b83/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Florida's unemployed struggle as state begins to lift coronavirus restrictions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-report-man-caught-camping-on-disneys-discovery-island-says-it-was-tropical-paradise.md",
+      "title": "Report: Man caught camping on Disney’s Discovery Island says it was ‘tropical paradise'",
+      "excerpt": "A Florida man is facing trespassing charges after security found him camping on Walt Disney World’s Discovery Island, according to the Orange County Sheriff’s Office.",
+      "heat": 102,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.clickorlando.com/news/local/2020/05/01/report-man-caught-camping-on-disneys-discovery-island-says-it-was-tropical-paradise/",
+      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/05/01/report-man-caught-camping-on-disneys-discovery-island-says-it-was-tropical-paradise/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/05/01/report-man-caught-camping-on-disneys-discovery-island-says-it-was-tropical-paradise/?outputType=amp",
+      "publishedDateTime": "2020-05-01T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click Orlando",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.clickorlando.com/resizer/B9A8yxm4WmJKBXurf1gQ-22Ulqw=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/IIF2DB7EYJDETMTKV5HP6EHXBQ.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Report: Man caught camping on Disney’s Discovery Island says it was ‘tropical paradise'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-florida-governor-cites-dhs-study-on-sunlight-killing-covid-19-to-justify-the-reopening-of-state-parks.md",
+      "title": "Florida governor cites DHS study on sunlight killing Covid-19 to justify the reopening of state parks",
+      "excerpt": "Ron DeSantis announced that state parks will reopen on Monday, citing a Department of Homeland Security study that he said shows sunlight, heat and humidity kill Covid-19. The reopening of state parks will include restrictions including social distancing,",
+      "heat": 100,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/01/us/florida-governor-state-parks-reopen/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/01/us/florida-governor-state-parks-reopen/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/01/us/florida-governor-state-parks-reopen/index.html",
+      "publishedDateTime": "2020-05-01T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181031153135-01-ron-desantis-file-103118-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Florida governor cites DHS study on sunlight killing Covid-19 to justify the reopening of state parks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-coronavirus-scrambles-2020-expectations-for-trump-in-must-win-florida.md",
+      "title": "Coronavirus scrambles 2020 expectations for Trump in must-win Florida",
+      "excerpt": "Before the coronavirus pandemic, Desi Marinov considered herself \"apolitical.\" The Fort Lauderdale, Florida, flight attendant didn't even bother to vote in the 2016 presidential election.",
+      "heat": null,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-election-florida-a-idUSKBN22D6HX",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22D6HX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22D6HX",
+      "publishedDateTime": "2020-05-01T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200501&t=2&i=1517211335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4049X",
+          "width": 847,
+          "height": 545,
+          "title": "Coronavirus scrambles 2020 expectations for Trump in must-win Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-florida-state-parks-to-open-monday-as-part-of-phase-1-plan.md",
+      "title": "Florida state parks to open Monday as part of phase 1 plan",
+      "excerpt": "Gov. Ron DeSantis announces he will open all state parks on Monday as part of phase one of his plan to reopen Florida.",
+      "heat": 110,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.clickorlando.com/news/local/2020/05/01/florida-state-parks-to-open-monday-as-part-of-phase-1-plan/",
+      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/05/01/florida-state-parks-to-open-monday-as-part-of-phase-1-plan/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/05/01/florida-state-parks-to-open-monday-as-part-of-phase-1-plan/?outputType=amp",
+      "publishedDateTime": "2020-05-01T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click Orlando",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.clickorlando.com/resizer/P22NYvIYfTezZv89foNo4Sx6-XE=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/B3PNCI4EENCGZEILUQCVVKZ4U4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Florida state parks to open Monday as part of phase 1 plan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

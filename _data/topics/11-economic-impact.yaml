@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: economic-impact
+name: Economic Impact
+shortname: Economic Impact
+parent: Coronavirus
+keywords:
+  - economy
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/economic-impact.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/economic-impact-2.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/economic-impact/

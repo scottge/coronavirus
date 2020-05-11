@@ -1,0 +1,313 @@
+{
+  "location": {
+    "long": -155.665857,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Hawaii",
+    "county": null,
+    "isoCode": "US-HI",
+    "lat": 19.898682
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.39045Z",
+  "news": [
+    {
+      "path": "_news/2020-05-10-hawaii-reports-no-new-covid19-cases.md",
+      "title": "Hawaii reports no new COVID19 cases",
+      "excerpt": "Watch \"Hawaii reports no new COVID19 cases\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "heat": 100,
+      "tags": [
+        "US-HI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/live/video/20200510031952-hawaii-reports-no-new-covid19-cases/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/05/10/story_05019306_1589080815.jpg",
+          "width": 480,
+          "height": 270,
+          "title": "Hawaii reports no new COVID19 cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-the-latest-south-korea-considers-delaying-school-reopenings.md",
+      "title": "The Latest: South Korea considers delaying school reopenings",
+      "excerpt": "China, South Korea see new virus cases as world lockdowns ease. — Infections linked to nightclubs in South Korea may delay the reopening of schools. — Austria and Romania reach an agreement for train service since virus restrictions made travel difficult.",
+      "heat": 105,
+      "tags": [
+        "KR",
+        "US-HI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/business/the-latest-china-reports-1-new-virus-case-south-korea-12/2020/05/07/7f4a67b6-90d2-11ea-9322-a29e75effc93_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/business/the-latest-china-reports-1-new-virus-case-south-korea-12/2020/05/07/7f4a67b6-90d2-11ea-9322-a29e75effc93_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-china-reports-1-new-virus-case-south-korea-12/2020/05/07/7f4a67b6-90d2-11ea-9322-a29e75effc93_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-07T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-coronavirus-hawaii-arrests-rogue-tourists-to-curb-outbreak.md",
+      "title": "Coronavirus: Hawaii arrests rogue tourists to curb outbreak",
+      "excerpt": "Hawaii authorities are cracking down on rogue tourists who are visiting beaches, riding personal watercraft, shopping and generally flouting strict requirements that they quarantine for 14 days after arriving.",
+      "heat": 155,
+      "tags": [
+        "US-HI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.mercurynews.com/2020/05/07/coronavirus-hawaii-arrests-rogue-tourists-to-curb-outbreak/",
+      "ampWebUrl": "https://www.mercurynews.com/2020/05/07/coronavirus-hawaii-arrests-rogue-tourists-to-curb-outbreak/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/05/07/coronavirus-hawaii-arrests-rogue-tourists-to-curb-outbreak/amp/",
+      "publishedDateTime": "2020-05-07T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/05/sjm-tbreak-Rougue-Tourists_74292758.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": "Coronavirus: Hawaii arrests rogue tourists to curb outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-couple-arrested-on-honeymoon-in-hawaii-for-ignoring-coronavirus-quarantine-rules.md",
+      "title": "Couple Arrested on Honeymoon In Hawaii for Ignoring Coronavirus Quarantine Rules",
+      "excerpt": "The pair told hotel staff that they planned to visit friends and go to beaches during their stay, before leaving the premises.",
+      "heat": 100,
+      "tags": [
+        "US-HI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/couple-arrested-honeymoon-hawaii-ignoring-coronavirus-quarantine-rules-1501744",
+      "ampWebUrl": "https://www.newsweek.com/couple-arrested-honeymoon-hawaii-ignoring-coronavirus-quarantine-rules-1501744?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/couple-arrested-honeymoon-hawaii-ignoring-coronavirus-quarantine-rules-1501744?amp=1",
+      "publishedDateTime": "2020-05-04T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1587008/hawaii.jpg",
+          "width": 2500,
+          "height": 1570,
+          "title": "Couple Arrested on Honeymoon In Hawaii for Ignoring Coronavirus Quarantine Rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-hawaiis-tourism-industry-struggles-as-shutdown-keeps-coronavirus-numbers-among-lowest-in-us.md",
+      "title": "Hawaii's tourism industry struggles as shutdown keeps coronavirus numbers among lowest in US",
+      "excerpt": "For the Pacific islands, controlling the coronavirus means cutting off tourism. Hawaii has among the lowest infection and mortality rates in the U.S.",
+      "heat": null,
+      "tags": [
+        "US-HI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.jsonline.com/story/travel/news/2020/05/04/coronavirus-hawaii-travel-restrictions-keep-virus-numbers-down/3076497001/",
+      "ampWebUrl": "https://amp.jsonline.com/amp/3076497001",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3076497001",
+      "publishedDateTime": "2020-05-04T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/04/USAT/2d94afc3-df05-4318-90da-731d4dfca452-AP_Virus_Outbreak_Hawaii_Ocean_Isolation_1.JPG?auto=webp&crop=5471,3078,x0,y556&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Hawaii's tourism industry struggles as shutdown keeps coronavirus numbers among lowest in US",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-hits-hawaiis-tourism-dependent-workforce-hard.md",
+      "title": "Coronavirus Hits Hawaii’s Tourism-Dependent Workforce Hard",
+      "excerpt": "The state’s workforce has sought unemployment benefits at the highest rate in the nation since mid-March, reflecting how hard the coronavirus pandemic has hit its vital tourism industry.",
+      "heat": 105,
+      "tags": [
+        "US-HI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/coronavirus-hits-hawaiis-tourism-dependent-workforce-hard-11588584601",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/coronavirus-hits-hawaiis-tourism-dependent-workforce-hard-11588584601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/coronavirus-hits-hawaiis-tourism-dependent-workforce-hard-11588584601",
+      "publishedDateTime": "2020-05-04T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-181188/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Coronavirus Hits Hawaii’s Tourism-Dependent Workforce Hard",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-one-new-coronavirus-case-reported-in-hawaii.md",
+      "title": "One new coronavirus case reported in Hawaii",
+      "excerpt": "The new case is on Oahu, which has had 400 cases. The numbers for Hawaii County (73), Maui County (116) and Kauai County (21) remain unchanged. There were no new deaths reported F",
+      "heat": 105,
+      "tags": [
+        "US-HI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.westhawaiitoday.com/2020/05/01/hawaii-news/one-new-coronavirus-case-reported-in-hawaii/",
+      "ampWebUrl": "https://www.westhawaiitoday.com/2020/05/01/hawaii-news/one-new-coronavirus-case-reported-in-hawaii/amp/",
+      "cdnAmpWebUrl": "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2020/05/01/hawaii-news/one-new-coronavirus-case-reported-in-hawaii/amp/",
+      "publishedDateTime": "2020-05-01T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "West Hawaii Today",
+        "domain": "westhawaiitoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.westhawaiitoday.com/wp-content/uploads/2020/05/web1_wht_localNews_logo.jpg",
+          "width": 360,
+          "height": 360,
+          "title": "One new coronavirus case reported in Hawaii",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-honeymoon-suite-to-cell-block-california-couple-broke-covid-19-rule-hawaii-cops-say.md",
+      "title": "‘Honeymoon suite to cell block.’ California couple broke COVID-19 rule, Hawaii cops say",
+      "excerpt": "A California couple hoping to spend their honeymoon in Hawaii were instead arrested, officials say. The couple “scoffed” at Hawaii’s traveler self-quarantine mandate and were arrested Thursday by officials from the Department of the Attorney General,",
+      "heat": null,
+      "tags": [
+        "US-HI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.miamiherald.com/news/coronavirus/article242451686.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

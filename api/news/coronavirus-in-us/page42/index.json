@@ -1,0 +1,1251 @@
+{
+  "page": 42,
+  "value": [
+    {
+      "path": "_news/2020-03-26-trump-approves-disaster-declaration-for-north-carolina.md",
+      "title": "Trump approves disaster declaration for North Carolina",
+      "excerpt": "President Donald Trump is pushing for the country to get back to business by April 12, Easter Sunday, when he said he would like to see churches full of people. The World Health O",
+      "heat": 170,
+      "tags": [
+        "US-NC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-senate-passes-2-trillion-stimulus-plan-u-s-n1168156/ncrd1169161",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1168156",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1168156",
+      "publishedDateTime": "2020-03-25T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_13/3283141/200325-spain-field-hospital-mn-1000_0c92a7a773dfc52c34b42ef215387f7c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Trump approves disaster declaration for North Carolina",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-dr-ben-carson-plasma-transfusion-coronavirus-treatment-being-tested-by-new-york-looks-promising.md",
+      "title": "Dr. Ben Carson: Plasma transfusion coronavirus treatment being tested by New York looks 'promising'",
+      "excerpt": "Housing and Urban Development Secretary Ben Carson told \"The Story\" Wednesday that there is promise in a new therapy to fight the coronavirus contagion.",
+      "heat": 111,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/media/dr-ben-carson-plasma-transfusion-coronavirus-treatment",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b170bb0a-63f6-4e33-9cdb-af59c7461952/8269961c-47aa-468f-a98c-85d5649ef266/1280x720/match/931/524/image.jpg?ve=1&tl=1",
+          "width": 931,
+          "height": 524,
+          "title": "Dr. Ben Carson: Plasma transfusion coronavirus treatment being tested by New York looks 'promising'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-iowa-high-school-tennis-seniors-hope-to-have-final-season.md",
+      "title": "Iowa high school tennis seniors hope to have final season",
+      "excerpt": "Moonjely and Audrey Koch were second in 2A doubles and, if entered in 2020, would again be a top contender. As of now, all spring prep sports in Iowa have been put on hold until April 13 due to the coronavirus pandemic. With each passing day, the prospects for a spring season grow dimmer. VanDonslear has the small consolation of a college ...",
+      "heat": null,
+      "tags": [
+        "US-IA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thegazette.com/subject/sports/iowa-prep-sports/iowa-high-school-tennis-seniors-hope-to-have-final-season-20200325",
+      "ampWebUrl": "https://www.thegazette.com/subject/sports/iowa-prep-sports/iowa-high-school-tennis-seniors-hope-to-have-final-season-20200325?template=amphtml",
+      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/sports/iowa-prep-sports/iowa-high-school-tennis-seniors-hope-to-have-final-season-20200325?template=amphtml",
+      "publishedDateTime": "2020-03-25T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thegazette.com/storyimage/GA/20200325/ARTICLE/200329798/AR/0/AR-200329798.jpg&MaxH=300&MaxW=500",
+          "width": 430,
+          "height": 300,
+          "title": "Iowa high school tennis seniors hope to have final season",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-costco-employees-are-testing-positive-for-the-coronavirus-and-their-coworkers-say-managers-arent-being-transparent.md",
+      "title": "Costco Employees Are Testing Positive For The Coronavirus And Their Coworkers Say Managers Aren't Being Transparent",
+      "excerpt": "Literally no one told us anything about it,” a warehouse employee in Colorado said about two coworkers who are sick with COVID-19.",
+      "heat": 143,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/briannasacks/more-costco-employees-test-positive-coronavirus",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/briannasacks/more-costco-employees-test-positive-coronavirus",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/briannasacks/more-costco-employees-test-positive-coronavirus",
+      "publishedDateTime": "2020-03-25T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-03/16/23/campaign_images/e1fd094191e3/bay-area-residents-are-required-to-stay-home-for--2-3998-1584403193-0_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": "Costco Employees Are Testing Positive For The Coronavirus And Their Coworkers Say Managers Aren't Being Transparent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-arkansas-pastor-wife-dozens-in-church-infected-with-covid-19-he-says.md",
+      "title": "Arkansas pastor, wife, 'dozens' in church infected with COVID-19, he says",
+      "excerpt": "An Arkansas pastor issued a coronavirus warning this week after he, his wife and more than 30 others connected to their church contracted the illness, according to reports.",
+      "heat": 104,
+      "tags": [
+        "US-AR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/faith-values/arkansas-pastor-wife-church-infected-covid-19",
+      "ampWebUrl": "https://www.foxnews.com/faith-values/arkansas-pastor-wife-church-infected-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/faith-values/arkansas-pastor-wife-church-infected-covid-19.amp",
+      "publishedDateTime": "2020-03-25T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/096e396e-0212-401d-899d-3e1eb30d3d3c/33b33136-d6d9-4225-a51b-8d710304f74f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Arkansas pastor, wife, 'dozens' in church infected with COVID-19, he says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-in-california-1-million-unemployment-claims-filed-in-less-than-two-weeks.md",
+      "title": "In California: 1 million unemployment claims filed in less than two weeks",
+      "excerpt": "Californians have applied for unemployment claims since March 13. And two people aboard the Grand Princess cruise ship died; 103 tested positive for coronavirus. Plus: I talk with one of the Census 2020 ambassadors working to spread the word about why every Golden Stater must be counted.",
+      "heat": null,
+      "tags": [
+        "US-CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/03/25/coronavirus-stimulus-unemployment-census-n-95-cruise-ship-wed-news/5081693002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5081693002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5081693002",
+      "publishedDateTime": "2020-03-25T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/2019/05/16/PMJS/7a294591-f338-4aaa-b94f-96b2231bd1de-jobless_rate.JPG?auto=webp&crop=1023,571,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 670,
+          "title": "In California: 1 million unemployment claims filed in less than two weeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-richardson-woman-18-among-13-new-coronavirus-cases-in-collin-county.md",
+      "title": "Richardson woman, 18, among 13 new coronavirus cases in Collin County",
+      "excerpt": "McKinney Mayor George Fuller ordered residents and non-essential businesses to shelter in place effective midnight Wednesday.",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.star-telegram.com/news/coronavirus/article241514611.html",
+      "ampWebUrl": "https://amp.star-telegram.com/news/coronavirus/article241514611.html",
+      "cdnAmpWebUrl": "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/coronavirus/article241514611.html",
+      "publishedDateTime": "2020-03-25T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Worth Star-Telegram",
+        "domain": "star-telegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/b6deef53-febb-478d-8c45-078fdb64890c/b86946bb-5e5c-4aec-a867-987b6a9fb5ac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Richardson woman, 18, among 13 new coronavirus cases in Collin County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-three-new-cases-of-covid-19-dodge-countys-first-washington-countys-second-and-the-third-in-saunders-county.md",
+      "title": "Three new cases of COVID-19: Dodge County's first, Washington County's second and the third in Saunders County",
+      "excerpt": "Three Rivers Public Health Department has identified three additional cases of COVID-19, including the first case to be documented in Dodge County.",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://fremonttribune.com/news/local/crime-and-courts/three-new-cases-of-covid--dodge-county-s-first/article_bb494376-d891-5d65-89b8-6a933ecf7416.html",
+      "ampWebUrl": "https://fremonttribune.com/news/local/crime-and-courts/three-new-cases-of-covid--dodge-county-s-first/article_bb494376-d891-5d65-89b8-6a933ecf7416.amp.html",
+      "cdnAmpWebUrl": "https://fremonttribune-com.cdn.ampproject.org/c/s/fremonttribune.com/news/local/crime-and-courts/three-new-cases-of-covid--dodge-county-s-first/article_bb494376-d891-5d65-89b8-6a933ecf7416.amp.html",
+      "publishedDateTime": "2020-03-25T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fremont Tribune",
+        "domain": "fremonttribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fremonttribune.com/content/tncms/assets/v3/editorial/8/53/853ee6d7-105c-55a8-8de3-61df4bb4b309/5859799c56a89.image.jpg",
+          "width": 436,
+          "height": 255,
+          "title": "Three new cases of COVID-19: Dodge County's first, Washington County's second and the third in Saunders County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-get-to-know-oklahoma-states-newold-offensive-coordinator-kasey-dunn.md",
+      "title": "Get to Know Oklahoma State's New/Old Offensive Coordinator Kasey Dunn",
+      "excerpt": "Away from football, Dunn is a guy that loves to golf, loves the outdoors, and even told me that he and his wife, to safely escape the quarantine that we are all under for the COVID-19 pandemic, just took out in his truck and went driving red dirt roads. Red dirt describes his musical taste as well as Dunn told me at the Oklahoma State ...",
+      "heat": null,
+      "tags": [
+        "US-OK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.si.com/college/oklahomastate/football/kasey-dunn-on-kasey-dunn-and-oklahoma-state-offensive-coordinator",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Illustrated",
+        "domain": "si.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-in-california-coronavirus-claims-first-state-resident-under-age-18.md",
+      "title": "In California: Coronavirus claims first state resident under age 18",
+      "excerpt": "Cases across California are quicking rising, with half in the 18-49 age range. To help slow the spread, tourist-friendly destinations are asking you to hold off on that visit. Plus, some Princess Cruise ship passengers are cleared to go home this week.",
+      "heat": 105,
+      "tags": [
+        "US-CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/03/24/coronavirus-big-bear-domestic-abuse-budget-cuts-trials-tues-news/2909204001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/2909204001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2909204001",
+      "publishedDateTime": "2020-03-25T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/20/USAT/700b8e40-0c03-4732-a1ec-258b16afae8d-AP_Virus_Outbreak_California.JPG?auto=webp&crop=5350,3009,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "In California: Coronavirus claims first state resident under age 18",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-couple-get-married-on-the-streets-of-new-york-amid-coronavirus-pandemic.md",
+      "title": "Couple get married on the streets of New York amid coronavirus pandemic",
+      "excerpt": "A New York City couple got married on the street as a friend officiated out the window of his fourth-story apartment.",
+      "heat": 105,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/03/24/coronavirus-wedding-new-york-couple-gets-married-street/2906062001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/2906062001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2906062001",
+      "publishedDateTime": "2020-03-25T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/22/USAT/2af5209d-5b93-41d0-bb61-141dd96aeb57-Screen_Shot_2020-03-22_at_4.44.32_PM.png?auto=webp&crop=1698,955,x898,y619&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Couple get married on the streets of New York amid coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-iowa-announces-1st-death-linked-to-coronavirus-outbreak.md",
+      "title": "Iowa announces 1st death linked to coronavirus outbreak",
+      "excerpt": "A resident of northeastern Iowa is the first person in the state whose death has been linked to the coronavirus outbreak, which continues to spread statewide, Gov. Kim Reynolds said Tuesday. Reynolds identified the deceased as an \"older adult\" resident of Dubuque County who was between 61 and 80 years old.",
+      "heat": 115,
+      "tags": [
+        "US-IA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/Iowa-positive-coronavirus-cases-climb-19-to-124-15153765.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/21/61/19209315/7/rawImage.jpg",
+          "width": 2048,
+          "height": 1368,
+          "title": "Iowa announces 1st death linked to coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-kansas-city-nursing-home-employee-had-fever-tests-positive-for-coronavirus.md",
+      "title": "Kansas City nursing home: Employee had fever, tests positive for coronavirus",
+      "excerpt": "An employee at McCrite Plaza at Briarcliff in the Northland has tested positive for COVID-19, but no other employees or residents show symptoms of the coronavirus, the senior living community said Wednesday.",
+      "heat": 132,
+      "tags": [
+        "US-KS"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kansascity.com/news/coronavirus/article241513326.html",
+      "ampWebUrl": "https://amp.kansascity.com/news/coronavirus/article241513326.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/coronavirus/article241513326.html",
+      "publishedDateTime": "2020-03-25T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557046001/54a6d321-77e4-44ed-b0f4-9fe0c9568a66/main/1280x720/1m13s514ms/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Kansas City nursing home: Employee had fever, tests positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-health-officials-confirm-new-mexicos-1st-coronavirus-death.md",
+      "title": "Health Officials Confirm New Mexico's 1st Coronavirus Death",
+      "excerpt": "Health officials are confirming New Mexico's first death related to the coronavirus in a patient who died earlier in the week and later tested positive for the virus.",
+      "heat": 145,
+      "tags": [
+        "US-NM"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/new-mexico/articles/2020-03-24/new-mexico-creates-coronavirus-business-recovery-fund",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/new-mexico/articles/2020-03-24/new-mexico-creates-coronavirus-business-recovery-fund?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-03-24/new-mexico-creates-coronavirus-business-recovery-fund?context=amp",
+      "publishedDateTime": "2020-03-25T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-covid-19-cases-explode-in-dallas-78-new-cases-2-deaths-wednesday.md",
+      "title": "COVID-19 Cases Explode in Dallas, 78 New Cases, 2 Deaths Wednesday",
+      "excerpt": "We can’t wait any longer. I once again ask all North Texas counties to immediately move to the Dallas “Stay Home Stay Safe” model as some did yesterday. That’s our best chance to #Flattenthecurve,” said Dallas County Judge Clay Jenkins. New cases are being reported as a daily aggregate, with a more detailed summary report updated ...",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/covid-19-cases-explode-in-dallas-78-new-cases-1-death-wednesday/2338575/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/covid-19-cases-explode-in-dallas-78-new-cases-1-death-wednesday/2338575/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/covid-19-cases-explode-in-dallas-78-new-cases-1-death-wednesday/2338575/?amp",
+      "publishedDateTime": "2020-03-25T16:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/Dallas-County-Health-and-Human-Services-1.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "COVID-19 Cases Explode in Dallas, 78 New Cases, 2 Deaths Wednesday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-four-new-cases-push-local-coronavirus-total-to-14.md",
+      "title": "Four new cases push local coronavirus total to 14",
+      "excerpt": "CORPUS CHRISTI, Texas — With 14 local coronavirus cases reported, health department officials announced that they are looking at adding more drive-thru testing events. Annette Rodriguez of the city/county health department said at a Wednesday press conference her department now has 45 people on telephones answering coronavirus-related questions.",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kristv.com/news/coronavirus/city-stepping-up-loca-lcovid-19-testing",
+      "ampWebUrl": "https://www.kristv.com/news/coronavirus/city-stepping-up-loca-lcovid-19-testing?_amp=true",
+      "cdnAmpWebUrl": "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/coronavirus/city-stepping-up-loca-lcovid-19-testing?_amp=true",
+      "publishedDateTime": "2020-03-25T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRISTV.com",
+        "domain": "kristv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/83acab1/2147483647/strip/true/crop/800x450+0+75/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F70%2F61%2F3a9e861142eca8dc354f4af4bdae%2F800-1.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": "Four new cases push local coronavirus total to 14",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-in-the-us-latest-covid-19-news-and-case-counts.md",
+      "title": "Coronavirus in the US: Latest COVID-19 news and case counts",
+      "excerpt": "New York COVID-19 cases have surged, Kentucky \"coronavirus party\" ends badly and U.S. passes unprecedented $2 trillion rescue bill.",
+      "heat": 100,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.labcorp.com/coronavirus-disease-covid-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T16:26:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "labcorp.com/coronavirus-disease-covid-19",
+        "domain": "labcorp.com/coronavirus-disease-covid-19",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-abortion-rights-groups-sue-texas-over-abortion-ban-amid-coronavirus-outbreak.md",
+      "title": "Abortion-rights groups sue Texas over abortion ban amid coronavirus outbreak",
+      "excerpt": "A coalition of abortion-rights advocates is suing Texas over the state's directive to ban nearly all abortion services as the country grapples with the coronavirus outbreak. The groups are asking for the court to issue an immediate temporary restraining order to block the order from taking effect.",
+      "heat": 102,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/abortion-rights-planned-parenthood-lawsuit-texas-non-essential-ban/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/abortion-rights-planned-parenthood-lawsuit-texas-non-essential-ban/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/abortion-rights-planned-parenthood-lawsuit-texas-non-essential-ban/",
+      "publishedDateTime": "2020-03-25T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2016/06/27/fbc1677c-21ae-44b2-881f-cbd5aeb75ec0/thumbnail/1200x630/1c44ebdb73da17f753c78602dfa90073/prochoicegettyimages-543293562.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Abortion-rights groups sue Texas over abortion ban amid coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-india-bans-export-of-drug-touted-by-trump-as-potential-coronavirus-treatment.md",
+      "title": "India bans export of drug touted by Trump as potential coronavirus treatment",
+      "excerpt": "India has banned the export of a malaria drug touted by President Trump as a \"game changer\" in the fight against the coronavirus pandemic.",
+      "heat": 107,
+      "tags": [
+        "India",
+        "IN",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/international/489559-india-bans-export-of-drug-touted-by-trump-as-potential-coronavirus",
+      "ampWebUrl": "https://thehill.com/policy/international/489559-india-bans-export-of-drug-touted-by-trump-as-potential-coronavirus?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/489559-india-bans-export-of-drug-touted-by-trump-as-potential-coronavirus?amp",
+      "publishedDateTime": "2020-03-25T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/hydroxychloroquine_032520getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "India bans export of drug touted by Trump as potential coronavirus treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus",
+        "Coronavirus in Asia",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-cases-rise-to-1387-in-georgia-47-deaths-reported.md",
+      "title": "Coronavirus cases rise to 1,387 in Georgia, 47 deaths reported",
+      "excerpt": "FOX 5 Livestream ... of confirmed cases of coronavirus has now passed a thousand across Georgia and deaths from the virus continue to rise as health officials work to test more patients. As of Wednesday at 7 p.m. the number of cases had risen to 1,387, with the number of coronavirus-related deaths is now 47, an increase of 5 from Wednesday ...",
+      "heat": 105,
+      "tags": [
+        "US-GA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.fox5atlanta.com/news/coronavirus-cases-rise-to-1387-in-georgia-47-deaths-reported",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 10 Phoenix",
+        "domain": "fox10phoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/03/724/407/52018308-0d466452-57e49149-650e805f-coronavirus-generic-KTTV-1212-2-2-2-2-1-1.jpg?ve=1&tl=1",
+          "width": 724,
+          "height": 407,
+          "title": "Coronavirus cases rise to 1,387 in Georgia, 47 deaths reported",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-dc-could-get-severely-shortchanged-in-federal-coronavirus-stimulus-bill.md",
+      "title": "D.C. could get severely shortchanged in federal coronavirus stimulus bill",
+      "excerpt": "The $2 trillion federal coronavirus relief bill could shortchange the District by an estimated $750 million by treating the nation’s capital as a U.S. territory, even though Washington has more confirmed cases than many states.",
+      "heat": 104,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/dc-politics/dc-could-get-severely-shortchanged-in-federal-coronavirus-stimulus-bill/2020/03/25/9ac364f4-6eca-11ea-aa80-c2470c6b2034_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/dc-politics/dc-could-get-severely-shortchanged-in-federal-coronavirus-stimulus-bill/2020/03/25/9ac364f4-6eca-11ea-aa80-c2470c6b2034_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/dc-politics/dc-could-get-severely-shortchanged-in-federal-coronavirus-stimulus-bill/2020/03/25/9ac364f4-6eca-11ea-aa80-c2470c6b2034_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-25T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/x_B9gHbd1gjoGaKuGfKMYrB-nR8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HGPRWDN64I6VIKWABELMLG3KE.jpg",
+          "width": 1440,
+          "height": 972,
+          "title": "D.C. could get severely shortchanged in federal coronavirus stimulus bill",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-trump-declares-disasters-for-states-including-new-york-california-and-texas.md",
+      "title": "Trump declares disasters for states including New York, California and Texas",
+      "excerpt": "President Donald Trump is pushing for the country to get back to business by April 12, Easter Sunday, when he said he would like to see churches full of people. The World Health O",
+      "heat": 127,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dallasnews.com/news/politics/2020/03/13/watch-live-texas-gov-greg-abbott-declares-state-of-disaster-over-coronavirus-says-drive-through-testing-to-start-in-san-antonio/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/8qAZmFn9S2RDE6wp8iWrlt1oK_w=/1200x630/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/FCAIDTY5AFG5TODNKSOLY4EKFM.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Trump declares disasters for states including New York, California and Texas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-denton-county-confirms-19-new-cases-of-coronavirus-bringing-total-to-70.md",
+      "title": "Denton County Confirms 19 New Cases Of Coronavirus Bringing Total To 70",
+      "excerpt": "DENTON, Texas (CBSDFW.COM) – Denton County Public Health announced 19 additional laboratory-confirmed cases of COVID-19 in Denton County on Wednesday evening. This increases the countywide total to 70 confirmed COVID-19 cases. Included in the 19 cases is one additional Denton State Supported Living Center resident, a woman in her 50s who is ...",
+      "heat": 140,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://dfw.cbslocal.com/2020/03/25/denton-county-19-new-cases-coronavirus/",
+      "ampWebUrl": "https://dfw.cbslocal.com/2020/03/25/denton-county-19-new-cases-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://dfw-cbslocal-com.cdn.ampproject.org/c/s/dfw.cbslocal.com/2020/03/25/denton-county-19-new-cases-coronavirus/amp/",
+      "publishedDateTime": "2020-03-25T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-two-more-oregon-covid-19-deaths-bring-total-to-10-57-new-cases-tally-now-266.md",
+      "title": "Two more Oregon COVID-19 deaths bring total to 10; 57 new cases, tally now 266",
+      "excerpt": "COVID-19 has claimed two more lives in Oregon, raising the state’s death toll to 10, the Oregon Health Authority reported Wednesday.",
+      "heat": 126,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://ktvz.com/news/coronavirus/2020/03/25/two-more-oregon-covid-19-deaths-bring-total-to-10-57-new-cases-tally-now-266/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVZ",
+        "domain": "ktvz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.us-east-1.wasabisys.com/ktvz.com/2020/03/Oregon-coronavirus-MGN-860x484.jpg",
+          "width": 860,
+          "height": 484,
+          "title": "Two more Oregon COVID-19 deaths bring total to 10; 57 new cases, tally now 266",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-michigan-hospitals-jammed-as-coronavirus-cases-deaths-rise.md",
+      "title": "Michigan Hospitals Jammed as Coronavirus Cases, Deaths Rise",
+      "excerpt": "Michigan hospitals braced Wednesday for a surge of coronavirus cases, as the number of cases in the state rose to at least 2,294 and the number of deaths nearly doubled, from 24 to 43. Most of the cases — 85% — were reported in Wayne,",
+      "heat": 105,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/michigan/articles/2020-03-25/detroit-police-captain-dies-from-covid-19-complications",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/michigan/articles/2020-03-25/detroit-police-captain-dies-from-covid-19-complications?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/michigan/articles/2020-03-25/detroit-police-captain-dies-from-covid-19-complications?context=amp",
+      "publishedDateTime": "2020-03-25T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-north-texas-factory-switches-from-producing-furniture-to-face-masks.md",
+      "title": "North Texas Factory Switches From Producing Furniture to Face Masks",
+      "excerpt": "The showroom at The Leather Furniture Company ... to COVID-19 restrictions, the factory behind the showroom is busy. \"I just felt like we needed to do something to give back,\" owner Mitch Lurie said. \"So I said, 'OK, let's get to work! Let's see what we can do.'\" They found a pattern online to make face masks. \"They name it the 'Carlos ...",
+      "heat": 110,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/north-texas-factory-switches-from-producing-furniture-to-face-masks/2338720/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/north-texas-factory-switches-from-producing-furniture-to-face-masks/2338720/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/north-texas-factory-switches-from-producing-furniture-to-face-masks/2338720/?amp",
+      "publishedDateTime": "2020-03-25T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/Lewisville-furniture-maks.jpg?resize=850%2C478",
+          "width": 850,
+          "height": 478,
+          "title": "North Texas Factory Switches From Producing Furniture to Face Masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-trump-risks-blowback-from-war-of-words-with-china-over-coronavirus.md",
+      "title": "Trump risks blowback from war of words with China over coronavirus",
+      "excerpt": "U.S. President Donald Trump and some top aides have repeatedly excoriated China over its handling of the coronavirus pandemic, a stance that even some in his administration worry could bring a dangerous backlash from Beijing.",
+      "heat": 135,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-china-idUSKBN21C3KS",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21C3KS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21C3KS",
+      "publishedDateTime": "2020-03-25T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-st-louis-city-county-announce-53-new-coronavirus-cases-more-deaths-in-missouri.md",
+      "title": "St. Louis City, County announce 53 new coronavirus cases, more deaths in Missouri",
+      "excerpt": "There were 21 new confirmed cases of coronavirus in St. Louis City and 32 new cases in St. Louis County as of Wednesday evening, according to the Department of Health and Human Services. Statewide, Missouri counted 356 COVID-19 cases and eight deaths,",
+      "heat": 140,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bnd.com/news/coronavirus/article241507386.html",
+      "ampWebUrl": "https://amp.bnd.com/news/coronavirus/article241507386.html",
+      "cdnAmpWebUrl": "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/coronavirus/article241507386.html",
+      "publishedDateTime": "2020-03-25T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BND",
+        "domain": "bnd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998020001/ee43b9a1-e19d-46b1-a7de-378a17ea1611/dec9e4e8-9a11-4acc-aedf-78c42ce62892/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "St. Louis City, County announce 53 new coronavirus cases, more deaths in Missouri",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-idaho-gov-brad-little-issues-stay-at-home-order-as-more-states-tighten-restrictions-amid-coronavirus-outbreak.md",
+      "title": "Idaho Gov. Brad Little issues stay-at-home order as more states tighten restrictions amid coronavirus outbreak",
+      "excerpt": "A growing number of states in the U.S. are implementing new restrictions to help stop the spread of the coronavirus outbreak. Eighteen states have stay-at-home orders or advisorie",
+      "heat": 105,
+      "tags": [
+        "US-ID"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/25/idaho-gov-brad-little-issues-stay-home-order.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/25/idaho-gov-brad-little-issues-stay-home-order.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/25/idaho-gov-brad-little-issues-stay-home-order.html",
+      "publishedDateTime": "2020-03-25T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106460816-1585168233662gettyimages-1207607891.jpeg?v=1585168293",
+          "width": 3000,
+          "height": 1881,
+          "title": "Idaho Gov. Brad Little issues stay-at-home order as more states tighten restrictions amid coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-missouri-man-charged-after-allegedly-licking-walmart-items-amid-coronavirus-fears.md",
+      "title": "Missouri man charged after allegedly licking Walmart items amid coronavirus fears",
+      "excerpt": "A Missouri man is facing a criminal charge for posting a video of himself licking items in Walmart earlier this month to mock the severity of the coronavirus, authorities said.",
+      "heat": 100,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/lifestyle/missouri-man-charged-allegedly-licking-walmart-items-amid-coronavirus-fears",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/missouri-man-charged-allegedly-licking-walmart-items-amid-coronavirus-fears.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/missouri-man-charged-allegedly-licking-walmart-items-amid-coronavirus-fears.amp",
+      "publishedDateTime": "2020-03-25T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/bde820ab-Capture.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Missouri man charged after allegedly licking Walmart items amid coronavirus fears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 43
+}

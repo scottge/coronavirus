@@ -1,0 +1,1328 @@
+{
+  "page": 60,
+  "value": [
+    {
+      "path": "_news/2020-05-04-china-reports-three-new-coronavirus-cases-all-imported.md",
+      "title": "China Reports Three New Coronavirus Cases, All Imported",
+      "excerpt": "China reported three new coronavirus cases for May 3, up from two the day before, data from the national health authority showed on Monday.",
+      "heat": 135,
+      "tags": [
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/05/03/world/asia/03reuters-health-coronavirus-china-toll.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "China Reports Three New Coronavirus Cases, All Imported",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-trump-says-more-needs-to-be-done-to-ease-economic-hit-of-coronavirus-pandemic.md",
+      "title": "Trump says more needs to be done to ease economic hit of coronavirus pandemic",
+      "excerpt": "U.S. President Donald Trump said there had to be more help for Americans suffering from the economic tailspin brought about by the new coronavirus in a possible hint he wants Congress to pass another aid bill.",
+      "heat": 122,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-townhall-idUSKBN22F0VB",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22F0VB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22F0VB",
+      "publishedDateTime": "2020-05-03T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200504&t=2&i=1517339283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG43002",
+          "width": 820,
+          "height": 545,
+          "title": "Trump says more needs to be done to ease economic hit of coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Political Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-texas-businesses-begin-to-reopen-to-customers-as-the-state-eases-covid-19-restrictions.md",
+      "title": "Texas businesses begin to reopen to customers as the state eases COVID-19 restrictions.",
+      "excerpt": "Customers have lunch as the bar remains empty at El Toro Mexican restaurant in Clute, Texas on Sunday, May 3, 2020. Restaurants in Texas were allowed to reopen their diving rooms at 25% capacity starting on May 1st as the state began easing restrictions based on COVID-19.",
+      "heat": null,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.upi.com/News_Photos/view/upi/e4862484ff7f945901300d524c3354e6/Texas-businesses-begin-to-reopen-to-customers-as-the-state-eases-COVID-19-restrictions/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/pv/upi/e4862484ff7f945901300d524c3354e6/COVID-19-TEXAS-REOPENING.jpg",
+          "width": 650,
+          "height": 433,
+          "title": "Texas businesses begin to reopen to customers as the state eases COVID-19 restrictions.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-live-updates-global-cases-top-35-million-as-indias-cases-cross-40000.md",
+      "title": "Coronavirus live updates: Global cases top 3.5 million as India's cases cross 40,000",
+      "excerpt": "India has 40,263 confirmed cases of infection as of Sunday evening, according to data on the health ministry's website.",
+      "heat": 168,
+      "tags": [
+        "India",
+        "IN",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/04/coronavirus-latest-updates-asia-europe.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/04/coronavirus-latest-updates-asia-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/04/coronavirus-latest-updates-asia-europe.html",
+      "publishedDateTime": "2020-05-03T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106515696-1588284747006trump.jpg?v=1588552887",
+          "width": 3000,
+          "height": 2000,
+          "title": "Coronavirus live updates: Global cases top 3.5 million as India's cases cross 40,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-why-this-one-stock-could-deliver-life-changing-returns.md",
+      "title": "Why This One Stock Could Deliver Life-Changing Returns",
+      "excerpt": "Box could bring life-changing stock returns as it capitalizes on the remote workforce trend. But there's a catch. The coronavirus has changed work environments for millions of people -- among those still employed,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/03/why-this-stock-deliver-life-changing-returns.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/why-this-stock-deliver-life-changing-returns.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/why-this-stock-deliver-life-changing-returns.aspx",
+      "publishedDateTime": "2020-05-03T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F566186%2Fcloud-computing-getty-6217.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Why This One Stock Could Deliver Life-Changing Returns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-texas-death-row-inmates-ask-to-join-lawsuit-over-prison-health-conditions-during-covid-19-pandemic.md",
+      "title": "Texas death row inmates ask to join lawsuit over prison health conditions during COVID-19 pandemic",
+      "excerpt": "Death row inmates at a Livingston-area prison asked to join a lawsuit against the state prison system, claiming health and safety concerns that put them at risk of contracting COVID-19.",
+      "heat": 101,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.houstonchronicle.com/coronavirus/article/Death-row-inmates-sue-Texas-prison-system-over-15243478.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/07/52/52/18786988/9/rawImage.jpg",
+          "width": 2048,
+          "height": 1387,
+          "title": "Texas death row inmates ask to join lawsuit over prison health conditions during COVID-19 pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-mexico-reports-1383-new-coronavirus-cases-93-more-deaths.md",
+      "title": "Mexico Reports 1,383 New Coronavirus Cases, 93 More Deaths",
+      "excerpt": "Mexico's health ministry reported 1,383 new coronavirus cases and 93 more deaths on Sunday, bringing the country's total to 23,471 cases and 2,154 deaths.",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/05/03/world/americas/03reuters-health-coronavirus-mexico-tally.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Mexico Reports 1,383 New Coronavirus Cases, 93 More Deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-dow-futures-fall-more-than-300-points-amid-concerns-over-reopening-the-economy.md",
+      "title": "Dow futures fall more than 300 points amid concerns over reopening the economy",
+      "excerpt": "Stock futures fell on Sunday night as traders weighed the reopening of the economy along with brewing tensions between China and the U.S.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/03/stock-market-futures-open-to-close-news.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/03/stock-market-futures-open-to-close-news.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/03/stock-market-futures-open-to-close-news.html",
+      "publishedDateTime": "2020-05-03T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106475742-15861253962020-03-18T005102Z_1142582803_RC20MF94DQH5_RTRMADP_0_HEALTH-CORONAVIRUS-BANKS-ANXIETY.jpeg?v=1586812042",
+          "width": 3500,
+          "height": 2334,
+          "title": "Dow futures fall more than 300 points amid concerns over reopening the economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-seven-states-to-coordinate-on-amassing-medical-equipment-to-fight-coronavirus.md",
+      "title": "Seven States to Coordinate on Amassing Medical Equipment to Fight Coronavirus",
+      "excerpt": "New York, New Jersey, Pennsylvania, Delaware, Connecticut, Massachusetts and Rhode Island will unite to purchase medical supplies.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/03/nyregion/coronavirus-new-york-update.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/03/nyregion/coronavirus-new-york-update.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/03/nyregion/coronavirus-new-york-update.amp.html",
+      "publishedDateTime": "2020-05-03T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/03/nyregion/03nyvirus-briefing-top01/merlin_172147824_5d1a7132-5b95-40ac-b1c5-f1914d8534b3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Seven States to Coordinate on Amassing Medical Equipment to Fight Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-uk-chafes-at-covid-19-death-toll-comparison-with-italy.md",
+      "title": "UK Chafes at COVID-19 Death Toll Comparison With Italy",
+      "excerpt": "The British government sought on Sunday to deflect questions over a coronavirus death toll that is Europe's second worst after Italy, with officials saying it would take a long time before the full picture became clear.",
+      "heat": 160,
+      "tags": [
+        "GB",
+        "UK",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-03/uk-pushes-back-against-covid-19-death-toll-comparison-with-italy",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-03/uk-pushes-back-against-covid-19-death-toll-comparison-with-italy?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-03/uk-pushes-back-against-covid-19-death-toll-comparison-with-italy?context=amp",
+      "publishedDateTime": "2020-05-03T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-live-coronavirus-updates-for-sunday-may-3-the-gateway-station-park-to-reopen-utah-deaths-reach-50-with-194-new-cases.md",
+      "title": "Live coronavirus updates for Sunday, May 3: The Gateway, Station Park to reopen; Utah deaths reach 50 with 194 new cases",
+      "excerpt": "The Salt Lake Tribune is providing free access to critical stories about the coronavirus. Sign up for , sent to your inbox every weekday morning. To support journalism like this, please  or become a .",
+      "heat": 105,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sltrib.com/news/2020/05/03/live-coronavirus-updates/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Salt Lake Tribune",
+        "domain": "sltrib.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sltrib.com/resizer/UlKTkZmpUbi3HuM3vi2ETUdjjIk=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/GA4SSZ25SFAM3DL7OQXQZM2XTY.JPG",
+          "width": 1200,
+          "height": 630,
+          "title": "Live coronavirus updates for Sunday, May 3: The Gateway, Station Park to reopen; Utah deaths reach 50 with 194 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-global-stock-markets-could-predict-economic-future-post-covid-19.md",
+      "title": "Global Stock Markets Could Predict Economic Future Post Covid-19",
+      "excerpt": "Global stock markets and investors command more computing power, better software, faster networks, and the intense focus of tens of millions of individuals betting their own money.",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/richkarlgaard/2020/05/03/global-stock-markets-could-predict-economic-future-post-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaa7ba552ac2e00060e010b%2F0x0.jpg",
+          "width": 700,
+          "height": 400,
+          "title": "Global Stock Markets Could Predict Economic Future Post Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-beyond-meat-earnings-will-the-stock-look-tasty-after-tuesdays-report.md",
+      "title": "Beyond Meat Earnings: Will the Stock Look Tasty After Tuesday's Report?",
+      "excerpt": "The meat substitute maker's stock is up 43% over the last month, so it has a lot to prove when it reports Q1 earnings.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/03/beyond-meat-earnings-will-the-stock-look-tasty-aft.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/beyond-meat-earnings-will-the-stock-look-tasty-aft.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/beyond-meat-earnings-will-the-stock-look-tasty-aft.aspx",
+      "publishedDateTime": "2020-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558354%2Fbynd-earnings-bynd-stock-beyond-meat-earnings-date-when-are-earnings-beyond-meat-stock-price-a-buy-invest-in-beyond-meat.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Beyond Meat Earnings: Will the Stock Look Tasty After Tuesday's Report?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-updates-bexar-county-sees-drop-in-new-cases-of-covid-19-no-new-deaths-reported.md",
+      "title": "Coronavirus updates: Bexar County sees drop in new cases of COVID-19, no new deaths reported",
+      "excerpt": "More inmates at Bexar County Jail have tested positive for COVID-19, pushing the overall total for Bexar County to 1,613, Mayor Ron Nirenberg reported Sunday. That’s just 28 new cases in the last 24 hours,",
+      "heat": 134,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.chron.com/coronavirus/article/Coronavirus-updates-May-3-15242894.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T16:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/67/76/19365781/9/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": "Coronavirus updates: Bexar County sees drop in new cases of COVID-19, no new deaths reported",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-new-cases-of-covid-19-dropping-in-bexar-county-no-new-deaths-reported-for-fourth-day-in-a-row.md",
+      "title": "New cases of COVID-19 dropping in Bexar County; no new deaths reported for fourth day in a row",
+      "excerpt": "Mayor Ron Nirenberg said another good sign that the area is holding its own is the rate of positive test results; Bexar County’s rate is declining and it’s better than the state average.",
+      "heat": 118,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.expressnews.com/news/local/article/New-cases-of-COVID-19-dropping-in-Bexar-County-15243921.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/71/11/19370564/7/rawImage.jpg",
+          "width": 2048,
+          "height": 1187,
+          "title": "New cases of COVID-19 dropping in Bexar County; no new deaths reported for fourth day in a row",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-collin-county-reports-5-new-cases-of-covid-19-total-at-789.md",
+      "title": "Collin County Reports 5 New Cases of COVID-19; Total at 789",
+      "excerpt": "Officials in Collin County reported Sunday five additional cases of, and two new recoveries from, COVID-19. There are 789 positive cases in the county and 518 recoveries, according to Collin County Health Care Services.",
+      "heat": 180,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/collin-county-reports-5-new-cases-of-covid-19-total-at-789/2362573/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/collin-county-reports-5-new-cases-of-covid-19-total-at-789/2362573/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/collin-county-reports-5-new-cases-of-covid-19-total-at-789/2362573/?amp",
+      "publishedDateTime": "2020-05-03T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/collin-county-generic.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Collin County Reports 5 New Cases of COVID-19; Total at 789",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-in-alaska-town-calls-to-shut-down-fishing-season-amid-coronavirus-fears.md",
+      "title": "In Alaska town, calls to shut down fishing season amid coronavirus fears",
+      "excerpt": "Indigenous residents say the governor’s mask mandate and other safety measures don’t provide enough protection.",
+      "heat": 114,
+      "tags": [
+        "US-AK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/national/in-alaska-town-calls-to-shut-down-fishing-season-amid-coronavirus-fears/2020/05/03/163a6356-8b33-11ea-8ac1-bfb250876b7a_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/national/in-alaska-town-calls-to-shut-down-fishing-season-amid-coronavirus-fears/2020/05/03/163a6356-8b33-11ea-8ac1-bfb250876b7a_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-alaska-town-calls-to-shut-down-fishing-season-amid-coronavirus-fears/2020/05/03/163a6356-8b33-11ea-8ac1-bfb250876b7a_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-03T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/dDt0UQUcev5smw26SC-XQ69_cO8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUJFWRW4FEI6FPMD5GPEHQZW5U.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "In Alaska town, calls to shut down fishing season amid coronavirus fears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-russia-reports-record-daily-rise-of-new-coronavirus-cases.md",
+      "title": "Russia Reports Record Daily Rise of New Coronavirus Cases",
+      "excerpt": "Russia has seen a record rise in coronavirus infections in the past 24 hours, according to government figures reported Sunday.   The daily rise of 10,633 new cases is the highest since the beginning of the outbreak in the country and brings the total of cases to almost 135,",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.voanews.com/covid-19-pandemic/russia-reports-record-daily-rise-new-coronavirus-cases",
+      "ampWebUrl": "https://www.voanews.com/covid-19-pandemic/russia-reports-record-daily-rise-new-coronavirus-cases?amp",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/covid-19-pandemic/russia-reports-record-daily-rise-new-coronavirus-cases?amp",
+      "publishedDateTime": "2020-05-03T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.voltron.voanews.com/Drupal/01live-166/2020-05/AP_20124435063022.jpg",
+          "width": 6230,
+          "height": 4153,
+          "title": "Russia Reports Record Daily Rise of New Coronavirus Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-live-updates-experts-warn-of-continuing-spread.md",
+      "title": "Coronavirus Live Updates: Experts Warn of Continuing Spread",
+      "excerpt": "Case counts are still rising in many states even as some are easing restrictions, raising the threat of a “slow burn.”",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/03/us/coronavirus-updates.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/03/us/coronavirus-updates.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/03/us/coronavirus-updates.amp.html",
+      "publishedDateTime": "2020-05-03T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nytimes.com/newsgraphics/2020/04/09/corona-virus-social-images-by-section/assets/US_promo.jpg?u=1588551155032",
+          "width": 1050,
+          "height": 549,
+          "title": "Coronavirus Live Updates: Experts Warn of Continuing Spread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Political Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-rpt-more-people-hit-china-roads-in-first-major-holiday-since-coronavirus-easing.md",
+      "title": "RPT-More people hit China roads in first major holiday since coronavirus easing",
+      "excerpt": "China's most populous cities saw a spike in outbound travellers, tourists and day-trippers on May 1, first day of a long holiday weekend, led by Wuhan, epicentre of the coronavirus epidemic that first struck the country late last year.",
+      "heat": 151,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-china-tourism-idUSL4N2CK03T",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2CK03T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2CK03T",
+      "publishedDateTime": "2020-05-03T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "RPT-More people hit China roads in first major holiday since coronavirus easing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-more-than-300000-uk-smokers-may-have-quit-owing-to-covid-19-fears.md",
+      "title": "More than 300,000 UK smokers may have quit owing to Covid-19 fears",
+      "excerpt": "Health groups welcome survey suggesting many have quit, are trying to or have cut down",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/society/2020/may/04/more-than-300000-uk-smokers-may-have-quit-owing-to-covid-19-fears",
+      "ampWebUrl": "https://amp.theguardian.com/society/2020/may/04/more-than-300000-uk-smokers-may-have-quit-owing-to-covid-19-fears",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/may/04/more-than-300000-uk-smokers-may-have-quit-owing-to-covid-19-fears",
+      "publishedDateTime": "2020-05-03T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/34bf8296e0fdd55ea35a35df51a9cf2d7ba58659/0_93_2036_1222/master/2036.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54436d11b3170b22c087e8302a6e5727",
+          "width": 600,
+          "height": 360,
+          "title": "More than 300,000 UK smokers may have quit owing to Covid-19 fears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-new-mexico-start-ups-face-tough-times-despite-support-system.md",
+      "title": "New Mexico start-ups face tough times despite support system",
+      "excerpt": "After the Great Recession pummeled the economy in 2008-2009, venture investment in New Mexico ground to a near halt as struggling venture-backed startups crashed and burned and investors hunkered down to await better times.",
+      "heat": null,
+      "tags": [
+        "US-NM"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/article/New-Mexico-start-ups-face-tough-times-despite-15243393.php",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/New-Mexico-start-ups-face-tough-times-despite-15243393.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/New-Mexico-start-ups-face-tough-times-despite-15243393.php",
+      "publishedDateTime": "2020-05-03T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "New Mexico start-ups face tough times despite support system",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-rapid-test-for-coronavirus-recalled-after-health-canada-expresses-concerns.md",
+      "title": "Rapid test for coronavirus recalled after Health Canada expresses concerns",
+      "excerpt": "OTTAWA– A rapid test developed for COVID-19 has experienced a setback. Ottawa’s Spartan Bioscience says it is voluntarily recalling its COVID-19 product and performing additional studies after Health Canada expressed some concerns Friday.",
+      "heat": 128,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://toronto.citynews.ca/2020/05/03/rapid-test-for-coronavirus-recalled-after-health-canada-expresses-concerns/",
+      "ampWebUrl": "https://toronto.citynews.ca/2020/05/03/rapid-test-for-coronavirus-recalled-after-health-canada-expresses-concerns/amp/",
+      "cdnAmpWebUrl": "https://toronto-citynews-ca.cdn.ampproject.org/c/s/toronto.citynews.ca/2020/05/03/rapid-test-for-coronavirus-recalled-after-health-canada-expresses-concerns/amp/",
+      "publishedDateTime": "2020-05-03T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City News",
+        "domain": "citynews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2020/04/RJB10258024.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Rapid test for coronavirus recalled after Health Canada expresses concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-dhs-report-accuses-china-of-hiding-coronavirus-info-so-it-could-hoard-supplies.md",
+      "title": "DHS report accuses China of hiding coronavirus info so it could hoard supplies",
+      "excerpt": "The report says that in January of this year, Beijing dramatically increased its imports and decreased its exports of medical supplies.",
+      "heat": 141,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/05/03/dhs-china-hiding-coronavirus-info-supplies-233185",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/32/0a/d4ae7ee3464c9247e5c96d8c24d7/20200503-supplies-china-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "DHS report accuses China of hiding coronavirus info so it could hoard supplies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-reporters-notebook-as-coronavirus-sparks-changes-dc-blame-game-intensifies.md",
+      "title": "Reporter's Notebook: As coronavirus sparks changes, DC blame game intensifies",
+      "excerpt": "People have been scrambling to better understand how the coronavirus would affect campaigns in this election year -- but it's clear the finger-pointing has intensified.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/coronavirus-washington-trump-house-blame-game-pergram",
+      "ampWebUrl": "https://www.foxnews.com/politics/coronavirus-washington-trump-house-blame-game-pergram.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-washington-trump-house-blame-game-pergram.amp",
+      "publishedDateTime": "2020-05-03T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f4e7adc-f2a2-42f3-8907-d3a5a9479180/dcabfbae-cc99-483b-bd5f-7d56a2bd851c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Reporter's Notebook: As coronavirus sparks changes, DC blame game intensifies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Political Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-us-coronavirus-rules-ease-but-new-cases-rise.md",
+      "title": "U.S. coronavirus rules ease, but new cases rise",
+      "excerpt": "Governors around the U.S. are grappling with the push-and-pull between easing pandemic restrictions and extending them, as reported coronavirus",
+      "heat": 170,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/us-coronavirus-rules-ease-but-new-cases-rise-2020-05-03",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/99D6F603-C0AC-4BAC-AB94-849CE7FBC124",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/99D6F603-C0AC-4BAC-AB94-849CE7FBC124",
+      "publishedDateTime": "2020-05-03T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-trades-newfoundland-and-labrador-slams-government-for-allowing-out-of-province-workers-during-pandemic.md",
+      "title": "Trades Newfoundland and Labrador slams government for allowing out-of-province workers during pandemic",
+      "excerpt": "Some local contractors and tradespeople continue to raise concerns about workers from outside the province being exempted from self-quarantine rules applied to other travellers. Specifically, construction workers who arrive from other parts of Canada are required to self-isolate on off-hours for 14 days but can work on site.",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-NL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thetelegram.com/business/local-business/trades-newfoundland-and-labrador-slams-government-for-allowing-out-of-province-workers-during-pandemic-445181/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegram",
+        "domain": "thetelegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetelegram.com/media/photologue/photos/cache/trades-newfoundland-and-labrador-slams-government-for-allowing-out-of-_4KDCza5_medium.jpg",
+          "width": 458,
+          "height": 305,
+          "title": "Trades Newfoundland and Labrador slams government for allowing out-of-province workers during pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-china-imprisons-ex-journalist-for-15-years-to-punish-him-for-his-political-speech-activists-say.md",
+      "title": "China imprisons ex-journalist for 15 years to 'punish him for his political speech,' activists say",
+      "excerpt": "A Chinese former journalist has been sentenced to 15 years in prison on allegations that he attacked China’s ruling Communist Party, activists say.",
+      "heat": 116,
+      "tags": [
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/china-imprisons-ex-journalist-15-years-punish-political-speech",
+      "ampWebUrl": "https://www.foxnews.com/world/china-imprisons-ex-journalist-15-years-punish-political-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-imprisons-ex-journalist-15-years-punish-political-speech.amp",
+      "publishedDateTime": "2020-05-03T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Chen-Jieren.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "China imprisons ex-journalist for 15 years to 'punish him for his political speech,' activists say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-pompeo-ties-coronavirus-to-china-lab-despite-spy-agencies-uncertainty.md",
+      "title": "Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertainty",
+      "excerpt": "The secretary of state cited “enormous evidence” that the virus came from a research laboratory in Wuhan, backing an assertion by President Trump.",
+      "heat": 145,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/03/us/politics/coronavirus-pompeo-wuhan-china-lab.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/03/us/politics/coronavirus-pompeo-wuhan-china-lab.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/03/us/politics/coronavirus-pompeo-wuhan-china-lab.amp.html",
+      "publishedDateTime": "2020-05-03T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/03/us/politics/03dc-virus-pompeo1/03dc-virus-pompeo1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertainty",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-white-house-officials-blame-china-for-coronavirus-pandemic.md",
+      "title": "White House officials blame China for coronavirus pandemic",
+      "excerpt": "Trump administration officials continued to blame China on Sunday for the global coronavirus pandemic. and subsequent economic fallout. This comes as mixed messages surface about reopening the U.S. economy.",
+      "heat": 125,
+      "tags": [
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/video/white-house-officials-blame-china-for-coronavirus-pandemic/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/05/03/18a8690a-5792-4d0e-adbd-681aee2ecc06/thumbnail/1200x630/3dbe4d8792a038db38b4416821fa9075/cbsn-fusion-white-house-officials-blame-china-for-coronavirus-pandemic-thumbnail-478958-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "White House officials blame China for coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 61
+}

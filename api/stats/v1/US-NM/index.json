@@ -1,0 +1,1189 @@
+{
+  "location": {
+    "long": -105.032363,
+    "countryOrRegion": "United States",
+    "provinceOrState": "New Mexico",
+    "county": null,
+    "isoCode": "US-NM",
+    "lat": 34.97273
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.9211229Z",
+  "stats": {
+    "totalConfirmedCases": 4778,
+    "newlyConfirmedCases": 102,
+    "totalDeaths": 191,
+    "newDeaths": 10,
+    "totalRecoveredCases": 1125,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 17,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 21,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 23,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 28,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 35,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 43,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 57,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 65,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 83,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 100,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 113,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 136,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 191,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 208,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 237,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 281,
+        "deaths": 4,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 316,
+        "deaths": 5,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 363,
+        "deaths": 6,
+        "recovered": 26
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 403,
+        "deaths": 7,
+        "recovered": 26
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 495,
+        "deaths": 10,
+        "recovered": 26
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 543,
+        "deaths": 11,
+        "recovered": 26
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 624,
+        "deaths": 12,
+        "recovered": 26
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 686,
+        "deaths": 12,
+        "recovered": 133
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 794,
+        "deaths": 13,
+        "recovered": 133
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 865,
+        "deaths": 16,
+        "recovered": 171
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 989,
+        "deaths": 17,
+        "recovered": 171
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 1091,
+        "deaths": 19,
+        "recovered": 171
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 1174,
+        "deaths": 20,
+        "recovered": 235
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 1245,
+        "deaths": 26,
+        "recovered": 235
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 1345,
+        "deaths": 31,
+        "recovered": 235
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 1407,
+        "deaths": 36,
+        "recovered": 340
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 1484,
+        "deaths": 36,
+        "recovered": 353
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 1597,
+        "deaths": 44,
+        "recovered": 353
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 1711,
+        "deaths": 51,
+        "recovered": 382
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 1798,
+        "deaths": 53,
+        "recovered": 465
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 1845,
+        "deaths": 55,
+        "recovered": 465
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 1971,
+        "deaths": 58,
+        "recovered": 465
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 2072,
+        "deaths": 65,
+        "recovered": 529
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 2210,
+        "deaths": 71,
+        "recovered": 529
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 2379,
+        "deaths": 78,
+        "recovered": 529
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 2468,
+        "deaths": 79,
+        "recovered": 529
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 2663,
+        "deaths": 93,
+        "recovered": 614
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 2729,
+        "deaths": 99,
+        "recovered": 650
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 2828,
+        "deaths": 104,
+        "recovered": 650
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 2977,
+        "deaths": 110,
+        "recovered": 705
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 3215,
+        "deaths": 112,
+        "recovered": 705
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 3413,
+        "deaths": 123,
+        "recovered": 760
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 3568,
+        "deaths": 130,
+        "recovered": 760
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 3733,
+        "deaths": 139,
+        "recovered": 760
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 3851,
+        "deaths": 151,
+        "recovered": 760
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 4033,
+        "deaths": 156,
+        "recovered": 760
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 4140,
+        "deaths": 162,
+        "recovered": 964
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 4293,
+        "deaths": 169,
+        "recovered": 1073
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 4496,
+        "deaths": 172,
+        "recovered": 1073
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 4676,
+        "deaths": 181,
+        "recovered": 1125
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 4778,
+        "deaths": 191,
+        "recovered": 1125
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -106.6291,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Bernalillo",
+          "isoCode": "US-NM",
+          "lat": 35.0178
+        },
+        "totalConfirmedCases": 1050,
+        "newlyConfirmedCases": 20,
+        "totalDeaths": 46,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.3285,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Chaves",
+          "isoCode": "US-NM",
+          "lat": 33.1146
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.5676,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Cibola",
+          "isoCode": "US-NM",
+          "lat": 35.0659
+        },
+        "totalConfirmedCases": 86,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.3157,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Curry",
+          "isoCode": "US-NM",
+          "lat": 34.8217
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.3739,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Eddy",
+          "isoCode": "US-NM",
+          "lat": 32.1767
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.2009,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Lea",
+          "isoCode": "US-NM",
+          "lat": 32.4465
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.8484,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "McKinley",
+          "isoCode": "US-NM",
+          "lat": 35.0708
+        },
+        "totalConfirmedCases": 1508,
+        "newlyConfirmedCases": 48,
+        "totalDeaths": 40,
+        "newDeaths": 4,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.4245,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Rio Arriba",
+          "isoCode": "US-NM",
+          "lat": 36.1769
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.1071,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Roosevelt",
+          "isoCode": "US-NM",
+          "lat": 33.8609
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.7082,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "San Juan",
+          "isoCode": "US-NM",
+          "lat": 36.2834
+        },
+        "totalConfirmedCases": 1015,
+        "newlyConfirmedCases": 26,
+        "totalDeaths": 69,
+        "newDeaths": 5,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.3913,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "San Miguel",
+          "isoCode": "US-NM",
+          "lat": 35.3037
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.6191,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Sandoval",
+          "isoCode": "US-NM",
+          "lat": 35.2366
+        },
+        "totalConfirmedCases": 452,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 20,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.9948,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Santa Fe",
+          "isoCode": "US-NM",
+          "lat": 35.8464
+        },
+        "totalConfirmedCases": 110,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.7235,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Socorro",
+          "isoCode": "US-NM",
+          "lat": 33.8837
+        },
+        "totalConfirmedCases": 48,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.4064,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Taos",
+          "isoCode": "US-NM",
+          "lat": 36.7041
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.6447,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Valencia",
+          "isoCode": "US-NM",
+          "lat": 34.7687
+        },
+        "totalConfirmedCases": 55,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.0313,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Torrance",
+          "isoCode": "US-NM",
+          "lat": 34.7669
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.859,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Otero",
+          "isoCode": "US-NM",
+          "lat": 33.1473
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.154,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Grant",
+          "isoCode": "US-NM",
+          "lat": 32.7773
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.7768,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Catron",
+          "isoCode": "US-NM",
+          "lat": 33.6757
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.5983,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Lincoln",
+          "isoCode": "US-NM",
+          "lat": 33.5392
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.2862,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Los Alamos",
+          "isoCode": "US-NM",
+          "lat": 35.8926
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.4396,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Colfax",
+          "isoCode": "US-NM",
+          "lat": 36.8849
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.7602,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Luna",
+          "isoCode": "US-NM",
+          "lat": 32.3161
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.7161,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Hidalgo",
+          "isoCode": "US-NM",
+          "lat": 32.3748
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.4449,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Quay",
+          "isoCode": "US-NM",
+          "lat": 35.3581
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.6769,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Guadalupe",
+          "isoCode": "US-NM",
+          "lat": 34.936
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.1963,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Harding",
+          "isoCode": "US-NM",
+          "lat": 35.9451
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.7234639,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Dona Ana",
+          "isoCode": "US-NM",
+          "lat": 32.485767
+        },
+        "totalConfirmedCases": 206,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.3587288,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Union",
+          "isoCode": "US-NM",
+          "lat": 36.3724334
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.1011931,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Sierra",
+          "isoCode": "US-NM",
+          "lat": 33.134596
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.3791912,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "De Baca",
+          "isoCode": "US-NM",
+          "lat": 34.2734196
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "location": {
+    "long": -85.3232,
+    "countryOrRegion": "Canada",
+    "provinceOrState": "Ontario",
+    "county": null,
+    "isoCode": "CA-ON",
+    "lat": 51.2538
+  },
+  "updatedDateTime": "2020-05-10T05:45:36.3894952Z",
+  "news": [
+    {
+      "path": "_news/2020-05-05-coronavirus-canada-updates-ontario-tops-18000-cases.md",
+      "title": "Coronavirus Canada updates: Ontario tops 18,000 cases",
+      "excerpt": "The province identified 387 new cases on Tuesday, a 2.2 per cent increase from the day before. It also reported 61 new deaths, bringing the total number of deaths in the province related to COVID-19 to 1,",
+      "heat": 100,
+      "tags": [
+        "CA",
+        "CA-ON",
+        "Canada-ON"
+      ],
+      "type": "article",
+      "webUrl": "https://www.lintelligencer.com/coronavirus-canada-updates-ontario-tops-18000-cases-3465-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lintelligencer",
+        "domain": "lintelligencer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.lintelligencer.com/wp-content/uploads/2020/05/Coronavirus-Canada-updates-Ontario-tops-18000-cases.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Coronavirus Canada updates: Ontario tops 18,000 cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-since-covid-19-emerged-how-many-people-have-died-in-ontario-they-wont-tell-us.md",
+      "title": "Since COVID-19 emerged, how many people have died in Ontario? They won’t tell us",
+      "excerpt": "Ontario is refusing to publicly release data that could reveal the number of people who died in the province since COVID-19 emerged.",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-ON",
+        "Canada-ON"
+      ],
+      "type": "article",
+      "webUrl": "https://www.stcatharinesstandard.ca/news-story/9971725-since-covid-19-emerged-how-many-people-have-died-in-ontario-they-won-t-tell-us/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Catharines Standard",
+        "domain": "stcatharinesstandard.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

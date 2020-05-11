@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: treatment
+name: Treatment
+shortname: Treatment
+parent: Coronavirus
+keywords:
+  - research
+  - treatment
+  - test
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/treatment.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/treatment-2.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/treatment/

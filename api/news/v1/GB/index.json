@@ -1,0 +1,1210 @@
+{
+  "location": {
+    "long": -3.0,
+    "countryOrRegion": "United Kingdom",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "GB",
+    "lat": 55.0
+  },
+  "updatedDateTime": "2020-05-10T05:45:40.644437Z",
+  "news": [
+    {
+      "path": "_news/2020-05-10-coronavirus-uk-sent-50000-covid-19-samples-to-us-for-testing.md",
+      "title": "Coronavirus: UK sent 50,000 Covid-19 samples to US for testing",
+      "excerpt": "The government has admitted sending about 50,000 coronavirus tests to the US last week for processing after \"operational issues\" in UK labs. The Department of Health said sending swabs abroad are among the contingencies to deal with \"teething problems\".",
+      "heat": 120,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-52603566",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-52603566",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-52603566",
+      "publishedDateTime": "2020-05-09T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F6CD/production/_112218136_gettyimages-1210981020.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: UK sent 50,000 Covid-19 samples to US for testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-london-stocks-slide-as-trump-threatens-china-over-pandemic.md",
+      "title": "London stocks slide as Trump threatens China over pandemic",
+      "excerpt": "A slump in energy firms led London-listed stocks lower on Friday, with sentiment also dented by U.S. President Donald Trump's threat to impose new tariffs on China over the coronavirus crisis.",
+      "heat": 110,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/uk-britain-stocks-idUKKBN22D4Q0",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN22D4Q0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN22D4Q0",
+      "publishedDateTime": "2020-05-09T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200501&t=2&i=1517125064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG402VZ",
+          "width": 817,
+          "height": 545,
+          "title": "London stocks slide as Trump threatens China over pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-uk-coronavirus-death-toll-rises-to-31587.md",
+      "title": "UK coronavirus death toll rises to 31,587",
+      "excerpt": "The death toll from coronavirus in Britain has risen to 31,587, an increase of 346 in a 24-hour period, Transport Minister Grant Shapps said at the government's daily news briefing.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-toll-idUSKBN22L0NT",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22L0NT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22L0NT",
+      "publishedDateTime": "2020-05-09T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200509&t=2&i=1518044322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG480KD",
+          "width": 867,
+          "height": 545,
+          "title": "UK coronavirus death toll rises to 31,587",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-huge-rise-in-fake-goods-and-scams-amid-coronavirus-lockdown-say-uk-councils.md",
+      "title": "Huge rise in fake goods and scams amid coronavirus lockdown, say UK councils",
+      "excerpt": "Complaints soar over useless face masks, handmade sanitisers and school meal scams",
+      "heat": 102,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/uk-news/2020/may/09/huge-rise-in-fake-goods-and-scams-amid-coronavirus-lockdown-say-uk-councils",
+      "ampWebUrl": "https://amp.theguardian.com/uk-news/2020/may/09/huge-rise-in-fake-goods-and-scams-amid-coronavirus-lockdown-say-uk-councils",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/may/09/huge-rise-in-fake-goods-and-scams-amid-coronavirus-lockdown-say-uk-councils",
+      "publishedDateTime": "2020-05-08T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b75470060cb502048806ed43cba11e9b4336569f/0_0_7000_4200/master/7000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=618e044018b7cb497107ccd50833c0d3",
+          "width": 600,
+          "height": 360,
+          "title": "Huge rise in fake goods and scams amid coronavirus lockdown, say UK councils",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-uk-has-europes-highest-official-coronavirus-death-toll.md",
+      "title": "UK has Europe's highest official coronavirus death toll",
+      "excerpt": "Clinical staff wear Personal Protective Equipment (PPE) as they care for a patent at the Intensive Care unit at Royal Papworth Hospital, during the coronavirus disease (COVID-19) outbreak, in Cambridg",
+      "heat": 145,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/news/picture/uk-has-europes-highest-official-coronavi-idUSRTX7HGFD",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517945063&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-05-08T132716Z_35495_MRPRC2JIG9SOI2K_RTRMADP_0_HEALTH-CORONAVIRUS-BRITAIN",
+          "width": 810,
+          "height": 540,
+          "title": "UK has Europe's highest official coronavirus death toll",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-not-yet-safe-for-schools-to-reopen-in-uk-coronavirus-crisis-unions-warn.md",
+      "title": "Not yet safe for schools to reopen in UK coronavirus crisis, unions warn",
+      "excerpt": "TUC demands ‘no increase in pupil numbers until full rollout of national test and trace scheme’",
+      "heat": 164,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/education/2020/may/08/not-yet-safe-for-schools-to-reopen-in-uk-coronavirus-crisis-unions-warn",
+      "ampWebUrl": "https://amp.theguardian.com/education/2020/may/08/not-yet-safe-for-schools-to-reopen-in-uk-coronavirus-crisis-unions-warn",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2020/may/08/not-yet-safe-for-schools-to-reopen-in-uk-coronavirus-crisis-unions-warn",
+      "publishedDateTime": "2020-05-08T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f7723c22767e0f7adb0ac00497a6e39023669828/0_508_4032_2419/master/4032.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f419bcdc2217716ce04c96023d7ce56",
+          "width": 600,
+          "height": 360,
+          "title": "Not yet safe for schools to reopen in UK coronavirus crisis, unions warn",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-uk-coronavirus-live-britain-marks-ve-day-anniversary-under-lockdown.md",
+      "title": "UK coronavirus live: Britain marks VE Day anniversary under lockdown",
+      "excerpt": "Boris Johnson’s ‘roadmap’ to ease lockdown restrictions",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/politics/live/2020/may/08/uk-coronavirus-live-britain-ve-day-anniversary-lockdown-covid-19-latest-updates",
+      "ampWebUrl": "https://amp.theguardian.com/politics/live/2020/may/08/uk-coronavirus-live-britain-ve-day-anniversary-lockdown-covid-19-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2020/may/08/uk-coronavirus-live-britain-ve-day-anniversary-lockdown-covid-19-latest-updates",
+      "publishedDateTime": "2020-05-08T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ab7b65b6a2b7c2e371b8095e1cc7bdd9b1618a34/0_53_5370_3222/master/5370.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1c831aa7e0fb50d14fc22165455ecf2c",
+          "width": 600,
+          "height": 360,
+          "title": "UK coronavirus live: Britain marks VE Day anniversary under lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-democrats-demand-details-of-trump-organization-requests-for-uk-coronavirus-aid.md",
+      "title": "Democrats demand details of Trump Organization requests for UK coronavirus aid",
+      "excerpt": "Head of oversight and reform committee suggests move to seek overseas funding was potentially a violation of the US constitution",
+      "heat": 101,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/us-news/2020/may/08/democrats-demand-details-of-trump-organization-requests-for-uk-coronavirus-aid",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/may/08/democrats-demand-details-of-trump-organization-requests-for-uk-coronavirus-aid",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/may/08/democrats-demand-details-of-trump-organization-requests-for-uk-coronavirus-aid",
+      "publishedDateTime": "2020-05-07T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d68a652611ef3bc45365c60dcf9340d9aecd8628/0_0_5395_3239/master/5395.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ab105b8b86afc9d63b6a341cec0b37ab",
+          "width": 600,
+          "height": 360,
+          "title": "Democrats demand details of Trump Organization requests for UK coronavirus aid",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-uk-pm-johnson-to-proceed-with-maximum-caution-in-coronavirus-response.md",
+      "title": "UK PM Johnson to proceed with 'maximum caution' in coronavirus response",
+      "excerpt": "British Prime Minister Boris Johnson will proceed with maximum caution as he looks to the next phase of the government's response to the coronavirus, a spokesman from his office said on Thursday.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-johnson-ca-idUSKBN22J2JA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22J2JA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22J2JA",
+      "publishedDateTime": "2020-05-07T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200507&t=2&i=1517828082&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG461J5",
+          "width": 817,
+          "height": 545,
+          "title": "UK PM Johnson to proceed with 'maximum caution' in coronavirus response",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-ty-mercury-prize-nominated-uk-rapper-dies-aged-47-of-coronavirus.md",
+      "title": "Ty, Mercury prize-nominated UK rapper, dies aged 47 of coronavirus",
+      "excerpt": "Rapper who recorded acclaimed albums including Upward and Awkward had been put in medically induced coma",
+      "heat": 115,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/music/2020/may/07/ty-mercury-prize-nominated-uk-rapper-dies-aged-47-of-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/music/2020/may/07/ty-mercury-prize-nominated-uk-rapper-dies-aged-47-of-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2020/may/07/ty-mercury-prize-nominated-uk-rapper-dies-aged-47-of-coronavirus",
+      "publishedDateTime": "2020-05-07T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5af12b11d308ee33610a9dc614cecd43dd2b87b3/1174_242_3976_2388/master/3976.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4ddb0973e0978c2d47ad6c6e137c41d2",
+          "width": 600,
+          "height": 360,
+          "title": "Ty, Mercury prize-nominated UK rapper, dies aged 47 of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-ministers-unfulfilled-coronavirus-promises-eroding-uk-public-trust.md",
+      "title": "Ministers' unfulfilled coronavirus promises eroding UK public trust",
+      "excerpt": "NHS insiders say commitments on PPE and testing that fail to materialise also harming faith of frontline workers",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/07/ministers-unfulfilled-coronavirus-promises-eroding-uk-public-trust",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/07/ministers-unfulfilled-coronavirus-promises-eroding-uk-public-trust",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/07/ministers-unfulfilled-coronavirus-promises-eroding-uk-public-trust",
+      "publishedDateTime": "2020-05-07T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/89a19a36f33f392f89d4a197a6a52f42940a6acd/758_381_1939_1163/master/1939.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9017a0c0019c9960ed44d902dfd3297e",
+          "width": 600,
+          "height": 360,
+          "title": "Ministers' unfulfilled coronavirus promises eroding UK public trust",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-big-insurers-face-fresh-coronavirus-claim-threat-from-uk-hospitality-sector.md",
+      "title": "Big insurers face fresh coronavirus claim threat from UK hospitality sector",
+      "excerpt": "Top insurers such as AXA , RSA , QBE and Zurich face a potential multi-million pound lawsuit from British pubs, hotels, restaurants and leisure groups, who allege that legitimate business interruption claims have been rejected.",
+      "heat": 103,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-insurers-idUSKBN22B2QI",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22B2QI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B2QI",
+      "publishedDateTime": "2020-05-07T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516903550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S1S9",
+          "width": 817,
+          "height": 545,
+          "title": "Big insurers face fresh coronavirus claim threat from UK hospitality sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-coronavirus-uk-latest-deaths-confirmed-cases-and-which-regions-are-hardest-hit.md",
+      "title": "Coronavirus UK: latest deaths, confirmed cases – and which regions are hardest hit?",
+      "excerpt": "Latest figures from public health authorities on the spread of Covid-19 in the United Kingdom. Find out how many confirmed cases have been reported in each of England’s local authorities",
+      "heat": 109,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/07/coronavirus-uk-latest-deaths-confirmed-cases-and-which-regions-are-hardest-hit",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/07/coronavirus-uk-latest-deaths-confirmed-cases-and-which-regions-are-hardest-hit",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/07/coronavirus-uk-latest-deaths-confirmed-cases-and-which-regions-are-hardest-hit",
+      "publishedDateTime": "2020-05-07T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/590c16310dae114e6a2691478885130e93329cef/320_0_1505_904/master/1505.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39b5eba18a6ff9200b2ada67893dba26",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus UK: latest deaths, confirmed cases – and which regions are hardest hit?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-black-people-in-the-uk-four-times-more-likely-to-die-from-covid-19-than-white-people-new-data-shows.md",
+      "title": "Black people in the UK four times more likely to die from Covid-19 than white people, new data shows",
+      "excerpt": "Black people in the UK are four times more likely to die from Covid-19 than white people and a number of other ethnic groups are also at an increased risk, according to new data released Thursday.",
+      "heat": 100,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/07/uk/uk-coronavirus-ethnicity-deaths-ons-scli-gbr-intl/index.html?bt_ee=Wc1TSXP59B7wGO97Ub9QtRkXdlZFR%2BLauIC1Xv5LoHCjrAMMzuejD%2FbG2%2FbHI2sD&bt_ts=1588932948152",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/07/uk/uk-coronavirus-ethnicity-deaths-ons-scli-gbr-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/07/uk/uk-coronavirus-ethnicity-deaths-ons-scli-gbr-intl/index.html",
+      "publishedDateTime": "2020-05-07T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200507102901-uk-ambulance-coronavirus-0410-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Black people in the UK four times more likely to die from Covid-19 than white people, new data shows",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-stop-using-coronavirus-powers-to-neglect-care-duties-uk-councils-told.md",
+      "title": "Stop using coronavirus powers to neglect care duties, UK councils told",
+      "excerpt": "Invoking ‘easements’ of duties towards vulnerable people may be unlawful, say campaigners",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/society/2020/may/07/stop-using-coronavirus-powers-to-neglect-care-duties-uk-councils-told",
+      "ampWebUrl": "https://amp.theguardian.com/society/2020/may/07/stop-using-coronavirus-powers-to-neglect-care-duties-uk-councils-told",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/may/07/stop-using-coronavirus-powers-to-neglect-care-duties-uk-councils-told",
+      "publishedDateTime": "2020-05-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5049f27f857537bac493fd2eb633393566965dc2/0_251_5368_3222/master/5368.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=15a5935d1f41eabf16f3784672127fdf",
+          "width": 600,
+          "height": 360,
+          "title": "Stop using coronavirus powers to neglect care duties, UK councils told",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-uk-banks-lending-to-covid-19-hit-firms-rises-to-55-bln-pounds.md",
+      "title": "UK banks' lending to COVID-19-hit firms rises to 5.5 bln pounds",
+      "excerpt": "British banks' lending to firms hit by the coronavirus under the government's main loan guarantee scheme for small and medium-sized firms has risen to 5.5 billion pounds ($6.8 billion) from 4.1 billion pounds last week,",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-britain-loans-idUSS8N2C807K",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSS8N2C807K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSS8N2C807K",
+      "publishedDateTime": "2020-05-07T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UK banks' lending to COVID-19-hit firms rises to 5.5 bln pounds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-coronavirus-uk-detention-centres-emptied-in-weeks.md",
+      "title": "Coronavirus: UK detention centres 'emptied in weeks'",
+      "excerpt": "The number of people held in UK immigration removal centres has dropped by more than two thirds during the pandemic, figures reveal. More than 700 detainees were released between 16 March and 21 April as the government responded to concerns about the spread of infection.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-52560093",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/uk-52560093",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-52560093",
+      "publishedDateTime": "2020-05-07T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/CE8C/production/_112167825_pa-48014900.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: UK detention centres 'emptied in weeks'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-londons-temples-of-gastronomy-improvise-to-survive-covid-19.md",
+      "title": "London's \"temples of gastronomy\" improvise to survive COVID-19",
+      "excerpt": "Andrew Wong knew from an early age that running a restaurant required improvisation, having watched his parents steer their London Chinese restaurant through nearly 30 years of good times and bad.",
+      "heat": null,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-restaurant-idUSKBN22J0TU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22J0TU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22J0TU",
+      "publishedDateTime": "2020-05-07T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200507&t=2&i=1517768015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG460ES",
+          "width": 772,
+          "height": 545,
+          "title": "London's \"temples of gastronomy\" improvise to survive COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-uk-misses-covid-19-testing-target-for-fourth-day-running.md",
+      "title": "UK misses COVID-19 testing target for fourth day running",
+      "excerpt": "Britain failed to meet its target of conducting 100,000 daily COVID-19 tests for a fourth day running, data released on Wednesday showed, as questions persist over the way it briefly manage to do so at the end of April.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-testing-idUSKBN22I2RO",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I2RO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I2RO",
+      "publishedDateTime": "2020-05-06T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517699033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG451S9",
+          "width": 861,
+          "height": 545,
+          "title": "UK misses COVID-19 testing target for fourth day running",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-the-uk-governments-changing-coronavirus-strategy.md",
+      "title": "The UK government's changing coronavirus strategy",
+      "excerpt": "Public messaging over testing, herd immunity, death toll and PPE sometimes changed within days",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/06/the-uk-governments-changing-coronavirus-strategy",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/06/the-uk-governments-changing-coronavirus-strategy",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/06/the-uk-governments-changing-coronavirus-strategy",
+      "publishedDateTime": "2020-05-06T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/bbb31269254c1a26fb89ef00d1a9c81188d0e0f3/261_113_2859_1716/master/2859.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e00b28644c8078a6300e5db74c501b8e",
+          "width": 600,
+          "height": 360,
+          "title": "The UK government's changing coronavirus strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-sizewell-b-could-cut-power-output-as-uk-energy-demand-slumps.md",
+      "title": "Coronavirus: Sizewell B could cut power output as UK energy demand slumps",
+      "excerpt": "The UK's most modern nuclear power station could be partially powered down as the National Grid looks to manage lower energy demands. EDF Energy is in discussions to reduce the output at its Sizewell B plant in Suffolk to balance a 20% drop in energy use caused by the coronavirus lockdown.",
+      "heat": 104,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-england-suffolk-52566082",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-england-suffolk-52566082",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-suffolk-52566082",
+      "publishedDateTime": "2020-05-06T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/3845/production/_107850441_dscf1418.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Sizewell B could cut power output as UK energy demand slumps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-uk-coronavirus-live-official-death-toll-rises-to-30076-as-649-more-people-die.md",
+      "title": "UK coronavirus live: official death toll rises to 30,076 as 649 more people die",
+      "excerpt": "Robert Jenrick holds daily briefing as daily number of tests stands at 69,463; PM says some lockdown easing to come on Monday",
+      "heat": 161,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/politics/live/2020/may/06/uk-coronavirus-live-furlough-scheme-government-ease-lockdown-pmqs-covid-19-latest-updates",
+      "ampWebUrl": "https://amp.theguardian.com/politics/live/2020/may/06/uk-coronavirus-live-furlough-scheme-government-ease-lockdown-pmqs-covid-19-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2020/may/06/uk-coronavirus-live-furlough-scheme-government-ease-lockdown-pmqs-covid-19-latest-updates",
+      "publishedDateTime": "2020-05-06T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/03f02f6847b3b275178817820b13bd9164c0fbbd/0_788_4824_2894/master/4824.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0fe64a94892dbd6bde8850cbbe9486b",
+          "width": 600,
+          "height": 360,
+          "title": "UK coronavirus live: official death toll rises to 30,076 as 649 more people die",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-uk-could-start-lifting-coronavirus-lockdown-measures-from-monday-pm-says.md",
+      "title": "UK could start lifting coronavirus lockdown measures from Monday, PM says",
+      "excerpt": "\"We will want, if we possibly can, to get going with some of these measures on Monday,\" Johnson told Parliament.",
+      "heat": 104,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/06/boris-johnson-uk-could-start-lifting-coronavirus-lockdown-from-monday.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/06/boris-johnson-uk-could-start-lifting-coronavirus-lockdown-from-monday.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/06/boris-johnson-uk-could-start-lifting-coronavirus-lockdown-from-monday.html",
+      "publishedDateTime": "2020-05-06T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106523180-1588773571058gettyimages-1211915621.jpeg?v=1588773703",
+          "width": 3445,
+          "height": 2297,
+          "title": "UK could start lifting coronavirus lockdown measures from Monday, PM says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-pmqs-starmer-and-johnson-on-uk-coronavirus-death-rates.md",
+      "title": "PMQs: Starmer and Johnson on UK coronavirus death rates",
+      "excerpt": "The Labour leader says the UK's coronavirus death figures are “not success or apparent success“.",
+      "heat": 145,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/av/uk-politics-52562188/pmqs-starmer-and-johnson-on-uk-coronavirus-death-rates",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/DB7A/production/_112168165_p08cfs9g.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "PMQs: Starmer and Johnson on UK coronavirus death rates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-london-stocks-dip-as-coronavirus-damage-mounts.md",
+      "title": "London stocks dip as coronavirus damage mounts",
+      "excerpt": "UK stocks slipped on Wednesday as another round of gloomy quarterly earnings reports underlined the business damage from the COVID-19 pandemic, with investors also wary of growing U.S-China tensions over the origin of the coronavirus.",
+      "heat": null,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/britain-stocks/london-stocks-dip-as-coronavirus-damage-mounts-idUSL4N2CO16Y",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2CO16Y",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2CO16Y",
+      "publishedDateTime": "2020-05-06T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "London stocks dip as coronavirus damage mounts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-updates-uk-death-toll-from-covid-19-becomes-highest-in-europe.md",
+      "title": "Coronavirus updates: UK death toll from COVID-19 becomes highest in Europe",
+      "excerpt": "A pandemic of the novel coronavirus has now killed over a quarter of a million people worldwide. More than 3.6 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,",
+      "heat": 148,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Health/coronavirus-updates-uk-death-toll-covid-19-highest/story?id=70528037",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/coronavirus-updates-uk-death-toll-covid-19-highest/story?id=70528037",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/coronavirus-updates-uk-death-toll-covid-19-highest/story?id=70528037",
+      "publishedDateTime": "2020-05-06T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/woman-wears-mask-westminster-bridge-london-ap-2005_hpMain_20200506-041610_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "Coronavirus updates: UK death toll from COVID-19 becomes highest in Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-uk-faces-bumpy-ride-on-inflation-as-covid-hits-price-data.md",
+      "title": "UK faces bumpy ride on inflation as COVID hits price data",
+      "excerpt": "Britain will likely offer some volatile inflation readings in the months ahead because the coronavirus shutdown has prevented statisticians from getting any prices on a wide range items including pints of draft beer,",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-ons-idUSKBN22I0VZ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I0VZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I0VZ",
+      "publishedDateTime": "2020-05-06T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517624594&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG450H8",
+          "width": 726,
+          "height": 545,
+          "title": "UK faces bumpy ride on inflation as COVID hits price data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-us-uk-launch-post-brexit-trade-negotiations-amid-coronavirus.md",
+      "title": "US, UK launch post-Brexit trade negotiations amid coronavirus",
+      "excerpt": "Negotiators for the U.S. and the UK opened talks for a new trade agreement via teleconference Tuesday, despite postponements caused by the coronavirus pandemic, in hopes of establishing a post-Brexit economic boost.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/us-uk-launch-post-brexit-trade-negotiations-amid-coronavirus",
+      "ampWebUrl": "https://www.foxnews.com/politics/us-uk-launch-post-brexit-trade-negotiations-amid-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-uk-launch-post-brexit-trade-negotiations-amid-coronavirus.amp",
+      "publishedDateTime": "2020-05-05T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": "US, UK launch post-Brexit trade negotiations amid coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-uk-coronavirus-death-toll-passes-32000.md",
+      "title": "UK coronavirus death toll passes 32,000",
+      "excerpt": "Watch \"UK coronavirus death toll passes 32,000\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "heat": null,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/live/video/20200506044711-uk-coronavirus-death-toll-passes-32000/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-uk-coronavirus-adviser-resigns-after-reports-his-lover-visited-during-lockdown.md",
+      "title": "UK coronavirus adviser resigns after reports his lover visited during lockdown",
+      "excerpt": "A leading UK epidemiologist resigned from his government post on Tuesday after the Telegraph newspaper reported a woman's visits to his home broke the lockdown rules he helped shape.",
+      "heat": 101,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/05/uk/neil-ferguson-imperial-coronavirus-sage-gbr-intl/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/05/uk/neil-ferguson-imperial-coronavirus-sage-gbr-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/uk/neil-ferguson-imperial-coronavirus-sage-gbr-intl/index.html",
+      "publishedDateTime": "2020-05-05T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200505161137-professor-neil-ferguson-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UK coronavirus adviser resigns after reports his lover visited during lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

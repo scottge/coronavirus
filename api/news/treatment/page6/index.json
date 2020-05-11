@@ -1,0 +1,117 @@
+{
+  "page": 6,
+  "value": [
+    {
+      "path": "_news/2020-04-21-mayo-clinic-leads-research-on-encouraging-plasma-treatment-for-covid-19.md",
+      "title": "Mayo Clinic leads research on 'encouraging' plasma treatment for COVID-19",
+      "excerpt": "(FOX 9) - As more people become infected with the coronavirus, one of the therapies the FDA is exploring is the use of convalescent blood plasma from people who have already recovered. The Mayo Clinic is leading the research on behalf of the FDA and, so far, the results are encouraging. It all begins with the blood. In theory, the antibody-rich ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fox9.com/news/mayo-clinic-leads-research-on-encouraging-plasma-treatment-for-covid-19",
+      "ampWebUrl": "https://www.fox9.com/news/mayo-clinic-leads-research-on-encouraging-plasma-treatment-for-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/mayo-clinic-leads-research-on-encouraging-plasma-treatment-for-covid-19.amp",
+      "publishedDateTime": "2020-04-20T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 9",
+        "domain": "fox9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/04/932/470/donate.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": "Mayo Clinic leads research on 'encouraging' plasma treatment for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-coronavirus-plasma-treatment-to-be-trialled.md",
+      "title": "Coronavirus: Plasma treatment to be trialled",
+      "excerpt": "NHSBT is now approaching patients who have recovered from Covid-19 to see if plasma from them can be given to people who are currently ill with the virus. A statement from the organisation said: \"We envisage that this will be initially used in trials as a possible treatment for Covid-19. \"If fully approved, the trials will investigate whether ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.co.uk/news/health-52348368",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-19T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-can-gilead-sciences-coronavirus-gains-continue.md",
+      "title": "Can Gilead Sciences’ Coronavirus Gains Continue?",
+      "excerpt": "Gilead Sciences (NASDAQ:GILD) has climbed 18% this year as investors applauded its investigational coronavirus treatment, remdesivir. Though the gain may seem impressive, it's far less than shares of clinical-stage biotech companies working on vaccines or therapies for COVID-19, the illness caused by the novel coronavirus. Shares such as Inovio ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/19/can-gilead-sciences-coronavirus-gains-continue.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-19T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/568397/gettyimages-1201511735.jpg",
+          "width": 2123,
+          "height": 1411,
+          "title": "Can Gilead Sciences’ Coronavirus Gains Continue?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": null
+}

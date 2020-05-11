@@ -1,0 +1,2213 @@
+{
+  "location": {
+    "long": -86.580447,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Tennessee",
+    "county": null,
+    "isoCode": "US-TN",
+    "lat": 35.517491
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.7909473Z",
+  "stats": {
+    "totalConfirmedCases": 14929,
+    "newlyConfirmedCases": 292,
+    "totalDeaths": 257,
+    "newDeaths": 1,
+    "totalRecoveredCases": 7369,
+    "newlyRecoveredCases": 358,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 26,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 32,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 39,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 52,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 78,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 100,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 155,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 265,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 371,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 505,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 615,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 780,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 917,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 1099,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 1321,
+        "deaths": 6,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 1512,
+        "deaths": 7,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 1818,
+        "deaths": 12,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 1937,
+        "deaths": 14,
+        "recovered": 29
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 2391,
+        "deaths": 23,
+        "recovered": 29
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 2877,
+        "deaths": 24,
+        "recovered": 170
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 2845,
+        "deaths": 36,
+        "recovered": 184
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 3068,
+        "deaths": 44,
+        "recovered": 248
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 3322,
+        "deaths": 50,
+        "recovered": 248
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 3633,
+        "deaths": 53,
+        "recovered": 248
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 3802,
+        "deaths": 65,
+        "recovered": 356
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 4139,
+        "deaths": 72,
+        "recovered": 356
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 4363,
+        "deaths": 80,
+        "recovered": 627
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 4634,
+        "deaths": 94,
+        "recovered": 627
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 4891,
+        "deaths": 98,
+        "recovered": 1145
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 5132,
+        "deaths": 106,
+        "recovered": 1386
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 5366,
+        "deaths": 106,
+        "recovered": 1504
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 5610,
+        "deaths": 109,
+        "recovered": 1671
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 5827,
+        "deaths": 124,
+        "recovered": 1969
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 6079,
+        "deaths": 135,
+        "recovered": 2196
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 6263,
+        "deaths": 141,
+        "recovered": 2196
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 6589,
+        "deaths": 142,
+        "recovered": 3018
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 6762,
+        "deaths": 146,
+        "recovered": 3234
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 7070,
+        "deaths": 148,
+        "recovered": 3344
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 7238,
+        "deaths": 152,
+        "recovered": 3575
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 7394,
+        "deaths": 157,
+        "recovered": 3828
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 7842,
+        "deaths": 166,
+        "recovered": 4012
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 8266,
+        "deaths": 170,
+        "recovered": 4192
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 9202,
+        "deaths": 180,
+        "recovered": 4402
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 9248,
+        "deaths": 186,
+        "recovered": 4467
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 9692,
+        "deaths": 189,
+        "recovered": 4527
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 10015,
+        "deaths": 190,
+        "recovered": 4720
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 10270,
+        "deaths": 196,
+        "recovered": 4921
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 10616,
+        "deaths": 204,
+        "recovered": 5140
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 10845,
+        "deaths": 207,
+        "recovered": 5338
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 11739,
+        "deaths": 210,
+        "recovered": 5528
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 12735,
+        "deaths": 221,
+        "recovered": 5718
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 13177,
+        "deaths": 222,
+        "recovered": 5814
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 13659,
+        "deaths": 228,
+        "recovered": 6081
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 13828,
+        "deaths": 235,
+        "recovered": 6356
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 14181,
+        "deaths": 248,
+        "recovered": 6587
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 14340,
+        "deaths": 250,
+        "recovered": 6783
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 14637,
+        "deaths": 256,
+        "recovered": 7011
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 14929,
+        "deaths": 257,
+        "recovered": 7369
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -84.2938,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Anderson",
+          "isoCode": "US-TN",
+          "lat": 35.9638
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 16,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.2582,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Bedford",
+          "isoCode": "US-TN",
+          "lat": 35.4523
+        },
+        "totalConfirmedCases": 231,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 18,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.0854,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Benton",
+          "isoCode": "US-TN",
+          "lat": 36.2325
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.1984,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Bledsoe",
+          "isoCode": "US-TN",
+          "lat": 35.6026
+        },
+        "totalConfirmedCases": 604,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 6,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.9357,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Blount",
+          "isoCode": "US-TN",
+          "lat": 35.8328
+        },
+        "totalConfirmedCases": 73,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 41,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.9097,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Bradley",
+          "isoCode": "US-TN",
+          "lat": 35.1097
+        },
+        "totalConfirmedCases": 69,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 36,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.1256,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Campbell",
+          "isoCode": "US-TN",
+          "lat": 36.3718
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 11,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.0724,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Cannon",
+          "isoCode": "US-TN",
+          "lat": 35.8247
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4181,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Carroll",
+          "isoCode": "US-TN",
+          "lat": 36.0052
+        },
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 11,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.2919,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Carter",
+          "isoCode": "US-TN",
+          "lat": 36.3688
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.0412,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Cheatham",
+          "isoCode": "US-TN",
+          "lat": 36.2607
+        },
+        "totalConfirmedCases": 61,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 23,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6531,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Chester",
+          "isoCode": "US-TN",
+          "lat": 35.4445
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.6462,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Claiborne",
+          "isoCode": "US-TN",
+          "lat": 36.5752
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.1977,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Cocke",
+          "isoCode": "US-TN",
+          "lat": 35.9617
+        },
+        "totalConfirmedCases": 19,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 12,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9639,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Coffee",
+          "isoCode": "US-TN",
+          "lat": 35.4085
+        },
+        "totalConfirmedCases": 52,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 9,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.0305,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Cumberland",
+          "isoCode": "US-TN",
+          "lat": 36.0586
+        },
+        "totalConfirmedCases": 85,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 36,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.822,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Davidson",
+          "isoCode": "US-TN",
+          "lat": 36.1343
+        },
+        "totalConfirmedCases": 3460,
+        "newlyConfirmedCases": 28,
+        "totalDeaths": 35,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1015,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.2526,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Decatur",
+          "isoCode": "US-TN",
+          "lat": 35.5188
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.3668,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Dickson",
+          "isoCode": "US-TN",
+          "lat": 36.064
+        },
+        "totalConfirmedCases": 85,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 34,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3777,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Dyer",
+          "isoCode": "US-TN",
+          "lat": 36.0465
+        },
+        "totalConfirmedCases": 41,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 13,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.6091,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Fayette",
+          "isoCode": "US-TN",
+          "lat": 35.0512
+        },
+        "totalConfirmedCases": 77,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 28,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9213,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Franklin",
+          "isoCode": "US-TN",
+          "lat": 35.1975
+        },
+        "totalConfirmedCases": 40,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 24,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.9449,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Gibson",
+          "isoCode": "US-TN",
+          "lat": 35.9689
+        },
+        "totalConfirmedCases": 53,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 17,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.855,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Giles",
+          "isoCode": "US-TN",
+          "lat": 35.0031
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.7454,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Greene",
+          "isoCode": "US-TN",
+          "lat": 36.175
+        },
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 25,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.6689,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Grundy",
+          "isoCode": "US-TN",
+          "lat": 35.4589
+        },
+        "totalConfirmedCases": 30,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 20,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.3005,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Hamblen",
+          "isoCode": "US-TN",
+          "lat": 36.2047
+        },
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.174,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Hamilton",
+          "isoCode": "US-TN",
+          "lat": 35.2571
+        },
+        "totalConfirmedCases": 232,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 13,
+        "newDeaths": 0,
+        "totalRecoveredCases": 80,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8294,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Hardeman",
+          "isoCode": "US-TN",
+          "lat": 35.2285
+        },
+        "totalConfirmedCases": 116,
+        "newlyConfirmedCases": 52,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 6,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.1939,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Hardin",
+          "isoCode": "US-TN",
+          "lat": 35.2048
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8593,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Hawkins",
+          "isoCode": "US-TN",
+          "lat": 36.4745
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 25,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4014,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Haywood",
+          "isoCode": "US-TN",
+          "lat": 35.4613
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3065,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Henry",
+          "isoCode": "US-TN",
+          "lat": 36.2933
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 6,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.7631,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Houston",
+          "isoCode": "US-TN",
+          "lat": 36.3194
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.297,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Jefferson",
+          "isoCode": "US-TN",
+          "lat": 36.1087
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 13,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.8049,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Johnson",
+          "isoCode": "US-TN",
+          "lat": 36.4695
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.765,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Knox",
+          "isoCode": "US-TN",
+          "lat": 36.0673
+        },
+        "totalConfirmedCases": 262,
+        "newlyConfirmedCases": 7,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 180,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.554,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Lewis",
+          "isoCode": "US-TN",
+          "lat": 35.5514
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.6407,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Lincoln",
+          "isoCode": "US-TN",
+          "lat": 35.3173
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 7,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.1724,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Loudon",
+          "isoCode": "US-TN",
+          "lat": 35.6488
+        },
+        "totalConfirmedCases": 39,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 19,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.8481,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Macon",
+          "isoCode": "US-TN",
+          "lat": 36.5301
+        },
+        "totalConfirmedCases": 113,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 12,
+        "newDeaths": 0,
+        "totalRecoveredCases": 17,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8636,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Madison",
+          "isoCode": "US-TN",
+          "lat": 35.4556
+        },
+        "totalConfirmedCases": 150,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 52,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.4848,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Marion",
+          "isoCode": "US-TN",
+          "lat": 35.1848
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 21,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.9116,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Maury",
+          "isoCode": "US-TN",
+          "lat": 35.7438
+        },
+        "totalConfirmedCases": 55,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 30,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.5498,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "McMinn",
+          "isoCode": "US-TN",
+          "lat": 35.517
+        },
+        "totalConfirmedCases": 116,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6169,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "McNairy",
+          "isoCode": "US-TN",
+          "lat": 35.357
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 7,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.7933,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Meigs",
+          "isoCode": "US-TN",
+          "lat": 35.5292
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.4717,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Monroe",
+          "isoCode": "US-TN",
+          "lat": 35.6029
+        },
+        "totalConfirmedCases": 32,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 9,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.3428,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Montgomery",
+          "isoCode": "US-TN",
+          "lat": 36.5696
+        },
+        "totalConfirmedCases": 172,
+        "newlyConfirmedCases": 11,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 63,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.5573,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Morgan",
+          "isoCode": "US-TN",
+          "lat": 35.9897
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0155,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Obion",
+          "isoCode": "US-TN",
+          "lat": 36.2021
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.3265,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Overton",
+          "isoCode": "US-TN",
+          "lat": 36.3875
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.7958,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Perry",
+          "isoCode": "US-TN",
+          "lat": 35.7507
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.5114,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Putnam",
+          "isoCode": "US-TN",
+          "lat": 36.1484
+        },
+        "totalConfirmedCases": 166,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 77,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.3284,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Roane",
+          "isoCode": "US-TN",
+          "lat": 36.0398
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 8,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.7976,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Robertson",
+          "isoCode": "US-TN",
+          "lat": 36.4239
+        },
+        "totalConfirmedCases": 219,
+        "newlyConfirmedCases": 12,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 84,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.3678,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Rutherford",
+          "isoCode": "US-TN",
+          "lat": 35.9573
+        },
+        "totalConfirmedCases": 720,
+        "newlyConfirmedCases": 35,
+        "totalDeaths": 14,
+        "newDeaths": 0,
+        "totalRecoveredCases": 176,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.5839,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Scott",
+          "isoCode": "US-TN",
+          "lat": 36.3536
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 10,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.5678,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Sevier",
+          "isoCode": "US-TN",
+          "lat": 35.8873
+        },
+        "totalConfirmedCases": 65,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 23,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9253,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Shelby",
+          "isoCode": "US-TN",
+          "lat": 35.1269
+        },
+        "totalConfirmedCases": 3189,
+        "newlyConfirmedCases": 81,
+        "totalDeaths": 68,
+        "newDeaths": 1,
+        "totalRecoveredCases": 956,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9575,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Smith",
+          "isoCode": "US-TN",
+          "lat": 36.2414
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.3452,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Sullivan",
+          "isoCode": "US-TN",
+          "lat": 36.4933
+        },
+        "totalConfirmedCases": 59,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 41,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.4696,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Sumner",
+          "isoCode": "US-TN",
+          "lat": 36.3782
+        },
+        "totalConfirmedCases": 693,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 38,
+        "newDeaths": 0,
+        "totalRecoveredCases": 317,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.5412,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Tipton",
+          "isoCode": "US-TN",
+          "lat": 35.4128
+        },
+        "totalConfirmedCases": 158,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 41,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.1568,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Trousdale",
+          "isoCode": "US-TN",
+          "lat": 36.3921
+        },
+        "totalConfirmedCases": 1357,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 8,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.4202,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Unicoi",
+          "isoCode": "US-TN",
+          "lat": 36.1222
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.7478,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Union",
+          "isoCode": "US-TN",
+          "lat": 36.2097
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5478,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Washington",
+          "isoCode": "US-TN",
+          "lat": 36.2534
+        },
+        "totalConfirmedCases": 61,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 42,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6107,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Weakley",
+          "isoCode": "US-TN",
+          "lat": 36.2174
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.4726,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "White",
+          "isoCode": "US-TN",
+          "lat": 35.9347
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8622,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Williamson",
+          "isoCode": "US-TN",
+          "lat": 35.9179
+        },
+        "totalConfirmedCases": 441,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 10,
+        "newDeaths": 0,
+        "totalRecoveredCases": 255,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.5733,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Wilson",
+          "isoCode": "US-TN",
+          "lat": 36.2349
+        },
+        "totalConfirmedCases": 297,
+        "newlyConfirmedCases": 7,
+        "totalDeaths": 7,
+        "newDeaths": 0,
+        "totalRecoveredCases": 117,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.3013,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Lawrence",
+          "isoCode": "US-TN",
+          "lat": 35.3218
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 13,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.7593,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Wayne",
+          "isoCode": "US-TN",
+          "lat": 35.3236
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.7812,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Warren",
+          "isoCode": "US-TN",
+          "lat": 35.6863
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.0096,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Fentress",
+          "isoCode": "US-TN",
+          "lat": 36.1857
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8583,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Marshall",
+          "isoCode": "US-TN",
+          "lat": 35.3628
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 11,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.7846,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Humphreys",
+          "isoCode": "US-TN",
+          "lat": 36.0939
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.0763,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Rhea",
+          "isoCode": "US-TN",
+          "lat": 35.4493
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.3685,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Sequatchie",
+          "isoCode": "US-TN",
+          "lat": 35.2007
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.2852,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Grainger",
+          "isoCode": "US-TN",
+          "lat": 36.3322
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.5043,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Clay",
+          "isoCode": "US-TN",
+          "lat": 36.5469
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.4577,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Hickman",
+          "isoCode": "US-TN",
+          "lat": 35.8042
+        },
+        "totalConfirmedCases": 49,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.405,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Lauderdale",
+          "isoCode": "US-TN",
+          "lat": 35.8796
+        },
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.6516,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Polk",
+          "isoCode": "US-TN",
+          "lat": 35.1749
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.6495,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Jackson",
+          "isoCode": "US-TN",
+          "lat": 36.3618
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 6,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.8437,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Stewart",
+          "isoCode": "US-TN",
+          "lat": 36.4818
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3946,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Henderson",
+          "isoCode": "US-TN",
+          "lat": 35.6611
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0859,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Crockett",
+          "isoCode": "US-TN",
+          "lat": 35.7203
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.2099,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Hancock",
+          "isoCode": "US-TN",
+          "lat": 36.5367
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4674,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Lake",
+          "isoCode": "US-TN",
+          "lat": 36.3862
+        },
+        "totalConfirmedCases": 59,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.3587,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Moore",
+          "isoCode": "US-TN",
+          "lat": 35.2846
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.456,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Van Buren",
+          "isoCode": "US-TN",
+          "lat": 35.7393
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.1345,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Pickett",
+          "isoCode": "US-TN",
+          "lat": 36.5737
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9779,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "DeKalb",
+          "isoCode": "US-TN",
+          "lat": 36.0045
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 7,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9253233,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Tennessee",
+          "county": "Out of TN",
+          "isoCode": "US-TN",
+          "lat": 35.1268552
+        },
+        "totalConfirmedCases": 371,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

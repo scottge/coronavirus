@@ -1,0 +1,282 @@
+{
+  "location": {
+    "long": -105.782067,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Colorado",
+    "county": null,
+    "isoCode": "US-CO",
+    "lat": 39.550051
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.2968679Z",
+  "news": [
+    {
+      "path": "_news/2020-05-07-scenic-roads-in-colorado-remain-closed-amid-coronavirus.md",
+      "title": "Scenic Roads in Colorado Remain Closed Amid Coronavirus",
+      "excerpt": "The Colorado Department of Transportation has announced the highway over Independence Pass near Aspen will remain closed until at least June 1 amid the coronavirus pandemic, and the road to the top of Mount Evans west of Denver won’t open until at least the beginning of July.",
+      "heat": null,
+      "tags": [
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/colorado/articles/2020-05-06/colorado-highway-to-remain-closed-amid-coronavirus-pandemic",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-face-masks-during-1918-flu-pandemic-colorado-springs-pioneers-museum-has-proof.md",
+      "title": "Face masks during 1918 flu pandemic? Colorado Springs Pioneers Museum has proof",
+      "excerpt": "The Colorado Springs Pioneers Museum posted the photo in an effort to show some similarities between the 1918 flu and COVID-19 pandemics, particularly when it comes to face masks.",
+      "heat": null,
+      "tags": [
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://gazette.com/news/face-masks-during-1918-flu-pandemic-colorado-springs-pioneers-museum-has-proof/article_ca7f20e4-8fbc-11ea-94e3-9b36fe303913.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/94/e94bfd52-8fea-11ea-b9e6-6f9b8afe1337/5eb2fb148d024.image.jpg?crop=866%2C566%2C17%2C72&resize=866%2C566&order=crop%2Cresize",
+          "width": 866,
+          "height": 566,
+          "title": "Face masks during 1918 flu pandemic? Colorado Springs Pioneers Museum has proof",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-retired-colorado-paramedic-dies-from-coronavirus-after-volunteering-as-first-responder-in-new-york.md",
+      "title": "Retired Colorado paramedic dies from coronavirus after volunteering as first responder in New York",
+      "excerpt": "A Colorado man who was both a retired firefighter and paramedic died from coronavirus after traveling to New York to volunteer with virus relief, Colorado Gov. Jared Polis said Monday. Paul Cary, 66,",
+      "heat": null,
+      "tags": [
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/04/us/retired-colorado-paramedic-obit/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/04/us/retired-colorado-paramedic-obit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/04/us/retired-colorado-paramedic-obit/index.html",
+      "publishedDateTime": "2020-05-04T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200504200453-paul-cary-uniform-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Retired Colorado paramedic dies from coronavirus after volunteering as first responder in New York",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-in-colorado-may-3-a-look-at-the-latest-updates-on-covid-19.md",
+      "title": "Coronavirus in Colorado, May 3: A look at the latest updates on COVID-19",
+      "excerpt": "Throughout the day, we will share the latest coverage from Denver Post journalists on the coronavirus outbreak on this page.",
+      "heat": 109,
+      "tags": [
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.denverpost.com/2020/05/03/coronavirus-colorado-updates-may-3-covid-19/",
+      "ampWebUrl": "https://www.denverpost.com/2020/05/03/coronavirus-colorado-updates-may-3-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/05/03/coronavirus-colorado-updates-may-3-covid-19/amp/",
+      "publishedDateTime": "2020-05-03T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/04/TDP-L-BEEF_DONATIONS__HHR6111.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": "Coronavirus in Colorado, May 3: A look at the latest updates on COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-colorado-paramedic-who-came-to-help-new-york-dies-from-covid-19.md",
+      "title": "Colorado Paramedic Who Came to Help New York Dies From Covid-19",
+      "excerpt": "Paul Cary transported coronavirus patients to hospitals by ambulance. He had already signed up for a second 30-day deployment in New York when he started feeling sick.",
+      "heat": 125,
+      "tags": [
+        "US-NY",
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/02/nyregion/paramedic-paul-cary-coronavirus-nyc.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/02/nyregion/paramedic-paul-cary-coronavirus-nyc.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/nyregion/paramedic-paul-cary-coronavirus-nyc.amp.html",
+      "publishedDateTime": "2020-05-02T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/02/multimedia/02xp-paramedic-promo/02xp-paramedic-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "Colorado Paramedic Who Came to Help New York Dies From Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-colorado-purchased-100k-covid-19-tests-from-south-korea-and-kept-it-under-wraps-to-avoid-feds-seizure-says-governor.md",
+      "title": "Colorado Purchased 100K COVID-19 Tests From South Korea and 'Kept It Under Wraps' to Avoid Feds Seizure, Says Governor",
+      "excerpt": "Colorado Governor Jared Polis said that the state did not announce a recent shipment of coronavirus test kits because \"we simply didn't know if anybody would swoop in\" and take the shipment.",
+      "heat": 116,
+      "tags": [
+        "KR",
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/colorado-purchased-100k-covid-19-tests-south-korea-kept-it-under-wraps-avoid-feds-seizure-1501554",
+      "ampWebUrl": "https://www.newsweek.com/colorado-purchased-100k-covid-19-tests-south-korea-kept-it-under-wraps-avoid-feds-seizure-1501554?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/colorado-purchased-100k-covid-19-tests-south-korea-kept-it-under-wraps-avoid-feds-seizure-1501554?amp=1",
+      "publishedDateTime": "2020-05-01T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1586728/jared-polis.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Colorado Purchased 100K COVID-19 Tests From South Korea and 'Kept It Under Wraps' to Avoid Feds Seizure, Says Governor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-colorado-paramedic-dies-of-coronavirus-while-volunteering-as-nyc-emt.md",
+      "title": "Colorado paramedic dies of coronavirus while volunteering as NYC EMT",
+      "excerpt": "A Colorado paramedic who volunteered with the Federal Emergency Management Agency (FEMA) to help New York City in the battle against the coronavirus has died of COVID-19.",
+      "heat": 115,
+      "tags": [
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/colorado-paramedic-dies-of-coronavirus-serving-as-volunteer-emt-in-new-york-city",
+      "ampWebUrl": "https://www.foxnews.com/us/colorado-paramedic-dies-of-coronavirus-serving-as-volunteer-emt-in-new-york-city.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/colorado-paramedic-dies-of-coronavirus-serving-as-volunteer-emt-in-new-york-city.amp",
+      "publishedDateTime": "2020-05-01T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Paul-Cary-Ambulnz.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Colorado paramedic dies of coronavirus while volunteering as NYC EMT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

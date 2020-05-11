@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: new-cases
+name: New Cases
+shortname: New Cases
+parent: Coronavirus
+keywords:
+  - new cases
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/new-cases.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/new-cases/

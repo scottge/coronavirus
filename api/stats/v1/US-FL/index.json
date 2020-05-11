@@ -1,0 +1,1749 @@
+{
+  "location": {
+    "long": -81.515754,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Florida",
+    "county": null,
+    "isoCode": "US-FL",
+    "lat": 27.664827
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.3376035Z",
+  "stats": {
+    "totalConfirmedCases": 40001,
+    "newlyConfirmedCases": 802,
+    "totalDeaths": 1716,
+    "newDeaths": 47,
+    "totalRecoveredCases": 1046,
+    "newlyRecoveredCases": 360,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 10,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 13,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 15,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 24,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 50,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 76,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 78,
+        "deaths": 4,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 149,
+        "deaths": 5,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 162,
+        "deaths": 5,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 217,
+        "deaths": 7,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 328,
+        "deaths": 8,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 533,
+        "deaths": 9,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 664,
+        "deaths": 11,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 764,
+        "deaths": 13,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 1007,
+        "deaths": 13,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 1227,
+        "deaths": 18,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 1467,
+        "deaths": 23,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 1978,
+        "deaths": 23,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 2484,
+        "deaths": 29,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 3198,
+        "deaths": 46,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 4038,
+        "deaths": 56,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 4950,
+        "deaths": 60,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 5704,
+        "deaths": 71,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 6741,
+        "deaths": 85,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 7773,
+        "deaths": 101,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 9008,
+        "deaths": 144,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 10268,
+        "deaths": 170,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 11545,
+        "deaths": 195,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 12350,
+        "deaths": 221,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 13629,
+        "deaths": 254,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 14747,
+        "deaths": 296,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 15698,
+        "deaths": 323,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 16826,
+        "deaths": 371,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 17968,
+        "deaths": 419,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 18986,
+        "deaths": 446,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 19863,
+        "deaths": 461,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 21019,
+        "deaths": 499,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 21628,
+        "deaths": 571,
+        "recovered": 163
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 22511,
+        "deaths": 596,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 23340,
+        "deaths": 668,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 24759,
+        "deaths": 726,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 25492,
+        "deaths": 748,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 26314,
+        "deaths": 774,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 27058,
+        "deaths": 823,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 27869,
+        "deaths": 867,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 28586,
+        "deaths": 927,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 29642,
+        "deaths": 987,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 30543,
+        "deaths": 1046,
+        "recovered": 174
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 30840,
+        "deaths": 1055,
+        "recovered": 686
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 31532,
+        "deaths": 1075,
+        "recovered": 686
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 32139,
+        "deaths": 1088,
+        "recovered": 686
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 32846,
+        "deaths": 1171,
+        "recovered": 686
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 33193,
+        "deaths": 1218,
+        "recovered": 686
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 33690,
+        "deaths": 1268,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 34562,
+        "deaths": 1309,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 35463,
+        "deaths": 1364,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 36078,
+        "deaths": 1379,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 36898,
+        "deaths": 1399,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 37439,
+        "deaths": 1471,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 38002,
+        "deaths": 1539,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 38828,
+        "deaths": 1600,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 39199,
+        "deaths": 1669,
+        "recovered": 686
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 40001,
+        "deaths": 1716,
+        "recovered": 1046
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -82.4944,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Alachua",
+          "isoCode": "US-FL",
+          "lat": 29.7938
+        },
+        "totalConfirmedCases": 308,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.1603,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Baker",
+          "isoCode": "US-FL",
+          "lat": 30.2752
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9511,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Bay",
+          "isoCode": "US-FL",
+          "lat": 30.2549
+        },
+        "totalConfirmedCases": 76,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.1129,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Bradford",
+          "isoCode": "US-FL",
+          "lat": 29.9474
+        },
+        "totalConfirmedCases": 48,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8468,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Brevard",
+          "isoCode": "US-FL",
+          "lat": 28.6928
+        },
+        "totalConfirmedCases": 328,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.3659,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Broward",
+          "isoCode": "US-FL",
+          "lat": 26.1901
+        },
+        "totalConfirmedCases": 5780,
+        "newlyConfirmedCases": 92,
+        "totalDeaths": 257,
+        "newDeaths": 9,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.9098,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Charlotte",
+          "isoCode": "US-FL",
+          "lat": 26.8946
+        },
+        "totalConfirmedCases": 317,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 33,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.3372,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Citrus",
+          "isoCode": "US-FL",
+          "lat": 28.8006
+        },
+        "totalConfirmedCases": 104,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 11,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.7855,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Clay",
+          "isoCode": "US-FL",
+          "lat": 30.0472
+        },
+        "totalConfirmedCases": 299,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 19,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.4279,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Collier",
+          "isoCode": "US-FL",
+          "lat": 26.07
+        },
+        "totalConfirmedCases": 734,
+        "newlyConfirmedCases": 22,
+        "totalDeaths": 27,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.6026,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Columbia",
+          "isoCode": "US-FL",
+          "lat": 30.1855
+        },
+        "totalConfirmedCases": 102,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.4118,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Duval",
+          "isoCode": "US-FL",
+          "lat": 30.3165
+        },
+        "totalConfirmedCases": 1134,
+        "newlyConfirmedCases": 46,
+        "totalDeaths": 29,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.3028,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Escambia",
+          "isoCode": "US-FL",
+          "lat": 30.4158
+        },
+        "totalConfirmedCases": 634,
+        "newlyConfirmedCases": 16,
+        "totalDeaths": 18,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.3235,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Flagler",
+          "isoCode": "US-FL",
+          "lat": 29.4198
+        },
+        "totalConfirmedCases": 147,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.4582,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Gadsden",
+          "isoCode": "US-FL",
+          "lat": 30.4992
+        },
+        "totalConfirmedCases": 128,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.0985,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Glades",
+          "isoCode": "US-FL",
+          "lat": 26.8338
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.9518,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Hendry",
+          "isoCode": "US-FL",
+          "lat": 26.7325
+        },
+        "totalConfirmedCases": 136,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 7,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5999,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Hernando",
+          "isoCode": "US-FL",
+          "lat": 28.469
+        },
+        "totalConfirmedCases": 98,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.5081,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Highlands",
+          "isoCode": "US-FL",
+          "lat": 27.5908
+        },
+        "totalConfirmedCases": 96,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.3018,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Hillsborough",
+          "isoCode": "US-FL",
+          "lat": 27.9904
+        },
+        "totalConfirmedCases": 1400,
+        "newlyConfirmedCases": 29,
+        "totalDeaths": 37,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.4855,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Indian River",
+          "isoCode": "US-FL",
+          "lat": 27.6378
+        },
+        "totalConfirmedCases": 100,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.226,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Jackson",
+          "isoCode": "US-FL",
+          "lat": 30.7943
+        },
+        "totalConfirmedCases": 74,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.5349,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Lake",
+          "isoCode": "US-FL",
+          "lat": 29.1635
+        },
+        "totalConfirmedCases": 240,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 14,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.9535,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Lee",
+          "isoCode": "US-FL",
+          "lat": 26.663
+        },
+        "totalConfirmedCases": 1249,
+        "newlyConfirmedCases": 30,
+        "totalDeaths": 65,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.2527,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Leon",
+          "isoCode": "US-FL",
+          "lat": 30.4551
+        },
+        "totalConfirmedCases": 252,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.468,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Levy",
+          "isoCode": "US-FL",
+          "lat": 29.4479
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.3452,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Manatee",
+          "isoCode": "US-FL",
+          "lat": 27.4799
+        },
+        "totalConfirmedCases": 756,
+        "newlyConfirmedCases": 14,
+        "totalDeaths": 74,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.2211,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Marion",
+          "isoCode": "US-FL",
+          "lat": 29.4494
+        },
+        "totalConfirmedCases": 210,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.24,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Martin",
+          "isoCode": "US-FL",
+          "lat": 27.2161
+        },
+        "totalConfirmedCases": 245,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 80.6327,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Miami-Dade",
+          "isoCode": "US-FL",
+          "lat": 25.5516
+        },
+        "totalConfirmedCases": 13841,
+        "newlyConfirmedCases": 177,
+        "totalDeaths": 482,
+        "newDeaths": 14,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.3242,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Monroe",
+          "isoCode": "US-FL",
+          "lat": 25.2574
+        },
+        "totalConfirmedCases": 89,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.8224,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Nassau",
+          "isoCode": "US-FL",
+          "lat": 30.5927
+        },
+        "totalConfirmedCases": 60,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.6611,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Okaloosa",
+          "isoCode": "US-FL",
+          "lat": 30.5773
+        },
+        "totalConfirmedCases": 168,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.4169,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Orange",
+          "isoCode": "US-FL",
+          "lat": 28.4727
+        },
+        "totalConfirmedCases": 1505,
+        "newlyConfirmedCases": 27,
+        "totalDeaths": 36,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.3539,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Osceola",
+          "isoCode": "US-FL",
+          "lat": 28.3349
+        },
+        "totalConfirmedCases": 564,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 12,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.1265,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Palm Beach",
+          "isoCode": "US-FL",
+          "lat": 26.6815
+        },
+        "totalConfirmedCases": 3798,
+        "newlyConfirmedCases": 183,
+        "totalDeaths": 237,
+        "newDeaths": 8,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.4319,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Pasco",
+          "isoCode": "US-FL",
+          "lat": 28.3232
+        },
+        "totalConfirmedCases": 293,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.7779,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Pinellas",
+          "isoCode": "US-FL",
+          "lat": 27.8764
+        },
+        "totalConfirmedCases": 848,
+        "newlyConfirmedCases": 20,
+        "totalDeaths": 59,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.8213,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Polk",
+          "isoCode": "US-FL",
+          "lat": 27.8868
+        },
+        "totalConfirmedCases": 623,
+        "newlyConfirmedCases": 22,
+        "totalDeaths": 33,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.5998,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Putnam",
+          "isoCode": "US-FL",
+          "lat": 29.6502
+        },
+        "totalConfirmedCases": 125,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.9824,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Santa Rosa",
+          "isoCode": "US-FL",
+          "lat": 30.769
+        },
+        "totalConfirmedCases": 172,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.4616,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Sarasota",
+          "isoCode": "US-FL",
+          "lat": 27.3328
+        },
+        "totalConfirmedCases": 418,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 57,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.276,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Seminole",
+          "isoCode": "US-FL",
+          "lat": 28.7893
+        },
+        "totalConfirmedCases": 411,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 11,
+        "newDeaths": 3,
+        "totalRecoveredCases": 163,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.3704,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "St. Johns",
+          "isoCode": "US-FL",
+          "lat": 30.19
+        },
+        "totalConfirmedCases": 223,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.3538,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "St. Lucie",
+          "isoCode": "US-FL",
+          "lat": 27.4096
+        },
+        "totalConfirmedCases": 280,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 25,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.9986,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Sumter",
+          "isoCode": "US-FL",
+          "lat": 28.6335
+        },
+        "totalConfirmedCases": 240,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 14,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.9847,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Suwannee",
+          "isoCode": "US-FL",
+          "lat": 30.2956
+        },
+        "totalConfirmedCases": 145,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 18,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.0755,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Volusia",
+          "isoCode": "US-FL",
+          "lat": 29.028
+        },
+        "totalConfirmedCases": 540,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 28,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.3936,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Wakulla",
+          "isoCode": "US-FL",
+          "lat": 30.0282
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.3099,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Walton",
+          "isoCode": "US-FL",
+          "lat": 30.9746
+        },
+        "totalConfirmedCases": 55,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 2,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.5874,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Washington",
+          "isoCode": "US-FL",
+          "lat": 30.6332
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9374,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Holmes",
+          "isoCode": "US-FL",
+          "lat": 30.7234
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.1264,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Calhoun",
+          "isoCode": "US-FL",
+          "lat": 30.5722
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.239,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Union",
+          "isoCode": "US-FL",
+          "lat": 30.0638
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.1935,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Gulf",
+          "isoCode": "US-FL",
+          "lat": 30.1148
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.413,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Madison",
+          "isoCode": "US-FL",
+          "lat": 30.4716
+        },
+        "totalConfirmedCases": 61,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.8103,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Hardee",
+          "isoCode": "US-FL",
+          "lat": 27.5469
+        },
+        "totalConfirmedCases": 36,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.7927,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Okeechobee",
+          "isoCode": "US-FL",
+          "lat": 27.2172
+        },
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.8881,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Franklin",
+          "isoCode": "US-FL",
+          "lat": 29.652
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.2819,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Dixie",
+          "isoCode": "US-FL",
+          "lat": 29.4498
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.7604,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Jefferson",
+          "isoCode": "US-FL",
+          "lat": 30.477
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.7562,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Hamilton",
+          "isoCode": "US-FL",
+          "lat": 30.3317
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.8587,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "DeSoto",
+          "isoCode": "US-FL",
+          "lat": 27.2214
+        },
+        "totalConfirmedCases": 47,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.3837,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Taylor",
+          "isoCode": "US-FL",
+          "lat": 29.6795
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8146,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Gilchrist",
+          "isoCode": "US-FL",
+          "lat": 29.6092
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.1768,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Lafayette",
+          "isoCode": "US-FL",
+          "lat": 30.0511
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.9857,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Florida",
+          "county": "Liberty",
+          "isoCode": "US-FL",
+          "lat": 30.3906
+        },
+        "totalConfirmedCases": 196,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,1177 @@
+{
+  "location": {
+    "long": -99.901813,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Texas",
+    "county": null,
+    "isoCode": "US-TX",
+    "lat": 31.968599
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.8196116Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-deaths-in-texas-from-covid-19-increase-to-1049.md",
+      "title": "Deaths in Texas From COVID-19 Increase to 1,049",
+      "excerpt": "Texas health officials say the number of COVID-19-related deaths reported in the state increased by 45 on Saturday to a total of 1,049.",
+      "heat": 145,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/texas/articles/2020-05-09/deaths-in-texas-from-covid-19-increase-to-1-049",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/texas/articles/2020-05-09/deaths-in-texas-from-covid-19-increase-to-1-049?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/texas/articles/2020-05-09/deaths-in-texas-from-covid-19-increase-to-1-049?context=amp",
+      "publishedDateTime": "2020-05-09T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-texans-have-received-over-107-million-economic-impact-payments.md",
+      "title": "Texans have received over 10.7 million Economic Impact Payments",
+      "excerpt": "Texans have received over 10.7 million Economic Impact Payments totaling more than $18.7 billion, according to the U.S. Treasury Department.",
+      "heat": 120,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kxan.com/news/texas/texans-have-received-over-10-7-million-economic-impact-payments/",
+      "ampWebUrl": "https://www.kxan.com/news/texas/texans-have-received-over-10-7-million-economic-impact-payments/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas/texans-have-received-over-10-7-million-economic-impact-payments/amp/",
+      "publishedDateTime": "2020-05-09T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2020/05/d00c3ff529654f51b7a8ef955791d1d0.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Texans have received over 10.7 million Economic Impact Payments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Economic Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-city-of-dallas-to-furlough-nearly-500-employees.md",
+      "title": "City of Dallas to furlough nearly 500 employees",
+      "excerpt": "The city of Dallas announced it is furloughing nearly 500 of its employees as part of phase one of cuts to offset a $25 million budget shortfall. Workers in 10 different departments got a notification about their job on Friday.",
+      "heat": 110,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.fox4news.com/news/city-of-dallas-to-furlough-nearly-500-employees",
+      "ampWebUrl": "https://www.fox4news.com/news/city-of-dallas-to-furlough-nearly-500-employees.amp",
+      "cdnAmpWebUrl": "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/city-of-dallas-to-furlough-nearly-500-employees.amp",
+      "publishedDateTime": "2020-05-08T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KDFW",
+        "domain": "fox4news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/05/932/470/city-hall.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": "City of Dallas to furlough nearly 500 employees",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-indycar-season-restarting-in-texas-june-6.md",
+      "title": "IndyCar season restarting in Texas June 6",
+      "excerpt": "IndyCar has gotten the green flag to finally start its season in Texas next month with a nighttime race June 6 without spectators. The race at Texas Motor Speedway was the next one on the series schedule that hadn't been postponed or canceled because of the coronavirus pandemic.",
+      "heat": 150,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/auto/indycar-season-restarting-in-texas-june-6",
+      "ampWebUrl": "https://www.foxnews.com/auto/indycar-season-restarting-in-texas-june-6.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/indycar-season-restarting-in-texas-june-6.amp",
+      "publishedDateTime": "2020-05-08T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/texas1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "IndyCar season restarting in Texas June 6",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-walmart-opens-additional-covid-19-testing-locations-in-dallas-county.md",
+      "title": "Walmart Opens Additional COVID-19 Testing Locations in Dallas County",
+      "excerpt": "Walmart is opening a new COVID-19 testing site in Dallas County on Friday. The new site will be located the Walmart parking lot at 9410 Webb Chapel Road. This site will test anyone who meets the CDC,",
+      "heat": 125,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/walmart-opens-additional-covid-19-testing-locations-in-dallas-county/2366078/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/walmart-opens-additional-covid-19-testing-locations-in-dallas-county/2366078/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/walmart-opens-additional-covid-19-testing-locations-in-dallas-county/2366078/?amp",
+      "publishedDateTime": "2020-05-08T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/GettyImages-1219427564.jpg?resize=850%2C478",
+          "width": 850,
+          "height": 478,
+          "title": "Walmart Opens Additional COVID-19 Testing Locations in Dallas County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-indycar-to-open-season-in-texas.md",
+      "title": "IndyCar To Open Season In Texas",
+      "excerpt": "IndyCar has gotten the green flag to finally start its season in Texas next month with a nighttime race on June 6 without spectators.",
+      "heat": 110,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://detroit.cbslocal.com/2020/05/08/indycar-to-open-season-in-texas/",
+      "ampWebUrl": "https://detroit.cbslocal.com/2020/05/08/indycar-to-open-season-in-texas/amp/",
+      "cdnAmpWebUrl": "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/05/08/indycar-to-open-season-in-texas/amp/",
+      "publishedDateTime": "2020-05-08T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://detroit.cbslocal.com/wp-content/uploads/sites/15909782/2020/05/GettyImages-970660826-e1588943489927.jpg",
+          "width": 625,
+          "height": 417,
+          "title": "IndyCar To Open Season In Texas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-salon-owner-released-from-jail-after-texas-governor-changes-coronavirus-orders.md",
+      "title": "Salon owner released from jail after Texas governor changes coronavirus orders",
+      "excerpt": "Shelley Luther, the Dallas salon owner who was arrested earlier this week for violating a stay-at-home order by reopening her business, was released from jail on Thursday. Texas Governor Greg Abbott modified his COVID-19 executive orders earlier in the day,",
+      "heat": 111,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/shelley-luther-dallas-salon-owner-released-jail-greg-abbott-texas/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/shelley-luther-dallas-salon-owner-released-jail-greg-abbott-texas/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/shelley-luther-dallas-salon-owner-released-jail-greg-abbott-texas/",
+      "publishedDateTime": "2020-05-08T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/07/d25dd82c-772c-44ba-865d-acc05d4b3988/thumbnail/1200x630g2/9f324a3de52d1a29f340126d955a70c0/ap-20128708740033.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Salon owner released from jail after Texas governor changes coronavirus orders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-reopening-texas-salons-barbershops-open-doors-again.md",
+      "title": "Reopening Texas: Salons, Barbershops Open Doors Again",
+      "excerpt": "The reopening of Texas continues Friday as salons, barbershops, nail salons and tanning facilities are allowed to open their doors for the first time in well over a month.",
+      "heat": 110,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/reopening-texas-salons-barbershops-open-doors-again/2365690/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/reopening-texas-salons-barbershops-open-doors-again/2365690/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/reopening-texas-salons-barbershops-open-doors-again/2365690/?amp",
+      "publishedDateTime": "2020-05-08T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/hair-salon-4.jpg?resize=1024%2C675",
+          "width": 1024,
+          "height": 675,
+          "title": "Reopening Texas: Salons, Barbershops Open Doors Again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-masks-to-become-part-of-life-in-california-but-rules-vary.md",
+      "title": "Masks to become part of life in California, but rules vary",
+      "excerpt": "For Californians venturing outside, donning a mask will be as common as putting on a cap or sunglasses when the state begins gradually easing stay-at-home orders on Friday. But rules about face coverings vary from county to county,",
+      "heat": 110,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-22-20/h_9b9ce03bb565039f9908182f5995d0b1",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-22-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-22-20/index.html",
+      "publishedDateTime": "2020-05-07T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Masks to become part of life in California, but rules vary",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-coronavirus-updates-beyonces-beygood-foundation-mom-tina-offer-free-covid-19-testing-in-houston-this-weekend.md",
+      "title": "Coronavirus updates: Beyonce's BEYGood Foundation, mom Tina offer free COVID-19 testing in Houston this weekend",
+      "excerpt": "We are continuing to track the latest headlines and updates regarding the global coronavirus (COVID-19) pandemic. LIVE @ 3 p.m. - Mayor Sylvester Turner and Recovery Czar Marvin Odum will announce the city's expanded program to contain the spread of COVID-19.",
+      "heat": 120,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-22-20/h_9b9ce03bb565039f9908182f5995d0b1",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-22-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-22-20/index.html",
+      "publishedDateTime": "2020-05-07T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Coronavirus updates: Beyonce's BEYGood Foundation, mom Tina offer free COVID-19 testing in Houston this weekend",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-golf-courses-parks-and-marinas-packed-in-harford-after-gov-larry-hogan-lightens-coronavirus-restrictions.md",
+      "title": "Golf courses, parks and marinas packed in Harford after Gov. Larry Hogan lightens coronavirus restrictions",
+      "excerpt": "Thursday was like Christmas came early for those anxious to get back on the golf course and on the water, as Maryland Gov. Larry Hogan peeled back coronavirus restrictions on certain outdoor recreational activities.",
+      "heat": 107,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-30-20/h_8951e72d2aa107da53f04d14d68ae727",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-30-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-30-20/index.html",
+      "publishedDateTime": "2020-05-07T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_617/97277ac5-2172-4f92-9518-e8e955d7857c.jpg",
+          "width": 900,
+          "height": 617,
+          "title": "Golf courses, parks and marinas packed in Harford after Gov. Larry Hogan lightens coronavirus restrictions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-texas-governor-bans-jail-time-for-coronavirus-lockdown-violations.md",
+      "title": "Texas governor bans jail time for coronavirus lockdown violations",
+      "excerpt": "Texas Governor Greg Abbott on Thursday banned the jailing of anybody in the state who defied his orders to shut businesses due to the coronavirus pandemic, a move that followed an outcry over the arrest and incarceration of a Dallas salon owner.",
+      "heat": 145,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-texas-idUSKBN22J2ZM",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22J2ZM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22J2ZM",
+      "publishedDateTime": "2020-05-07T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200507&t=2&i=1517847217&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG461UW",
+          "width": 818,
+          "height": 545,
+          "title": "Texas governor bans jail time for coronavirus lockdown violations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-texas-court-orders-release-of-dallas-salon-owner-jailed-for-reopening.md",
+      "title": "Texas Court Orders Release of Dallas Salon Owner Jailed for Reopening",
+      "excerpt": "The salon owner, Shelley Luther, had become a symbol of conservative outrage over state lockdowns and stay-at-home orders.",
+      "heat": 100,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/07/us/dallas-salon-owner-shelley-luther.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/07/us/dallas-salon-owner-shelley-luther.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/us/dallas-salon-owner-shelley-luther.amp.html",
+      "publishedDateTime": "2020-05-07T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/07/us/07DALLAS/07DALLAS-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "Texas Court Orders Release of Dallas Salon Owner Jailed for Reopening",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-texas-salon-owner-who-defied-state-order-to-close-for-coronavirus-will-be-released-from-jail-court-rules.md",
+      "title": "Texas salon owner who defied state order to close for coronavirus will be released from jail, court rules",
+      "excerpt": "A Texas salon owner who was sent to jail for seven days for violating the state's stay-at-home order during Covid-19 will be released, the Supreme Court of Texas ruled Thursday.",
+      "heat": 108,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/07/us/shelley-luther-supreme-court-jail-release-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/07/us/shelley-luther-supreme-court-jail-release-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/07/us/shelley-luther-supreme-court-jail-release-trnd/index.html",
+      "publishedDateTime": "2020-05-07T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200506123929-01-dallas-salon-owner-reopen-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Texas salon owner who defied state order to close for coronavirus will be released from jail, court rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-dfw-coronavirus-tracker-wedding-events-can-resume-in-texas-under-gov-abbotts-latest-orders.md",
+      "title": "DFW Coronavirus Tracker: Wedding events can resume in Texas under Gov. Abbott's latest orders",
+      "excerpt": "As Texas loosens its restrictions and begins to reopen, wedding ceremonies and receptions are now possible again — with certain guidelines in place.",
+      "heat": 114,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wfaa.com/article/news/local/wedding-venues-reopen-texas/287-1e72d9d7-ab84-4817-9c7e-83443ef6f3dc",
+      "ampWebUrl": "https://www.wfaa.com/amp/article/news/local/wedding-venues-reopen-texas/287-1e72d9d7-ab84-4817-9c7e-83443ef6f3dc",
+      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/wedding-venues-reopen-texas/287-1e72d9d7-ab84-4817-9c7e-83443ef6f3dc",
+      "publishedDateTime": "2020-05-07T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wfaa.com/assets/WFAA/images/bdca54a9-2a94-4712-811a-82ea6c9b19dc/bdca54a9-2a94-4712-811a-82ea6c9b19dc_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "DFW Coronavirus Tracker: Wedding events can resume in Texas under Gov. Abbott's latest orders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-abbott-announces-new-fund-that-will-provide-financial-assistance-to-struggling-texans.md",
+      "title": "Abbott announces new fund that will provide financial assistance to struggling Texans",
+      "excerpt": "Gov. Greg Abbott announced Wednesday that the state, along with OneStar Foundation will be providing struggling Texans with some much-needed financial help.",
+      "heat": 103,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.click2houston.com/news/texas/2020/05/07/abbott-announces-new-fund-that-will-provide-financial-assistance-to-struggling-texans/",
+      "ampWebUrl": "https://www.click2houston.com/news/texas/2020/05/07/abbott-announces-new-fund-that-will-provide-financial-assistance-to-struggling-texans/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/texas/2020/05/07/abbott-announces-new-fund-that-will-provide-financial-assistance-to-struggling-texans/?outputType=amp",
+      "publishedDateTime": "2020-05-07T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click2Houston",
+        "domain": "click2houston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.click2houston.com/resizer/7Xf5H_TTIUiII8zUJnhoZ92WsqM=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/7PACDPFUQ5EMRH37JZ6AW6W3WM.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Abbott announces new fund that will provide financial assistance to struggling Texans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-why-meatpacking-plants-have-become-covid-19-hot-spots.md",
+      "title": "Why Meatpacking Plants Have Become Covid-19 Hot Spots",
+      "excerpt": "Frigid temperatures, cramped conditions, and long hours put meat processing workers at higher risk for contracting the novel coronavirus.",
+      "heat": 155,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-23-20/h_6ca0ab14f6c07f1c78dd830d0e02cc6f",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-23-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-23-20/index.html",
+      "publishedDateTime": "2020-05-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Why Meatpacking Plants Have Become Covid-19 Hot Spots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-videos-blue-angels-fly-over-houston-area-in-amazing-tribute-to-healthcare-workers.md",
+      "title": "Videos: Blue Angels fly over Houston area in amazing tribute to healthcare workers",
+      "excerpt": "The Navy jets roared across the Houston area for a breathtaking 30-minute America Strong flyover to thank frontline healthcare workers.",
+      "heat": 104,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.khou.com/article/features/when-will-the-blue-angels-fly-over-houston-and-dallas-texas/285-48053634-02b5-40ac-ae8f-ef33880feed7",
+      "ampWebUrl": "https://www.khou.com/amp/article/features/when-will-the-blue-angels-fly-over-houston-and-dallas-texas/285-48053634-02b5-40ac-ae8f-ef33880feed7",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/features/when-will-the-blue-angels-fly-over-houston-and-dallas-texas/285-48053634-02b5-40ac-ae8f-ef33880feed7",
+      "publishedDateTime": "2020-05-06T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/KHOU/images/39a92830-5a87-4801-a0e7-5a2757b55229/39a92830-5a87-4801-a0e7-5a2757b55229_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Videos: Blue Angels fly over Houston area in amazing tribute to healthcare workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-rural-texas-hospital-struggles-to-stay-open-amid-coronavirus-pandemic.md",
+      "title": "Rural Texas hospital struggles to stay open amid coronavirus pandemic",
+      "excerpt": "Set in a remote, west Texas town of about 10,000, the 35-bed facility is almost empty. One of its biggest revenue makers, elective surgery, had been put on hold to save rooms for coronavirus patients.",
+      "heat": 105,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/coronavirus-rural-texas-hospital-struggles-to-stay-open-amid-pandemic/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/coronavirus-rural-texas-hospital-struggles-to-stay-open-amid-pandemic/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-rural-texas-hospital-struggles-to-stay-open-amid-pandemic/",
+      "publishedDateTime": "2020-05-06T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/05/06/b0e622a4-a099-4321-84bb-a2b048edd867/thumbnail/1200x630/fa3783cae2efb91ce2153b66f7e53ce5/hospital3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Rural Texas hospital struggles to stay open amid coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-texas-banned-abortions-how-did-that-affect-women.md",
+      "title": "Coronavirus: Texas banned abortions - how did that affect women?",
+      "excerpt": "As the US was going through the darkest days of the crisis, the state of Texas was fighting hard in the courts to ensure abortions did not take place there. The battle, against women's health groups,",
+      "heat": 105,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-us-canada-52535940",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-us-canada-52535940",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-52535940",
+      "publishedDateTime": "2020-05-06T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/174B3/production/_112111459_gettyimages-513269312.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Texas banned abortions - how did that affect women?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-texas-republicans-get-illegal-haircuts-in-protest-against-coronavirus-lockdown.md",
+      "title": "Texas Republicans get illegal haircuts in protest against coronavirus lockdown",
+      "excerpt": "The representatives' stunt was followed just hours later by an announcement by Gov. Greg Abbott that hair stylists and barbershops would be allowed to open Friday.",
+      "heat": 101,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/texas-republicans-got-illegal-haircuts-during-coronavirus-lockdown-report",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-republicans-got-illegal-haircuts-during-coronavirus-lockdown-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-republicans-got-illegal-haircuts-during-coronavirus-lockdown-report.amp",
+      "publishedDateTime": "2020-05-06T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Rep.-Briscoe-Cain.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Texas Republicans get illegal haircuts in protest against coronavirus lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-texas-court-denies-death-row-inmates-hypnosis-appeal.md",
+      "title": "Texas court denies death row inmate’s hypnosis appeal",
+      "excerpt": "A Texas court on Wednesday denied the death row appeal of inmate Charles Don Flores, who argued he was improperly convicted in part due to evidence",
+      "heat": 120,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dallasnews.com/news/courts/2020/05/06/texas-court-denies-death-row-inmates-hypnosis-appeal/",
+      "ampWebUrl": "https://www.dallasnews.com/news/courts/2020/05/06/texas-court-denies-death-row-inmates-hypnosis-appeal/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/courts/2020/05/06/texas-court-denies-death-row-inmates-hypnosis-appeal/?outputType=amp",
+      "publishedDateTime": "2020-05-06T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zvB4jfys_rbY4-PqrRvwUDezs-w=/1200x630/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/YAVFW5BBDQCDECOKZJXI46CGBY.jpg",
+          "width": 764,
+          "height": 630,
+          "title": "Texas court denies death row inmate’s hypnosis appeal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-updates-in-central-texas-mayor-adler-responds-to-gov-abbotts-plan-to-reopen-salons-gyms.md",
+      "title": "Coronavirus updates in Central Texas: Mayor Adler responds to Gov. Abbott's plan to reopen salons, gyms",
+      "excerpt": "Scroll down for the top headlines and latest updates in KVUE's May 5 live blog. COVID-19 Numbers: Texas: There are more than 32,000 cases in the state, which increased by more than 2,300 over the weekend,",
+      "heat": null,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kvue.com/article/news/health/coronavirus/coronavirus-covid-19-austin-central-texas-updates/269-34775252-45bd-47bd-adb7-280db4d97d4c",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/KVUE/images/8cfbd2c8-95d4-4784-85f4-3cbfb7135572/8cfbd2c8-95d4-4784-85f4-3cbfb7135572_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Coronavirus updates in Central Texas: Mayor Adler responds to Gov. Abbott's plan to reopen salons, gyms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-updates-furloughs-possible-for-city-employees-as-houston-faces-budget-shortfall.md",
+      "title": "Coronavirus updates: Furloughs possible for city employees as Houston faces budget shortfall",
+      "excerpt": "We are continuing to track the latest headlines and updates regarding the global coronavirus (COVID-19) pandemic. The latest coronavirus numbers in Texas provided by Gov. Abbott: Gov. Abbott said testing continues to increase in Texas and 750,",
+      "heat": 124,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/gov-greg-abbott-to-provide-update-on-covid-19-response-in-texas/2363752/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/gov-greg-abbott-to-provide-update-on-covid-19-response-in-texas/2363752/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/gov-greg-abbott-to-provide-update-on-covid-19-response-in-texas/2363752/?amp",
+      "publishedDateTime": "2020-05-06T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/abbott-may5-response-cv19.jpg?resize=850%2C478",
+          "width": 850,
+          "height": 478,
+          "title": "Coronavirus updates: Furloughs possible for city employees as Houston faces budget shortfall",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-governor-abbott-announces-additional-steps-to-reopen-the-state.md",
+      "title": "Governor Abbott announces additional steps to reopen the state",
+      "excerpt": "Governor Greg Abbott took additional steps to reopen the state. As of Tuesday. there are a total of 33,369 positive coronavirus cases in the Lone Star State. That is just over 1,000 more cases than we saw the day before.",
+      "heat": 110,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/world/live-news/coronavirus-pandemic-intl-04-17-20/h_85810771ba8ce4c5f9f26996b5a6820b",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-intl-04-17-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-intl-04-17-20/index.html",
+      "publishedDateTime": "2020-05-05T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXXV News Channel 25",
+        "domain": "kxxv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200204130938-cdc-coronavirus-illustration-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Governor Abbott announces additional steps to reopen the state",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-updates-furloughs-could-start-affecting-city-of-houston-employees-as-early-as-july-1.md",
+      "title": "Coronavirus updates: Furloughs could start affecting city of Houston employees as early as July 1",
+      "excerpt": "We are continuing to track the latest headlines and updates regarding the global coronavirus (COVID-19) pandemic. The latest coronavirus numbers in Texas provided by Gov. Abbott: Gov. Abbott said testing continues to increase in Texas and 750,",
+      "heat": 112,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-22-20/h_9b9ce03bb565039f9908182f5995d0b1",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-22-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-22-20/index.html",
+      "publishedDateTime": "2020-05-05T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Coronavirus updates: Furloughs could start affecting city of Houston employees as early as July 1",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-updates-15-kids-hospitalized-in-nyc-with-condition-that-could-be-linked-to-covid-19.md",
+      "title": "Coronavirus updates: 15 kids hospitalized in NYC with condition that could be linked to COVID-19",
+      "excerpt": "We are continuing to track the latest headlines and updates regarding the global coronavirus (COVID-19) pandemic. Fifteen children have been hospitalized in New York City with symptoms consistent with a rare disease possibly linked to the coronavirus,",
+      "heat": 127,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.khou.com/article/features/when-will-the-blue-angels-fly-over-houston-and-dallas-texas/285-48053634-02b5-40ac-ae8f-ef33880feed7",
+      "ampWebUrl": "https://www.khou.com/amp/article/features/when-will-the-blue-angels-fly-over-houston-and-dallas-texas/285-48053634-02b5-40ac-ae8f-ef33880feed7",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/features/when-will-the-blue-angels-fly-over-houston-and-dallas-texas/285-48053634-02b5-40ac-ae8f-ef33880feed7",
+      "publishedDateTime": "2020-05-05T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/WXIA/images/ddbc105f-1c8c-42d8-ab43-3ec04f1dfac6/ddbc105f-1c8c-42d8-ab43-3ec04f1dfac6_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Coronavirus updates: 15 kids hospitalized in NYC with condition that could be linked to COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-texas-man-sick-with-coronavirus-for-over-50-days-ready-for-it-to-be-done.md",
+      "title": "Texas man sick with coronavirus for over 50 days: 'Ready for it to be done'",
+      "excerpt": "The 26-year-old said he first tested positive for COVID-19 in mid-March, and then did so again for a third time on May 1.",
+      "heat": 103,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/health/texas-man-sick-with-coronavirus-for-over-50-days",
+      "ampWebUrl": "https://www.foxnews.com/health/texas-man-sick-with-coronavirus-for-over-50-days.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/texas-man-sick-with-coronavirus-for-over-50-days.amp",
+      "publishedDateTime": "2020-05-05T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c92b877d-a10f-4979-96d2-6ea8c8e22736/29e1b9db-f3e3-484b-a650-f368ea37cdd7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Texas man sick with coronavirus for over 50 days: 'Ready for it to be done'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-amarillo-mayor-says-help-coming-as-cases-climb-near-meat-plants.md",
+      "title": "Amarillo mayor says help coming as cases climb near meat plants",
+      "excerpt": "The Amarillo area, where hundreds of meatpacking workers are sick, is responsible for 25% of the nation's fed beef supply.",
+      "heat": 110,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://abc13.com/food/amarillo-meatpacking-plant-tied-to-240-covid-19-cases/6152430/",
+      "ampWebUrl": "https://abc13.com/amp/amarillo-meatpacking-coronavirus-covid-19-meat-industry/6152430/",
+      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/amarillo-meatpacking-coronavirus-covid-19-meat-industry/6152430/",
+      "publishedDateTime": "2020-05-05T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc13.com",
+        "domain": "abc13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/6136954_042920-wls-trump-meat-processors530-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Amarillo mayor says help coming as cases climb near meat plants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-in-the-us-an-unrelenting-crush-of-cases-and-deaths.md",
+      "title": "Coronavirus in the U.S.: An Unrelenting Crush of Cases and Deaths",
+      "excerpt": "While cities like New York have seen a hopeful drop in cases, upticks in other major cities and smaller communities have offset those decreases.",
+      "heat": 155,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-23-20/h_6ca0ab14f6c07f1c78dd830d0e02cc6f",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-23-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/us-coronavirus-update-04-23-20/index.html",
+      "publishedDateTime": "2020-05-05T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Coronavirus in the U.S.: An Unrelenting Crush of Cases and Deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

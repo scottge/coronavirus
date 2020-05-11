@@ -1,0 +1,1278 @@
+{
+  "page": 95,
+  "value": [
+    {
+      "path": "_news/2020-03-06-us-coronavirus-death-toll-rises-to-14-as-university-of-washington-cancels-classes.md",
+      "title": "US coronavirus death toll rises to 14 as University of Washington cancels classes",
+      "excerpt": "University to conduct courses and exams remotely while the number of infections swells to over 200 across at least 18 states",
+      "heat": 160,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/06/us-coronavirus-death-toll-washington-state",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/06/us-coronavirus-death-toll-washington-state",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/06/us-coronavirus-death-toll-washington-state",
+      "publishedDateTime": "2020-03-06T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2c38aee1a8da9b50168a8ae8bbae9df047dfc82a/0_132_2419_1451/master/2419.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=579773e5753ea29112c57f82183d633c",
+          "width": 600,
+          "height": 360,
+          "title": "US coronavirus death toll rises to 14 as University of Washington cancels classes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-updates-indiana-confirms-first-case-as-global-total-tops-100000.md",
+      "title": "Coronavirus updates: Indiana confirms first case as global total tops 100,000",
+      "excerpt": "Here's the latest on the COVID-19 outbreak. COVID-19, the disease caused by a coronavirus first detected in China in December, has rapidly spread across the globe. Since then, it's made its way to every continent besides Antarctica.",
+      "heat": null,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.click2houston.com/health/2020/03/07/latest-follow-the-developments-of-the-coronavirus-cases-in-the-houston-area/",
+      "ampWebUrl": "https://www.click2houston.com/health/2020/03/07/latest-follow-the-developments-of-the-coronavirus-cases-in-the-houston-area/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/health/2020/03/07/latest-follow-the-developments-of-the-coronavirus-cases-in-the-houston-area/?outputType=amp",
+      "publishedDateTime": "2020-03-06T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/arc-authors/gmg/67a05b15-b72a-4c8f-a7ac-a938d040e8ed.png",
+          "width": 2868,
+          "height": 2868,
+          "title": "Coronavirus updates: Indiana confirms first case as global total tops 100,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-death-toll-over-3300-as-us-scrambles-to-test-thousands.md",
+      "title": "Coronavirus death toll over 3,300 as U.S. scrambles to test thousands",
+      "excerpt": "There have been 12 deaths in the United States — 11 in Washington state and one in California ... The Dutch public health institute has reported the Netherlands' first coronavirus death, while Serbia and Slovakia confirmed their first cases of the virus. An 86-year-old man died in a hospital in Rotterdam. It is not known where he contracted ...",
+      "heat": 200,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-06/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-06/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-06/",
+      "publishedDateTime": "2020-03-06T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/6c4e0960-55ca-4ed1-9c70-bab7591a666f/thumbnail/1200x630g8/604f9fa83517825536863711d0e496c5/coronavirus-ship-california-ap-20065776626507.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus death toll over 3,300 as U.S. scrambles to test thousands",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-america-should-stay-at-work-despite-coronavirus-larry-kudlow-says.md",
+      "title": "'America should stay at work,' despite coronavirus, Larry Kudlow says",
+      "excerpt": "There have been more than 100,000 confirmed cases of the virus around the world, including over 230 in the U.S. National Economic Council Director Larry Kudlow said Friday that U.S. workers should continue going to work despite the coronavirus outbreak ... Many big companies in the United States, including Amazon and Facebook, are encouraging ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/06/america-should-stay-at-work-despite-coronavirus-larry-kudlow-says.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/06/america-should-stay-at-work-despite-coronavirus-larry-kudlow-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/06/america-should-stay-at-work-despite-coronavirus-larry-kudlow-says.html",
+      "publishedDateTime": "2020-03-06T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106346297-1579615507995dsc00580r.jpg?v=1579646106",
+          "width": 3000,
+          "height": 2000,
+          "title": "'America should stay at work,' despite coronavirus, Larry Kudlow says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-trump-calls-coronavirus-test-perfect-and-compares-it-to-ukraine-phone-call.md",
+      "title": "Trump calls coronavirus test \"perfect\" and compares it to Ukraine phone call",
+      "excerpt": "President Trump, on a visit to the Centers for Disease Control in Atlanta, asserted that coronavirus tests are available to \"anybody.\" \"Anybody that wants a test can get a test,\" he said. \"That's what the bottom line is.\" And he added, \"Anybody right now and yesterday, anybody that needs a test gets a test. They're there. They have the tests ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/trump-calls-coronavirus-test-perfect-and-compares-it-to-ukraine-phone-call/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-calls-coronavirus-test-perfect-and-compares-it-to-ukraine-phone-call/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-calls-coronavirus-test-perfect-and-compares-it-to-ukraine-phone-call/",
+      "publishedDateTime": "2020-03-06T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/0e20c61e-1bfb-4415-af74-cb43267fdafa/thumbnail/1200x630g2/518356735facde8cadf4d14132a7ffdf/gettyimages-1205520973.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Trump calls coronavirus test \"perfect\" and compares it to Ukraine phone call",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-can-going-cashless-prevent-coronavirus-spread-heres-what-who-wants-you-to-know.md",
+      "title": "Can going cashless prevent coronavirus spread? Here's what WHO wants you to know",
+      "excerpt": "Cash is notoriously covered in germs. Amid the coronavirus outbreak, the World Health Organization suggests that you wash your hands after handling paper bills. But is using a contactless payment method any safer?",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/06/what-you-need-to-know-about-handling-cash-amid-coronavirus-spread-who.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/06/what-you-need-to-know-about-handling-cash-amid-coronavirus-spread-who.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/06/what-you-need-to-know-about-handling-cash-amid-coronavirus-spread-who.html",
+      "publishedDateTime": "2020-03-06T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106427568-1583444386878holding-wallet-and-dollar-bills-currency-us-dollars-shopping-paying-purchase_t20_ooxkw8.jpg?v=1583444462",
+          "width": 2000,
+          "height": 1333,
+          "title": "Can going cashless prevent coronavirus spread? Here's what WHO wants you to know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-us-cases-stadium-worker-at-centurylink-field-in-seattle-for-xfl-game-tests-positive-for-covid-19.md",
+      "title": "Coronavirus U.S. Cases: Stadium Worker at CenturyLink Field in Seattle for XFL Game Tests Positive for COVID-19",
+      "excerpt": "King County authorities have confirmed a stadium employee who worked at Seattle's CenturyLink Field last month has tested positive for coronavirus. The man, who according to The Seattle Times was a concession stand worker,",
+      "heat": 100,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/seattle-centurylink-field-worker-coronavirus-positive-1490923",
+      "ampWebUrl": "https://www.newsweek.com/seattle-centurylink-field-worker-coronavirus-positive-1490923?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/seattle-centurylink-field-worker-coronavirus-positive-1490923?amp=1",
+      "publishedDateTime": "2020-03-06T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1571824/xfl-coronavirus.jpg",
+          "width": 594,
+          "height": 396,
+          "title": "Coronavirus U.S. Cases: Stadium Worker at CenturyLink Field in Seattle for XFL Game Tests Positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-14-deaths-now-in-us-new-cases-in-maryland-colorado.md",
+      "title": "Coronavirus: 14 Deaths Now In U.S.; New Cases In Maryland, Colorado",
+      "excerpt": "Reuters, David Ryder COVID-19 has now caused at least 14 deaths in the U.S., as a Seattle-area hospital confirmed two additional deaths as of Thursday night. There are now confirmed cases of the coronavirus in 21 states, after the pathogen was found in Pennsylvania, Maryland and Colorado. The new deaths occurred at EvergreenHealth hospital in ...",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.houstonpublicmedia.org/npr/2020/03/06/812833596/coronavirus-14-deaths-now-in-u-s-new-cases-in-maryland-colorado/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Public Media",
+        "domain": "houstonpublicmedia.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/03/06/grandprincess-a5d526e72f5a85a79b6e956528b38a2ae3bf9b4b.jpg",
+          "width": 2664,
+          "height": 1998,
+          "title": "Coronavirus: 14 Deaths Now In U.S.; New Cases In Maryland, Colorado",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-ebro-foods-boosts-pasta-and-rice-output-to-meet-coronavirus-driven-demand.md",
+      "title": "Ebro Foods boosts pasta and rice output to meet coronavirus-driven demand",
+      "excerpt": "Spain’s Ebro Foods has ramped up production of pasta and rice in Western Europe and the United States in the past couple of weeks to meet growing demand by consumers worried by the coronavirus crisis,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-ebro-pasta-idUSKBN20T25G",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20T25G",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20T25G",
+      "publishedDateTime": "2020-03-06T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Ebro Foods boosts pasta and rice output to meet coronavirus-driven demand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-five-cases-of-coronavirus-now-reported-in-arizona.md",
+      "title": "Five cases of coronavirus now reported in Arizona",
+      "excerpt": "PHOENIX (3TV/CBS 5) – Two more people have now tested positive for the coronavirus in Arizona ... we expect additional cases and community spread in Arizona,” said Dr. Cara Christ, ADHS director. “Keeping Arizonans safe and healthy is our number ...",
+      "heat": 125,
+      "tags": [
+        "US-AZ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.azfamily.com/news/five-cases-of-coronavirus-now-reported-in-arizona/article_383bec4e-5fbf-11ea-953b-53bc6574bdb3.html",
+      "ampWebUrl": "https://www.azfamily.com/news/five-cases-of-coronavirus-now-reported-in-arizona/article_383bec4e-5fbf-11ea-953b-53bc6574bdb3.amp.html",
+      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/five-cases-of-coronavirus-now-reported-in-arizona/article_383bec4e-5fbf-11ea-953b-53bc6574bdb3.amp.html",
+      "publishedDateTime": "2020-03-06T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZFamily",
+        "domain": "azfamily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/b/9f/b9f641fa-5fd6-11ea-8598-77cfc198286e/5e6293d14eb81.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": "Five cases of coronavirus now reported in Arizona",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-us-coronavirus-death-toll-reaches-14-as-global-cases-top-100000.md",
+      "title": "U.S. Coronavirus Death Toll Reaches 14 as Global Cases Top 100,000",
+      "excerpt": "In the U.S., the first cases of COVID-19 have been reported in Pennsylvania, Texas, Nevada, Maryland and Colorado.",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world-report/articles/2020-03-06/us-coronavirus-death-toll-reaches-14-as-global-cases-top-100-000",
+      "ampWebUrl": "https://www.usnews.com/news/world-report/articles/2020-03-06/us-coronavirus-death-toll-reaches-14-as-global-cases-top-100-000?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world-report/articles/2020-03-06/us-coronavirus-death-toll-reaches-14-as-global-cases-top-100-000?context=amp",
+      "publishedDateTime": "2020-03-06T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-washington-dc-gets-its-first-coronavirus-pop-up-shop.md",
+      "title": "Washington, DC, gets its first coronavirus pop-up shop",
+      "excerpt": "A Florida native who came to Washington to attend Howard University ... Both she and her father wear the masks routinely when going to the grocery store or elsewhere around town. As the global coronavirus death toll increased and the virus began making inroads in the U.S., Patrom decided to stock up on hand sanitizers and open her shop.",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/health/washington-dc-gets-its-first-coronavirus-pop-up-shop",
+      "ampWebUrl": "https://www.foxnews.com/health/washington-dc-gets-its-first-coronavirus-pop-up-shop.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/washington-dc-gets-its-first-coronavirus-pop-up-shop.amp",
+      "publishedDateTime": "2020-03-06T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/CoronavirusPopUpAP-PhotoNathan-Ellgren.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Washington, DC, gets its first coronavirus pop-up shop",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-trump-signs-83b-emergency-coronavirus-package.md",
+      "title": "Trump signs $8.3B emergency coronavirus package",
+      "excerpt": "President Donald Trump today signed the $8.3 billion emergency funding package Congress swiftly cleared, triggering the flow of cash to federal agencies and states working to combat a rising number of coronavirus cases in the U.S. The bill provides a total of $7.7 billion in new discretionary spending and authorizes an additional $490 million ...",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/03/06/trump-signs-83b-emergency-coronavirus-package-122681",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/03/06/trump-signs-83b-emergency-coronavirus-package-122681",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/03/06/trump-signs-83b-emergency-coronavirus-package-122681",
+      "publishedDateTime": "2020-03-06T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/18/d6/9a24bab44792b68864298d4c6208/200304-trump-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Trump signs $8.3B emergency coronavirus package",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-trump-scrapped-cdc-visit-over-suspected-case-of-coronavirus-that-came-back-negative.md",
+      "title": "Trump scrapped CDC visit over suspected case of coronavirus that came back negative",
+      "excerpt": "WASHINGTON – President Donald Trump said he ... with new cases reported in Colorado, Maryland, Nevada and New Jersey on Thursday. At least 12 Americans and more than 3,400 people globally have died from the virus. The worldwide total of coronavirus cases reached more than 100,000 on Friday morning.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.jsonline.com/story/news/politics/2020/03/06/coronavirus-trump-canceled-cdc-visit-over-suspected-case/4973229002/",
+      "ampWebUrl": "https://amp.jsonline.com/amp/4973229002",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/4973229002",
+      "publishedDateTime": "2020-03-06T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/23/USAT/5719d172-e6f3-4a15-a691-84c6abf25142-AP_Trump_1.JPG?auto=webp&crop=3389,1907,x0,y172&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Trump scrapped CDC visit over suspected case of coronavirus that came back negative",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-what-to-know-about-the-coronavirus-spread-in-california.md",
+      "title": "What to Know About the Coronavirus Spread in California",
+      "excerpt": "Friday: Anxiety rose as more cases were discovered. Also: More election results; and a recommendation for finding an outdoor escape. The first person to die from the virus in California, a 71-year-old man in Placer County,",
+      "heat": 105,
+      "tags": [
+        "US-CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/06/us/coronavirus-california-cruise-ship.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/06/us/coronavirus-california-cruise-ship.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/06/us/coronavirus-california-cruise-ship.amp.html",
+      "publishedDateTime": "2020-03-06T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/06/us/06coronaviruscatoday/merlin_170080494_91cd5923-fe56-4a03-b9c0-71539db8c695-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "What to Know About the Coronavirus Spread in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-not-real-news-a-look-at-what-didnt-happen-this-week.md",
+      "title": "NOT REAL NEWS: A look at what didn't happen this week",
+      "excerpt": "He has endorsed former Vice President Joe Biden. The amount he spent on the race has ... CLAIM: Vice President Mike Pence shook hands with potential coronavirus victim. THE FACTS: Pence did ...",
+      "heat": null,
+      "tags": [
+        "US-CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-Six-dead-in-Washington-15100710.php#photo-19151960",
+      "ampWebUrl": "https://www.sfchronicle.com/bayarea/amp/Coronavirus-live-updates-Six-dead-in-Washington-15100710.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Coronavirus-live-updates-Six-dead-in-Washington-15100710.php",
+      "publishedDateTime": "2020-03-06T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/10/66/65/19098964/5/375x250.jpg",
+          "width": 375,
+          "height": 249,
+          "title": "NOT REAL NEWS: A look at what didn't happen this week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-education-dept-eases-rules-for-college-students-affected-by-coronavirus.md",
+      "title": "Education Dept. eases rules for college students affected by coronavirus",
+      "excerpt": "The latest: A cruise ship carrying about 2,500 passengers was held in waters off California for coronavirus screening. The death toll in the United States rose to 12. Three cases were confirmed in Maryland. Sign up for our Coronavirus Updates newsletter: Get the latest news straight to your inbox as we track the spread of the virus in the ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/education/2020/03/06/education-dept-eases-rules-college-students-affected-by-coronavirus/",
+      "ampWebUrl": "https://www.washingtonpost.com/education/2020/03/06/education-dept-eases-rules-college-students-affected-by-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/03/06/education-dept-eases-rules-college-students-affected-by-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-03-06T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/bMONrPzkn6OvVvrUmJF0kWssl3Y=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6MC55UOBQI6TNXUAMZVMUBNZY.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Education Dept. eases rules for college students affected by coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-trump-cancels-trip-to-cdc-amid-coronavirus-outbreak.md",
+      "title": "Trump cancels trip to CDC amid coronavirus outbreak",
+      "excerpt": "President Trump canceled his planned Friday trip to the Centers for Disease Control and Prevention (CDC) in Atlanta, with the White House saying that the president does not want to interfere with the agency's work to fight the novel coronavirus. Trump was planning to visit the CDC during his trip to Tennessee to tour the damage from multiple ...",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/trump-cancels-trip-to-cdc-amid-coronavirus-outbreak",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-cancels-trip-to-cdc-amid-coronavirus-outbreak.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-trip-to-cdc-amid-coronavirus-outbreak.amp",
+      "publishedDateTime": "2020-03-06T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a99eb96-5393-4712-bf17-c27f043f3932/2577d9eb-ab3a-4f7b-91de-d8e08d8300fd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Trump cancels trip to CDC amid coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-man-visiting-colorado-woman-in-dougco-test-positive-for-coronavirus.md",
+      "title": "Man visiting Colorado, woman in DougCo test positive for coronavirus",
+      "excerpt": "DENVER — Two people in Colorado have tested positive for COVID-19 ... RELATED: How Denver has prepared for a possible coronavirus outbreak But questions have surfaced about the state's testing of the disease. Colorado, as of this week, has the capacity to test upward of 160 samples per day for the new strain of coronavirus, but so far ...",
+      "heat": 115,
+      "tags": [
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.9news.com/article/news/health/coronavirus/colorado-has-first-case-of-coronavirus-covid-19/73-3d2f21d8-7969-45bc-b172-a6b0d1a1516f",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUSA",
+        "domain": "9news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.9news.com/assets/KUSA/images/68b7b8fc-3e67-49e4-81f0-895e7ee286fa/68b7b8fc-3e67-49e4-81f0-895e7ee286fa_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Man visiting Colorado, woman in DougCo test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-us-ambassador-terry-branstad-on-chinas-coronavirus-outbreak-its-like-nothing-ive-dealt-with-before.md",
+      "title": "US Ambassador Terry Branstad on China's coronavirus outbreak: 'It's like nothing I've dealt with before'",
+      "excerpt": "Coronavirus updates::19 states report COVID-19 as worldwide ... The first infections of the COVID-19 virus were linked to a market in Wuhan, China, a city of 11 million people. The Chinese government has taken dramatic steps to lock down the city in ...",
+      "heat": 138,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/03/06/terry-branstad-iowa-governor-ambassador-coronavirus-response-china-embassy/4973023002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4973023002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4973023002",
+      "publishedDateTime": "2020-03-06T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/e745a083d624a12b047994f532fcf8f9adca7fe8/c=22-0-3000-1682/local/-/media/2017/09/26/IAGroup/DesMoines/636420015536938210-03-BranstadinChina.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": "US Ambassador Terry Branstad on China's coronavirus outbreak: 'It's like nothing I've dealt with before'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-trump-to-sign-83b-bill-to-combat-coronavirus-outbreak.md",
+      "title": "Trump to sign $8.3B bill to combat coronavirus outbreak",
+      "excerpt": "As the number of people worldwide infected with the new coronavirus approaches 100,000, there is a sense of déjà vu across the West. The spreading outbreak brought scenes of disruption like the ones that played out in Asia: runs on household basics, canceled public events and a cruise ship ordered to stay at sea over virus fears. The ...",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reviewjournal.com/news/nation-and-world/trump-to-sign-8-3b-bill-to-combat-coronavirus-outbreak-1973538/",
+      "ampWebUrl": "https://www.reviewjournal.com/news/nation-and-world/trump-to-sign-8-3b-bill-to-combat-coronavirus-outbreak-1973538/amp/",
+      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/nation-and-world/trump-to-sign-8-3b-bill-to-combat-coronavirus-outbreak-1973538/amp/",
+      "publishedDateTime": "2020-03-06T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Review-Journal",
+        "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.reviewjournal.com/wp-content/uploads/2020/03/13469061_web1_13469061-34295fa02ba04ea681315fb7127532a9.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": "Trump to sign $8.3B bill to combat coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-wall-street-braces-for-more-losses-global-stocks-slide-as-coronavirus-drives-weeks-frenzy.md",
+      "title": "Wall Street braces for more losses, global stocks slide as coronavirus drives week’s frenzy",
+      "excerpt": "The global death toll from the coronavirus had surpassed 3,200, and more than 97,000 people have been infected. The outbreak’s hold on the United States is also tightening, with California declaring a state of emergency after its first coronavirus-linked death brought the nation’s death toll to 11. The outbreak has disrupted global supply ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/business/2020/03/06/stocks-today-coronavirus-markets/",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2020/03/06/stocks-today-coronavirus-markets/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/03/06/stocks-today-coronavirus-markets/?outputType=amp",
+      "publishedDateTime": "2020-03-06T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/PTpNgmAHsHu2-zD5zZ3cgeuk7s0=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TEHJEYS7CMI6VLCQDBYB4FHANU.jpg",
+          "width": 1440,
+          "height": 987,
+          "title": "Wall Street braces for more losses, global stocks slide as coronavirus drives week’s frenzy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-sports-world-watching-coronavirus-as-travel-tournaments-hang-in-balance.md",
+      "title": "Sports world watching coronavirus as travel, tournaments hang in balance",
+      "excerpt": "This particular epidemic may be sufficiently controlled to allow sporting life to go on as normal, at least in the United States. But no one really knows. At the recent NHL general managers’ meetings, the discussion about coronavirus was focused more on travel, with teams scrapping scouting trips to Europe, in part because the tournaments ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsobserver.com/sports/spt-columns-blogs/luke-decock/article240927246.html",
+      "ampWebUrl": "https://amp.newsobserver.com/sports/spt-columns-blogs/luke-decock/article240927246.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/sports/spt-columns-blogs/luke-decock/article240927246.html",
+      "publishedDateTime": "2020-03-06T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557046001/3e0a29c3-41a3-4ff5-9bf7-586980ffc155/main/1280x720/46s742ms/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Sports world watching coronavirus as travel, tournaments hang in balance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Coronavirus in Japan",
+        "Coronavirus in Asia",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-how-museums-theaters-and-concert-halls-are-dealing-with-coronavirus.md",
+      "title": "How Museums, Theaters and Concert Halls are Dealing with Coronavirus",
+      "excerpt": "Audience members are being told: If you have a cough, please, trade in your tickets and stay home. As the coronavirus spreads in the United States, theaters, museums and concert halls are hyperaware that their establishments could become petri dishes for a virus that is spread person-to-person through respiratory droplets. These institutions ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/06/arts/covid-19-movies-theaters-concerts-museums.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/06/arts/covid-19-movies-theaters-concerts-museums.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/06/arts/covid-19-movies-theaters-concerts-museums.amp.html",
+      "publishedDateTime": "2020-03-06T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/06/arts/06virus-culture-2/merlin_170075979_59265521-db9a-48b3-8ee8-700327ba5cd7-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "How Museums, Theaters and Concert Halls are Dealing with Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-officials-tennessee-man-with-coronavirus-flew-in-out-of-bostons-logan-airport.md",
+      "title": "Officials: Tennessee man with coronavirus flew in, out of Boston’s Logan Airport",
+      "excerpt": "BOSTON (WHDH) - A Tennessee man who has tested positive for the coronavirus recently flew in and out of Boston’s Logan International Airport, health officials announced Thursday. The patient ...",
+      "heat": null,
+      "tags": [
+        "US-MA"
+      ],
+      "type": "article",
+      "webUrl": "https://boston.cbslocal.com/2020/03/05/coronavirus-case-tennessee-boston-logan-airport/",
+      "ampWebUrl": "https://boston.cbslocal.com/2020/03/05/coronavirus-case-tennessee-boston-logan-airport/amp/",
+      "cdnAmpWebUrl": "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/03/05/coronavirus-case-tennessee-boston-logan-airport/amp/",
+      "publishedDateTime": "2020-03-06T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHDH",
+        "domain": "whdh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2019/01/loganfile.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Officials: Tennessee man with coronavirus flew in, out of Boston’s Logan Airport",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-washington-gov-inslee-cuts-coronavirus-costs-and-meets-with-vp-mike-pence.md",
+      "title": "Washington Gov. Inslee cuts coronavirus costs — and meets with VP Mike Pence",
+      "excerpt": "Eighteen more cases, including one death, have been reported in neighboring Snohomish County ... Pence said the top priority will be to get test kits to the two states where coronavirus patients have died — Washington state and California. “Our message to families all across the state of Washington is simply this: We’re with you, we ...",
+      "heat": 162,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/washington-state-takes-steps-cut-costs-coronavirus-testing-treatment/",
+      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-takes-steps-cut-costs-coronavirus-testing-treatment/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-takes-steps-cut-costs-coronavirus-testing-treatment/amp/",
+      "publishedDateTime": "2020-03-06T02:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/200305-bump-630x437.jpg",
+          "width": 630,
+          "height": 437,
+          "title": "Washington Gov. Inslee cuts coronavirus costs — and meets with VP Mike Pence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-colorado-maryland-announce-new-coronavirus-cases.md",
+      "title": "Colorado, Maryland announce new coronavirus cases",
+      "excerpt": "Washington state is ramping up testing for the new coronavirus as the state reports its 10th death. State health officer Kathy Lofy says the state is contacting the University of Washington and private labs to expand testing for COVID-19. (March 5)",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://onenewsnow.com/general/video?vid=23323",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OneNewsNow",
+        "domain": "onenewsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://onenewsnow.com/media/8729871/8783-mike-pence-coronavirus-task-force-public-doma_350x219.jpg",
+          "width": 350,
+          "height": 219,
+          "title": "Colorado, Maryland announce new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-8-new-coronavirus-cases-in-bc-including-first-case-of-community-transmission.md",
+      "title": "8 new coronavirus cases in B.C., including first case of community transmission",
+      "excerpt": "British Columbia has announced eight new cases of COVID-19 ... said Thursday the case of a woman in the Vancouver area is of particular concern because she did not travel recently and has had no known contact with anyone else diagnosed with the novel coronavirus. “This is a community case and we are doing a detailed investigation right ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.680news.com/2020/03/06/coronavirus-british-columbia/",
+      "ampWebUrl": "https://www.680news.com/2020/03/06/coronavirus-british-columbia/amp/",
+      "cdnAmpWebUrl": "https://www-680news-com.cdn.ampproject.org/c/s/www.680news.com/2020/03/06/coronavirus-british-columbia/amp/",
+      "publishedDateTime": "2020-03-06T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "680 News",
+        "domain": "680news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.680news.com/wp-content/blogs.dir/sites/2/2020/03/22870110-300x208.jpg",
+          "width": 300,
+          "height": 208,
+          "title": "8 new coronavirus cases in B.C., including first case of community transmission",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-news-89-confirmed-covid-19-cases-in-ny-cuomo-declares-emergency.md",
+      "title": "Coronavirus News: 89 confirmed COVID-19 cases in NY; Cuomo declares emergency",
+      "excerpt": "Governor Andrew Cuomo is now reporting there are 89 confirmed cases of coronavirus in New York State. The governor declared a state of emergency in New York because of the increasingly rapid spread of COVID-19.",
+      "heat": 137,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnewyork.com/news/health/two-new-coronavirus-cases-confirmed-in-nyc/2314454/",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/health/two-new-coronavirus-cases-confirmed-in-nyc/2314454/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/health/two-new-coronavirus-cases-confirmed-in-nyc/2314454/?amp",
+      "publishedDateTime": "2020-03-06T02:39:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nbcnewyork.com/news/health/two-new-coronavirus-cases-confirmed-in-nyc/2314454/",
+        "domain": "nbcnewyork.com/news/health/two-new-coronavirus-cases-confirmed-in-nyc/2314454/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2019/09/Two_New_Coronavirus_Cases_Confirmed_in_NYC.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus News: 89 confirmed COVID-19 cases in NY; Cuomo declares emergency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-live-updates-american-tourist-becomes-1st-confirmed-case-in-bhutan.md",
+      "title": "Coronavirus live updates: American tourist becomes 1st confirmed case in Bhutan",
+      "excerpt": "\"Many federal employees are in direct contact with the public, in some cases working in areas where people have tested positive for the coronavirus or been quarantined ... coast Friday morning as health officials await results from dozens of coronavirus tests. Test kits were delivered to the vessel via helicopter on Thursday after it was ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Health/coronavirus-live-updates-american-tourist-1st-confirmed-case/story?id=69429757",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/coronavirus-live-updates-american-tourist-1st-confirmed-case/story?id=69429757",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/coronavirus-live-updates-american-tourist-1st-confirmed-case/story?id=69429757",
+      "publishedDateTime": "2020-03-06T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/coronavirus-vatican-ap-rc-200306_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "Coronavirus live updates: American tourist becomes 1st confirmed case in Bhutan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    }
+  ],
+  "nextPage": 96
+}

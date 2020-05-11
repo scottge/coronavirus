@@ -1,0 +1,1282 @@
+{
+  "page": 80,
+  "value": [
+    {
+      "path": "_news/2020-03-10-trumps-critics-arent-politicizing-the-coronavirus-trump-is.md",
+      "title": "Trump’s critics aren’t ‘politicizing the coronavirus.’ Trump is.",
+      "excerpt": "A week before he was replaced as acting White House chief of staff, Mick Mulvaney said the media was overblowing coronavirus coverage because “they think this will bring down the president.” The same day, President Trump accused Democrats of “politicizing the coronavirus,” describing it as “their new hoax.” Saturday, conservative ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/outlook/2020/03/10/trumps-critics-arent-politicizing-coronavirus-trump-is/",
+      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/03/10/trumps-critics-arent-politicizing-coronavirus-trump-is/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/03/10/trumps-critics-arent-politicizing-coronavirus-trump-is/?outputType=amp",
+      "publishedDateTime": "2020-03-10T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7IVEGNTCIAI6VCUOLRJTNMZHMA.jpg&w=767",
+          "width": 767,
+          "height": 538,
+          "title": "Trump’s critics aren’t ‘politicizing the coronavirus.’ Trump is.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-what-we-know-about-the-12-coronavirus-cases-in-houston-area.md",
+      "title": "What we know about the 12 coronavirus cases in Houston-area",
+      "excerpt": "HOUSTON, Texas ... everything we know about the state of the coronavirus in our country. Students at the school attended mass around 8:15 a.m. and didn't return to the church again until Thursday, March 5. The rest of the school returned Friday morning. The church has taken appropriate safety measures to clean and sanitize the area.",
+      "heat": 125,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://abc13.com/health/city-of-houston-reports-3rd-coronavirus-case/5999764/",
+      "ampWebUrl": "https://abc13.com/amp/5999764",
+      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/5999764",
+      "publishedDateTime": "2020-03-10T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc13.com",
+        "domain": "abc13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-halfhearted-millennial-coronavirus-prep-in-a-new-york-city-apartment.md",
+      "title": "Halfhearted Millennial Coronavirus Prep in a New York City Apartment",
+      "excerpt": "It’s tricky to pack our small spaces with supplies, but the real struggle is deciding how worried to be. Because my apartment is too small to store the recommended pandemic preparedness supplies without turning the space into an obstacle course,",
+      "heat": 105,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/10/opinion/coronavirus-new-york.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/10/opinion/coronavirus-new-york.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/10/opinion/coronavirus-new-york.amp.html",
+      "publishedDateTime": "2020-03-10T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/10/opinion/10TalmonSmith/10TalmonSmith-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Halfhearted Millennial Coronavirus Prep in a New York City Apartment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-groups-cancel-dc-convention-events-sec-advises-hq-employees-to-telework.md",
+      "title": "Groups cancel D.C. convention events; SEC advises HQ employees to telework",
+      "excerpt": "Two groups have canceled convention events scheduled for D.C. over coronavirus concerns, while the Securities and Exchange Commission has advised HQ employees to work from home.",
+      "heat": 133,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/washington/news/2020/03/10/washington-convention-center-events-canceled-sec.html",
+      "ampWebUrl": "https://www.bizjournals.com/washington/news/2020/03/10/washington-convention-center-events-canceled-sec.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/03/10/washington-convention-center-events-canceled-sec.amp.html",
+      "publishedDateTime": "2020-03-10T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/10920088/img2783*600xx2016-1344-0-84.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Groups cancel D.C. convention events; SEC advises HQ employees to telework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-3-of-4-broward-coronavirus-cases-from-company-at-port-everglades.md",
+      "title": "3 of 4 Broward Coronavirus Cases From Company at Port Everglades",
+      "excerpt": "urging anyone who recently traveled through Port Everglades to isolate themselves for 14 days if they start experiencing symptoms. The Florida Department of Health confirmed the company connection in a news release that also said a 69-year-old woman who tested positive for COVID-19 is the fourth Broward County resident, and third employee of ...",
+      "heat": 125,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcmiami.com/news/local/health-officials-confirm-third-case-of-covid-19-in-broward-county/2202402/",
+      "ampWebUrl": "https://www.nbcmiami.com/news/local/health-officials-confirm-third-case-of-covid-19-in-broward-county/2202402/?amp",
+      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/health-officials-confirm-third-case-of-covid-19-in-broward-county/2202402/?amp",
+      "publishedDateTime": "2020-03-10T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 6 South Florida",
+        "domain": "nbcmiami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcmiami.com/2019/09/CORONAVIRUS-TERCER-CASO-.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "3 of 4 Broward Coronavirus Cases From Company at Port Everglades",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-cuomo-says-two-dozen-new-coronavirus-cases-in-new-york.md",
+      "title": "Cuomo Says Two Dozen New Coronavirus Cases in New York",
+      "excerpt": "New York Gov. Andrew Cuomo said the state has around two dozen new cases of novel coronavirus, as he again urged the federal government to increase testing capacity to stem the spread of the disease.",
+      "heat": 165,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/cuomo-says-two-dozen-new-coronavirus-cases-in-new-york-11583849855",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/cuomo-says-two-dozen-new-coronavirus-cases-in-new-york-11583849855",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cuomo-says-two-dozen-new-coronavirus-cases-in-new-york-11583849855",
+      "publishedDateTime": "2020-03-10T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-162643/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Cuomo Says Two Dozen New Coronavirus Cases in New York",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-trumps-bungling-of-coronavirus-started-with-iran-opinion.md",
+      "title": "Trump's Bungling of Coronavirus Started With Iran | Opinion",
+      "excerpt": "With almost 300 now dead in Iran and thousands infected, we once again are witnessing how a repressive Iranian government combined with cruel U.S. sanctions create a perfect storm.",
+      "heat": 115,
+      "tags": [
+        "Iran"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/trumps-bungling-coronavirus-started-iran-opinion-1491435",
+      "ampWebUrl": "https://www.newsweek.com/trumps-bungling-coronavirus-started-iran-opinion-1491435?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-bungling-coronavirus-started-iran-opinion-1491435?amp=1",
+      "publishedDateTime": "2020-03-10T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1572743/iran-coronavirus.jpg",
+          "width": 2500,
+          "height": 1717,
+          "title": "Trump's Bungling of Coronavirus Started With Iran | Opinion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-as-europe-steps-up-coronavirus-fight-asias-efforts-bear-fruit.md",
+      "title": "As Europe Steps Up Coronavirus Fight, Asia’s Efforts Bear Fruit",
+      "excerpt": "Italy began the first nationwide quarantine in a modern democracy as the slowing spread of the novel coronavirus in the hardest-hit countries in Asia bolstered the case for drastic government-imposed lockdowns.",
+      "heat": 140,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/new-coronavirus-spread-slows-in-worst-hit-asian-countries-11583835505",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/new-coronavirus-spread-slows-in-worst-hit-asian-countries-11583835505",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-coronavirus-spread-slows-in-worst-hit-asian-countries-11583835505",
+      "publishedDateTime": "2020-03-10T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-162623/social",
+          "width": 1280,
+          "height": 640,
+          "title": "As Europe Steps Up Coronavirus Fight, Asia’s Efforts Bear Fruit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-trump-has-not-been-tested-for-coronavirus.md",
+      "title": "Trump has not been tested for coronavirus",
+      "excerpt": "President Trump has not been tested for coronavirus, White House press secretary Stephanie Grisham said Monday night in a statement. \"The President has not received COVID-19 testing because he has neither had prolonged close contact with any known confirmed COVID-19 patients, nor does he have any symptoms,\" Grisham said. She added that Mr ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/president-trump-has-not-been-tested-for-coronavirus/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/president-trump-has-not-been-tested-for-coronavirus/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-has-not-been-tested-for-coronavirus/",
+      "publishedDateTime": "2020-03-10T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/19e332dc-80f3-4843-9f04-ae3d33b44ec9/thumbnail/1200x630g3/cfe200f8e26018edb8b388269af01b83/gettyimages-1210786004.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Trump has not been tested for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-iran-sees-as-spike-of-almost-900-new-coronavirus-cases.md",
+      "title": "Iran sees as spike of almost 900 new coronavirus cases",
+      "excerpt": "Western Europe and the U.S. were braced Tuesday morning for a sharp increase in the number of coronavirus cases, as Italy continues to enforce an unprecedented country-wide lockdown in an attempt to mitigate the virus' spread.",
+      "heat": 175,
+      "tags": [
+        "Iran"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-europe-brace-infection-spread-italy-n1153801/ncrd1153951",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1153801",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1153801",
+      "publishedDateTime": "2020-03-10T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_11/3263056/200310-italy-coronavirus-mc-900_21371f9880990d6c4dbce01cb62dcde2.JPG",
+          "width": 2500,
+          "height": 1622,
+          "title": "Iran sees as spike of almost 900 new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-dc-area-coronavirus-cases-spike-hundreds-of-churchgoers-told-to-quarantine.md",
+      "title": "D.C.-area coronavirus cases spike; hundreds of churchgoers told to quarantine",
+      "excerpt": "Authorities in the Washington area took different approaches Monday as they scrambled to stop the spread of the novel coronavirus: D.C. officials asked hundreds of churchgoers to self-quarantine, while officials in Maryland and Virginia said cases within their borders did not require such measures. The number of people stricken with the virus ...",
+      "heat": 102,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/dc-virus-christ-church-quarantine/2020/03/09/17567796-61fa-11ea-845d-e35b0234b136_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/dc-virus-christ-church-quarantine/2020/03/09/17567796-61fa-11ea-845d-e35b0234b136_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/dc-virus-christ-church-quarantine/2020/03/09/17567796-61fa-11ea-845d-e35b0234b136_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-10T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/cWlkIAX71z8z6zeAqj8bd-JvLns=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q46WDXTC3EI6VLGKQDBCXPXJN4.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "D.C.-area coronavirus cases spike; hundreds of churchgoers told to quarantine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-cases-jump-in-new-york-virginia-dc-florida.md",
+      "title": "Coronavirus Cases Jump in New York, Virginia, D.C., Florida",
+      "excerpt": "Health officials are reporting more coronavirus cases in New York, Virginia, Maryland, Florida and Washington, D.C. New York City Mayor Bill de Blasio said Tuesday morning the city's case number is now 25.",
+      "heat": null,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ajc.com/news/breaking-first-coronavirus-death-reported-new-york/MvNG3yl15drHKXDF7FxM3I/",
+      "ampWebUrl": "https://www.ajc.com/news/breaking-first-coronavirus-death-reported-new-york/MvNG3yl15drHKXDF7FxM3I/amp.html",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/breaking-first-coronavirus-death-reported-new-york/MvNG3yl15drHKXDF7FxM3I/amp.html",
+      "publishedDateTime": "2020-03-10T05:25:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ajc.com/news/breaking-first-coronavirus-death-reported-new-york/MvNG3yl15drHKXDF7FxM3I/",
+        "domain": "ajc.com/news/breaking-first-coronavirus-death-reported-new-york/MvNG3yl15drHKXDF7FxM3I/",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ajc.com/rf/image_medium/Pub/p11/WSBTV/2020/03/12/Videos/4857402.vpx",
+          "width": 750,
+          "height": 422,
+          "title": "Coronavirus Cases Jump in New York, Virginia, D.C., Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-the-latest-senegal-tunisia-report-first-cases-of-new-virus.md",
+      "title": "The Latest: Senegal, Tunisia report first cases of new virus",
+      "excerpt": "Senegal and Tunisia have reported their first cases of the new coronavirus ... American Israel Public Affairs Committee conference in Washington, U.S. Vice President Mike Pence said the coronavirus risk to Americans remains low, adding “we’re ready ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kusi.com/i/the-latest-senegal-tunisia-report-first-cases-of-new-virus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUSI",
+        "domain": "kusi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kusi.com/content/uploads/2019/06/AP_logo_16x9-7-6918.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "The Latest: Senegal, Tunisia report first cases of new virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-colorado-schools-and-universities-prepare-for-possibility-of-remote-learning-as-coronavirus-spreads.md",
+      "title": "Colorado schools and universities prepare for possibility of remote learning as coronavirus spreads",
+      "excerpt": "Preparing for the possibility of a pandemic, Colorado schools and universities are starting to talk about what online learning could look like in the event that physical campuses need to be shut down over growing coronavirus infections. As the number of confirmed cases of the new coronavirus rises across the United States, hundreds of academic ...",
+      "heat": 121,
+      "tags": [
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.denverpost.com/2020/03/10/coronavirus-colorado-college-remote-learning-universities/",
+      "ampWebUrl": "https://www.denverpost.com/2020/03/10/coronavirus-colorado-college-remote-learning-universities/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/03/10/coronavirus-colorado-college-remote-learning-universities/amp/",
+      "publishedDateTime": "2020-03-10T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/03/AP20065523047565.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": "Colorado schools and universities prepare for possibility of remote learning as coronavirus spreads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-tri-state-covid-19-cases-triple-since-friday-nj-declares-state-of-emergency.md",
+      "title": "Tri-State COVID-19 Cases Triple Since Friday; NJ Declares State of Emergency",
+      "excerpt": "The number of coronavirus cases in the tri-state area has tripled since Friday — surging from 49 cases to 156 — and leading New Jersey Gov. Phil Murphy to declare a state of emergency to declare a state of emergency. As of Monday afternoon, New York has the most cases of COVID-19 in the country ... The Tour at NBC Studios suspended ...",
+      "heat": 132,
+      "tags": [
+        "US-NJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnewyork.com/news/local/brooklyn-sees-1st-coronavirus-cases-as-tri-state-total-surges-136-in-3-days-some-schools-close/2317966/",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/local/brooklyn-sees-1st-coronavirus-cases-as-tri-state-total-surges-136-in-3-days-some-schools-close/2317966/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/brooklyn-sees-1st-coronavirus-cases-as-tri-state-total-surges-136-in-3-days-some-schools-close/2317966/?amp",
+      "publishedDateTime": "2020-03-10T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2019/09/ny-coronavirus-generic.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Tri-State COVID-19 Cases Triple Since Friday; NJ Declares State of Emergency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-nyc-adds-5-new-covid-19-cases-tri-state-total-more-than-triples-in-days.md",
+      "title": "NYC Adds 5 New COVID-19 Cases; Tri-State Total More Than Triples in Days",
+      "excerpt": "New York is surging near the top of states with its confirmed coronavirus count, with Mayor Bill de Blasio announcing five new cases in the city Tuesday morning as the tri-state total boomed to more ... people who will never get COVID-19. Here's a breakdown of what's happening in that regard by state. New York City's Health Department released ...",
+      "heat": 124,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnewyork.com/news/local/nyc-adds-5-new-covid-19-cases-tri-state-total-more-than-triples-in-days/2319688/",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/local/nyc-adds-5-new-covid-19-cases-tri-state-total-more-than-triples-in-days/2319688/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/nyc-adds-5-new-covid-19-cases-tri-state-total-more-than-triples-in-days/2319688/?amp",
+      "publishedDateTime": "2020-03-10T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2019/09/coronavirus-nyc-generic-update.png?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "NYC Adds 5 New COVID-19 Cases; Tri-State Total More Than Triples in Days",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-cases-spread-across-california-as-events-are-canceled-and-warnings-become-more-urgent.md",
+      "title": "Coronavirus cases spread across California as events are canceled and warnings become more urgent",
+      "excerpt": "“Given that we now know the novel coronavirus is spreading in our county, this is critical time, perhaps the best and only time for each of us to do our part to protect the community and decrease the spread of this virus,” Radhakrishna said. In Santa Clara County — where public health officials face the largest number of confirmed cases ...",
+      "heat": null,
+      "tags": [
+        "US-GA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wjcl.com/article/confirmed-coronavirus-cases-top-121-in-georgia-across-23-counties/31669984#",
+      "ampWebUrl": "https://www.wjcl.com/amp/article/confirmed-coronavirus-cases-top-121-in-georgia-across-23-counties/31669984",
+      "cdnAmpWebUrl": "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/confirmed-coronavirus-cases-top-121-in-georgia-across-23-counties/31669984",
+      "publishedDateTime": "2020-03-10T04:33:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wjcl.com/article/confirmed-coronavirus-cases-top-121-in-georgia-across-23-counties/31669984#",
+        "domain": "wjcl.com/article/confirmed-coronavirus-cases-top-121-in-georgia-across-23-counties/31669984#",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/corona-jpg-1584330282.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus cases spread across California as events are canceled and warnings become more urgent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-5-new-cases-in-northern-california-including-santa-clara-and-san-mateo.md",
+      "title": "Coronavirus: 5 new cases in Northern California, including Santa Clara and San Mateo",
+      "excerpt": "A total of nine cases are confirmed in Santa Clara County, officials said Monday; with one ‘presumptive positive’ patient in San Mateo County.",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marinij.com/2020/03/02/coronavirus-2-new-cases-in-santa-clara-county-1-presumptive-in-san-mateo-county/",
+      "ampWebUrl": "https://www.marinij.com/2020/03/02/coronavirus-2-new-cases-in-santa-clara-county-1-presumptive-in-san-mateo-county/amp/",
+      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/03/02/coronavirus-2-new-cases-in-santa-clara-county-1-presumptive-in-san-mateo-county/amp/",
+      "publishedDateTime": "2020-03-10T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marin Independent Journal",
+        "domain": "marinij.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.marinij.com/wp-content/uploads/2020/03/RPE-L-SELFQUARANTINE-0228-2.jpg?w=1024&h=578",
+          "width": 1024,
+          "height": 577,
+          "title": "Coronavirus: 5 new cases in Northern California, including Santa Clara and San Mateo",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-how-biogens-strategy-meeting-spread-coronavirus-in-massachusetts-and-beyond.md",
+      "title": "How Biogen’s Strategy Meeting Spread Coronavirus in Massachusetts and Beyond",
+      "excerpt": "A strategy meeting for senior managers at Boston-area biotech Biogen has emerged as a hotbed for novel coronavirus infections, resulting in more than two dozen around the country so far.",
+      "heat": 102,
+      "tags": [
+        "US-MA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/how-biogens-strategy-meeting-spread-coronavirus-in-massachusetts-and-beyond-11583815952",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-biogens-strategy-meeting-spread-coronavirus-in-massachusetts-and-beyond-11583815952",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-biogens-strategy-meeting-spread-coronavirus-in-massachusetts-and-beyond-11583815952",
+      "publishedDateTime": "2020-03-10T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-162559/social",
+          "width": 1280,
+          "height": 640,
+          "title": "How Biogen’s Strategy Meeting Spread Coronavirus in Massachusetts and Beyond",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-brings-italys-darkest-hour-and-takes-a-mounting-toll-in-the-us.md",
+      "title": "Coronavirus brings Italy's \"darkest hour,\" and takes a mounting toll in the U.S.",
+      "excerpt": "CDC recommends \"social distancing\" amid coronavirus outbreak In Italy, which has the largest outbreak outside China, all 60 million people were under travel restrictions, public gatherings and public sports events were cancelled, and Prime Minister Giuseppe Conte told his people to stay home. He called it Italy's \"darkest hour.\" Global stock ...",
+      "heat": 195,
+      "tags": [
+        "Italy",
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/live-updates/coronavirus-updates-cases-fears-deaths-us-latest-2020-03-10/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/coronavirus-updates-cases-fears-deaths-us-latest-2020-03-10/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/coronavirus-updates-cases-fears-deaths-us-latest-2020-03-10/",
+      "publishedDateTime": "2020-03-10T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/10/dbda5fce-b3e8-4aa9-ac5c-88c66bf0ee34/thumbnail/1200x630/fc55cf767f32d85504358e0e1508ea52/gettyimages-1205900410.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus brings Italy's \"darkest hour,\" and takes a mounting toll in the U.S.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in US",
+        "Economic Impact",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-in-illinois-3-chicago-area-schools-closed-over-exposure-concerns.md",
+      "title": "Coronavirus in Illinois: 3 Chicago-Area Schools Closed Over Exposure Concerns",
+      "excerpt": "The parent of a student from the school tested positive for coronavirus, the school said in a letter to parents early Tuesday. School officials said the Illinois Department of Public Health did not require the closure, but the school would cancel all classes and and activities out of an abundance of caution. Bernard Zell officials clarified in ...",
+      "heat": 162,
+      "tags": [
+        "US-IL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcchicago.com/news/local/coronavirus-in-illinois-3-chicago-area-schools-closed-over-exposure-concerns/2234166/",
+      "ampWebUrl": "https://www.nbcchicago.com/news/local/coronavirus-in-illinois-3-chicago-area-schools-closed-over-exposure-concerns/2234166/?amp",
+      "cdnAmpWebUrl": "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/news/local/coronavirus-in-illinois-3-chicago-area-schools-closed-over-exposure-concerns/2234166/?amp",
+      "publishedDateTime": "2020-03-10T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Chicago",
+        "domain": "nbcchicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcchicago.com/2019/09/coronavirus-generic-3.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus in Illinois: 3 Chicago-Area Schools Closed Over Exposure Concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-you-have-coronavirus-questions-we-asked-a-doctor-for-answers.md",
+      "title": "You have coronavirus questions. We asked a doctor for answers.",
+      "excerpt": "[The latest] Coronavirus in Illinois updates: Here’s what’s happening Tuesday with COVID-19 in the Chicago area » Q: How long does the coronavirus ... IV fluids, medication, things to break your fever, to make you feel better, to support you and ...",
+      "heat": 125,
+      "tags": [
+        "US-IL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-chicago-news-20200309-jsvchnl24fdlpcjuzeuyg2nb3q-story.html",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-chicago-news-20200309-jsvchnl24fdlpcjuzeuyg2nb3q-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-chicago-news-20200309-jsvchnl24fdlpcjuzeuyg2nb3q-story.html?outputType=amp",
+      "publishedDateTime": "2020-03-10T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/oD10ihKbSFQhTjmHMwvMWhoXX5Y=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/IAOVEQGESFH6JDU5YOAHB4JLHE",
+          "width": 1200,
+          "height": 675,
+          "title": "You have coronavirus questions. We asked a doctor for answers.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-confirmed-and-presumptive-cases-of-virus-in-georgia-increase-to-17.md",
+      "title": "Confirmed and presumptive cases of virus in Georgia increase to 17",
+      "excerpt": "The number of Georgians infected by the disease caused by coronavirus is quickly rising, with six confirmed diagnoses now and at least another 11 that are “presumptive positive,” according to the Department of Public Health. The cases of COVID-19 are mostly centered in metro Atlanta, with patients in Cherokee, Cobb, DeKalb, Fayette ...",
+      "heat": 110,
+      "tags": [
+        "US-GA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ajc.com/news/confirmed-and-presumptive-cases-virus-georgia-increase/6DAPfUOlMyzSRT7nE9i9YJ/",
+      "ampWebUrl": "https://www.ajc.com/news/confirmed-and-presumptive-cases-virus-georgia-increase/6DAPfUOlMyzSRT7nE9i9YJ/amp.html",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/confirmed-and-presumptive-cases-virus-georgia-increase/6DAPfUOlMyzSRT7nE9i9YJ/amp.html",
+      "publishedDateTime": "2020-03-10T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ajc.com/rf/image_medium/Pub/p11/AJC/2020/03/10/Videos/4854970.vpx",
+          "width": 750,
+          "height": 422,
+          "title": "Confirmed and presumptive cases of virus in Georgia increase to 17",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-trish-regan-says-coronavirus-response-backlash-against-donald-trump-is-impeachment-all-over-again.md",
+      "title": "Trish Regan Says Coronavirus Response Backlash Against Donald Trump is 'Impeachment All Over Again'",
+      "excerpt": "The Fox Business host accused some investors of allowing their \"hate\" for the president to fuel Monday's market spiral.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/trish-regan-donald-trump-covid19-coronavirus-backlash-attempt-impeach-president-1491387",
+      "ampWebUrl": "https://www.newsweek.com/trish-regan-donald-trump-covid19-coronavirus-backlash-attempt-impeach-president-1491387?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trish-regan-donald-trump-covid19-coronavirus-backlash-attempt-impeach-president-1491387?amp=1",
+      "publishedDateTime": "2020-03-10T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1572663/trish-regan-fox-business.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": "Trish Regan Says Coronavirus Response Backlash Against Donald Trump is 'Impeachment All Over Again'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Coronavirus in Asia",
+        "Political Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-to-stop-coronavirus-spread-new-york-enlists-disease-detectives.md",
+      "title": "To Stop Coronavirus Spread, New York Enlists Disease Detectives",
+      "excerpt": "Public-health officials are turning to disease detectives to try to halt the growing spread of the novel coronavirus.",
+      "heat": 105,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/to-stop-coronavirus-spread-new-york-enlists-disease-detectives-11583800543",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/to-stop-coronavirus-spread-new-york-enlists-disease-detectives-11583800543",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/to-stop-coronavirus-spread-new-york-enlists-disease-detectives-11583800543",
+      "publishedDateTime": "2020-03-10T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-162139/social",
+          "width": 1280,
+          "height": 640,
+          "title": "To Stop Coronavirus Spread, New York Enlists Disease Detectives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-trumps-life-during-coronavirus-same-routine-more-purell.md",
+      "title": "Trump's life during coronavirus: Same routine, more Purell",
+      "excerpt": "Before President Donald Trump took photos with about 100 VIP donors at his South Florida Mar-a-Lago resort Sunday afternoon, staffers gave them each a squirt of hand sanitizer and a form to list recent international travel. That was the exception. As the novel coronavirus quickly spreads across the U.S., schools are closing, employees are ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/03/10/trump-coronavirus-life-124802",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/03/10/trump-coronavirus-life-124802",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/03/10/trump-coronavirus-life-124802",
+      "publishedDateTime": "2020-03-10T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/dd/4e/7b25977f4378bd7a8f576f7f1959/200309-donald-trump-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Trump's life during coronavirus: Same routine, more Purell",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-updates-us-death-toll-rises-to-26-as-who-warns-of-very-real-pandemic-threat.md",
+      "title": "Coronavirus updates: US death toll rises to 26 as WHO warns of 'very real' pandemic threat",
+      "excerpt": "The World Health Organization wasn't ready Monday to declare coronavirus as a pandemic. Will that change Tuesday? With a rising death toll that has now topped 4,000 — including 26 in the U.S. — and a growing number of confirmed cases that was approaching 115,000 early Tuesday, the epidemic continued its global torment, prompting Dublin and ...",
+      "heat": 225,
+      "tags": [
+        "Italy",
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/03/10/coronavirus-live-updates-us-death-toll-dow-jones-donald-trump/5002558002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5002558002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5002558002",
+      "publishedDateTime": "2020-03-10T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/10/USAT/b0dc5ac2-21cd-4cd4-933b-772b0eca4b4c-AP20069840167100.jpg?auto=webp&crop=2365,1331,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus updates: US death toll rises to 26 as WHO warns of 'very real' pandemic threat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe",
+        "Coronavirus in US",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-live-updates-chinas-president-visits-outbreak-epicenter-for-1st-time.md",
+      "title": "Coronavirus live updates: China's president visits outbreak epicenter for 1st time",
+      "excerpt": "As a virus epidemic appeared to be subsiding in China, where it first emerged nearly three months ago, the outbreak has found a strong foothold in Italy and other countries. With more than 9,000 confirmed cases of the novel coronavirus, Italy now has the highest national total behind China, which has reported over 80,000 confirmed infections.",
+      "heat": 179,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Health/coronavirus-live-updates-chinas-president-visits-outbreak-epicenter/story?id=69498726",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/coronavirus-live-updates-chinas-president-visits-outbreak-epicenter/story?id=69498726",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/coronavirus-live-updates-chinas-president-visits-outbreak-epicenter/story?id=69498726",
+      "publishedDateTime": "2020-03-10T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/chinese-medical-staff-celebrate-wuhan-getty-200310_hpMain_20200310-044015_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "Coronavirus live updates: China's president visits outbreak epicenter for 1st time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-update-latest-on-the-covid-19-cases-in-the-philadelphia-region.md",
+      "title": "Coronavirus update: Latest on the COVID-19 cases in the Philadelphia region",
+      "excerpt": "Officials say this individual is a CHOP doctor who was working in King of Prussia. The infected doctor may have exposed other people, including some children which prompted school closures on Monday. Schools across the Delaware Valley are closing amid an outbreak of the coronavirus ... 10 presumptive positive cases in the State of Pennsylvania.",
+      "heat": 118,
+      "tags": [
+        "US-PA"
+      ],
+      "type": "article",
+      "webUrl": "https://6abc.com/health/2-cases-of-covid-19-in-montcos-location-identified/5995594/",
+      "ampWebUrl": "https://6abc.com/amp/5995594",
+      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/5995594",
+      "publishedDateTime": "2020-03-10T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "6abc News",
+        "domain": "6abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-trump-to-propose-steps-to-ease-economic-fallout-from-coronavirus.md",
+      "title": "Trump to Propose Steps to Ease Economic Fallout From Coronavirus",
+      "excerpt": "President Trump said the administration would discuss with Congress several measures to ease the economic pain inflicted by the coronavirus, including a possible payroll-tax cut and help for hourly wage earners.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/trump-white-house-officials-to-discuss-coronavirus-economic-response-plan-11583764176",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-white-house-officials-to-discuss-coronavirus-economic-response-plan-11583764176",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-white-house-officials-to-discuss-coronavirus-economic-response-plan-11583764176",
+      "publishedDateTime": "2020-03-10T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-162147/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Trump to Propose Steps to Ease Economic Fallout From Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 81
+}

@@ -1,0 +1,1190 @@
+{
+  "page": 39,
+  "value": [
+    {
+      "path": "_news/2020-03-29-the-latest-new-zealand-reports-its-1st-coronavirus-death.md",
+      "title": "The Latest: New Zealand reports its 1st coronavirus death",
+      "excerpt": "The Latest on the coronavirus pandemic. The new coronavirus causes mild or moderate symptoms for most people. For some, especially older adults and people with existing health problems, it can cause more severe illness or death.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/medical/article/The-Latest-New-Zealand-reports-its-1st-15164372.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/26/23/19227896/163/rawImage.jpg",
+          "width": 2048,
+          "height": 1417,
+          "title": "The Latest: New Zealand reports its 1st coronavirus death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-madera-county-reports-four-new-cases-of-covid-19-as-of-saturday-afternoon-march-28.md",
+      "title": "Madera County Reports Four New Cases of COVID-19 as of Saturday Afternoon, March 28",
+      "excerpt": "California 'Click' for More Info: Sugar Pine Café Located in… March 29, 2020 - Madera County Public Health Reports as of 4:00 P.M. Saturday four new cases of COVID-19 have been confirmed: 2 females in their 50s, 1 female under 25, and 1 male in his 70s. There have now been a total of 15 confirmed cases:13 active, 1 recovered, and 1 deceased.",
+      "heat": 104,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/22694-madera-county-reports-four-new-cases-of-covid-19-as-of-saturday-afternoon-march-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sierra Sun Times",
+        "domain": "goldrushcam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-us-live-death-toll-passes-2000-as-trump-backs-off-new-york-quarantine.md",
+      "title": "Coronavirus US live: death toll passes 2,000 as Trump backs off New York quarantine",
+      "excerpt": "Trump floats quarantine – follow live updates",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/mar/29/coronavirus-us-live-new-york-cases-quarantine-news-updates-trump",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-tokyo-confirms-68-new-coronavirus-cases-record-daily-rise-nhk.md",
+      "title": "Tokyo Confirms 68 New Coronavirus Cases, Record Daily Rise: NHK",
+      "excerpt": "A woman wearing a protective face mask, following an outbreak of the coronavirus disease (COVID-19), walks under blooming cherry blossoms in a snow fall during the first weekend a",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-29/tokyo-confirms-68-new-coronavirus-cases-record-daily-rise-nhk",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-irans-death-toll-from-coronavirus-reaches-2640-health-official.md",
+      "title": "Iran's death toll from coronavirus reaches 2,640 - health official",
+      "excerpt": "Iran’s death toll from the has risen to 2,640 and the number of infected people has reached 38,309, a health ministry official tweeted on Sunday, as the Middle East’s worst-hit country grapples with the fast-spreading outbreak.",
+      "heat": 165,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKBN21G0DV",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G0DV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G0DV",
+      "publishedDateTime": "2020-03-29T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-kills-3rd-nypd-member-as-more-than-500-employees-in-the-department-test-positive.md",
+      "title": "Coronavirus kills 3rd NYPD member as more than 500 employees in the department test positive",
+      "excerpt": "On March 27, a senior NYPD official revealed that 4,122 NYPD employees had called in sick, which forms approximately 11% of the department's personnel. The official also confirmed that 422 uniformed NYPD members and 70 civilian members had tested positive for COVID 19. \"Given the nature of the virus, it is expected that this number will grow ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://meaww.com/nypd-detective-dies-coronavirus-third-death-500-infected-covid-19",
+      "ampWebUrl": "https://meaww.com/amp/nypd-detective-dies-coronavirus-third-death-500-infected-covid-19",
+      "cdnAmpWebUrl": "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/nypd-detective-dies-coronavirus-third-death-500-infected-covid-19",
+      "publishedDateTime": "2020-03-29T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Meaww",
+        "domain": "meaww.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cheesecake.articleassets.meaww.com/424279/uploads/1c4282b0-7198-11ea-99a7-01fad708d131_800_420.jpeg",
+          "width": 800,
+          "height": 420,
+          "title": "Coronavirus kills 3rd NYPD member as more than 500 employees in the department test positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-malaysia-reports-150-new-coronavirus-cases-seven-deaths.md",
+      "title": "Malaysia reports 150 new coronavirus cases; seven deaths",
+      "excerpt": "Malaysia reported 150 new cases on Sunday, taking the total to 2,470, the highest in Southeast Asia. The number of deaths from the virus outbreak rose by seven to 34, the health ministry said.",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-heatlh-coronavirus-malaysia-idUSKBN21G0BC",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G0BC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G0BC",
+      "publishedDateTime": "2020-03-29T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200329&t=2&i=1509689389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2S074",
+          "width": 817,
+          "height": 545,
+          "title": "Malaysia reports 150 new coronavirus cases; seven deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-deaths-top-30000-as-china-opens-up-province-where-it-began.md",
+      "title": "Coronavirus Deaths Top 30,000 as China Opens Up Province Where It Began",
+      "excerpt": "China further eased restrictions that had locked down its economy, as fatalities from the coronavirus pandemic shot past 30,000 globally.",
+      "heat": 235,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "US-NY",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/coronavirus-deaths-top-30-000-as-china-opens-up-province-where-it-began-11585466594",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/coronavirus-deaths-top-30-000-as-china-opens-up-province-where-it-began-11585466594",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/coronavirus-deaths-top-30-000-as-china-opens-up-province-where-it-began-11585466594",
+      "publishedDateTime": "2020-03-29T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-170319/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Coronavirus Deaths Top 30,000 as China Opens Up Province Where It Began",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-tokyo-confirms-68-new-coronavirus-cases-record-daily-increase-nhk.md",
+      "title": "Tokyo confirms 68 new coronavirus cases, record daily increase: NHK",
+      "excerpt": "Tokyo has confirmed 68 new coronavirus cases, a record daily increase, public broadcaster NHK reported on Sunday. Infections in Japan have climbed to more than 1,700, with 55 deaths as of early Sunday,",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-cases-idUSKBN21G066",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G066",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G066",
+      "publishedDateTime": "2020-03-29T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200329&t=2&i=1509648266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2S036",
+          "width": 742,
+          "height": 545,
+          "title": "Tokyo confirms 68 new coronavirus cases, record daily increase: NHK",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-local-coca-cola-bottling-company-employee-tests-positive-for-covid-19.md",
+      "title": "Local Coca-Cola bottling company employee tests positive for COVID-19",
+      "excerpt": "An employee at a Swire Coca-Cola facility in Bellevue has tested positive for COVID-19, according to the company. According to the company’s director ... which was four days before their results came back. “Even before the test result was confirmed, we acted swiftly to contain any potential spread of the virus and to assist those who ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kiro7.com/news/local/local-coca-cola-bottling-company-employee-tests-positive-covid-19/JFBX6A7HWVBYVDSIEK5T2KOQ5U/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIRO-TV",
+        "domain": "kiro7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-cmg.s3.amazonaws.com/public/KD3Q6F4HSVBPJFF7AL5RDMWLR4.jpg",
+          "width": 850,
+          "height": 480,
+          "title": "Local Coca-Cola bottling company employee tests positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-brazils-bolsonaro-makes-life-or-death-coronavirus-gamble.md",
+      "title": "Brazil’s Bolsonaro makes life-or-death coronavirus gamble",
+      "excerpt": "Even as cases mount in Latin America's largest nation, Brazilian President Jair Bolsonaro has staked out the most deliberately dismissive position of any major world leader, calling the pandemic a momentary,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/world/article/Brazil-s-Bolsonaro-makes-life-or-death-15163658.php",
+      "ampWebUrl": "https://www.sfgate.com/news/world/amp/Brazil-s-Bolsonaro-makes-life-or-death-15163658.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/world/amp/Brazil-s-Bolsonaro-makes-life-or-death-15163658.php",
+      "publishedDateTime": "2020-03-28T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Brazil’s Bolsonaro makes life-or-death coronavirus gamble",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-the-latest-china-reports-5-deaths-45-new-coronavirus-cases.md",
+      "title": "The Latest: China reports 5 deaths, 45 new coronavirus cases",
+      "excerpt": "WASHINGTON \" The District of Columbia has announced 38 new positive ... Children have made up a small fraction of coronavirus cases worldwide. A letter published in the New England Journal of Medicine by Chinese researchers earlier this month reported the death of a 10-month-old with COVID-19. The infant had a bowel blockage and organ failure ...",
+      "heat": 115,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dispatch.com/ZZ/news/20200328/latest-south-korea-reports-105-new-cases-of-coronavirus",
+      "ampWebUrl": "https://www.dispatch.com/ZZ/news/20200328/latest-south-korea-reports-105-new-cases-of-coronavirus?template=ampart",
+      "cdnAmpWebUrl": "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/ZZ/news/20200328/latest-south-korea-reports-105-new-cases-of-coronavirus?template=ampart",
+      "publishedDateTime": "2020-03-28T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbus Dispatch",
+        "domain": "dispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-singapore-reports-third-coronavirus-related-death.md",
+      "title": "Singapore reports third coronavirus-related death",
+      "excerpt": "Singapore reported its thirdeath on Sunday, a day after the city-state’s total infections topped 800. The health ministry said the patient, a 70-year-old male Singaporean, had been in intensive care for 27 days before he passed and that he had some pre-existing conditions.",
+      "heat": 145,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN21G05M",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G05M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G05M",
+      "publishedDateTime": "2020-03-28T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-thailand-reports-143-new-coronavirus-cases-and-one-death.md",
+      "title": "Thailand reports 143 new coronavirus cases and one death",
+      "excerpt": "Thailand has 143 new cases, bringing the total of cases since the outbreak to 1,388, the spokesman of the government’s Center for COVID-19 Situation Administration (CCSA) said on Sunday, giving the latest daily update.",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-thailand-cases-idUSKBN21G057",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G057",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G057",
+      "publishedDateTime": "2020-03-28T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-la-county-announces-6-more-deaths-344-new-coronavirus-cases.md",
+      "title": "LA County announces 6 more deaths, 344 new coronavirus cases",
+      "excerpt": "The Los Angeles County Department of Public Health announced six new deaths and 344 new cases of the novel coronavirus Saturday, March 28. Over the prior 48 hours, officials reported 601 new cases. The county’s total tally since the public-health crisis began is now 1,804 cases and 32 deaths from the coronavirus, officially known as COVID-19.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ocregister.com/2020/03/28/la-county-announces-6-more-deaths-344-new-coronavirus-cases/",
+      "ampWebUrl": "https://www.ocregister.com/2020/03/28/la-county-announces-6-more-deaths-344-new-coronavirus-cases/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/03/28/la-county-announces-6-more-deaths-344-new-coronavirus-cases/amp/",
+      "publishedDateTime": "2020-03-28T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2020/03/LDN-SUPERVISORS-VIRUS-0305-03-SR-2.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": "LA County announces 6 more deaths, 344 new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-new-cases-of-covid-19-in-st-clair-cleburne-case-count-exceeds-700.md",
+      "title": "New cases of COVID-19 in St. Clair, Cleburne; case count exceeds 700",
+      "excerpt": "Alabama recorded one new COVID-19 case in Cleburne County and one new case in St. Clair County on Saturday as the state’s number of known cases rose to nearly 700.",
+      "heat": 110,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.annistonstar.com/news/coronavirus/new-cases-of-covid--in-st-clair-cleburne-case/article_90362610-6b8d-11ea-a334-9f305bc1afb6.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Anniston Star",
+        "domain": "annistonstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-the-latest-south-korea-reports-105-new-cases-of-coronavirus.md",
+      "title": "The Latest: South Korea reports 105 new cases of coronavirus",
+      "excerpt": "The Latest on the coronavirus pandemic. The new coronavirus causes mild or moderate symptoms for most people. F —CDC advisory urges residents of New York, New Jersey, Connecticut to refrain from non-essential travel for the next 14 days.",
+      "heat": 110,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wpxi.com/news/world/latest-south-korea/AT2O5P4YYISRSVAA6MVV5QDMR4/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPXI",
+        "domain": "wpxi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-two-more-lapd-employees-test-positive-for-covid-19.md",
+      "title": "Two More LAPD Employees Test Positive for COVID-19",
+      "excerpt": "Two more Los Angeles Police Department employees tested positive for the Coronavirus, authorities said Saturday. That brings the total to 24, according to Los Angeles Emergency Operations Center spokeswoman Jessica Kellogg. In addition, six Los Angeles Fire Department members have tested positive for COVID-19, Kellogg said. “All of these ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mynewsla.com/crime/2020/03/28/two-more-lapd-employees-test-positive-for-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNewsLA",
+        "domain": "mynewsla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png",
+          "width": 583,
+          "height": 300,
+          "title": "Two More LAPD Employees Test Positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-getting-better-chinas-new-coronavirus-cases-trend-lower.md",
+      "title": "Getting Better: China's New Coronavirus Cases Trend Lower",
+      "excerpt": "China reported 45 new coronavirus cases in the mainland for Saturday, down from 54 on the previous day, with all but one involving travelers from overseas, the country's health authority said on Sunday.",
+      "heat": 165,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-28/china-reports-45-new-coronavirus-cases-on-march-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-live-updates-residents-of-three-us-states-asked-to-defer-domestic-travel.md",
+      "title": "Coronavirus live updates: Residents of three US states asked to defer domestic travel",
+      "excerpt": "The Centers for Disease Control and Prevention has advised residents of New York, New Jersey and Connecticut to \"refrain from non-essential domestic travel for 14 days.\"",
+      "heat": 193,
+      "tags": [
+        "Singapore",
+        "SG",
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/29/coronavirus-latest-updates.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/29/coronavirus-latest-updates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/29/coronavirus-latest-updates.html",
+      "publishedDateTime": "2020-03-28T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106458312-1585052984147gettyimages-1208077245.jpeg?v=1585053060",
+          "width": 5184,
+          "height": 3456,
+          "title": "Coronavirus live updates: Residents of three US states asked to defer domestic travel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Coronavirus in Asia",
+        "New Cases",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-giant-eagle-launches-new-site-listing-confirmed-cases-of-covid-19-after-multiple-employees-test-positive.md",
+      "title": "Giant Eagle launches new site listing confirmed cases of COVID-19 after multiple employees test positive",
+      "excerpt": "CLEVELAND (WJW) — Giant Eagle said that multiple employees have tested positive for COVID-19. According to a newly launched website ... “This site gives the location of the store, the date of the confirmed test, the date when the affected employee was last in the store and the current status of the store,” Giant Eagle explained.",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wwlp.com/news/health/coronavirus/giant-eagle-launches-new-site-listing-confirmed-cases-of-covid-19-after-multiple-employees-test-positive/",
+      "ampWebUrl": "https://www.wwlp.com/news/health/coronavirus/giant-eagle-launches-new-site-listing-confirmed-cases-of-covid-19-after-multiple-employees-test-positive/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/health/coronavirus/giant-eagle-launches-new-site-listing-confirmed-cases-of-covid-19-after-multiple-employees-test-positive/amp/",
+      "publishedDateTime": "2020-03-28T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP",
+        "domain": "wwlp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2020/03/gianteagle.jpeg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Giant Eagle launches new site listing confirmed cases of COVID-19 after multiple employees test positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-north-dakota-reports-first-death-due-to-coronavirus.md",
+      "title": "North Dakota Reports First Death Due to Coronavirus",
+      "excerpt": "North Dakota Gov. Doug Burgum is shutting down barber shops, beauty salons and other personal service businesses after the state “crossed the threshold\" of having more COVID-19 cases attributed to community spread rather than travel.",
+      "heat": 125,
+      "tags": [
+        "US-ND"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/north-dakota/articles/2020-03-27/north-dakota-reports-1st-death-due-to-coronavirus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-knicks-owner-james-dolan-tests-positive-for-coronavirus.md",
+      "title": "Knicks Owner James Dolan Tests Positive for Coronavirus",
+      "excerpt": "He's also the executive chairman of MSG Networks Inc. Three unspecified members of the 76ers organization have tested positive for the coronavirus, while the Nuggets had one employee test positive.",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.si.com/nba/2020/03/29/james-dolan-tests-positive-coronavirus-knicks",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Illustrated",
+        "domain": "si.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-warren-county-reports-two-new-coronavirus-cases-in-daily-update.md",
+      "title": "Warren County reports two new coronavirus cases in daily update",
+      "excerpt": "Health officials identified and quarantined anyone exposed to the new cases. Of those 10 ... police are authorized to remove people and break up congregating groups. WASHINGTON (AP) — President Donald Trump says, “A quarantine will not be necessary” in coronavirus hotspots New York, New Jersey, and Connecticut. Instead, he directed ...",
+      "heat": 115,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.news10.com/top-stories/warren-county-reports-two-new-coronavirus-cases-in-daily-update/",
+      "ampWebUrl": "https://www.news10.com/top-stories/warren-county-reports-two-new-coronavirus-cases-in-daily-update/amp/",
+      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/top-stories/warren-county-reports-two-new-coronavirus-cases-in-daily-update/amp/",
+      "publishedDateTime": "2020-03-28T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTEN",
+        "domain": "news10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-minnesota-officials-reports-5th-death-from-the-coronavirus.md",
+      "title": "Minnesota officials reports 5th death from the coronavirus",
+      "excerpt": "The Minnesota Department of Health on Saturday confirmed the state's fif, on a day when Gov. Tim Walz signed a bill to provide more money to help manage the pandemic. The recent health department report shows that COVID-19 cases have increased to 441,",
+      "heat": 125,
+      "tags": [
+        "US-MN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/article/Minnesota-officials-reports-5th-death-from-the-15163751.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/26/20/19227652/7/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": "Minnesota officials reports 5th death from the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-zimbabwean-broadcaster-zororo-makamba-died-alone-and-scared.md",
+      "title": "Coronavirus: Zimbabwean broadcaster Zororo Makamba died 'alone and scared'",
+      "excerpt": "Makamba was being treated in the Wilkins Hospital, designated as the main isolation facility for coronavirus patients in Zimbabwe's capital, Harare. Shortly after he talked to his family, he was dead.",
+      "heat": 153,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-africa-52061697",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52061697",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52061697",
+      "publishedDateTime": "2020-03-28T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14A4A/production/_111445548_makamba5.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Zimbabwean broadcaster Zororo Makamba died 'alone and scared'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-illinois-governor-announces-rare-death-of-baby.md",
+      "title": "Coronavirus: Illinois governor announces rare death of baby",
+      "excerpt": "Investigation under way to determine cause of death in pandemic where children make up only small fraction of positive cases globally",
+      "heat": 165,
+      "tags": [
+        "US-IL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/29/coronavirus-illinois-governor-announces-rare-death-of-baby",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/29/coronavirus-illinois-governor-announces-rare-death-of-baby",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/29/coronavirus-illinois-governor-announces-rare-death-of-baby",
+      "publishedDateTime": "2020-03-28T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/66fe791b0659efbe4d4971a53e1e847112cf822b/0_176_3970_2382/master/3970.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7f19f1942b761fad02a9eee36ccefe6e",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus: Illinois governor announces rare death of baby",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-updates-missouri-city-councilman-tests-positive-for-covid-19.md",
+      "title": "Coronavirus updates: Missouri City councilman tests positive for COVID-19",
+      "excerpt": "MARCH 28 7:25 p.m. — Fort Bend County Judge KP George issued his thoughts to Missouri City councilman Jeffrey L. Boney, who announced today he's in ICU with the coronavirus. \"A long time community leader, member of my transition team, and advocate for Missouri City residents, I am wishing him a full and speedy recovery,\" George tweeted.",
+      "heat": 129,
+      "tags": [
+        "US-MO",
+        "US-CT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.khou.com/article/news/health/coronavirus/coronavirus-live-log-update-march-28/285-32fc83af-f4f5-47c1-b1fe-7a8e71cd8e2e",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/KHOU/images/c554fe67-337c-4a90-bcd1-1a34487fbc2a/c554fe67-337c-4a90-bcd1-1a34487fbc2a_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Coronavirus updates: Missouri City councilman tests positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-new-zealand-records-first-death-tied-to-coronavirus-health-official.md",
+      "title": "New Zealand records first death tied to coronavirus: health official",
+      "excerpt": "New Zealand recorded its first death related to the new coronavirus, and the number of people infected with the virus rose by 63 cases to a total of 514, Director-General of Health Ashley Bloomfield said on Sunday.",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-new-zealand-idUSKBN21G011",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G011",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G011",
+      "publishedDateTime": "2020-03-28T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "New Zealand records first death tied to coronavirus: health official",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-new-zealand-first-coronavirus-death-is-woman-in-70s.md",
+      "title": "New Zealand: first coronavirus death is woman in 70s",
+      "excerpt": "Victim in South Island had other health conditions and was admitted to hospital with suspected influenza, reports say",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/29/new-zealand-first-coronavirus-death-is-woman-in-70s",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/29/new-zealand-first-coronavirus-death-is-woman-in-70s",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/29/new-zealand-first-coronavirus-death-is-woman-in-70s",
+      "publishedDateTime": "2020-03-28T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b94ae456e0efce7478a2984ba4e32e246daa92e9/0_0_5400_3240/master/5400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1f1fc59452f8da229ffd7a71a602a31",
+          "width": 600,
+          "height": 360,
+          "title": "New Zealand: first coronavirus death is woman in 70s",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    }
+  ],
+  "nextPage": 40
+}

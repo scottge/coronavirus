@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: coronavirus-in-us
+name: Coronavirus in US
+shortname: US
+parent: Coronavirus
+keywords:
+  - usa
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-us.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/coronavirus-in-us/
+  stats: https://insideout.app/coronavirus/api/stats/coronavirus-in-us/

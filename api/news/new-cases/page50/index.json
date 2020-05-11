@@ -1,0 +1,1155 @@
+{
+  "page": 50,
+  "value": [
+    {
+      "path": "_news/2020-03-25-spacex-sends-some-workers-home-after-employee-and-one-medical-medic-test-positive-for-covid-19.md",
+      "title": "SpaceX sends some workers home after employee and One Medical medic test positive for COVID-19",
+      "excerpt": "At least one employee and one health care provider at SpaceX's headquarters in Hawthorne, California, have tested positive for the COVID-19 coronavirus, sending some employees into quarantine. One Medical,",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/24/spacex-one-medical-employees-in-hawthorne-test-positive-for-covid-19.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/24/spacex-one-medical-employees-in-hawthorne-test-positive-for-covid-19.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/24/spacex-one-medical-employees-in-hawthorne-test-positive-for-covid-19.html",
+      "publishedDateTime": "2020-03-24T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106238301-1573511455133gettyimages-1175169776.jpeg?v=1573511490",
+          "width": 4000,
+          "height": 2667,
+          "title": "SpaceX sends some workers home after employee and One Medical medic test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-tarrant-county-reports-14-new-cases-of-covid-19-total-at-71.md",
+      "title": "Tarrant County Reports 14 New Cases of COVID-19; Total at 71",
+      "excerpt": "The 71 cases include those reported at the Texas Masonic Retirement Center in Arlington, where five people have now tested positive for COVID-19. The retirement center is where the first death in North Texas related to the new coronavirus was reported on March 15. The report comes on the same day Tarrant County Judge Glen Whitley and Fort Worth ...",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/tarrant-county-reports-14-new-cases-of-covid-19-total-at-71/2338182/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/tarrant-county-reports-14-new-cases-of-covid-19-total-at-71/2338182/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/tarrant-county-reports-14-new-cases-of-covid-19-total-at-71/2338182/?amp",
+      "publishedDateTime": "2020-03-24T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/Tarrant-County-Health-Department.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Tarrant County Reports 14 New Cases of COVID-19; Total at 71",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-first-possible-us-child-death-from-coronavirus-in-los-angeles.md",
+      "title": "First Possible US Child Death From Coronavirus in Los Angeles",
+      "excerpt": "Los Angeles County has reported what may be the first confirmed U.S. death of a child from coronavirus. Health officials say the youth lived in the Mojave Desert city of Lancaster located north of Los Angeles, California. County public health director Barbara Ferrer says it’s a “devastating reminder that COVID-19 infects people of all ages.”",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnewyork.com/news/coronavirus/first-possible-us-child-death-from-coronavirus-in-los-angeles/2342716/",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/coronavirus/first-possible-us-child-death-from-coronavirus-in-los-angeles/2342716/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/coronavirus/first-possible-us-child-death-from-coronavirus-in-los-angeles/2342716/?amp",
+      "publishedDateTime": "2020-03-24T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2019/09/AP_20084772219967.jpg?crop=5px%2C219px%2C5464px%2C3073px&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "First Possible US Child Death From Coronavirus in Los Angeles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-march-24-central-coast-coronavirus-update-new-cases-da-investigates-price-gouging.md",
+      "title": "March 24 Central Coast coronavirus update: New cases, DA investigates price gouging",
+      "excerpt": "TOP STORIES.. A LIVE LOOK AT OUR NATIONS CAPITOL THIS MORNING... MEMBERS OF CONGRESS ARE EXPECTING TO REACH A DEAL TODAY AFTER DAYS OF NEGOTIATIONS ON A CORONAVIRUS RESCUE PACKAGE",
+      "heat": 144,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ksbw.com/article/march-24-central-coast-coronavirus-update-new-cases-da-investigates-price-gouging/31914027",
+      "ampWebUrl": "https://www.ksbw.com/amp/article/march-24-central-coast-coronavirus-update-new-cases-da-investigates-price-gouging/31914027",
+      "cdnAmpWebUrl": "https://www-ksbw-com.cdn.ampproject.org/c/s/www.ksbw.com/amp/article/march-24-central-coast-coronavirus-update-new-cases-da-investigates-price-gouging/31914027",
+      "publishedDateTime": "2020-03-24T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSBW The Central Coast",
+        "domain": "ksbw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-impact-1584983225.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "March 24 Central Coast coronavirus update: New cases, DA investigates price gouging",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-clark-county-reports-3-new-cases-of-coronavirus.md",
+      "title": "Clark County reports 3 new cases of coronavirus",
+      "excerpt": "Public health officials in Clark County on Tuesday reported three new cases of the coronavirus. The three were all people in their 40s -- two ... Experts say the number of infected is likely much higher but is unreported because of a shortage of testing. Washington has been one of several epicenters of the virus in the United States with ...",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.oregonlive.com/coronavirus/2020/03/clark-county-reports-3-new-cases-of-coronavirus.html",
+      "ampWebUrl": "https://www.oregonlive.com/coronavirus/2020/03/clark-county-reports-3-new-cases-of-coronavirus.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/coronavirus/2020/03/clark-county-reports-3-new-cases-of-coronavirus.html?outputType=amp",
+      "publishedDateTime": "2020-03-24T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JMBZPBQHYBEGRPIOQM5OD4MY7Y.JPG",
+          "width": 3376,
+          "height": 2406,
+          "title": "Clark County reports 3 new cases of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ga-coronavirus-dekalb-inmate-and-employee-test-positive.md",
+      "title": "GA Coronavirus: DeKalb Inmate And Employee Test Positive",
+      "excerpt": "Sheriff Melody M. Maddox said Tuesday that a DeKalb inmate and employee have both tested positive for the coronavirus.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/georgia/decatur/ga-coronavirus-dekalb-inmate-employee-test-positive",
+      "ampWebUrl": "https://patch.com/georgia/decatur/amp/28656020/ga-coronavirus-dekalb-inmate-employee-test-positive",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/georgia/decatur/amp/28656020/ga-coronavirus-dekalb-inmate-employee-test-positive",
+      "publishedDateTime": "2020-03-24T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/23629258/20200324/065050/styles/patch_image/public/shutterstock-1623906988___24184824950.jpg?width=984",
+          "width": 711,
+          "height": 533,
+          "title": "GA Coronavirus: DeKalb Inmate And Employee Test Positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-in-oklahoma-two-house-employees-test-positive-for-covid-19.md",
+      "title": "Coronavirus in Oklahoma: Two House employees test positive for COVID-19",
+      "excerpt": "This content is being provided for free as a public service to our readers during the coronavirus outbreak. Sign up for our daily or breaking newsletters to stay informed. If local news is important to you,",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://oklahoman.com/article/5658527/coronavirus-in-oklahoma-two-house-employees-test-positive-for-covid-19",
+      "ampWebUrl": "https://oklahoman.com/article/5658527/coronavirus-in-oklahoma-two-house-employees-test-positive-for-covid-19/amp",
+      "cdnAmpWebUrl": "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5658527/coronavirus-in-oklahoma-two-house-employees-test-positive-for-covid-19/amp",
+      "publishedDateTime": "2020-03-24T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oklahoman",
+        "domain": "oklahoman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn2.newsok.biz/cache/1280x720_blur-ea964be379de58d1c736ff4c6cda7169.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Coronavirus in Oklahoma: Two House employees test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-updates-los-angeles-county-backtracks-on-teens-possible-virus-death.md",
+      "title": "Coronavirus updates: Los Angeles County backtracks on teen's possible virus death",
+      "excerpt": "Seven Bay Area counties are ordering labs testing for coronavirus to report more comprehensive data. As a result, labs in Alameda, Contra Costa, Marin, San Francisco, San Mateo, and Santa Clara counties,",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/bayarea/article/Coronavirus-updates-Santa-Clara-County-death-15153322.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/21/03/19206388/75/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": "Coronavirus updates: Los Angeles County backtracks on teen's possible virus death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-16-test-positive-for-covid-19-in-ridgefield-assisted-living-facility-after-second-coronavirus-death.md",
+      "title": "16 test positive for COVID-19 in Ridgefield assisted-living facility after second coronavirus death",
+      "excerpt": "A second person has died of coronavirus at an assisted-living facility in Ridgefield and another 16 residents have tested positive as the virus spreads through the elderly population at an alarming rate.",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courant.com/coronavirus/hc-news-coronavirus-assisted-living-nursing-facilities-covid-spread-20200324-kz2emq7bbbc7xno4mdqnm6o2nq-story.html",
+      "ampWebUrl": "https://www.courant.com/coronavirus/hc-news-coronavirus-assisted-living-nursing-facilities-covid-spread-20200324-kz2emq7bbbc7xno4mdqnm6o2nq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/coronavirus/hc-news-coronavirus-assisted-living-nursing-facilities-covid-spread-20200324-kz2emq7bbbc7xno4mdqnm6o2nq-story.html?outputType=amp",
+      "publishedDateTime": "2020-03-24T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hartford Courant",
+        "domain": "courant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.courant.com/resizer/xq4-uSk5Jw4awwe0YqGFAvAnRK8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/M4JX5H2GUVFP3LYP42WR5ABSYA.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "16 test positive for COVID-19 in Ridgefield assisted-living facility after second coronavirus death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-metro-to-close-19-stations-indefinitely-to-limit-employees-exposure-to-coronavirus.md",
+      "title": "Metro to close 19 stations indefinitely to limit employees’ exposure to coronavirus",
+      "excerpt": "Metro is taking the dramatic step of closing 19 stations in an effort to save dwindling cleaning resources to combat while also protecting more of its employees from potential exposure to the virus, the agency announced Tuesday night.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/trafficandcommuting/metro-to-close-19-stations-indefinitely-to-decrease-coronavirus-exposure/2020/03/24/84bc02f0-6de0-11ea-a3ec-70d7479d83f0_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/trafficandcommuting/metro-to-close-19-stations-indefinitely-to-decrease-coronavirus-exposure/2020/03/24/84bc02f0-6de0-11ea-a3ec-70d7479d83f0_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/metro-to-close-19-stations-indefinitely-to-decrease-coronavirus-exposure/2020/03/24/84bc02f0-6de0-11ea-a3ec-70d7479d83f0_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-24T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/aRZiejOuSWRFXNqKC83IfxIY--0=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LEAF3ATJFMI6VMMZHKLZTRKFCI.jpg",
+          "width": 1440,
+          "height": 1110,
+          "title": "Metro to close 19 stations indefinitely to limit employees’ exposure to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-oregon-reports-three-new-covid-19-deaths-18-new-cases.md",
+      "title": "Oregon reports three new COVID-19 deaths, 18 new cases",
+      "excerpt": "The state of Oregon reported three new COVID-19 deaths and 18 additional confirmed cases on Tuesday, but figures were unchanged for Linn and Benton counties. The Beaver State now has 209 cases and eight deaths due to COVID-19, the illness caused by the ...",
+      "heat": null,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://lebanon-express.com/news/local/oregon-reports-three-new-covid--deaths-new-cases/article_ab8ee4c3-6e7b-50d9-8956-05dc0ffa3211.html",
+      "ampWebUrl": "https://lebanon-express.com/news/local/oregon-reports-three-new-covid--deaths-new-cases/article_ab8ee4c3-6e7b-50d9-8956-05dc0ffa3211.amp.html",
+      "cdnAmpWebUrl": "https://lebanon--express-com.cdn.ampproject.org/c/s/lebanon-express.com/news/local/oregon-reports-three-new-covid--deaths-new-cases/article_ab8ee4c3-6e7b-50d9-8956-05dc0ffa3211.amp.html",
+      "publishedDateTime": "2020-03-24T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lebanon Express",
+        "domain": "lebanon-express.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/lebanon-express.com/content/tncms/assets/v3/editorial/f/32/f32ba317-cda7-595a-abbc-4f7bc9a3041e/5e7a99d9ce758.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": "Oregon reports three new COVID-19 deaths, 18 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-three-santa-rosa-police-officers-test-positive-for-coronavirus.md",
+      "title": "Three Santa Rosa police officers test positive for coronavirus",
+      "excerpt": "For more stories about the coronavirus, go here. Three Santa Rosa police officers have tested positive for the coronavirus, and six other employees are self-quarantining because of potential exposure to the highly contagious virus. Two of the officers were tested Friday after they felt sick and went to receive medical attention, said Police Chi ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pressdemocrat.com/news/10849435-181/3-santa-rosa-police-officers",
+      "ampWebUrl": "https://www.pressdemocrat.com/news/10849435-181/3-santa-rosa-police-officers?view=AMP",
+      "cdnAmpWebUrl": "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/news/10849435-181/3-santa-rosa-police-officers?view=AMP",
+      "publishedDateTime": "2020-03-24T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Rosa Press Democrat",
+        "domain": "pressdemocrat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.pressdemocrat.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=MGDcuZKOltkN1HC7clsY0c$daE2N3K4ZzOUsqbU5sYvrGIVnVL50kbIOeTAW1hw4WCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg",
+          "width": 800,
+          "height": 489,
+          "title": "Three Santa Rosa police officers test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-denton-county-reports-15-new-coronavirus-cases.md",
+      "title": "Denton County Reports 15 New Coronavirus Cases",
+      "excerpt": "DENTON (CBSDFW.COM) – Denton County Public Health has confirmed 15 new cases of coronavirus. The announcement Tuesday evening brings the countywide total to 51. Twenty-two cases are travel-related, while 21 are from local transmission. Five patients had contact with a confirmed case, and three cases are pending investigation. Most of the ...",
+      "heat": 115,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://dfw.cbslocal.com/2020/03/24/denton-county-reports-15-new-coronavirus-cases/",
+      "ampWebUrl": "https://dfw.cbslocal.com/2020/03/24/denton-county-reports-15-new-coronavirus-cases/amp/",
+      "cdnAmpWebUrl": "https://dfw-cbslocal-com.cdn.ampproject.org/c/s/dfw.cbslocal.com/2020/03/24/denton-county-reports-15-new-coronavirus-cases/amp/",
+      "publishedDateTime": "2020-03-24T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-update-sacramento-metro-fire-employee-tests-positive-for-covid-19.md",
+      "title": "Coronavirus Update: Sacramento Metro Fire Employee Tests Positive For COVID-19",
+      "excerpt": "A Sacramento Metro Fire employee has tested positive for coronavirus after providing care for a patient who had the virus.",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sacramento.cbslocal.com/2020/03/24/coronavirus-sac-metro-fire-employee-positive-covid-19/",
+      "ampWebUrl": "https://sacramento.cbslocal.com/2020/03/24/coronavirus-sac-metro-fire-employee-positive-covid-19/amp/",
+      "cdnAmpWebUrl": "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/2020/03/24/coronavirus-sac-metro-fire-employee-positive-covid-19/amp/",
+      "publishedDateTime": "2020-03-24T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-employees-at-cedar-rapids-nursing-home-test-positive-for-novel-coronavirus.md",
+      "title": "Employees at Cedar Rapids nursing home test positive for novel coronavirus",
+      "excerpt": "Heritage Specialty Care confirmed to The Gazette that two of its employees tested positive on Monday for the novel coronavirus, prompting officials to notify the Iowa Department of Public Health and begin the process of notifying families of residents. The workers, who were not identified, had not been at the facility since at least Friday and ...",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thegazette.com/subject/news/health/employees-at-cedar-rapids-nursing-home-test-positive-for-novel-coronavirus-20200324",
+      "ampWebUrl": "https://www.thegazette.com/subject/news/health/employees-at-cedar-rapids-nursing-home-test-positive-for-novel-coronavirus-20200324?template=amphtml",
+      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/health/employees-at-cedar-rapids-nursing-home-test-positive-for-novel-coronavirus-20200324?template=amphtml",
+      "publishedDateTime": "2020-03-24T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thegazette.com/storyimage/GA/20200324/ARTICLE/200329832/AR/0/AR-200329832.jpg&MaxH=300&MaxW=500",
+          "width": 500,
+          "height": 282,
+          "title": "Employees at Cedar Rapids nursing home test positive for novel coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-la-county-sees-1st-coronavirus-death-of-a-victim-under-18.md",
+      "title": "LA County sees 1st coronavirus death of a victim under 18",
+      "excerpt": "Los Angeles County health officials reported four more deaths for the coronavirus Tuesday, including the death of one person under 18, the first in the United States.",
+      "heat": 175,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/la-county-coronavirus-death-victim-under-18",
+      "ampWebUrl": "https://www.foxnews.com/us/la-county-coronavirus-death-victim-under-18.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/la-county-coronavirus-death-victim-under-18.amp",
+      "publishedDateTime": "2020-03-24T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18a901d2-a5e4-4fa1-b62a-dbcf9a926034/8163c2d8-4910-4627-a3d9-2f03a998ebbe/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "LA County sees 1st coronavirus death of a victim under 18",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-la-county-coronavirus-death-toll-climbs-first-cases-reported-in-highland-park-mt-washington.md",
+      "title": "L.A. County coronavirus death toll climbs; first cases reported in Highland Park & Mt. Washington",
+      "excerpt": "The death toll from coronavirus rose to 11 today in Los Angeles ... head of the county Department of Public Health. She called the case \"a devastating reminder that COVID-19 affects people of all ages.\" No other information was immediately released on the other new deaths. A total of 135 new cases were reported by county and municipal public ...",
+      "heat": 122,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theeastsiderla.com/news/coronavirus_news/l-a-county-coronavirus-death-toll-climbs-first-cases-reported/article_49857632-6e15-11ea-b01c-a382dd2ed9de.html",
+      "ampWebUrl": "https://www.theeastsiderla.com/news/coronavirus_news/l-a-county-coronavirus-death-toll-climbs-first-cases-reported/article_49857632-6e15-11ea-b01c-a382dd2ed9de.amp.html",
+      "cdnAmpWebUrl": "https://www-theeastsiderla-com.cdn.ampproject.org/c/s/www.theeastsiderla.com/news/coronavirus_news/l-a-county-coronavirus-death-toll-climbs-first-cases-reported/article_49857632-6e15-11ea-b01c-a382dd2ed9de.amp.html",
+      "publishedDateTime": "2020-03-24T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Eastsider LA",
+        "domain": "theeastsiderla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/theeastsiderla.com/content/tncms/assets/v3/editorial/e/77/e7742480-6be3-11ea-aa49-b74db6375562/5e76cbc54ce15.image.jpg?resize=1024%2C832",
+          "width": 1024,
+          "height": 832,
+          "title": "L.A. County coronavirus death toll climbs; first cases reported in Highland Park & Mt. Washington",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-three-bi-state-development-employees-test-positive-for-covid-19.md",
+      "title": "Three Bi-State Development employees test positive for COVID-19",
+      "excerpt": "The employees work at the Brentwood MetroBus facility and at BSD's headquarters in the One Metropolitan Square building in downtown St. Louis.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.stltoday.com/lifestyles/health-med-fit/coronavirus/three-bi-state-development-employees-test-positive-for-covid/article_e9ed55da-2232-5fcc-b269-32819ec52f2f.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/9e/e9ed55da-2232-5fcc-b269-32819ec52f2f/5e7a8c0cb86d9.preview.jpg?crop=720%2C405%2C0%2C437&resize=720%2C405&order=crop%2Cresize",
+          "width": 720,
+          "height": 405,
+          "title": "Three Bi-State Development employees test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-14-new-cases-of-coronavirus-bringing-statewide-total-to-90.md",
+      "title": "14 new cases of coronavirus, bringing statewide total to 90",
+      "excerpt": "Yesterday saw an increase of 21 new cases, and last night saw the first potential death related to coronavirus. Governor Ige issued an emergency, statewide stay-at-home order to stop the spread, which goes into effect at 12:01 a.m. on Wednesday morning. WASHINGTON (AP) - The White House and Senate leaders of both parties have struck an ...",
+      "heat": 110,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.khon2.com/coronavirus-2/14-new-cases-of-coronavirus-bringing-statewide-total-to-90/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHON2",
+        "domain": "khon2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-us-coronavirus-death-toll-monday-the-deadliest-day-in-latest-surge-cuomo-pleads-for-medical-equipment.md",
+      "title": "US Coronavirus Death Toll: Monday The Deadliest Day In Latest Surge, Cuomo Pleads For Medical Equipment",
+      "excerpt": "The coronavirus continues to be a public health crisis in the United States, with more than 100 deaths reported on Monday. According to Johns Hopkins University, there are at leas",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/us-coronavirus-death-toll-monday-deadliest-day-latest-surge-cuomo-pleads-medical-2945782",
+      "ampWebUrl": "https://www.ibtimes.com/us-coronavirus-death-toll-monday-deadliest-day-latest-surge-cuomo-pleads-medical-2945782?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-coronavirus-death-toll-monday-deadliest-day-latest-surge-cuomo-pleads-medical-2945782?amp=1",
+      "publishedDateTime": "2020-03-24T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/24/new-york-governor-andrew-cuomo-urged-washington-to.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "US Coronavirus Death Toll: Monday The Deadliest Day In Latest Surge, Cuomo Pleads For Medical Equipment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-death-toll-in-italys-lombardy-rises-by-around-400-in-a-day-source.md",
+      "title": "Coronavirus death toll in Italy's Lombardy rises by around 400 in a day - source",
+      "excerpt": "The death toll from an outbreak of coronavirus in the northern region of Lombardy, which has borne the brunt of Italy’s contagion, has risen by around",
+      "heat": 195,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-italy-lombardy/coronavirus-death-toll-in-italys-lombardy-rises-by-around-400-in-a-day-source-idUSR1N29V012",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSR1N29V012",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSR1N29V012",
+      "publishedDateTime": "2020-03-24T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus death toll in Italy's Lombardy rises by around 400 in a day - source",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-44-new-cases-of-coronavirus-reported-in-sc-totaling-342-jasper-co-sees-first-case.md",
+      "title": "44 new cases of coronavirus reported in SC, totaling 342. Jasper Co. sees first case",
+      "excerpt": "South Carolina officials have identified 44 new cases of the coronavirus, bringing the statewide total up to 342. So far, 36 counties across the state have seen positive cases, officials with the S.C.",
+      "heat": 103,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.charlotteobserver.com/news/coronavirus/article241458066.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-illinois-coronavirus-250-new-cases-4-additional-deaths.md",
+      "title": "Illinois coronavirus | 250 new cases, 4 additional deaths",
+      "excerpt": "On Tuesday afternoon, the Illinois Department of Health 250 new coronavirus cases, including four additional deaths ... In the Metro East, there are cases in the following counties: Clinton: 3 Madison: 2 Monroe: 1 St. Clair: 4 Washington: 1 RELATED: COVID-19 numbers limited in Metro East as state numbers continue to grow In a news conference ...",
+      "heat": 110,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ksdk.com/article/news/health/coronavirus/illinois-coronavirus-updates-cases-deaths/63-894035e3-f692-4f1f-b219-bddf12ff7455",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-an-immigrant-at-an-ice-detention-facility-has-tested-positive-for-the-coronavirus-for-the-first-time.md",
+      "title": "An Immigrant At An ICE Detention Facility Has Tested Positive For The Coronavirus For The First Time",
+      "excerpt": "صرح مسؤول روسي بارز الثلاثاء أن السلطات الروسية ليس لديها صورة كاملة عن مدى انتشار فيروس كورونا في البلاد ويتعين عليها تعزيز اجراءاتها للقضاء على الفيروس. واعلنت روسيا، التي تشترك بحدود مع الصين ويبلغ عدد سكانها 144 مليون نسمة، رسميا عن 495 اصابة بالفيروس ولم تعلن عن حالات وفاة.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/hamedaleaziz/immigrant-ice-detention-facility-coronavirus-test",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-amazon-coronavirus-delays-shipping-employees-test-positive-for-covid-19.md",
+      "title": "Amazon coronavirus delays: Shipping employees test positive for COVID-19",
+      "excerpt": "A report from Oklahoma City via Oklahoma News 4 showed an Amazon fulfillment center center employee test positive on March 23, 2020 ... Stick around SlashGear’s Coronavirus (COVID-19) tag portal for continuing coverage on tech, transportation, and public health.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/amazon-coronavirus-delays-shipping-employees-test-positive-for-covid-19-24614234/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-why-germanys-coronavirus-death-toll-remains-low-as-cases-surge-in-europe.md",
+      "title": "Why Germany’s coronavirus death toll remains low as cases surge in Europe",
+      "excerpt": "Germany’s coronavirus death toll has remained low amid a surge in cases throughout Europe, with some experts saying the virus has not yet hit the country’s elderly population.",
+      "heat": 124,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/why-germany-coronavirus-deaths-low",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-iran-rejects-international-humanitarian-aid-despite-coronavirus-death-toll.md",
+      "title": "Iran rejects international humanitarian aid despite coronavirus death toll",
+      "excerpt": "As Iran battles one of the worst coronavirus outbreaks in the world, its regime has rejected life-saving humanitarian aid from abroad.",
+      "heat": 123,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/iran-humanitarian-aid-coronavirus-death-toll",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-why-germanys-coronavirus-death-rate-is-so-much-lower-than-other-countries-rates.md",
+      "title": "Why Germany’s coronavirus death rate is so much lower than other countries’ rates",
+      "excerpt": "Incluindo série Uncharted e The Last of Us Foi lançada uma nova versão do emulador de PS3 para PC, o RPCS3, que agora permite aos usuários desbloquear as taxas de quadros de alguns títulos do PS3 Em u",
+      "heat": 170,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-24T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/3TV1tTrhcTQ8H4RPPPpgfCVcphI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z763DHTNJQI6VI7MODLUPHMD6A.jpg",
+          "width": 1440,
+          "height": 980,
+          "title": "Why Germany’s coronavirus death rate is so much lower than other countries’ rates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-2-employees-at-guelph-general-hospital-test-positive-for-coronavirus.md",
+      "title": "2 employees at Guelph General Hospital test positive for coronavirus",
+      "excerpt": "Two employees at Guelph General Hospital have tested positive for the COVID-19 coronavirus. Wellington-Dufferin-Guelph Public Health confirmed ... Thus far, Wellington-Dufferin-Guelph Public Health has confirmed three positive COVID-19 test results in its coverage area. The first came last week when a man was diagnosed after being tested ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therecord.com/news-story/9914763-2-employees-at-guelph-general-hospital-test-positive-for-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waterloo Region Record",
+        "domain": "therecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dynamicmedia.zuza.com/zz/m/original_/5/f/5fb8f464-21de-4968-ad8c-a3f2624307d6/guelphgeneral2web___Super_Portrait.jpg",
+          "width": 833,
+          "height": 417,
+          "title": "2 employees at Guelph General Hospital test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-southern-california-update-2-cal-state-long-beach-students-test-positive-for-covid-19.md",
+      "title": "Coronavirus Southern California update: 2 Cal State Long Beach students test positive for COVID-19",
+      "excerpt": "As the coronavirus pandemic grows, health officials continue to monitor the number of confirmed cases in Southern California.",
+      "heat": 126,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://abc7.com/6045011/",
+      "ampWebUrl": "https://abc7.com/amp/6045011",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/6045011",
+      "publishedDateTime": "2020-03-24T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Asia",
+        "Coronavirus in US"
+      ]
+    }
+  ],
+  "nextPage": 51
+}

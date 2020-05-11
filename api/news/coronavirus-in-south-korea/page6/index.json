@@ -1,0 +1,1323 @@
+{
+  "page": 6,
+  "value": [
+    {
+      "path": "_news/2020-03-12-new-york-will-see-same-trajectory-of-coronavirus-cases-as-china-south-korea-and-italy-gov-cuomo-says.md",
+      "title": "New York will see 'same trajectory' of coronavirus cases as China, South Korea and Italy, Gov. Cuomo says",
+      "excerpt": "\"I've said the same thing to you every day for the past three weeks, I think. You are going to see these numbers are going to go up,\" Cuomo said during a press conference Thursday.",
+      "heat": 138,
+      "tags": [
+        "US-NY",
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/coronavirus-new-york-will-see-same-trajectory-of-cases-as-china-south-korea-and-italy-gov-cuomo-says.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/12/coronavirus-new-york-will-see-same-trajectory-of-cases-as-china-south-korea-and-italy-gov-cuomo-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/12/coronavirus-new-york-will-see-same-trajectory-of-cases-as-china-south-korea-and-italy-gov-cuomo-says.html",
+      "publishedDateTime": "2020-03-12T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106432696-1583768489780rts34fm1.jpg?v=1583768601",
+          "width": 3000,
+          "height": 2001,
+          "title": "New York will see 'same trajectory' of coronavirus cases as China, South Korea and Italy, Gov. Cuomo says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-report-us-offered-covid-19-help-to-north-korea.md",
+      "title": "Report: U.S. offered COVID-19 help to North Korea",
+      "excerpt": "A U.S. State Department official says the United States has reached out to North Korea to offer assistance over the global coronavirus outbreak. Voice of America's Korean service reported Robert Destro,",
+      "heat": 100,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/03/12/Report-US-offered-COVID-19-help-to-North-Korea/5081584035178/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/03/12/Report-US-offered-COVID-19-help-to-North-Korea/5081584035178/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/03/12/Report-US-offered-COVID-19-help-to-North-Korea/5081584035178/",
+      "publishedDateTime": "2020-03-12T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/5081584035178/2020/1/df53d4e86c6a0fff1b346de2b94d01f2/v1.5/Report-US-offered-COVID-19-help-to-North-Korea.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Report: U.S. offered COVID-19 help to North Korea",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-russia-delivers-coronavirus-test-kits-to-north-korea.md",
+      "title": "Russia Delivers Coronavirus Test Kits to North Korea",
+      "excerpt": "The critical shipment will afford the first outside information about how the sealed-off country could be faring amid the global COVID-19 pandemic.",
+      "heat": 110,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world-report/articles/2020-03-12/russia-delivers-coronavirus-test-kits-to-north-korea",
+      "ampWebUrl": "https://www.usnews.com/news/world-report/articles/2020-03-12/russia-delivers-coronavirus-test-kits-to-north-korea?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world-report/articles/2020-03-12/russia-delivers-coronavirus-test-kits-to-north-korea?context=amp",
+      "publishedDateTime": "2020-03-12T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-south-koreas-coronavirus-death-toll-reaches-67.md",
+      "title": "South Korea's coronavirus death toll reaches 67",
+      "excerpt": "The death toll from the global pandemic reached 67 on Thursday, according to information from South Korean health authorities.",
+      "heat": 130,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-slaps-travel-restrictions-most-europe-n1156266/ncrd1156666",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1156266",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1156266",
+      "publishedDateTime": "2020-03-12T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_11/3267291/200312-coronavirus-capsule-minsk-ew-1102a_4fb3470fbdcbe944b165ff6c6606dec4.jpg",
+          "width": 2500,
+          "height": 1567,
+          "title": "South Korea's coronavirus death toll reaches 67",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-south-korea-experts-recommend-anti-hiv-anti-malaria-drugs-for-covid-19.md",
+      "title": "South Korea experts recommend anti-HIV, anti-malaria drugs for COVID-19",
+      "excerpt": "South Korean disease experts have begun to recommend the use of a combination of antiviral and anti-malaria drugs for patients of the new strain of coronavirus. Kwon Jun-wook, deputy head of the Korea Centers for Disease Control and Prevention,",
+      "heat": 100,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/03/12/South-Korea-experts-recommend-anti-HIV-anti-malaria-drugs-for-COVID-19/6961584012321/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/03/12/South-Korea-experts-recommend-anti-HIV-anti-malaria-drugs-for-COVID-19/6961584012321/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/03/12/South-Korea-experts-recommend-anti-HIV-anti-malaria-drugs-for-COVID-19/6961584012321/",
+      "publishedDateTime": "2020-03-12T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/6961584012321/2020/1/6fd9e840f2909af3bc768eeddd115f30/v1.5/South-Korea-experts-recommend-anti-HIV-anti-malaria-drugs-for-COVID-19.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "South Korea experts recommend anti-HIV, anti-malaria drugs for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-how-this-south-korean-company-created-coronavirus-test-kits-in-three-weeks.md",
+      "title": "How this South Korean company created coronavirus test kits in three weeks",
+      "excerpt": "Before there were any cases of novel coronavirus confirmed in South Korea, one of the country's biotech firms had begun preparing to make testing kits to identify the disease.",
+      "heat": 128,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/index.html",
+      "publishedDateTime": "2020-03-12T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200312182748-seegene-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "How this South Korean company created coronavirus test kits in three weeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-update-2-skorea-seeks-to-contain-smaller-outbreaks-as-new-coronavirus-cases-slow.md",
+      "title": "UPDATE 2-S.Korea seeks to contain smaller outbreaks as new coronavirus cases slow",
+      "excerpt": "SEOUL, March 12- South Korea on Thursday reported 114 new cases of the coronavirus and six more deaths, resuming a relative decline in new cases after a spike the day before. The new cases bring the country's total to 7,",
+      "heat": 195,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/reuters-america-update-2-s-korea-seeks-to-contain-smaller-outbreaks-as-new-coronavirus-cases-slow.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/12/reuters-america-update-2-s-korea-seeks-to-contain-smaller-outbreaks-as-new-coronavirus-cases-slow.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/12/reuters-america-update-2-s-korea-seeks-to-contain-smaller-outbreaks-as-new-coronavirus-cases-slow.html",
+      "publishedDateTime": "2020-03-12T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 2-S.Korea seeks to contain smaller outbreaks as new coronavirus cases slow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-south-korea-shows-world-how-to-slow-spread-of-coronavirus.md",
+      "title": "South Korea Shows World How to Slow Spread of Coronavirus",
+      "excerpt": "SEOUL, SOUTH KOREA - South Korea has shown the world it may be possible to slow the spread of the coronavirus without resorting to heavy-handed lockdowns as seen in China, Italy and elsewhere. Although South Korea has reported a decrease, followed by a leveling off, in new coronavirus infections over the past week, no one here is declaring victory.",
+      "heat": 100,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.voanews.com/science-health/coronavirus-outbreak/south-korea-shows-world-how-slow-spread-coronavirus",
+      "ampWebUrl": "https://www.voanews.com/science-health/coronavirus-outbreak/south-korea-shows-world-how-slow-spread-coronavirus?amp",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/science-health/coronavirus-outbreak/south-korea-shows-world-how-slow-spread-coronavirus?amp",
+      "publishedDateTime": "2020-03-12T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.voltron.voanews.com/Drupal/01live-166/ap-images/2020/03/7a145e107d829f5f501aeaa4a0f2ab56.jpg",
+          "width": 4988,
+          "height": 3303,
+          "title": "South Korea Shows World How to Slow Spread of Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-south-korea-seeks-to-contain-smaller-outbreaks-as-new-coronavirus-cases-slow.md",
+      "title": "South Korea seeks to contain smaller outbreaks as new coronavirus cases slow",
+      "excerpt": "South Korea on Thursday reported 114 new cases of the coronavirus and six more deaths, resuming a relative decline in new cases after a spike the day before. The new cases bring the country’s total to 7,",
+      "heat": 207,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-idUSKBN20Z05E",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Z05E",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Z05E",
+      "publishedDateTime": "2020-03-12T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200312&t=2&i=1502001761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2B01Y",
+          "width": 823,
+          "height": 545,
+          "title": "South Korea seeks to contain smaller outbreaks as new coronavirus cases slow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-south-korea-reports-114-new-cases-of-coronavirus-brings-total-to-7869.md",
+      "title": "South Korea Reports 114 New Cases of Coronavirus, Brings Total to 7,869",
+      "excerpt": "A family wearing protective masks following an outbreak of coronavirus disease (COVID-19), walks on stepping-stones at a trail course in Cheongdo county, which has been designated as a 'special care zone' since the coronavirus outbreak,",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-11/south-korea-reports-114-new-cases-of-coronavirus-brings-total-to-7-869",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-south-korea-what-were-doing-to-fight-the-coronavirus.md",
+      "title": "South Korea: What We’re Doing to Fight the Coronavirus",
+      "excerpt": "“From an early stage, the Korean government has set key principles to combat Covid-19: Be quick, transparent and pre-emptive,” a Foreign Ministry official writes. “ Being Called a Cult Is One Thing, Being Blamed for an Epidemic Is Quite Another,",
+      "heat": 130,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/11/opinion/letters/south-korea-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/11/opinion/letters/south-korea-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/11/opinion/letters/south-korea-coronavirus.amp.html",
+      "publishedDateTime": "2020-03-11T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/06/opinion/06Rashid/06Rashid-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "South Korea: What We’re Doing to Fight the Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-report-north-koreas-china-deficit-reaches-new-high.md",
+      "title": "Report: North Korea's China deficit reaches new high",
+      "excerpt": "North Korea's trade deficit may have reached a new high in 2019, months before the country shut its borders and heavily restricted movement across the China border. According to China's General Administration of Customs data,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/03/11/Report-North-Koreas-China-deficit-reaches-new-high/2901583947969/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/03/11/Report-North-Koreas-China-deficit-reaches-new-high/2901583947969/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/03/11/Report-North-Koreas-China-deficit-reaches-new-high/2901583947969/",
+      "publishedDateTime": "2020-03-11T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2901583947969/2020/1/4b45a5b464ecc184e4e216654bc9a759/v1.5/Report-North-Koreas-China-deficit-reaches-new-high.jpg",
+          "width": 800,
+          "height": 532,
+          "title": "Report: North Korea's China deficit reaches new high",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in South Korea"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-us-says-it-will-try-to-be-useful-in-helping-iran-and-north-korea-fight-coronavirus.md",
+      "title": "U.S. Says It 'Will Try to Be Useful' in Helping Iran and North Korea Fight Coronavirus",
+      "excerpt": "Both Pyongyang and Tehran have accused Washington of using trade restrictions that harm civilian populations as a tool to coerce them into adhering to U.S. policy.",
+      "heat": 122,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/us-try-useful-help-iran-north-korea-virus-1491757",
+      "ampWebUrl": "https://www.newsweek.com/us-try-useful-help-iran-north-korea-virus-1491757?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-try-useful-help-iran-north-korea-virus-1491757?amp=1",
+      "publishedDateTime": "2020-03-11T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1573108/north-korea-coronavirus-covid-19-disease.jpg",
+          "width": 900,
+          "height": 548,
+          "title": "U.S. Says It 'Will Try to Be Useful' in Helping Iran and North Korea Fight Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-seoul-subway-trains-disinfected-as-coronavirus-cases-increase-in-south-korea.md",
+      "title": "Seoul subway trains disinfected as coronavirus cases increase in South Korea",
+      "excerpt": "The United States now has more than 1,000 people infected with coronavirus — but testing in the U.S. is still ramping up, meaning that number could continue to climb. Meanwhile, the governor of New York has questioned the number of people who have been tested for the virus in the U.",
+      "heat": 127,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-cases-top-1-000-spread-n1155241/ncrd1155486",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1155241",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1155241",
+      "publishedDateTime": "2020-03-11T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_11/3265201/200311-slovakia-al-0847_44bcbb78070e9c3a19f16149f5f27a53.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Seoul subway trains disinfected as coronavirus cases increase in South Korea",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-as-coronavirus-in-china-wanes-italy-south-korea-see-brunt-of-epidemic.md",
+      "title": "As Coronavirus In China Wanes, Italy, South Korea See Brunt Of Epidemic",
+      "excerpt": "The precipitous drop in new cases in China, where 80,778 cases have been diagnosed since the outbreak began in December, caused local officials to begin relaxing travel restrictions that were imposed in January, as the government struggled to contain the virus' spread. Chinese President Xi Jinping, who on Tuesday visited the city of Wuhan ...",
+      "heat": 175,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.npr.org/sections/goatsandsoda/2020/03/11/814343063/as-coronavirus-in-china-wanes-italy-south-korea-see-brunt-of-epidemic",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/03/11/gettyimages-1211667634_wide-89162389c3e929c63b5f455d115efd21f37deee7.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "As Coronavirus In China Wanes, Italy, South Korea See Brunt Of Epidemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-south-korea-shows-that-democracies-can-succeed-against-the-coronavirus.md",
+      "title": "South Korea shows that democracies can succeed against the coronavirus",
+      "excerpt": "Yet those are faults of those governments, not of the open society model writ large. In South Korea, the authorities are reporting a steady downtick in confirmed coronavirus cases over the past week after a series of decisive actions. These measures focus on education, transparency and mobilizing civil society — without resorting to Beijing ...",
+      "heat": 130,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/03/11/south-korea-shows-that-democracies-can-succeed-against-coronavirus/",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/03/11/south-korea-shows-that-democracies-can-succeed-against-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/03/11/south-korea-shows-that-democracies-can-succeed-against-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-03-11T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/yoZ_kjCNZM8TBGFXf_d9Qrmy2p8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O4UXLYDCSII6VCUOLRJTNMZHMA.jpg",
+          "width": 1440,
+          "height": 957,
+          "title": "South Korea shows that democracies can succeed against the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-coronavirus-live-updates-us-cases-cross-1000-south-korea-reports-242-new-cases.md",
+      "title": "Coronavirus live updates: US cases cross 1,000, South Korea reports 242 new cases",
+      "excerpt": "China’s National Health Commission said there were 24 new confirmed cases of infection and another 22 people have died from the coronavirus. The Australian government announced a 2.4 billion Australian dollar ($1.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/11/coronavirus-live-updates.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/11/coronavirus-live-updates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/11/coronavirus-live-updates.html",
+      "publishedDateTime": "2020-03-10T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106429524-1583519810414gettyimages-1205463199.jpeg?v=1583519956",
+          "width": 4500,
+          "height": 3000,
+          "title": "Coronavirus live updates: US cases cross 1,000, South Korea reports 242 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-live-updates-as-us-coronavirus-cases-top-1000-mixed-signs-of-recovery-in-china-south-korea.md",
+      "title": "Live updates: As U.S. coronavirus cases top 1,000, mixed signs of recovery in China, South Korea",
+      "excerpt": "Both Iran and South Korea now have around 8,000 confirmed cases and other nations are suggesting they will reach similar levels soon. HONG KONG — China announced an increase in the number of cases of the novel coronavirus that had been imported from outside the country on Wednesday, with one case apparently coming from the United States.",
+      "heat": 157,
+      "tags": [
+        "KR",
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/2020/03/11/coronavirus-live-updates/",
+      "ampWebUrl": "https://www.washingtonpost.com/world/2020/03/11/coronavirus-live-updates/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/03/11/coronavirus-live-updates/?outputType=amp",
+      "publishedDateTime": "2020-03-10T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/4gXHtvZobUGyGkfPpenJbOtEHK4=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/URRQSOCGBJEN3JZOBQESWQUUKA",
+          "width": 1440,
+          "height": 1440,
+          "title": "Live updates: As U.S. coronavirus cases top 1,000, mixed signs of recovery in China, South Korea",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in China"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-south-korea-reports-jump-in-coronavirus-cases.md",
+      "title": "South Korea Reports Jump in Coronavirus Cases",
+      "excerpt": "SEOUL (Reuters) - South Korea reported a jump in new coronavirus cases on Wednesday as authorities tested hundreds of staff at a call center where the disease appeared this week, reversing 11 days of slowing infections,",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-10/south-korea-reports-jump-in-coronavirus-cases",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-south-korea-sees-decline-in-coronavirus-cases-after-mass-testing.md",
+      "title": "South Korea sees decline in coronavirus cases after mass testing",
+      "excerpt": "Turbulent trading continued to roll Wall Street on Tuesday and anxieties over the coronavirus failed to subside with an increase in U.S. deaths and New York Gov. Andrew Cuomo ratcheting up protective measures in his state.",
+      "heat": 130,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-europe-brace-infection-spread-italy-n1153801/ncrd1155141",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1153801",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1153801",
+      "publishedDateTime": "2020-03-10T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_11/3263616/200310-naples-al-1213_1b0fe8fe3d106e7a6f262bcab3066bfc.jpg",
+          "width": 2500,
+          "height": 1669,
+          "title": "South Korea sees decline in coronavirus cases after mass testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-lower-trend-in-new-coronavirus-cases-raises-glimmer-of-hope-in-south-korea.md",
+      "title": "Lower Trend in New Coronavirus Cases Raises Glimmer of Hope in South Korea",
+      "excerpt": "SEOUL (Reuters) - A downward trend in new coronavirus cases in South Korea raised hope on Tuesday that Asia's biggest outbreak outside China may be slowing, but officials urged vigilance with new clusters of infections emerging in a call center and a dance class.",
+      "heat": 148,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-09/south-korea-reports-35-new-coronavirus-cases-total-at-7-513",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-us-military-in-south-korea-confirms-ninth-covid-19-patient.md",
+      "title": "U.S. military in South Korea confirms ninth COVID-19 patient",
+      "excerpt": "The U.S. military in South Korea confirmed a ninth patient of COVID-19 on Tuesday, according to local press reports. The JoongAng Ilbo reported Tuesday the patient, a South Korean national employed at Camp Walker,",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/03/10/US-military-in-South-Korea-confirms-ninth-COVID-19-patient/7511583853555/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/03/10/US-military-in-South-Korea-confirms-ninth-COVID-19-patient/7511583853555/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/03/10/US-military-in-South-Korea-confirms-ninth-COVID-19-patient/7511583853555/",
+      "publishedDateTime": "2020-03-10T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/7511583853555/2020/1/8dfb4cd130e336f1d9b95f5857914296/v1.5/US-military-in-South-Korea-confirms-ninth-COVID-19-patient.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "U.S. military in South Korea confirms ninth COVID-19 patient",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-how-a-south-korean-city-is-changing-tactics-to-tamp-down-its-covid-19-surge.md",
+      "title": "How A South Korean City Is Changing Tactics To Tamp Down Its COVID-19 Surge",
+      "excerpt": "\"Streets are empty, restaurants and shops closed. People stock up on instant noodles because they want to avoid going out.\" Daegu has so far been the main battleground of the coronavirus outbreak in South Korea, accounting for 75% of the country's 7,513 cases as of Tuesday. The country has one of the highest number of infections outside of China.",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.npr.org/sections/goatsandsoda/2020/03/10/812865169/how-a-south-korean-city-is-changing-tactics-to-tamp-down-its-covid-19-surge",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/03/09/skkuhn_wide-2ea8b09e1c3d0252a576475bd601e69a26168703.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "How A South Korean City Is Changing Tactics To Tamp Down Its COVID-19 Surge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-north-korea-condemns-japan-on-75th-anniversary-of-firebombing.md",
+      "title": "North Korea condemns Japan on 75th anniversary of firebombing",
+      "excerpt": "A North Korean group claiming to represent Korean victims of Japanese colonial policy and their families demanded an apology from the Japanese government on Tuesday. Pyongyang's state-controlled news agency KCNA reported the North Korean association of victims and families are also calling for compensation and the return of Korean remains,",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/03/10/North-Korea-condemns-Japan-on-75th-anniversary-of-firebombing/8841583853555/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/03/10/North-Korea-condemns-Japan-on-75th-anniversary-of-firebombing/8841583853555/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/03/10/North-Korea-condemns-Japan-on-75th-anniversary-of-firebombing/8841583853555/",
+      "publishedDateTime": "2020-03-10T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/8841583853555/2020/1/94af2409133ca311d8bc3099bd5d0068/v1.5/North-Korea-condemns-Japan-on-75th-anniversary-of-firebombing.jpg",
+          "width": 800,
+          "height": 534,
+          "title": "North Korea condemns Japan on 75th anniversary of firebombing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Japan",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in South Korea"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-lower-trend-in-new-coronavirus-cases-raises-glimmer-of-hope-in-south-korea.md",
+      "title": "Lower trend in new coronavirus cases raises glimmer of hope in South Korea",
+      "excerpt": "A downward trend in new coronavirus cases in South Korea raised hope on Tuesday that Asia’s biggest outbreak outside China may be slowing, but officials urged vigilance with new clusters of infections emerging in a call center and a dance class.",
+      "heat": 208,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-idUSKBN20X04P",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20X04P",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20X04P",
+      "publishedDateTime": "2020-03-10T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200310&t=2&i=1501078268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG29026",
+          "width": 784,
+          "height": 545,
+          "title": "Lower trend in new coronavirus cases raises glimmer of hope in South Korea",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-update-2-skorea-drastically-limits-short-selling-as-coronavirus-takes-toll-on-economy.md",
+      "title": "UPDATE 2-S.Korea drastically limits short-selling as coronavirus takes toll on economy",
+      "excerpt": "*S.Korea has the second-highest number of cases outside China. SEOUL, March 10- South Korea on Tuesday dramatically tightened rules on short-selling for three months, one day after its main equities board saw a record outflow by foreign investors as the coronavirus epidemic ravages the country's economy.",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/10/reuters-america-update-2-s-korea-drastically-limits-short-selling-as-coronavirus-takes-toll-on-economy.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/10/reuters-america-update-2-s-korea-drastically-limits-short-selling-as-coronavirus-takes-toll-on-economy.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/10/reuters-america-update-2-s-korea-drastically-limits-short-selling-as-coronavirus-takes-toll-on-economy.html",
+      "publishedDateTime": "2020-03-10T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 2-S.Korea drastically limits short-selling as coronavirus takes toll on economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-proselytizing-robots-inside-south-korean-church-at-outbreaks-center.md",
+      "title": "‘Proselytizing Robots’: Inside South Korean Church at Outbreak’s Center",
+      "excerpt": "Even before the coronavirus scourge, the Shincheonji Church of Jesus was viewed suspiciously. Now it has become the most vilified church in South Korea. SEOUL, South Korea — More than 1.2 million citizens have called for the secretive church to be disbanded.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/10/world/asia/south-korea-coronavirus-shincheonji.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/10/world/asia/south-korea-coronavirus-shincheonji.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/10/world/asia/south-korea-coronavirus-shincheonji.amp.html",
+      "publishedDateTime": "2020-03-10T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/09/world/09skorea-church-1sub-promo/09skorea-church-1sub-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "‘Proselytizing Robots’: Inside South Korean Church at Outbreak’s Center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-us-forces-in-south-korea-and-italy-are-told-to-stay-put-as-coronavirus-spreads.md",
+      "title": "U.S. Forces In South Korea And Italy Are Told To Stay Put As Coronavirus Spreads",
+      "excerpt": "A South Korean contract construction worker working at the U.S. military garrison Camp Walker in Daegu — the South Korean city hardest hit by the the coronavirus outbreak — on Monday became the eighth person linked to the U.S. military in that nation to be diagnosed with Covid-19, the disease caused by the virus. \"The problem that we found ...",
+      "heat": 130,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.npr.org/2020/03/09/813845222/u-s-forces-in-south-korea-and-italy-are-told-to-stay-put-as-coronavirus-spreads",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/03/09/ap_20064133035001_wide-0c3ed4850768fc0146c7b0d864775a333d0e35d1.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "U.S. Forces In South Korea And Italy Are Told To Stay Put As Coronavirus Spreads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-kim-jong-un-seen-in-new-military-drills-as-north-korea-announces-anti-viral-injection.md",
+      "title": "Kim Jong Un Seen In New Military Drills as North Korea Announces 'Anti-Viral' Injection",
+      "excerpt": "North Korean supreme leader Kim Jong Un was equipped with binoculars but bare-faced amid mask-wearing troops conducting \"another firepower strike drill of long-range artillery sub-units.\"",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/north-korea-seen-military-drill-anti-virus-injection-1491344",
+      "ampWebUrl": "https://www.newsweek.com/north-korea-seen-military-drill-anti-virus-injection-1491344?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/north-korea-seen-military-drill-anti-virus-injection-1491344?amp=1",
+      "publishedDateTime": "2020-03-09T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1572617/north-korea-rocket-launch-drill-kim.jpg",
+          "width": 675,
+          "height": 465,
+          "title": "Kim Jong Un Seen In New Military Drills as North Korea Announces 'Anti-Viral' Injection",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-south-koreas-president-tried-to-help-china-contain-the-coronavirus-now-people-want-him-impeached.md",
+      "title": "South Korea’s President Tried to Help China Contain the Coronavirus. Now People Want Him Impeached.",
+      "excerpt": "Beijing and Seoul were finally starting to get along. Then the coronavirus struck, South Korea decided to send masks, and everybody got mad.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://foreignpolicy.com/2020/03/09/moon-jae-in-china-coronavirus-impeachment-south-korea-president/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foreign Policy",
+        "domain": "foreignpolicy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://foreignpolicy.com/wp-content/uploads/2020/03/GettyImages-1206129144.jpg",
+          "width": 3982,
+          "height": 2649,
+          "title": "South Korea’s President Tried to Help China Contain the Coronavirus. Now People Want Him Impeached.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in China"
+      ]
+    }
+  ],
+  "nextPage": 7
+}

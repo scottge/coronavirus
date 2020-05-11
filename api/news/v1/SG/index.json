@@ -1,0 +1,1034 @@
+{
+  "location": {
+    "long": 103.8333,
+    "countryOrRegion": "Singapore",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "SG",
+    "lat": 1.2833
+  },
+  "updatedDateTime": "2020-05-10T05:45:40.4535689Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-singapore-reports-753-new-coronavirus-cases-taking-total-to-22460.md",
+      "title": "Singapore Reports 753 New Coronavirus Cases, Taking Total to 22,460",
+      "excerpt": "Singapore registered 753 new coronavirus infections, its health ministry said on Saturday, taking the city-state's total to 22,460 cases.",
+      "heat": 205,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/05/09/world/asia/09reuters-health-coronavirus-singapore.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Singapore Reports 753 New Coronavirus Cases, Taking Total to 22,460",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-singapore-coronavirus-infections-touch-21707-with-20-deaths-health-ministry.md",
+      "title": "Singapore coronavirus infections touch 21,707 with 20 deaths: Health Ministry",
+      "excerpt": "The Ministry of Health (MoH) said the foreign workers living in dormitories form the bulk of the cases of the new 768 new infections.",
+      "heat": 102,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newindianexpress.com/world/2020/may/09/singapore-coronavirus-infections-touch-21707-with-20-deaths-health-ministry-2140989.html",
+      "ampWebUrl": "https://www.newindianexpress.com/world/2020/may/09/singapore-coronavirus-infections-touch-21707-with-20-deaths-health-ministry-2140989.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/may/09/singapore-coronavirus-infections-touch-21707-with-20-deaths-health-ministry-2140989.amp",
+      "publishedDateTime": "2020-05-08T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/6/w600X390/000_1QH6CK.jpg",
+          "width": 600,
+          "height": 390,
+          "title": "Singapore coronavirus infections touch 21,707 with 20 deaths: Health Ministry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-singapore-deploys-robot-dog-to-encourage-social-distancing.md",
+      "title": "Singapore deploys robot 'dog' to encourage social distancing",
+      "excerpt": "The four-legged robot \"dog\" will patrol the area starting this weekend and broadcast a pre-recorded message to visitors to remind them of the importance of social distancing, authorities said. The device will also be equipped with cameras that will scan the surroundings and help officials estimate the number of people gathering in parks,",
+      "heat": 120,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/08/tech/singapore-coronavirus-social-distancing-robot-intl-hnk/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/08/tech/singapore-coronavirus-social-distancing-robot-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/08/tech/singapore-coronavirus-social-distancing-robot-intl-hnk/index.html",
+      "publishedDateTime": "2020-05-08T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200508144808-spot-singapore-govtech-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": "Singapore deploys robot 'dog' to encourage social distancing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-the-dota-2-singapore-major-has-been-cancelled-due-to-covid-19.md",
+      "title": "The ‘Dota 2’ Singapore Major Has Been Cancelled Due To COVID-19",
+      "excerpt": "The Dota Pro Circuit has been on hold for a few months now due to the COVID-19 pandemic but today it was confirmed that the final Major of the season due to take place in Singapore has been cancelled. The tournament was due to take place at the Shrine Singapore Indoor Stadium in Singapore between June 20 and June 28. “Due to the current ...",
+      "heat": 145,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mikestubbs/2020/05/08/the-dota-2-singapore-major-has-been-cancelled-due-to-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/mikestubbs/2020/05/08/the-dota-2-singapore-major-has-been-cancelled-due-to-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikestubbs/2020/05/08/the-dota-2-singapore-major-has-been-cancelled-due-to-covid-19/amp/",
+      "publishedDateTime": "2020-05-08T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Events Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-singapore-records-768-new-covid-19-cases-total-now-21707.md",
+      "title": "Singapore records 768 new COVID-19 cases, total now 21,707",
+      "excerpt": "Singapore recorded 768 new coronavirus cases on Friday, its health ministry said, taking the city-state's tally to 21,707.",
+      "heat": 105,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN22K0UU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22K0UU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K0UU",
+      "publishedDateTime": "2020-05-08T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517911874&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG470GK",
+          "width": 815,
+          "height": 545,
+          "title": "Singapore records 768 new COVID-19 cases, total now 21,707",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-singapore-lender-ocbcs-first-quarter-profit-slumps-43-on-coronavirus-charges.md",
+      "title": "Singapore lender OCBC's first-quarter profit slumps 43% on coronavirus charges",
+      "excerpt": "Oversea-Chinese Banking Corp reported a 43% fall in first-quarter net profit, worse than market estimates, as Singapore's second-largest lender set aside higher credit allowances to cover the impact of the coronavirus pandemic.",
+      "heat": 111,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-ocbc-results-idUSKBN22J3MI",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22J3MI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22J3MI",
+      "publishedDateTime": "2020-05-07T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Singapore lender OCBC's first-quarter profit slumps 43% on coronavirus charges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-singapore-reports-741-new-coronavirus-cases-taking-total-to-20939.md",
+      "title": "Singapore reports 741 new coronavirus cases, taking total to 20,939",
+      "excerpt": "Singapore has registered 741 new coronavirus infections, its health ministry said on Thursday, taking the city-state's total number of COVID-19 cases to 20,939.",
+      "heat": 255,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN22J0UO",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22J0UO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22J0UO",
+      "publishedDateTime": "2020-05-07T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200507&t=2&i=1517764387&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG460FC",
+          "width": 789,
+          "height": 545,
+          "title": "Singapore reports 741 new coronavirus cases, taking total to 20,939",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-singapores-health-ministry-confirms-788-new-coronavirus-cases-reports-two-additional-deaths.md",
+      "title": "Singapore's Health Ministry Confirms 788 New Coronavirus Cases, Reports Two Additional Deaths",
+      "excerpt": "Singapore's health ministry on Wednesday confirmed 788 new coronavirus cases, taking the city-state's tally to 20,198. The health ministry also reported two more deaths, bringing the virus-related death toll in the island nation to 20.",
+      "heat": 134,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-06/singapores-health-ministry-confirms-788-new-coronavirus-cases",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-06/singapores-health-ministry-confirms-788-new-coronavirus-cases?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-06/singapores-health-ministry-confirms-788-new-coronavirus-cases?context=amp",
+      "publishedDateTime": "2020-05-06T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in Asia",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-cases-in-singapore-exceed-20k-highest-in-southeast-asia.md",
+      "title": "Coronavirus Cases in Singapore Exceed 20K, Highest in Southeast Asia",
+      "excerpt": "The number of new daily cases in Singapore has risen over the past several days, with more than 780 confirmed on Wednesday.",
+      "heat": 100,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world-report/articles/2020-05-06/coronavirus-cases-in-singapore-exceed-20k-highest-in-southeast-asia",
+      "ampWebUrl": "https://www.usnews.com/news/world-report/articles/2020-05-06/coronavirus-cases-in-singapore-exceed-20k-highest-in-southeast-asia?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world-report/articles/2020-05-06/coronavirus-cases-in-singapore-exceed-20k-highest-in-southeast-asia?context=amp",
+      "publishedDateTime": "2020-05-06T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-singapore-scrapes-fraudulent-covid-19-healthcare-products-from-online-stores.md",
+      "title": "Singapore scrapes fraudulent COVID-19 healthcare products from online stores",
+      "excerpt": "Since February, more than 1,700 product listings that contain fraudulent COVID-19 claims have been removed from local e-commerce sites and retail shops.",
+      "heat": 102,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/singapore-scrapes-fraudulent-covid-19-healthcare-products-from-online-stores/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-scrapes-fraudulent-covid-19-healthcare-products-from-online-stores/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-scrapes-fraudulent-covid-19-healthcare-products-from-online-stores/",
+      "publishedDateTime": "2020-05-06T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2016/02/22/e4a9fab1-0023-465b-8a12-250f05e47a88/thumbnail/1200x675/a4d848327d28808fd777ede97292dfce/5g-connectivity.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Singapore scrapes fraudulent COVID-19 healthcare products from online stores",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-live-updates-indias-services-industry-crumbles-singapores-cases-cross-20000.md",
+      "title": "Coronavirus live updates: India's services industry crumbles; Singapore's cases cross 20,000",
+      "excerpt": "The IHS Markit India Services Business Activity Index came in at 5.4 in April — markedly lower than the previous month's 49.3, according to the latest data release.",
+      "heat": 104,
+      "tags": [
+        "India",
+        "IN",
+        "Singapore",
+        "SG",
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/06/coronavirus-latest-updates-asia-europe.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/06/coronavirus-latest-updates-asia-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/06/coronavirus-latest-updates-asia-europe.html",
+      "publishedDateTime": "2020-05-06T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106482678-1586459154608gettyimages-1208458989.jpeg?v=1588745855",
+          "width": 5472,
+          "height": 3648,
+          "title": "Coronavirus live updates: India's services industry crumbles; Singapore's cases cross 20,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-singapores-health-ministry-confirms-788-new-coronavirus-cases.md",
+      "title": "Singapore's health ministry confirms 788 new coronavirus cases",
+      "excerpt": "Singapore's health ministry on Wednesday confirmed 788 new coronavirus cases, taking the city-state's tally to 20,198.",
+      "heat": 175,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN22I0SG",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I0SG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I0SG",
+      "publishedDateTime": "2020-05-06T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517622084&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG450FO",
+          "width": 817,
+          "height": 545,
+          "title": "Singapore's health ministry confirms 788 new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-singapore-is-not-yet-halfway-through-its-coronavirus-outbreak-says-minister.md",
+      "title": "Singapore is not yet halfway through its coronavirus outbreak, says minister",
+      "excerpt": "Migrant workers living dormitories have accounted for around 87.6% of Singapore's total 19,410 confirmed cases as of Tuesday, according to the health ministry.",
+      "heat": 102,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/06/coronavirus-singapore-is-not-halfway-through-outbreak-says-minister.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/06/coronavirus-singapore-is-not-halfway-through-outbreak-says-minister.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/06/coronavirus-singapore-is-not-halfway-through-outbreak-says-minister.html",
+      "publishedDateTime": "2020-05-05T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106486812-1586821456671gettyimages-1209215531.jpeg?v=1588738000",
+          "width": 1024,
+          "height": 683,
+          "title": "Singapore is not yet halfway through its coronavirus outbreak, says minister",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-se-asia-stocks-singapore-gains-philippines-falls-on-profit-taking-poor-exports.md",
+      "title": "SE Asia Stocks-Singapore gains; Philippines falls on profit-taking, poor exports",
+      "excerpt": "Singapore shares gained the most in Southeast Asia on Wednesday, supported by the industrial sector, while Philippine stocks dropped more than 1% on profit-taking and dismal exports data. Financial markets around the world have been caught this month between grim economic figures and worries about worsening U.",
+      "heat": 100,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/southeast-asia-stocks-idUSL4N2CO0GB",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2CO0GB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2CO0GB",
+      "publishedDateTime": "2020-05-05T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "SE Asia Stocks-Singapore gains; Philippines falls on profit-taking, poor exports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-we-speak-to-a-migrant-worker-about-what-its-like-to-live-in-one-of-singapores-coronavirus-hotbeds.md",
+      "title": "We Speak to a Migrant Worker About What It’s Like to Live in One of Singapore’s Coronavirus Hotbeds",
+      "excerpt": "\"I believe that if the government had taken steps to ensure that everyone remained safe, we wouldn’t be where we are today. They could have controlled this situation better.\"",
+      "heat": 101,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/akw5w5/singapore-migrant-worker-experience-coronavirus",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/akw5w5/singapore-migrant-worker-experience-coronavirus",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/akw5w5/singapore-migrant-worker-experience-coronavirus",
+      "publishedDateTime": "2020-05-05T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ea7e661f05919009dae197e/lede/1588672256187-000_1QU2HS.jpeg?crop=1xw:0.8427xh;0xw,0.0427xh",
+          "width": 1440,
+          "height": 808,
+          "title": "We Speak to a Migrant Worker About What It’s Like to Live in One of Singapore’s Coronavirus Hotbeds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-singapores-health-ministry-confirms-573-new-coronavirus-cases.md",
+      "title": "Singapore's health ministry confirms 573 new coronavirus cases",
+      "excerpt": "Singapore's health ministry said on Monday it confirmed 573 new coronavirus cases, taking the city-state's tally of infections to 18,778.",
+      "heat": 175,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN22G0LY",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22G0LY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22G0LY",
+      "publishedDateTime": "2020-05-04T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200504&t=2&i=1517363953&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG430EN",
+          "width": 809,
+          "height": 545,
+          "title": "Singapore's health ministry confirms 573 new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-corporate-debt-in-china-singapore-and-south-korea-is-rising-fast-as-coronavirus-hits-revenue.md",
+      "title": "Corporate debt in China, Singapore and South Korea is rising fast as coronavirus hits revenue",
+      "excerpt": "Among Asian economies, corporate debt builds up the fastest and the most in China, South Korea and Singapore, according to a report by Australian bank ANZ last week.",
+      "heat": 159,
+      "tags": [
+        "Singapore",
+        "SG",
+        "KR",
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/04/coronavirus-corporate-debt-in-china-singapore-and-south-korea-is-rising.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/04/coronavirus-corporate-debt-in-china-singapore-and-south-korea-is-rising.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/04/coronavirus-corporate-debt-in-china-singapore-and-south-korea-is-rising.html",
+      "publishedDateTime": "2020-05-03T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106517798-1588565919346gettyimages-524343274.jpeg?v=1588565938",
+          "width": 4800,
+          "height": 2968,
+          "title": "Corporate debt in China, Singapore and South Korea is rising fast as coronavirus hits revenue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in China"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-singapore-reports-657-new-coronavirus-cases.md",
+      "title": "Singapore reports 657 new coronavirus cases",
+      "excerpt": "Singapore's health ministry on Sunday confirmed 657 new coronavirus infections, taking the city-state's total to 18,205.",
+      "heat": 225,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-singapore-cases-idUSKBN22F06X",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22F06X",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22F06X",
+      "publishedDateTime": "2020-05-03T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200503&t=2&i=1517315280&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4205L",
+          "width": 815,
+          "height": 545,
+          "title": "Singapore reports 657 new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-russia-reports-highest-daily-rise-in-coronavirus-cases-singapore-prepares-to-ease-partial-lockdown.md",
+      "title": "Russia reports highest daily rise in coronavirus cases; Singapore prepares to ease partial lockdown",
+      "excerpt": "Russia's coronavirus crisis response center reported 9,623 new confirmed cases of Covid-19 on Saturday, its highest daily figure to date.",
+      "heat": 101,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/02/coronavirus-live-updates-malaysia-to-ease-partial-lockdown-on-monday.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/02/coronavirus-live-updates-malaysia-to-ease-partial-lockdown-on-monday.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/02/coronavirus-live-updates-malaysia-to-ease-partial-lockdown-on-monday.html",
+      "publishedDateTime": "2020-05-02T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106481787-1586424929796gettyimages-1209226837.jpeg?v=1586425017",
+          "width": 2648,
+          "height": 1712,
+          "title": "Russia reports highest daily rise in coronavirus cases; Singapore prepares to ease partial lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-singapore-to-ease-some-coronavirus-curbs-over-next-few-weeks.md",
+      "title": "Singapore to ease some coronavirus curbs over next few weeks",
+      "excerpt": "Singapore will start easing some curbs put in place to contain the spread of the coronavirus over the next few weeks, authorities said on Saturday, as the city-state takes the first tentative steps towards reopening its economy.",
+      "heat": 115,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN22E04Z",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22E04Z",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22E04Z",
+      "publishedDateTime": "2020-05-02T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200502&t=2&i=1517230426&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG41046",
+          "width": 810,
+          "height": 545,
+          "title": "Singapore to ease some coronavirus curbs over next few weeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-singapore-confirms-447-new-coronavirus-cases-smallest-rise-in-2-wks.md",
+      "title": "Singapore confirms 447 new coronavirus cases, smallest rise in 2 wks",
+      "excerpt": "Singapore's health ministry on Saturday confirmed 447 new coronavirus infections, the smallest daily rise in two weeks, taking the city-state's tally of cases to 17,548 with 16 virus-related deaths.",
+      "heat": 105,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-singapore-cases-idUSFWN2CJ0OA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2CJ0OA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2CJ0OA",
+      "publishedDateTime": "2020-05-02T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Singapore confirms 447 new coronavirus cases, smallest rise in 2 wks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-singapore-confirms-932-new-covid-19-cases-death-toll-rises-to-16.md",
+      "title": "Singapore Confirms 932 New COVID-19 Cases, Death Toll Rises to 16",
+      "excerpt": "Among the new cases, five are Singaporeans or permanent residents, while 905 cases are foreign workers living in dormitories, the health ministry said.",
+      "heat": 145,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-01/singapore-confirms-932-new-covid-19-cases-taking-total-to-17-101",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-01/singapore-confirms-932-new-covid-19-cases-taking-total-to-17-101?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-01/singapore-confirms-932-new-covid-19-cases-taking-total-to-17-101?context=amp",
+      "publishedDateTime": "2020-05-01T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-singapore-confirms-932-new-covid-19-cases-taking-total-to-17101.md",
+      "title": "Singapore confirms 932 new COVID-19 cases, taking total to 17,101",
+      "excerpt": "Singapore reported 932 new coronavirus cases on Friday, the health ministry said, taking the city-state's total infections to 17,101.",
+      "heat": 105,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN22D4QV",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22D4QV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22D4QV",
+      "publishedDateTime": "2020-05-01T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200501&t=2&i=1517125798&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG402WE",
+          "width": 815,
+          "height": 545,
+          "title": "Singapore confirms 932 new COVID-19 cases, taking total to 17,101",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-coronavirus-singapore-prepares-to-resume-cross-border-travel-with-south-korea-australia-canada-and-new-zealand.md",
+      "title": "Coronavirus: Singapore prepares to resume cross-border travel with South Korea, Australia, Canada and New Zealand",
+      "excerpt": "The city state is working with Australia, Canada, South Korea and New Zealand to resume essential trips in an effort to maintain supply chains during the Covid-19 pandemic.",
+      "heat": 104,
+      "tags": [
+        "Singapore",
+        "SG",
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3082431/coronavirus-singapore-prepares-resume-cross-border-travel",
+      "ampWebUrl": "https://amp.scmp.com/news/asia/southeast-asia/article/3082431/coronavirus-singapore-prepares-resume-cross-border-travel",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/southeast-asia/article/3082431/coronavirus-singapore-prepares-resume-cross-border-travel",
+      "publishedDateTime": "2020-04-30T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/01/2a09f09e-8b6b-11ea-8a72-3b4a65ec119d_image_hires_133720.JPG?itok=RQarhPbD&v=1588311449",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus: Singapore prepares to resume cross-border travel with South Korea, Australia, Canada and New Zealand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Canada",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-singapore-reports-528-new-coronavirus-cases-death-toll-rises-to-15.md",
+      "title": "Singapore Reports 528 New Coronavirus Cases, Death Toll Rises to 15",
+      "excerpt": "Among the new cases, six are Singaporeans or permanent residents, while 488 cases are foreign workers living in dormitories, the health ministry said.",
+      "heat": 155,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-04-30/singapore-reports-528-new-coronavirus-cases-taking-total-to-16-169",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-04-30/singapore-reports-528-new-coronavirus-cases-taking-total-to-16-169?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-04-30/singapore-reports-528-new-coronavirus-cases-taking-total-to-16-169?context=amp",
+      "publishedDateTime": "2020-04-30T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-update-1-singapores-bid-to-contain-dorm-outbreaks-may-cause-lag-in-coronavirus-tally.md",
+      "title": "UPDATE 1-Singapore's bid to contain dorm outbreaks may cause lag in coronavirus tally",
+      "excerpt": "Singapore’s health ministry has said it is not able to test all migrant workers in dormitories and has been isolating some symptomatic patients first, a method that a government health adviser said was causing a lag in the reporting of cases.",
+      "heat": 108,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-singapore-idUSL3N2CG2BW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2CG2BW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2CG2BW",
+      "publishedDateTime": "2020-04-28T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 1-Singapore's bid to contain dorm outbreaks may cause lag in coronavirus tally",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

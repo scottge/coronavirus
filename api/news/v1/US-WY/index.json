@@ -1,0 +1,301 @@
+{
+  "location": {
+    "long": -107.290284,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Wyoming",
+    "county": null,
+    "isoCode": "US-WY",
+    "lat": 43.075968
+  },
+  "updatedDateTime": "2020-05-10T05:45:39.0522354Z",
+  "news": [
+    {
+      "path": "_news/2020-05-05-testing-finds-no-new-covid-19-at-wyoming-state-hospital.md",
+      "title": "Testing finds no new COVID-19 at Wyoming State Hospital",
+      "excerpt": "A round of intensive testing for the coronavirus among patients and staff at Wyoming's primary psychiatric hospital turned up no new cases. The Wyoming Department of Health, working with the U.S. Centers for Disease Control and Prevention,",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.timesunion.com/news/article/Testing-finds-no-new-COVID-19-at-Wyoming-State-15245621.php",
+      "ampWebUrl": "https://www.timesunion.com/news/amp/Testing-finds-no-new-COVID-19-at-Wyoming-State-15245621.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Testing-finds-no-new-COVID-19-at-Wyoming-State-15245621.php",
+      "publishedDateTime": "2020-05-04T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Testing finds no new COVID-19 at Wyoming State Hospital",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-three-new-covid-19-cases-in-genesee-and-orleans-counties-one-new-case-in-wyoming-county.md",
+      "title": "Three new COVID-19 cases in Genesee and Orleans counties; one new case in Wyoming County",
+      "excerpt": "Orleans County received two new positive cases of COVID-19 for a total of 102 positive cases. One was from Ridgeway and the other is from The Villages of Orleans Health and Rehabi",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thelcn.com/news/local/three-new-covid-19-cases-in-genesee-and-orleans-counties-one-new-case-in-wyoming/article_453e7771-49e9-54e2-be35-3708a0cb5043.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Livingston County News",
+        "domain": "thelcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/thelcn.com/content/tncms/assets/v3/editorial/1/b0/1b0fe629-a76b-5e8e-a5a1-97697e698d63/5e6a247aa0590.image.jpg?crop=1488%2C837%2C0%2C111&resize=1120%2C630&order=crop%2Cresize",
+          "width": 1120,
+          "height": 630,
+          "title": "Three new COVID-19 cases in Genesee and Orleans counties; one new case in Wyoming County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-testing-finds-no-new-covid-19-at-wyoming-state-hospital.md",
+      "title": "Testing finds no new COVID-19 at Wyoming State Hospital",
+      "excerpt": "A round of intensive testing for the coronavirus among patients and staff at Wyoming's primary psychiatric hospital turned up no new cases. The Wyoming Department of Health, working with the U.S. Centers for Disease Control and Prevention,",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/Testing-finds-no-new-COVID-19-at-Wyoming-State-15245621.php",
+      "ampWebUrl": "https://www.chron.com/news/amp/Testing-finds-no-new-COVID-19-at-Wyoming-State-15245621.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Testing-finds-no-new-COVID-19-at-Wyoming-State-15245621.php",
+      "publishedDateTime": "2020-05-04T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Testing finds no new COVID-19 at Wyoming State Hospital",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-wyoming-to-ease-some-coronavirus-restrictions-on-friday.md",
+      "title": "Wyoming to ease some coronavirus restrictions on Friday",
+      "excerpt": "Wyoming will ease some of its coronavirus restrictions on Friday, with barbershops, gyms, nail salons and child care centers among the businesses that will be allowed",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bhpioneer.com/covid-19/wyoming-to-ease-some-coronavirus-restrictions-on-friday/article_1983281c-8bc5-11ea-8ca5-1b23f7969d00.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Black Hills Pioneer",
+        "domain": "bhpioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/bhpioneer.com/content/tncms/assets/v3/editorial/2/ea/2ea36bbc-8bc5-11ea-8d07-3371d6b978a3/5eac483f78771.image.jpg?resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": "Wyoming to ease some coronavirus restrictions on Friday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-four-new-covid-19-cases-in-orleans-county-two-in-wyoming-none-reported-in-genesee.md",
+      "title": "Four new COVID-19 cases in Orleans County; two in Wyoming; none reported in Genesee",
+      "excerpt": "ALBION — There were four new COVID-19 cases in Orleans County for a total of 95 as of 2 p.m. Thursday. One of the new cases lives in Albion and another in Gaines, while two of the positive cases were from The Villages of Orleans Health & Rehab Facility.",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thelcn.com/news/local/four-new-covid-19-cases-in-orleans-county-two-in-wyoming-none-reported-in-genesee/article_f47cd972-2517-594d-874f-cdeafec055d7.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Livingston County News",
+        "domain": "thelcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-wyomings-coronavirus-count-tops-400-park-campgrounds-to-open-in-may.md",
+      "title": "Wyoming's coronavirus count tops 400; park campgrounds to open in May",
+      "excerpt": "State residents will be allowed to camp at state parks beginning in mid-May as part of the gradual reopening of businesses and services closed in March to prevent the spread",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wyomingbusinessreport.com/industry_news/government_and_politics/wyomings-coronavirus-count-tops-400-park-campgrounds-to-open-in-may/article_e1dfad82-8afb-11ea-ad50-939d9c052568.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wyoming Business Report",
+        "domain": "wyomingbusinessreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-wyoming-to-ease-some-coronavirus-restrictions-on-friday.md",
+      "title": "Wyoming to ease some coronavirus restrictions on Friday",
+      "excerpt": "Wyoming will ease some of its coronavirus restrictions on Friday, with barbershops, gyms, nail salons and child care centers among the businesses that will be allowed limited re-openings, Gov. Mark Gordon said.",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/Wyoming-to-ease-some-coronavirus-restrictions-on-15234092.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/71/62/23/15148227/3/core_promo.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Wyoming to ease some coronavirus restrictions on Friday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-five-new-covid-19-cases-in-genesee-and-orleans-two-in-wyoming-county.md",
+      "title": "Five new COVID-19 cases in Genesee and Orleans; two in Wyoming County",
+      "excerpt": "Genesee and Orleans counties are reporting five new cases of COVID-19 as of 2 p.m. Wednesday. Genesee County has one new case for a total of 149. The new case is under the age of 20, lives in Batavia and was in quarantine prior to becoming symptomatic.",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thedailynewsonline.com/top_story/five-new-covid-19-cases-in-genesee-and-orleans-two-in-wyoming-county/article_f9f4773c-ef5c-5222-bf13-773e25558ec7.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News Online",
+        "domain": "thedailynewsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

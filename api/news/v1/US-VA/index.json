@@ -1,0 +1,323 @@
+{
+  "location": {
+    "long": -78.656894,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Virginia",
+    "county": null,
+    "isoCode": "US-VA",
+    "lat": 37.431573
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.8585283Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-15-more-deaths-854-new-coronavirus-cases-reported-in-virginia.md",
+      "title": "15 more deaths, 854 new coronavirus cases reported in Virginia",
+      "excerpt": "The state’s latest data shows Accomack County on the Eastern Shore now has the highest number of cases in region with 496, surpassing Virginia Beach, which has 478.",
+      "heat": 135,
+      "tags": [
+        "US",
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dailypress.com/news/health/vp-nw-may-9-coronavirus-numbers-20200509-4utdi5dntzhutghwh7rt57mg7e-story.html",
+      "ampWebUrl": "https://www.dailypress.com/news/health/vp-nw-may-9-coronavirus-numbers-20200509-4utdi5dntzhutghwh7rt57mg7e-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/news/health/vp-nw-may-9-coronavirus-numbers-20200509-4utdi5dntzhutghwh7rt57mg7e-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Press",
+        "domain": "dailypress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailypress.com/resizer/P_GoRahJ00EBJv2HZlOL6Wk9M5I=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2ZS7YFYMG5BPNNWCI5IYJC6Z6U.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "15 more deaths, 854 new coronavirus cases reported in Virginia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-virginia-defends-coronavirus-restrictions-in-church-lawsuit.md",
+      "title": "Virginia defends coronavirus restrictions in church lawsuit",
+      "excerpt": "An attempt by a Virginia church to prevent the state from barring gatherings of more than 10 people “would seriously undermine” the state's efforts to deter the spread of",
+      "heat": 125,
+      "tags": [
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/e8e3e00f7017adef8eee9a8a68127a87",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/989d7cc476ab4e5a83081031e8a2710e/3000.jpeg",
+          "width": 3000,
+          "height": 1997,
+          "title": "Virginia defends coronavirus restrictions in church lawsuit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-amid-coronavirus-pandemic-fewer-maryland-virginia-residents-seek-er-treatment.md",
+      "title": "Amid coronavirus pandemic, fewer Maryland, Virginia residents seek ER treatment",
+      "excerpt": "The Washington Post is providing this important information about the coronavirus for free. For more free coverage of the coronavirus pandemic, sign up for our daily Coronavirus Updates newsletter where all stories are free to read.",
+      "heat": 146,
+      "tags": [
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/amid-coronavirus-pandemic-fewer-maryland-residents-seek-er-treatment/2020/05/07/acc42a20-9068-11ea-9e23-6914ee410a5f_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/amid-coronavirus-pandemic-fewer-maryland-residents-seek-er-treatment/2020/05/07/acc42a20-9068-11ea-9e23-6914ee410a5f_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/amid-coronavirus-pandemic-fewer-maryland-residents-seek-er-treatment/2020/05/07/acc42a20-9068-11ea-9e23-6914ee410a5f_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-07T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/u2cCzVmH0dqN2bpZW8A7bZ9yLUg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNXIRXUQR4I6VEZCUKPHL374SM.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Amid coronavirus pandemic, fewer Maryland, Virginia residents seek ER treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-virginia-spring-high-school-sports-officially-canceled-due-to-coronavirus.md",
+      "title": "Virginia spring high school sports officially canceled due to coronavirus",
+      "excerpt": "Any hope of a high school spring sports season was officially squashed Thursday as the Virginia High School Sports League voted at its May meeting to cancel all",
+      "heat": 134,
+      "tags": [
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wavy.com/sports/local-sports/virginia-spring-high-school-sports-officially-canceled-due-to-coronavirus/",
+      "ampWebUrl": "https://www.wavy.com/sports/local-sports/virginia-spring-high-school-sports-officially-canceled-due-to-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/sports/local-sports/virginia-spring-high-school-sports-officially-canceled-due-to-coronavirus/amp/",
+      "publishedDateTime": "2020-05-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/05/thumbnail_Coronavirus-Update-3.png?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Virginia spring high school sports officially canceled due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-fact-check-blacks-make-up-disproportionate-share-of-covid-19-deaths-in-richmond-virginia.md",
+      "title": "Fact check: Blacks make up disproportionate share of COVID-19 deaths in Richmond, Virginia",
+      "excerpt": "By April 15, Virginians who were black made up 62% of about 160 confirmed COVID-19 cases in Richmond, while 48% of the city’s population is black, Moguldom Nation wrote, citing reporting from WTVR, a CBS TV station in Richmond,",
+      "heat": 105,
+      "tags": [
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/05/05/fact-check-blacks-make-up-all-covid-19-deaths-richmond-virginia/3086558001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3086558001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3086558001",
+      "publishedDateTime": "2020-05-05T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/04/23/USAT/164103d7-066f-4250-886c-536b77a1cf48-i-95_virginia.JPG?auto=webp&crop=5433,3057,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Fact check: Blacks make up disproportionate share of COVID-19 deaths in Richmond, Virginia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-virginia-may-5-covid-19-update-va-passes-20000-cases-700-deaths-60-new-cases-6-new-deaths-in-tidewater.md",
+      "title": "Virginia May 5 COVID-19 update: Va. passes 20,000 cases, 700 deaths; 60 new cases, 6 new deaths in Tidewater",
+      "excerpt": "RICHMOND, Va. (WAVY) — Virginia passed 20,000 total COVID-19 cases and 700 deaths on May 5, a day after Gov. Ralph Northam announced the commonwealth was preparing to enter phase 1 of its",
+      "heat": 131,
+      "tags": [
+        "US-VA",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wavy.com/news/health/coronavirus/vdh-to-publish-new-covid-19-data-detailing-positive-cases-deaths-and-testing/",
+      "ampWebUrl": "https://www.wavy.com/news/health/coronavirus/vdh-to-publish-new-covid-19-data-detailing-positive-cases-deaths-and-testing/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/health/coronavirus/vdh-to-publish-new-covid-19-data-detailing-positive-cases-deaths-and-testing/amp/",
+      "publishedDateTime": "2020-05-05T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/05/COVID-Virginia-May-5-e1588687017934.png?w=660&h=422&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Virginia May 5 COVID-19 update: Va. passes 20,000 cases, 700 deaths; 60 new cases, 6 new deaths in Tidewater",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-virginia-town-announces-layoffs-amid-coronavirus-outbreak.md",
+      "title": "Virginia town announces layoffs amid coronavirus outbreak",
+      "excerpt": "The town of Abingdon announced in a statement on Monday that the town manager reduced spending in response to revenue projections that suggested losses from taxes on sales, meals and lodging. While not expecting a deficit,",
+      "heat": null,
+      "tags": [
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/virginia-town-announces-layoffs-amid-coronavirus-outbreak/2020/05/05/03198750-8ea0-11ea-9322-a29e75effc93_story.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-virginia-jobless-claims-over-500000-since-coronavirus-hit.md",
+      "title": "Virginia jobless claims over 500,000 since coronavirus hit",
+      "excerpt": "More than a half million Virginians have filed unemployment claims since the coronavirus outbreak hit the state last month, according to new federal data released Thursday. Thursday's report from the U.",
+      "heat": null,
+      "tags": [
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/article/Virginia-jobless-claims-over-500-000-since-15237207.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/65/25/19354964/7/rawImage.jpg",
+          "width": 2048,
+          "height": 1446,
+          "title": "Virginia jobless claims over 500,000 since coronavirus hit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

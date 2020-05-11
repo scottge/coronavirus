@@ -1,0 +1,1141 @@
+{
+  "page": 47,
+  "value": [
+    {
+      "path": "_news/2020-03-26-iowa-announces-1st-death-linked-to-coronavirus-outbreak.md",
+      "title": "Iowa announces 1st death linked to coronavirus outbreak",
+      "excerpt": "A resident of northeastern Iowa is the first person in the state whose death has been linked to the coronavirus outbreak, which continues to spread statewide, Gov. Kim Reynolds said Tuesday. Reynolds identified the deceased as an \"older adult\" resident of Dubuque County who was between 61 and 80 years old.",
+      "heat": 115,
+      "tags": [
+        "US-IA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/Iowa-positive-coronavirus-cases-climb-19-to-124-15153765.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/21/61/19209315/7/rawImage.jpg",
+          "width": 2048,
+          "height": 1368,
+          "title": "Iowa announces 1st death linked to coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-kansas-city-nursing-home-employee-had-fever-tests-positive-for-coronavirus.md",
+      "title": "Kansas City nursing home: Employee had fever, tests positive for coronavirus",
+      "excerpt": "An employee at McCrite Plaza at Briarcliff in the Northland has tested positive for COVID-19, but no other employees or residents show symptoms of the coronavirus, the senior living community said Wednesday.",
+      "heat": 132,
+      "tags": [
+        "US-KS"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kansascity.com/news/coronavirus/article241513326.html",
+      "ampWebUrl": "https://amp.kansascity.com/news/coronavirus/article241513326.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/coronavirus/article241513326.html",
+      "publishedDateTime": "2020-03-25T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557046001/54a6d321-77e4-44ed-b0f4-9fe0c9568a66/main/1280x720/1m13s514ms/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Kansas City nursing home: Employee had fever, tests positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-health-officials-confirm-new-mexicos-1st-coronavirus-death.md",
+      "title": "Health Officials Confirm New Mexico's 1st Coronavirus Death",
+      "excerpt": "Health officials are confirming New Mexico's first death related to the coronavirus in a patient who died earlier in the week and later tested positive for the virus.",
+      "heat": 145,
+      "tags": [
+        "US-NM"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/new-mexico/articles/2020-03-24/new-mexico-creates-coronavirus-business-recovery-fund",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/new-mexico/articles/2020-03-24/new-mexico-creates-coronavirus-business-recovery-fund?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-03-24/new-mexico-creates-coronavirus-business-recovery-fund?context=amp",
+      "publishedDateTime": "2020-03-25T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-spains-coronavirus-death-toll-overtakes-chinas.md",
+      "title": "Spain's Coronavirus Death Toll Overtakes China's",
+      "excerpt": "Spain's coronavirus death toll jumped by 738 overnight to exceed that of China, where the disease originated, as the country struggled to cope with an accelerating health crisis and another senior government minister was diagnosed with the virus.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-25/spains-coronavirus-death-toll-surpasses-that-of-china",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-91-year-old-man-is-arkansas-first-death-from-covid-19.md",
+      "title": "91-Year-Old Man Is Arkansas' First Death From COVID-19",
+      "excerpt": "Old Man Is Arkansas' First Death From COVID-19 Faulkner County's deputy coroner said a 91-year-old man died Tuesday morning at a Conway hospital from COVID-19, the illness caused by the coronavirus. The state Health Department did not immediately confirm the death and said officials would give a full update at a news conference Tuesday afternoon with Gov.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/arkansas/articles/2020-03-24/91-year-old-man-is-arkansas-first-death-from-covid-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-iran-fears-second-wave-of-coronavirus-as-death-toll-rises-to-2077.md",
+      "title": "Iran Fears Second Wave of Coronavirus as Death Toll Rises to 2,077",
+      "excerpt": "Iran Fears Second Wave of Coronavirus as Death Toll Rises to 2,077 DUBAI (Reuters) - Iran may face a second outbreak of the coronavirus pandemic, a government spokesman said on Wednesday, as the Islamic Republic banned internal travel and traditional gatherings in parks during the Persian New Year holiday period.",
+      "heat": 125,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-25/iran-coronavirus-toll-rises-to-2-077-after-143-new-deaths",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-covid-19-cases-explode-in-dallas-78-new-cases-2-deaths-wednesday.md",
+      "title": "COVID-19 Cases Explode in Dallas, 78 New Cases, 2 Deaths Wednesday",
+      "excerpt": "We can’t wait any longer. I once again ask all North Texas counties to immediately move to the Dallas “Stay Home Stay Safe” model as some did yesterday. That’s our best chance to #Flattenthecurve,” said Dallas County Judge Clay Jenkins. New cases are being reported as a daily aggregate, with a more detailed summary report updated ...",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/covid-19-cases-explode-in-dallas-78-new-cases-1-death-wednesday/2338575/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/covid-19-cases-explode-in-dallas-78-new-cases-1-death-wednesday/2338575/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/covid-19-cases-explode-in-dallas-78-new-cases-1-death-wednesday/2338575/?amp",
+      "publishedDateTime": "2020-03-25T16:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/Dallas-County-Health-and-Human-Services-1.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "COVID-19 Cases Explode in Dallas, 78 New Cases, 2 Deaths Wednesday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-ct-4-state-police-employees-test-positive.md",
+      "title": "Coronavirus CT: 4 State Police Employees Test Positive",
+      "excerpt": "Four Connecticut State Police troopers have tested positive for the new coronavirus. (Patch Graphic ) CONNECTICUT — Four Connecticut State Police employees have tested positive",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/connecticut/middletown-ct/coronavirus-ct-4-state-police-employees-test-positive",
+      "ampWebUrl": "https://patch.com/connecticut/middletown-ct/amp/28657627/coronavirus-ct-4-state-police-employees-test-positive",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/connecticut/middletown-ct/amp/28657627/coronavirus-ct-4-state-police-employees-test-positive",
+      "publishedDateTime": "2020-03-25T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22729282/20200325/073722/styles/patch_image/public/blue-news-alert-graphic___25193526899.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": "Coronavirus CT: 4 State Police Employees Test Positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-4-con-fire-firefighters-test-positive-for-coronavirus.md",
+      "title": "4 Con Fire Firefighters Test Positive For Coronavirus",
+      "excerpt": "Eighteen employees have been tested to date, with negative results for 12, positive results for four, and pending results for two.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/california/concord-ca/4-con-fire-firefighters-test-positive-coronavirus",
+      "ampWebUrl": "https://patch.com/california/concord-ca/amp/28657590/4-con-fire-firefighters-test-positive-coronavirus",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/concord-ca/amp/28657590/4-con-fire-firefighters-test-positive-coronavirus",
+      "publishedDateTime": "2020-03-25T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22423906/20200325/071037/styles/patch_image/public/con-fire-alliance-ambulance-at-fs-17-9-11-18___25190908571.jpg?width=984",
+          "width": 777,
+          "height": 583,
+          "title": "4 Con Fire Firefighters Test Positive For Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-roush-shuts-its-doors-after-2-workers-test-positive-for-coronavirus.md",
+      "title": "Roush shuts its doors after 2 workers test positive for coronavirus",
+      "excerpt": "Roush CEO tells employees a building in Allen Park is closed after two employees test positive for coronavirus.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.freep.com/story/money/cars/2020/03/25/coronavirus-covid-19-roush-2-workers-test-positive/5084135002/",
+      "ampWebUrl": "https://amp.freep.com/amp/5084135002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5084135002",
+      "publishedDateTime": "2020-03-25T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/9b2a024c7e0cbb63b8844c8b36b34495afdd6ea1/c=0-241-2600-1710/local/-/media/2017/05/09/DetroitFreeP/DetroitFreePress/636299509108280748-Roush-Troy3.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": "Roush shuts its doors after 2 workers test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-four-new-cases-push-local-coronavirus-total-to-14.md",
+      "title": "Four new cases push local coronavirus total to 14",
+      "excerpt": "CORPUS CHRISTI, Texas — With 14 local coronavirus cases reported, health department officials announced that they are looking at adding more drive-thru testing events. Annette Rodriguez of the city/county health department said at a Wednesday press conference her department now has 45 people on telephones answering coronavirus-related questions.",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kristv.com/news/coronavirus/city-stepping-up-loca-lcovid-19-testing",
+      "ampWebUrl": "https://www.kristv.com/news/coronavirus/city-stepping-up-loca-lcovid-19-testing?_amp=true",
+      "cdnAmpWebUrl": "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/coronavirus/city-stepping-up-loca-lcovid-19-testing?_amp=true",
+      "publishedDateTime": "2020-03-25T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRISTV.com",
+        "domain": "kristv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/83acab1/2147483647/strip/true/crop/800x450+0+75/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F70%2F61%2F3a9e861142eca8dc354f4af4bdae%2F800-1.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": "Four new cases push local coronavirus total to 14",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-dozens-of-boston-hospital-employees-test-positive-for-coronavirus.md",
+      "title": "Dozens of Boston Hospital Employees Test Positive for Coronavirus",
+      "excerpt": "Two Boston hospitals each reported that more than 40 employees have tested positive for the new coronavirus Wednesday. Another hospital said that 15 of its employees have contracted the deadly virus, which has already prompted the area's medical centers to hunker down in anticipation of a massive surge of cases -- Massachusetts has reported ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.necn.com/news/coronavirus/boston-hospital-employees-positive-coronavirus/2251002/",
+      "ampWebUrl": "https://www.necn.com/news/coronavirus/boston-hospital-employees-positive-coronavirus/2251002/?amp",
+      "cdnAmpWebUrl": "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/coronavirus/boston-hospital-employees-positive-coronavirus/2251002/?amp",
+      "publishedDateTime": "2020-03-25T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NECN",
+        "domain": "necn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.necn.com/2019/09/GettyImages-1209279675.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Dozens of Boston Hospital Employees Test Positive for Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-market-basket-shaws-employees-in-massachusetts-test-positive-for-coronavirus.md",
+      "title": "Market Basket, Shaw's employees in Massachusetts test positive for coronavirus",
+      "excerpt": "Gov. Charlie Baker on Wednesday announced a new public health order related to grocery stores and pharmacies in Massachusetts, which includes a temporary ban on reusable bags.",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wcvb.com/article/market-basket-shaw-s-grocery-store-employees-in-massachusetts-test-positive-for-covid-19-coronavirus/31933211",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/market-basket-shaw-s-grocery-store-employees-in-massachusetts-test-positive-for-covid-19-coronavirus/31933211",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/market-basket-shaw-s-grocery-store-employees-in-massachusetts-test-positive-for-covid-19-coronavirus/31933211",
+      "publishedDateTime": "2020-03-25T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/market-basket-shaws-supermarkets-1585175848.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "Market Basket, Shaw's employees in Massachusetts test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-denton-county-confirms-19-new-cases-of-coronavirus-bringing-total-to-70.md",
+      "title": "Denton County Confirms 19 New Cases Of Coronavirus Bringing Total To 70",
+      "excerpt": "DENTON, Texas (CBSDFW.COM) – Denton County Public Health announced 19 additional laboratory-confirmed cases of COVID-19 in Denton County on Wednesday evening. This increases the countywide total to 70 confirmed COVID-19 cases. Included in the 19 cases is one additional Denton State Supported Living Center resident, a woman in her 50s who is ...",
+      "heat": 140,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://dfw.cbslocal.com/2020/03/25/denton-county-19-new-cases-coronavirus/",
+      "ampWebUrl": "https://dfw.cbslocal.com/2020/03/25/denton-county-19-new-cases-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://dfw-cbslocal-com.cdn.ampproject.org/c/s/dfw.cbslocal.com/2020/03/25/denton-county-19-new-cases-coronavirus/amp/",
+      "publishedDateTime": "2020-03-25T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-2-cook-county-court-system-employees-test-positive-for-coronavirus.md",
+      "title": "2 Cook County Court System Employees Test Positive For Coronavirus",
+      "excerpt": "Two employees of the Cook County court system have tested positive for coronavirus, the Office of the Chief Judge announced Wednesday.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://chicago.cbslocal.com/2020/03/25/2-cook-county-court-system-employees-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://chicago.cbslocal.com/2020/03/25/2-cook-county-court-system-employees-test-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2020/03/25/2-cook-county-court-system-employees-test-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-25T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-two-more-oregon-covid-19-deaths-bring-total-to-10-57-new-cases-tally-now-266.md",
+      "title": "Two more Oregon COVID-19 deaths bring total to 10; 57 new cases, tally now 266",
+      "excerpt": "COVID-19 has claimed two more lives in Oregon, raising the state’s death toll to 10, the Oregon Health Authority reported Wednesday.",
+      "heat": 126,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://ktvz.com/news/coronavirus/2020/03/25/two-more-oregon-covid-19-deaths-bring-total-to-10-57-new-cases-tally-now-266/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVZ",
+        "domain": "ktvz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.us-east-1.wasabisys.com/ktvz.com/2020/03/Oregon-coronavirus-MGN-860x484.jpg",
+          "width": 860,
+          "height": 484,
+          "title": "Two more Oregon COVID-19 deaths bring total to 10; 57 new cases, tally now 266",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-3-town-of-huntington-employees-test-positive.md",
+      "title": "Coronavirus: 3 Town Of Huntington Employees Test Positive",
+      "excerpt": "They are the first three Town employees to test positive for COVID-19, officials say. Town meetings will be held remotely.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-york/huntington/coronavirus-3-town-huntington-employees-test-positive",
+      "ampWebUrl": "https://patch.com/new-york/huntington/amp/28657425/coronavirus-3-town-huntington-employees-test-positive",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/huntington/amp/28657425/coronavirus-3-town-huntington-employees-test-positive",
+      "publishedDateTime": "2020-03-25T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-st-louis-city-county-announce-53-new-coronavirus-cases-more-deaths-in-missouri.md",
+      "title": "St. Louis City, County announce 53 new coronavirus cases, more deaths in Missouri",
+      "excerpt": "There were 21 new confirmed cases of coronavirus in St. Louis City and 32 new cases in St. Louis County as of Wednesday evening, according to the Department of Health and Human Services. Statewide, Missouri counted 356 COVID-19 cases and eight deaths,",
+      "heat": 140,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bnd.com/news/coronavirus/article241507386.html",
+      "ampWebUrl": "https://amp.bnd.com/news/coronavirus/article241507386.html",
+      "cdnAmpWebUrl": "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/coronavirus/article241507386.html",
+      "publishedDateTime": "2020-03-25T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BND",
+        "domain": "bnd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998020001/ee43b9a1-e19d-46b1-a7de-378a17ea1611/dec9e4e8-9a11-4acc-aedf-78c42ce62892/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "St. Louis City, County announce 53 new coronavirus cases, more deaths in Missouri",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-nyc-officials-confirm-1st-homeless-death-from-coronavirus.md",
+      "title": "NYC officials confirm 1st homeless death from coronavirus",
+      "excerpt": "New York officials have confirmed the first homeless death from the novel coronavirus, a grim statistic that homeless advocates fear could rise in coming weeks. “Tragically, one New Yorker experiencing homelessness succumbed to this virus after several days in the hospital – our hearts go out to this individual’s friends and family,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Health/nyc-officials-confirm-homeless-death-coronavirus/story?id=69796320",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/nyc-officials-confirm-homeless-death-coronavirus/story?id=69796320",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/nyc-officials-confirm-homeless-death-coronavirus/story?id=69796320",
+      "publishedDateTime": "2020-03-25T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/homeless-2-gty-er-200325_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "NYC officials confirm 1st homeless death from coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-3-mbta-bus-drivers-test-positive-for-coronavirus.md",
+      "title": "3 MBTA bus drivers test positive for coronavirus",
+      "excerpt": "DRIVERS HAVE TESTED POSITIVE FOR CORONAVIRUS. WITH MORE ON THAT, LET’S GO LIVE TO NEWSCENTER 5’S JOSH BROGADIR AT CABOT YARD. >> THE BUSES YOU SEE PARKED THERE ARE JUST A FEW OF THE DOZENS WE HAVE SEEN GOING AND COMING FROM THIS LOT TODAY.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wcvb.com/article/5-investigates-mbta-bus-drivers-test-positive-for-coronavirus-march-25-2020/31925549",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/5-investigates-mbta-bus-drivers-test-positive-for-coronavirus-march-25-2020/31925549",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/5-investigates-mbta-bus-drivers-test-positive-for-coronavirus-march-25-2020/31925549",
+      "publishedDateTime": "2020-03-25T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mbta-transit-bus-mbta-bus-1573099832.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "3 MBTA bus drivers test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-live-news-global-death-toll-passes-20000-as-spain-overtakes-china-as-second-worst-hit-country.md",
+      "title": "Coronavirus live news: global death toll passes 20,000, as Spain overtakes China as second worst-hit country",
+      "excerpt": "India locks down; Prince Charles tests positive for coronavirus; Senate and White House reach stimulus deal",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/australia-news/live/2020/mar/25/coronavirus-live-news-india-lockdown-italy-cases-restrictions-uk-us-outbreak-australia-china-hubei-latest-updates?page=with:block-5e7b86668f08af215f6fb17b",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/live/2020/mar/25/coronavirus-live-news-india-lockdown-italy-cases-restrictions-uk-us-outbreak-australia-china-hubei-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/mar/25/coronavirus-live-news-india-lockdown-italy-cases-restrictions-uk-us-outbreak-australia-china-hubei-latest-updates",
+      "publishedDateTime": "2020-03-25T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f329189405389893b590fba918a6dadf33fa816c/76_318_5012_3007/master/5012.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d8aa219273639ef0557f72f5c3602b9b",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus live news: global death toll passes 20,000, as Spain overtakes China as second worst-hit country",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-la-county-pulls-back-on-linking-lancaster-teens-death-to-coronavirus.md",
+      "title": "LA County pulls back on linking Lancaster teen’s death to coronavirus",
+      "excerpt": "Public health officials have walked back further their initial determination, issued a day earlier, that the death of a 17-year-old Lancaster boy was linked to the novel coronavirus. Los Angeles County Public Health Director Barbara Ferrer said on Wednesday, March 25, the department was no longer including the death of the young person in ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ocregister.com/2020/03/25/la-county-pulls-back-on-linking-lancaster-teens-death-to-coronavirus/",
+      "ampWebUrl": "https://www.ocregister.com/2020/03/25/la-county-pulls-back-on-linking-lancaster-teens-death-to-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/03/25/la-county-pulls-back-on-linking-lancaster-teens-death-to-coronavirus/amp/",
+      "publishedDateTime": "2020-03-25T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2020/03/LDN-L-UNVEIL-002-0204-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": "LA County pulls back on linking Lancaster teen’s death to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-is-public-enemy-no-1-who-chief-warns-final-death-toll-depends-on-future-actions.md",
+      "title": "Coronavirus is 'Public Enemy No 1': WHO chief warns final death toll depends on future actions",
+      "excerpt": "The coronavirus \"pandemic continues to take a massive toll,\" WHO Director-General Tedros Adhanom Ghebreyesus said.",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/25/coronavirus-deaths-depend-on-future-actions-who-warns.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/25/coronavirus-deaths-depend-on-future-actions-who-warns.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/25/coronavirus-deaths-depend-on-future-actions-who-warns.html",
+      "publishedDateTime": "2020-03-25T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106446181-1584374084821gettyimages-1206555421.jpeg?v=1584374158",
+          "width": 4811,
+          "height": 3207,
+          "title": "Coronavirus is 'Public Enemy No 1': WHO chief warns final death toll depends on future actions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-first-known-coronavirus-death-reported-in-citys-homeless-shelter-system.md",
+      "title": "First known coronavirus death reported in city's homeless shelter system",
+      "excerpt": "A person in New York City’s sprawling homeless shelter system has died from the coronavirus, as the number of positive cases within city shelters has grown rapidly over the past week. The person died Tuesday following several days in the hospital, the Department of Homeless Services said, and is the first known fatality among the city’s ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/states/new-york/city-hall/story/2020/03/25/first-known-coronavirus-death-reported-in-citys-homeless-shelter-system-1269017",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/16/90/860f9d3348efa0ac4facd8fa9d0d/nyc-homeless.jpg",
+          "width": 1160,
+          "height": 629,
+          "title": "First known coronavirus death reported in city's homeless shelter system",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-new-cases-of-coronavirus-reported-in-madison-monroe-and-washington-counties.md",
+      "title": "New cases of coronavirus reported in Madison, Monroe and Washington counties",
+      "excerpt": "Three new cases of COVID-19 were announced in the metro-east Wednesday, as the total number of cases and death in Illinois also continued to rise.",
+      "heat": 147,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bnd.com/news/coronavirus/article241499071.html",
+      "ampWebUrl": "https://amp.bnd.com/news/coronavirus/article241499071.html",
+      "cdnAmpWebUrl": "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/coronavirus/article241499071.html",
+      "publishedDateTime": "2020-03-25T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BND",
+        "domain": "bnd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998020001/ee43b9a1-e19d-46b1-a7de-378a17ea1611/dec9e4e8-9a11-4acc-aedf-78c42ce62892/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "New cases of coronavirus reported in Madison, Monroe and Washington counties",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-city-of-lubbock-5-new-cases-of-covid-19.md",
+      "title": "City of Lubbock: 5 new cases of COVID-19",
+      "excerpt": "LUBBOCK, Texas (Press Release) — The following is a press release from the City of Lubbock. The City of Lubbock has confirmed five additional cases of novel Coronavirus (COVID-19) as of 1:00 p.m. on March 25, 2020. The total number of cases in Lubbock County is 19. In addition to the reported Lubbock cases, the Texas Department of State ...",
+      "heat": 120,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.everythinglubbock.com/news/local-news/city-of-lubbock-5-new-cases-of-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everything Lubbock",
+        "domain": "everythinglubbock.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-8-new-coronavirus-cases-in-ri-total-now-132.md",
+      "title": "8 new coronavirus cases in R.I.; total now 132",
+      "excerpt": "This content is being provided for free as a public service to our readers during the coronavirus outbreak. Sign up for our daily or",
+      "heat": 145,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.providencejournal.com/news/20200325/8-new-coronavirus-cases-in-ri-total-now-132",
+      "ampWebUrl": "https://www.providencejournal.com/news/20200325/8-new-coronavirus-cases-in-ri-total-now-132?template=ampart",
+      "cdnAmpWebUrl": "https://www-providencejournal-com.cdn.ampproject.org/c/s/www.providencejournal.com/news/20200325/8-new-coronavirus-cases-in-ri-total-now-132?template=ampart",
+      "publishedDateTime": "2020-03-25T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Providence Journal",
+        "domain": "providencejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.providencejournal.com/apps/pbcsi.dll/bilde?Site=PJ&Date=20200325&Category=NEWS&ArtNo=200329643&Ref=AR",
+          "width": 5472,
+          "height": 3648,
+          "title": "8 new coronavirus cases in R.I.; total now 132",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-swiss-coronavirus-death-toll-rises-to-103-cases-total-9765.md",
+      "title": "Swiss Coronavirus Death Toll Rises to 103, Cases Total 9,765",
+      "excerpt": "The death toll in Switzerland from coronavirus infections has increased to 103, the Swiss government said on Wednesday.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/25/world/europe/25reuters-health-coronavirus-swiss-casualties.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-global-death-toll-hits-20000-as-over-half-of-fatalities-are-in-italy-and-spain.md",
+      "title": "Coronavirus Global Death Toll Hits 20,000 As Over Half of Fatalities Are in Italy and Spain",
+      "excerpt": "While Italy and Iran have the largest number of fatalities outside China, both nations have also seen the highest number of people recover from infection.",
+      "heat": 130,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/coronavirus-global-latest-death-toll-total-deaths-fatalities-1494252",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-amazon-workers-at-9-warehouses-including-one-in-california-test-positive-for-coronavirus.md",
+      "title": "Amazon workers at 9 warehouses, including one in California, test positive for coronavirus",
+      "excerpt": "Amazon reports that an employee at its Staten Island fulfillment center has tested positive for coronavirus. The last day that person was at work was March 11. Other positive cases have been reported at Amazon facilities in California, Florida, Kentucky, Michigan, Oklahoma, Texas, and Connecticut. KTLA reports a worker from the Moreno Valley ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kron4.com/health/coronavirus/amazon-workers-at-9-warehouses-including-one-in-california-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://www.kron4.com/health/coronavirus/amazon-workers-at-9-warehouses-including-one-in-california-test-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/health/coronavirus/amazon-workers-at-9-warehouses-including-one-in-california-test-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-25T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRON4",
+        "domain": "kron4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2016/04/amazon_36719457_ver1.0.jpg?w=460&h=306&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Amazon workers at 9 warehouses, including one in California, test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 48
+}

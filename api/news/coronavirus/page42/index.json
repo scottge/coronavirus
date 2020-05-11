@@ -1,0 +1,1293 @@
+{
+  "page": 42,
+  "value": [
+    {
+      "path": "_news/2020-05-05-france-report-more-than-25500-coronavirus-deaths.md",
+      "title": "France report more than 25,500 coronavirus deaths",
+      "excerpt": "The number of people who have died from a coronavirus infection in France increased by 330 to 25,531 on Tuesday, the sharpest rate of increase in six days, government data showed.",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-france-casualties-idUSKBN22H2J3",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H2J3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H2J3",
+      "publishedDateTime": "2020-05-05T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517559683&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG441L5",
+          "width": 817,
+          "height": 545,
+          "title": "France report more than 25,500 coronavirus deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-trump-says-fauci-can-testify-before-senate-but-calls-house-coronavirus-hearing-a-setup.md",
+      "title": "Trump says Fauci can testify before Senate but calls House coronavirus hearing a 'setup'",
+      "excerpt": "President Donald Trump says Dr. Anthony Fauci will not be allowed to testify before 'Trump haters' at House coronavirus hearing.",
+      "heat": 106,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/05/05/coronavirus-anthony-fauci-appear-before-senate-but-not-house-panel/3085809001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3085809001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3085809001",
+      "publishedDateTime": "2020-05-05T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/04/USAT/ad8157db-9661-409b-90b0-a2ed5e2fbdbe-VPC_DR_FAUCI_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Trump says Fauci can testify before Senate but calls House coronavirus hearing a 'setup'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Political Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-latest-20969-cases-in-ohio-5245-in-kentucky-21033-in-indiana.md",
+      "title": "Coronavirus latest: 20,969 cases in Ohio; 5,245 in Kentucky; 21,033 in Indiana",
+      "excerpt": "The COVID-19 outbreak is continuing to change everyday life for millions of Americans. Leaders across the county, including the Tri-State area, are implementing measures to stop the spread, shutting down schools and restaurants and canceling events.",
+      "heat": 101,
+      "tags": [
+        "US-IN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wlwt.com/article/coronavirus-latest-20-969-cases-in-ohio-5-245-in-kentucky-21-033-in-indiana/32095068",
+      "ampWebUrl": "https://www.wlwt.com/amp/article/coronavirus-latest-20-969-cases-in-ohio-5-245-in-kentucky-21-033-in-indiana/32095068",
+      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/coronavirus-latest-20-969-cases-in-ohio-5-245-in-kentucky-21-033-in-indiana/32095068",
+      "publishedDateTime": "2020-05-05T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLWT",
+        "domain": "wlwt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-indy-1583511980.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 600,
+          "height": 338,
+          "title": "Coronavirus latest: 20,969 cases in Ohio; 5,245 in Kentucky; 21,033 in Indiana",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-electric-boat-to-begin-its-own-covid-19-employee-testing.md",
+      "title": "Electric Boat To Begin Its Own COVID-19 Employee Testing",
+      "excerpt": "EB president Graney said 40 employees have tested positive. The shipbuilder will start testing all its employees for COVID-19 this week.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/connecticut/groton/electric-boat-begin-its-own-covid-19-employee-testing",
+      "ampWebUrl": "https://patch.com/connecticut/groton/amp/28729823/electric-boat-begin-its-own-covid-19-employee-testing",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/connecticut/groton/amp/28729823/electric-boat-begin-its-own-covid-19-employee-testing",
+      "publishedDateTime": "2020-05-05T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/1713316/20200505/013109/styles/patch_image/public/covid-19-cdc___05131835902.jpg?width=984",
+          "width": 700,
+          "height": 525,
+          "title": "Electric Boat To Begin Its Own COVID-19 Employee Testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-texas-man-sick-with-coronavirus-for-over-50-days-ready-for-it-to-be-done.md",
+      "title": "Texas man sick with coronavirus for over 50 days: 'Ready for it to be done'",
+      "excerpt": "The 26-year-old said he first tested positive for COVID-19 in mid-March, and then did so again for a third time on May 1.",
+      "heat": 103,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/health/texas-man-sick-with-coronavirus-for-over-50-days",
+      "ampWebUrl": "https://www.foxnews.com/health/texas-man-sick-with-coronavirus-for-over-50-days.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/texas-man-sick-with-coronavirus-for-over-50-days.amp",
+      "publishedDateTime": "2020-05-05T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c92b877d-a10f-4979-96d2-6ea8c8e22736/29e1b9db-f3e3-484b-a650-f368ea37cdd7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Texas man sick with coronavirus for over 50 days: 'Ready for it to be done'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-another-nebraska-prisons-staffer-tests-positive-for-covid-19.md",
+      "title": "Another Nebraska prisons staffer tests positive for COVID-19",
+      "excerpt": "Another staffer at Lincoln’s Nebraska State Penitentiary has tested positive for the new coronavirus, state prisons officials said Tuesday. The Nebraska Department",
+      "heat": null,
+      "tags": [
+        "US-NE"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/44536be6032fc220a0857b82c714073c",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/apnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": "Another Nebraska prisons staffer tests positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-johns-hopkins-dire-analysis-in-cdc-documents-not-meant-for-covid-19-death-forecasts.md",
+      "title": "Johns Hopkins: Dire analysis in CDC documents not meant for COVID-19 death forecasts",
+      "excerpt": "Johns Hopkins University on Tuesday said analysis included in leaked government documents that showed the U.S. could see up to 3,000 deaths per day from coronavirus was not meant to be used for official forecasts.",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/homenews/administration/496164-johns-hopkins-dire-analysis-in-cdc-documents-not-meant-for-covid-19",
+      "ampWebUrl": "https://thehill.com/homenews/administration/496164-johns-hopkins-dire-analysis-in-cdc-documents-not-meant-for-covid-19?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/496164-johns-hopkins-dire-analysis-in-cdc-documents-not-meant-for-covid-19?amp",
+      "publishedDateTime": "2020-05-05T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/coronavirus_newyork_032220getty_surveillance.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Johns Hopkins: Dire analysis in CDC documents not meant for COVID-19 death forecasts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-italys-daily-coronavirus-death-toll-rises-but-fewer-new-cases.md",
+      "title": "Italy's Daily Coronavirus Death Toll Rises, but Fewer New Cases",
+      "excerpt": "Deaths from the COVID-19 epidemic in Italy climbed by 236 on Tuesday, against 195 the day before, the Civil Protection Agency said, while the daily tally of new infections came in at 1,075 against 1,221 on Monday.",
+      "heat": 160,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/05/05/world/europe/05reuters-health-coronavirus-italy-tally.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Italy's Daily Coronavirus Death Toll Rises, but Fewer New Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-update-1-kazakhstan-starts-easing-coronavirus-related-restrictions.md",
+      "title": "UPDATE 1-Kazakhstan starts easing coronavirus-related restrictions",
+      "excerpt": "Kazakhstan will ease some coronavirus-related restrictions in the coming days despite extending its state of emergency until May 11, President Kassym-Jomart Tokayev said on Monday. The Central Asian nation of 19 million will,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-kazakhstan-idUSL5N2CF1CF",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2CF1CF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2CF1CF",
+      "publishedDateTime": "2020-05-05T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 1-Kazakhstan starts easing coronavirus-related restrictions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-central-park-field-hospital-to-close-in-may.md",
+      "title": "Central Park field hospital to close in May",
+      "excerpt": "The field hospital in New York City’s Central Park will close within two weeks, as the number of COVID-19 cases in the city has reached “manageable levels” for hospitals, according to a news release.",
+      "heat": 110,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-08-20/h_36455fcc4cf06f08b43b18164ec418b4",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-08-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-08-20/index.html",
+      "publishedDateTime": "2020-05-05T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200308142028-01-coronavirus-microscope-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Central Park field hospital to close in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-timeline-is-upended-as-france-discovers-december-case.md",
+      "title": "Coronavirus Timeline Is Upended as France Discovers December Case",
+      "excerpt": "French doctors have discovered a case of the new coronavirus dating from late December in a man who was hospitalized near Paris, the earliest publicly identified Covid-19 infection outside China.",
+      "heat": 115,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/coronavirus-timeline-is-upended-as-france-discovers-december-case-11588700408",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/coronavirus-timeline-is-upended-as-france-discovers-december-case-11588700408",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/coronavirus-timeline-is-upended-as-france-discovers-december-case-11588700408",
+      "publishedDateTime": "2020-05-05T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183623/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Coronavirus Timeline Is Upended as France Discovers December Case",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-revenge-porn-soars-in-europes-coronavirus-lockdown-as-student-fights-back.md",
+      "title": "Revenge porn soars in Europe's coronavirus lockdown as student fights back",
+      "excerpt": "Revenge porn is surging across Europe under coronavirus lockdowns, with a doubling of cases reported in Britain on Tuesday, while a student campaigner in France has spent hours getting girls' naked photos removed from the internet.",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-europe-porn-trfn-idUSKBN22H2I6",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H2I6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H2I6",
+      "publishedDateTime": "2020-05-05T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Revenge porn soars in Europe's coronavirus lockdown as student fights back",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-why-no-10s-covid-19-death-toll-slides-dont-tell-the-whole-story.md",
+      "title": "Why No 10's Covid-19 death toll slides don't tell the whole story",
+      "excerpt": "Charts are regular feature of daily press briefing but there is little scrutiny of data",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/uk-news/2020/may/05/why-no-10s-covid-19-death-toll-slides-dont-tell-the-whole-story",
+      "ampWebUrl": "https://amp.theguardian.com/uk-news/2020/may/05/why-no-10s-covid-19-death-toll-slides-dont-tell-the-whole-story",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/may/05/why-no-10s-covid-19-death-toll-slides-dont-tell-the-whole-story",
+      "publishedDateTime": "2020-05-05T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d6c496c3336305a1a78f24a6d03d574d84b48fbf/32_0_1772_1064/master/1772.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=24ea74c24eff53e7cd93f53d32f34c15",
+          "width": 600,
+          "height": 360,
+          "title": "Why No 10's Covid-19 death toll slides don't tell the whole story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-cuomo-covid-19-death-estimates-rising-because-states-are-reopening.md",
+      "title": "Cuomo: COVID-19 death estimates rising because states are reopening",
+      "excerpt": "New York Gov. Andrew Cuomo (D) says that the rising numbers in U.S. coronavirus death projections are part of the \"cost of reopening quickly.\"",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/homenews/state-watch/496159-cuomo-covid-death-estimates-rising-because-states-are-opening",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/496159-cuomo-covid-death-estimates-rising-because-states-are-opening?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/496159-cuomo-covid-death-estimates-rising-because-states-are-opening?amp",
+      "publishedDateTime": "2020-05-05T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/cuomo2_050520getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Cuomo: COVID-19 death estimates rising because states are reopening",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-covid-19-turns-minnesotas-budget-surplus-into-24b-deficit.md",
+      "title": "COVID-19 turns Minnesota’s budget surplus into $2.4B deficit",
+      "excerpt": "MINNEAPOLIS (AP) — The COVID-19 pandemic has erased the state's budget cushion, Minnesota Management and Budget reported Tuesday. The agency said it now projects a nearly $2.43",
+      "heat": 115,
+      "tags": [
+        "US-MN"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/0c07d2bea296c1b897b474ba60282569",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/apnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/8c489a6d091940e9b02d72040da913d5/3000.jpeg",
+          "width": 3000,
+          "height": 1995,
+          "title": "COVID-19 turns Minnesota’s budget surplus into $2.4B deficit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-pandemic-causes-cancellation-of-putnam-county-4-h-fair.md",
+      "title": "Pandemic Causes Cancellation Of Putnam County 4-H Fair",
+      "excerpt": "The planning was well underway for this year's fair, but uncertainty about the new coronavirus outbreak led to the decision.",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-york/southeast/pandemic-causes-cancellation-putnam-county-4-h-fair",
+      "ampWebUrl": "https://patch.com/new-york/southeast/amp/28729784/pandemic-causes-cancellation-putnam-county-4-h-fair",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/southeast/amp/28729784/pandemic-causes-cancellation-putnam-county-4-h-fair",
+      "publishedDateTime": "2020-05-05T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/68471/20200505/011408/styles/patch_image/public/fair-logo-2020-white-background___05131305072.png?width=984",
+          "width": 812,
+          "height": 609,
+          "title": "Pandemic Causes Cancellation Of Putnam County 4-H Fair",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-too-early-to-say-uk-worst-coronavirus-death-record-in-europe-says-raab-video.md",
+      "title": "Too early to say UK worst coronavirus death record in Europe, says Raab – video",
+      "excerpt": "Raab said it is too early to say UK has worst coronavirus death record in Europe as numbers appear to surpass Italy",
+      "heat": 151,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/politics/video/2020/may/05/too-early-to-say-uk-worst-coronavirus-death-record-in-europe-says-raab-video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/caefa86daae3a6d3fc4e881863f76689ee148932/0_250_5421_3253/master/5421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67d4f343ea28eab7d47464ed7614f324",
+          "width": 1200,
+          "height": 630,
+          "title": "Too early to say UK worst coronavirus death record in Europe, says Raab – video",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-developing-an-effective-coronavirus-treatment-could-be-the-key-to-fighting-the-disease-experts-say.md",
+      "title": "Developing an effective coronavirus treatment could be the key to fighting the disease, experts say",
+      "excerpt": "While aggressive testing to contain the spread of Covid-19 remains a top priority, scientists and researchers believe that an effective treatment can be a valuable asset and a turning point in the fight against the pandemic.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/05/why-a-coronavirus-treatment-could-be-more-beneficial-than-a-vaccine.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/05/why-a-coronavirus-treatment-could-be-more-beneficial-than-a-vaccine.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/05/why-a-coronavirus-treatment-could-be-more-beneficial-than-a-vaccine.html",
+      "publishedDateTime": "2020-05-05T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106454435-1584733666814gettyimages-1204322480.jpeg?v=1586876065",
+          "width": 6202,
+          "height": 4135,
+          "title": "Developing an effective coronavirus treatment could be the key to fighting the disease, experts say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-stock-market-news-2-scary-words-sink-norwegian-cruise-line-shares.md",
+      "title": "Stock Market News: 2 Scary Words Sink Norwegian Cruise Line Shares",
+      "excerpt": "The stock market posted solid gains on Tuesday morning, with investors once again expressing an upbeat attitude about the prospects for a long-term economic recovery in the U.S. despite the ongoing novel coronavirus pandemic.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/05/stock-market-news-2-scary-words-sink-norwegian-cru.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/05/stock-market-news-2-scary-words-sink-norwegian-cru.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/stock-market-news-2-scary-words-sink-norwegian-cru.aspx",
+      "publishedDateTime": "2020-05-05T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Stock Market News: 2 Scary Words Sink Norwegian Cruise Line Shares",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-south-dakota-reports-3-coronavirus-deaths-53-new-cases.md",
+      "title": "South Dakota Reports 3 Coronavirus Deaths, 53 New Cases",
+      "excerpt": "A total of 2,721 cases of coronavirus have been confirmed, but the actual number of infections is thought to be far higher than the number of confirmed because many people have not been tested and people can be infected without feeling sick.",
+      "heat": null,
+      "tags": [
+        "US-SD"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/south-dakota/articles/2020-05-05/south-dakota-reports-3-coronavirus-deaths-53-new-cases",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-canadas-covid-19-death-toll-set-to-pass-4000.md",
+      "title": "Canada's COVID-19 death toll set to pass 4,000",
+      "excerpt": "TORONTO — The number of people in Canada killed by COVID-19 was set to pass the 4,000 mark on Tuesday as provinces eased anti-pandemic restrictions and the government announced new aid for farmers. The grim fatality milestone came as the country’s two largest provinces each reported a jump in novel coronavirus-related deaths, although the ...",
+      "heat": 110,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://winnipegsun.com/news/national/canadas-covid-19-death-toll-set-to-pass-4000/wcm/d80ee35f-a659-4a20-8529-9b08a4e0c1cd",
+      "ampWebUrl": "https://winnipegsun.com/news/national/canadas-covid-19-death-toll-set-to-pass-4000/wcm/d80ee35f-a659-4a20-8529-9b08a4e0c1cd/amp",
+      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/news/national/canadas-covid-19-death-toll-set-to-pass-4000/wcm/d80ee35f-a659-4a20-8529-9b08a4e0c1cd/amp",
+      "publishedDateTime": "2020-05-05T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winnipeg Sun",
+        "domain": "winnipegsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://postmediacanoe.files.wordpress.com/2020/05/jdt101-the-canadian-press.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": "Canada's COVID-19 death toll set to pass 4,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-canada-to-spend-c252-million-to-help-farmers-and-food-processors-hurt-by-coronavirus.md",
+      "title": "Canada to spend C$252 million to help farmers and food processors hurt by coronavirus",
+      "excerpt": "Canada will invest C$252 million ($179.5 million) to help some of the country's farm and food processing sectors weather the coronavirus outbreak, Prime Minister Justin Trudeau said on Tuesday, adding more money could come later if needed.",
+      "heat": 113,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-to-spend-c252-million-to-help-farmers-and-food-processors-hurt-by-coronavirus-idUSKBN22H232",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H232",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H232",
+      "publishedDateTime": "2020-05-05T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517543053&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4417R",
+          "width": 817,
+          "height": 545,
+          "title": "Canada to spend C$252 million to help farmers and food processors hurt by coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-wisconsin-and-georgia-are-waiving-road-tests-for-teen-drivers-because-of-coronavirus.md",
+      "title": "Wisconsin And Georgia Are Waiving Road Tests For Teen Drivers Because Of Coronavirus",
+      "excerpt": "The Wisconsin Department of Motor Vehicles announced on Tuesday that it will temporarily waive the road test requirement for new teenage drivers to allow test administrators to maintain social distancing measures;",
+      "heat": 108,
+      "tags": [
+        "US-WI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sarahhansen/2020/05/05/wisconsin-and-georgia-are-waiving-road-tests-for-teen-drivers-because-of-coronavirus/",
+      "ampWebUrl": "https://www.forbes.com/sites/sarahhansen/2020/05/05/wisconsin-and-georgia-are-waiving-road-tests-for-teen-drivers-because-of-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarahhansen/2020/05/05/wisconsin-and-georgia-are-waiving-road-tests-for-teen-drivers-because-of-coronavirus/amp/",
+      "publishedDateTime": "2020-05-05T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F142740168%2F0x0.jpg",
+          "width": 1200,
+          "height": 722,
+          "title": "Wisconsin And Georgia Are Waiving Road Tests For Teen Drivers Because Of Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-stamford-schools-respond-to-closure-for-rest-of-academic-year.md",
+      "title": "Stamford Schools Respond To Closure For Rest Of Academic Year",
+      "excerpt": "School and city officials have released a statement regarding the governor's decision to close CT schools for the rest of the academic year.",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/connecticut/stamford/stamford-schools-respond-closure-rest-academic-year",
+      "ampWebUrl": "https://patch.com/connecticut/stamford/amp/28729644/stamford-schools-respond-closure-rest-academic-year",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/connecticut/stamford/amp/28729644/stamford-schools-respond-closure-rest-academic-year",
+      "publishedDateTime": "2020-05-05T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22878689/20200505/121705/styles/patch_image/public/newsalert___05121524821.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": "Stamford Schools Respond To Closure For Rest Of Academic Year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-coronavirus-infects-workers-at-oregon-seafood-processing-plant.md",
+      "title": "Coronavirus infects workers at Oregon seafood processing plant",
+      "excerpt": "More than a dozen workers at a seafood processing plant in Oregon have contracted the novel coronavirus, forcing two of Bornstein Seafood's facilities in Astoria to temporarily close.",
+      "heat": 115,
+      "tags": [
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/health/coronavirus-infects-workers-at-oregon-seafood-processing-plant",
+      "ampWebUrl": "https://www.foxnews.com/health/coronavirus-infects-workers-at-oregon-seafood-processing-plant.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/coronavirus-infects-workers-at-oregon-seafood-processing-plant.amp",
+      "publishedDateTime": "2020-05-05T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-1153667868.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Coronavirus infects workers at Oregon seafood processing plant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-tiverton-police-cancel-annual-safety-day-due-to-coronavirus.md",
+      "title": "Tiverton Police Cancel Annual Safety Day Due To Coronavirus",
+      "excerpt": "The department is considering other socially distant options for a fun community day, such as a drive-in movie.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/rhode-island/tiverton/tiverton-police-cancel-annual-safety-day-due-coronavirus",
+      "ampWebUrl": "https://patch.com/rhode-island/tiverton/amp/28729631/tiverton-police-cancel-annual-safety-day-due-coronavirus",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/rhode-island/tiverton/amp/28729631/tiverton-police-cancel-annual-safety-day-due-coronavirus",
+      "publishedDateTime": "2020-05-05T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/23195148/20200505/121206/styles/patch_image/public/tiverton-police-logo___05115057753.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": "Tiverton Police Cancel Annual Safety Day Due To Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-canadas-covid-19-death-toll-set-to-pass-4000-feds-announce-help-for-farmers.md",
+      "title": "Canada's COVID-19 death toll set to pass 4,000; feds announce help for farmers",
+      "excerpt": "TORONTO — The number of people in Canada killed by COVID-19 was set to pass the 4,000 mark on Tuesday as provinces eased anti-pandemic restrictions and the government announced new aid for farmers.",
+      "heat": null,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sootoday.com/national-news/canadas-covid-19-death-toll-set-to-pass-4000-feds-announce-help-for-farmers-2324737",
+      "ampWebUrl": "https://www.sootoday.com/amp/national-news/canadas-covid-19-death-toll-set-to-pass-4000-feds-announce-help-for-farmers-2324737",
+      "cdnAmpWebUrl": "https://www-sootoday-com.cdn.ampproject.org/c/s/www.sootoday.com/amp/national-news/canadas-covid-19-death-toll-set-to-pass-4000-feds-announce-help-for-farmers-2324737",
+      "publishedDateTime": "2020-05-05T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SooToday",
+        "domain": "sootoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2020/05/skp11061560.jpg;w=650;h=470;mode=crop",
+          "width": 650,
+          "height": 470,
+          "title": "Canada's COVID-19 death toll set to pass 4,000; feds announce help for farmers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-highland-park-cancels-4th-of-july-events.md",
+      "title": "Highland Park Cancels 4th Of July Events",
+      "excerpt": "The city of Highland Park and its park district said the festivities for the 4th included a parade, the Fourth Fest Family event, Bitter Jester Music Festival and Float & Fireworks event at Hidden Creek AquaPark.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://chicago.cbslocal.com/2020/05/05/highland-park-cancels-4th-of-july-events/",
+      "ampWebUrl": "https://chicago.cbslocal.com/2020/05/05/highland-park-cancels-4th-of-july-events/amp/",
+      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2020/05/05/highland-park-cancels-4th-of-july-events/amp/",
+      "publishedDateTime": "2020-05-05T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-a-london-community-shattered-by-the-coronavirus.md",
+      "title": "A London community shattered by the coronavirus",
+      "excerpt": "Cypriot community, early April was a period of anxious waiting. With a strong presence in Enfield, people of Turkish origin number around 500,000 in the UK, and, like many minorities, feel they have suffered disproportionately from the COVID-19 pandemic.",
+      "heat": 115,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-elderly-tu-idUSKBN22H2DO",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H2DO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H2DO",
+      "publishedDateTime": "2020-05-05T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517556556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG441GO",
+          "width": 762,
+          "height": 545,
+          "title": "A London community shattered by the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-trump-downplays-report-forecasting-3000-coronavirus-deaths-a-day-by-june-1.md",
+      "title": "Trump downplays report forecasting 3,000 coronavirus deaths a day by June 1",
+      "excerpt": "Donald Trump dismissed a data analysis from within his administration that predicts the number of coronavirus cases could soar by 200,000 each day.",
+      "heat": 103,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/05/05/coronavirus-trump-downplays-report-forecasting-3-000-deaths-per-day/3083876001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3083876001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3083876001",
+      "publishedDateTime": "2020-05-05T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/04/05/USAT/066e69a8-f807-48a5-a393-fd5115ba47db-AP_Virus_Outbreak_Trump_1.JPG?auto=webp&crop=5471,3077,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Trump downplays report forecasting 3,000 coronavirus deaths a day by June 1",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 43
+}

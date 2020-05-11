@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: political-impact
+name: Political Impact
+shortname: Political Impact
+parent: Coronavirus
+keywords:
+  - travel
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/political-impact.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/political-impact/

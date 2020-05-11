@@ -1,0 +1,1223 @@
+{
+  "page": 52,
+  "value": [
+    {
+      "path": "_news/2020-05-04-internal-fema-document-projects-spike-in-daily-coronavirus-death-toll-but-data-questioned.md",
+      "title": "Internal FEMA document projects spike in daily coronavirus death toll, but data questioned",
+      "excerpt": "An internal document featuring charts produced by FEMA projects far more new coronavirus cases than the White House has forecast and nearly double the current daily death toll by the end of the month — but sources have raised questions about the reliability of the data.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/internal-fema-document-projects-spike-in-daily-coronavirus-death-toll-but-data-questioned",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-trump-covid-19-death-toll-in-us-could-reach-100000.md",
+      "title": "Trump: COVID-19 death toll in U.S. could reach 100,000",
+      "excerpt": "President Trump says the coronavirus death toll in the United States could be as high as 100,000 people. Despite that sobering prediction, the president continues to urge governors to reopen their economies.",
+      "heat": 155,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/video/trump-coronavirus-potential-death-toll-100000/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/05/04/79fb27bd-92a7-4c6f-b385-8eed0a5dc9a8/thumbnail/1200x630/f11a3b015eedcfac2eda4cb42cc24310/cbsn-fusion-trump-raises-potential-death-toll-thumbnail-479365-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Trump: COVID-19 death toll in U.S. could reach 100,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-whats-behind-indias-lower-coronavirus-death-rate.md",
+      "title": "What's behind India's lower coronavirus death rate?",
+      "excerpt": "With 1.3 billion people, India is the world's second most populated country, behind China. But so far it has only seen around 1,300 reported COVID-19 fatalities. CBS News foreign correspondent Imtiaz Tyab joins CBSN with a closer look at what's happening there.",
+      "heat": 145,
+      "tags": [
+        "India",
+        "IN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/video/what-is-behind-indias-low-death-rates/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/04/8204876a-9b45-4591-aa9e-bf9aaac5137d/thumbnail/1200x630/e8a98e536e1644321f9edf5deb7b7724/cbsn-fusion-what-is-behind-indias-low-death-rates-thumbnail-479355-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "What's behind India's lower coronavirus death rate?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-oregon-health-authority-no-new-deaths-65-new-cases-of-covid-19.md",
+      "title": "Oregon Health Authority no new deaths, 65 new cases of COVID-19",
+      "excerpt": "The Oregon Health Authority reported 65 new confirmed cases in an update on Wednesday, bringing the state total to 2,745.",
+      "heat": 140,
+      "tags": [
+        "US",
+        "US-OR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kdrv.com/content/news/Oregon-Health-Authority-no-new-deaths-65-new-cases-of-COVID-19-570180761.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KDRV",
+        "domain": "kdrv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/images/Coronavirus+CDC.jpg",
+          "width": 700,
+          "height": 393,
+          "title": "Oregon Health Authority no new deaths, 65 new cases of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-uk-to-test-covid-19-tracing-app-on-the-isle-of-wight-this-week.md",
+      "title": "UK to test COVID-19 tracing app on the Isle of Wight this week",
+      "excerpt": "Britain will start testing its own COVID-19 tracing app on the Isle of Wight from Tuesday, hoping that the technology in combination with more testing and tracking will help limit transmission of the coronavirus.",
+      "heat": null,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-apps/uk-to-test-covid-19-tracing-app-on-the-isle-of-wight-this-week-idUSKBN22G24U",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-journey-cancels-2020-tour-due-to-covid-19-pandemic-that-included-st-paul-stop.md",
+      "title": "Journey Cancels 2020 Tour Due To COVID-19 Pandemic That Included St. Paul Stop",
+      "excerpt": "Journey has made the decision to cancel their 2020 tour with the Pretenders due to the COVID-19 pandemic. The tour included a stop at Xcel Energy Center in St. Paul on June 7.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://minnesota.cbslocal.com/2020/05/04/journey-cancels-2020-tour-due-to-covid-19-pandemic-that-included-st-paul-stop/",
+      "ampWebUrl": "https://minnesota.cbslocal.com/2020/05/04/journey-cancels-2020-tour-due-to-covid-19-pandemic-that-included-st-paul-stop/amp/",
+      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/05/04/journey-cancels-2020-tour-due-to-covid-19-pandemic-that-included-st-paul-stop/amp/",
+      "publishedDateTime": "2020-05-04T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-closed-doors-force-school-counselors-to-find-new-ways-to-connect.md",
+      "title": "Closed doors force school counselors to find new ways to connect",
+      "excerpt": "With in-person meetings impossible, counselors are using video, phone calls and emails to help students while schools remain shuttered.",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://vtdigger.org/2020/05/04/closed-doors-force-school-counselors-to-find-new-ways-to-connect/",
+      "ampWebUrl": "https://vtdigger.org/2020/05/04/closed-doors-force-school-counselors-to-find-new-ways-to-connect/amp/",
+      "cdnAmpWebUrl": "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2020/05/04/closed-doors-force-school-counselors-to-find-new-ways-to-connect/amp/",
+      "publishedDateTime": "2020-05-04T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VTDigger",
+        "domain": "vtdigger.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ja3ga476chj1nc6csy2j81c7-wpengine.netdna-ssl.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": "Closed doors force school counselors to find new ways to connect",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-peter-navarro-chinas-lies-about-coronavirus-are-bigger-issue-than-trade-deal.md",
+      "title": "Peter Navarro: China's lies about coronavirus are bigger issue than trade deal",
+      "excerpt": "White House Office of Trade and Manufacturing Policy director Peter Navarro said on “America’s Newsroom” on Monday that the fact that “China lied” about the coronavirus is a bigger issue than what “may or may not happen with the trade deal.",
+      "heat": 141,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/media/peter-navarro-chinas-lies-cover-up-much-bigger-issue-than-trade-deal",
+      "ampWebUrl": "https://www.foxnews.com/media/peter-navarro-chinas-lies-cover-up-much-bigger-issue-than-trade-deal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/peter-navarro-chinas-lies-cover-up-much-bigger-issue-than-trade-deal.amp",
+      "publishedDateTime": "2020-05-04T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": "Peter Navarro: China's lies about coronavirus are bigger issue than trade deal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-internal-chinese-report-warns-beijing-faces-global-backlash-over-virus.md",
+      "title": "Internal Chinese report warns Beijing faces global backlash over virus",
+      "excerpt": "World Internal Chinese report warns Beijing faces global backlash over virus. Posted . An internal Chinese report warns that Beijing faces a rising wave of hostility in the wake o",
+      "heat": 110,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/video/watch/idOVCCIU0KR",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20200504&i=OVCCIU0KR&r=OVCCIU0KR&t=2",
+          "width": 960,
+          "height": 540,
+          "title": "Internal Chinese report warns Beijing faces global backlash over virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-new-yorks-coronavirus-deaths-hospitalizations-decline-as-state-looks-toward-reopening-some-regions.md",
+      "title": "New York's Coronavirus Deaths, Hospitalizations Decline As State Looks Toward Reopening Some Regions",
+      "excerpt": "The number of COVID-19 hospitalizations and deaths continued its decline in New York over the weekend, Governor Andrew Cuomo said Monday.",
+      "heat": 100,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/new-yorks-coronavirus-deaths-hospitalizations-decline-state-looks-toward-reopening-some-regions-1501862",
+      "ampWebUrl": "https://www.newsweek.com/new-yorks-coronavirus-deaths-hospitalizations-decline-state-looks-toward-reopening-some-regions-1501862?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/new-yorks-coronavirus-deaths-hospitalizations-decline-state-looks-toward-reopening-some-regions-1501862?amp=1",
+      "publishedDateTime": "2020-05-04T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1587158/governor-andrew-cuomo.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "New York's Coronavirus Deaths, Hospitalizations Decline As State Looks Toward Reopening Some Regions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-gov-murphy-closes-schools-for-rest-of-academic-year-remote-learning-to-continue.md",
+      "title": "Gov. Murphy closes schools for rest of academic year, remote learning to continue",
+      "excerpt": "TRENTON — All New Jersey schools will be closed for in-person instruction through the remainder of the 2019-20 academic year, Gov. Phil Murphy announced Monday.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pressofatlanticcity.com/education/gov-murphy-closes-schools-for-rest-of-academic-year-remote-learning-to-continue/article_13e8a263-40e7-5d83-ad26-7e76d18b7653.html",
+      "ampWebUrl": "https://www.pressofatlanticcity.com/education/gov-murphy-closes-schools-for-rest-of-academic-year-remote-learning-to-continue/article_13e8a263-40e7-5d83-ad26-7e76d18b7653.amp.html",
+      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/education/gov-murphy-closes-schools-for-rest-of-academic-year-remote-learning-to-continue/article_13e8a263-40e7-5d83-ad26-7e76d18b7653.amp.html",
+      "publishedDateTime": "2020-05-04T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/c/4d/c4dc63ad-e96f-5c49-869c-7458a77d3220/5d49c9fa61a0b.image.jpg",
+          "width": 796,
+          "height": 553,
+          "title": "Gov. Murphy closes schools for rest of academic year, remote learning to continue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-new-jersey-schools-to-stay-closed-for-remainder-of-academic-year-governor-says.md",
+      "title": "New Jersey schools to stay closed for remainder of academic year, governor says",
+      "excerpt": "New Jersey Gov. Phil Murphy on Monday announced that schools across the state will remain closed for the rest of the academic year because of the coronavirus pandemic.",
+      "heat": 236,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/new-jersey-schools-to-stay-closed-for-remainder-of-academic-year-murphy-says",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-jersey-schools-to-stay-closed-for-remainder-of-academic-year-murphy-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-schools-to-stay-closed-for-remainder-of-academic-year-murphy-says.amp",
+      "publishedDateTime": "2020-05-04T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0db01c-8ab3-40ae-842b-c8e38e2de417/9d16c8a1-db6a-479f-88b3-f21b08f8f3f1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "New Jersey schools to stay closed for remainder of academic year, governor says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-nfl-bringing-london-mexico-city-games-back-to-us-over-coronavirus-concerns.md",
+      "title": "NFL bringing London, Mexico City games back to US over coronavirus concerns",
+      "excerpt": "Five regular-season NFL games set to be played in London and Mexico City this year will instead take place in the U.S. due to the coronavirus pandemic, the league announced Monday.",
+      "heat": 123,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/495982-nfl-bringing-london-mexico-city-games-back-to-us-over",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/495982-nfl-bringing-london-mexico-city-games-back-to-us-over?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/495982-nfl-bringing-london-mexico-city-games-back-to-us-over?amp",
+      "publishedDateTime": "2020-05-04T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/nfllogo_101319getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "NFL bringing London, Mexico City games back to US over coronavirus concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-100-people-at-nashville-rescue-mission-test-positive-for-coronavirus.md",
+      "title": "100 people at Nashville Rescue Mission test positive for coronavirus",
+      "excerpt": "One-hundred people at the Nashville Rescue Mission have tested positive for COVID-19 after mass testing conducted last week, according to the head of the Metro Coronavirus Task Force.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wkrn.com/community/health/coronavirus/100-people-at-nashville-rescue-mission-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://www.wkrn.com/community/health/coronavirus/100-people-at-nashville-rescue-mission-test-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/community/health/coronavirus/100-people-at-nashville-rescue-mission-test-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-05-04T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2018/05/still0904_00000_37410415_ver1.0.jpg?w=640&h=360&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "100 people at Nashville Rescue Mission test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-ea-play-event-goes-digital-after-e3-2020-cancellation-when-to-watch.md",
+      "title": "EA Play event goes digital after E3 2020 cancellation: When to watch",
+      "excerpt": "Since both Sony and Microsoft are plotting to launch new consoles this year, E3 2020 promised to be a pretty big show. Unfortunately, several weeks ago the event was cancelled like so many others",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/ea-play-event-goes-digital-after-e3-2020-cancellation-when-to-watch-04619169/",
+      "ampWebUrl": "https://www.slashgear.com/ea-play-event-goes-digital-after-e3-2020-cancellation-when-to-watch-04619169/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ea-play-event-goes-digital-after-e3-2020-cancellation-when-to-watch-04619169/amp/",
+      "publishedDateTime": "2020-05-04T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/EA-Play-Live-2020.jpg",
+          "width": 1279,
+          "height": 800,
+          "title": "EA Play event goes digital after E3 2020 cancellation: When to watch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-london-court-delays-julian-assange-extradition-hearing.md",
+      "title": "London court delays Julian Assange extradition hearing",
+      "excerpt": "WikiLeaks says its founder Julian Assange will have to wait at least until September before a British judge will hear a U.S. request for his extradition.",
+      "heat": 100,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/wikileaks-london-court-delays-assange-extradition-hearing",
+      "ampWebUrl": "https://www.foxnews.com/world/wikileaks-london-court-delays-assange-extradition-hearing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/wikileaks-london-court-delays-assange-extradition-hearing.amp",
+      "publishedDateTime": "2020-05-04T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Julian-Assange-Reuters.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "London court delays Julian Assange extradition hearing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-lausd-to-start-new-school-year-in-mid-august.md",
+      "title": "Coronavirus: LAUSD To Start New School Year In Mid-August",
+      "excerpt": "The Los Angeles Unified School District will start the 2020-21 school year on Aug. 18, Superintendent Austin Beutner announced Monday. Two security guards talk on the campus of the closed McKinley School,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://losangeles.cbslocal.com/2020/05/04/coronavirus-lausd-to-start-new-school-year-in-mid-august/",
+      "ampWebUrl": "https://losangeles.cbslocal.com/2020/05/04/coronavirus-lausd-to-start-new-school-year-in-mid-august/amp/",
+      "cdnAmpWebUrl": "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/05/04/coronavirus-lausd-to-start-new-school-year-in-mid-august/amp/",
+      "publishedDateTime": "2020-05-04T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2020/05/LAUSD.jpg?w=300",
+          "width": 300,
+          "height": 205,
+          "title": "Coronavirus: LAUSD To Start New School Year In Mid-August",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-who-says-it-will-engage-us-to-make-remdesivir-coronavirus-treatment-more-widely-available.md",
+      "title": "WHO says it will engage US to make remdesivir coronavirus treatment more widely available",
+      "excerpt": "WHO welcomes the recent data from a U.S. government-run clinical trial showing the drug appeared to be effective in reducing recovery times for Covid-19 patients, one official says.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/04/remdesivir-coronavirus-treatment-who-to-talk-with-us-on-making-drug-available.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/04/remdesivir-coronavirus-treatment-who-to-talk-with-us-on-making-drug-available.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/04/remdesivir-coronavirus-treatment-who-to-talk-with-us-on-making-drug-available.html",
+      "publishedDateTime": "2020-05-04T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106460708-1585165953635gettyimages-1207933754.jpeg?v=1587146153",
+          "width": 4000,
+          "height": 2667,
+          "title": "WHO says it will engage US to make remdesivir coronavirus treatment more widely available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-rep-abigail-spanberger-we-are-ceding-ground-to-china.md",
+      "title": "Rep. Abigail Spanberger: ‘We are ceding ground to China’",
+      "excerpt": "Rep. Abigail Spanberger (D-Va.), a former CIA case officer and one of a bevy of national security-savvy freshmen Democrats, took to the House floor last Tuesday as part of a bipartisan group from the House Foreign Affairs Committee speaking on the role of the United States in the world and its failure to exercise global leadership in the novel coronavirus pandemic.",
+      "heat": 130,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/05/04/rep-spanberger-calls-out-retreat-world-stage/",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/05/04/rep-spanberger-calls-out-retreat-world-stage/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/05/04/rep-spanberger-calls-out-retreat-world-stage/?outputType=amp",
+      "publishedDateTime": "2020-05-04T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/ZbBxI7IdazgkCZOFJZymImhEwbE=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y3BHBJDFUYI6VCUOLRJTNMZHMA.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Rep. Abigail Spanberger: ‘We are ceding ground to China’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-pittsburgh-airport-tsa-worker-tests-positive-for-coronavirus.md",
+      "title": "Pittsburgh Airport TSA Worker Tests Positive For Coronavirus",
+      "excerpt": "A Transportation Security Administration worker at Pittsburgh international Airport has tested positive for the cor",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/pennsylvania/moon/pittsburgh-airport-tsa-worker-tests-positive-coronavirus",
+      "ampWebUrl": "https://patch.com/pennsylvania/moon/amp/28728187/pittsburgh-airport-tsa-worker-tests-positive-coronavirus",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/moon/amp/28728187/pittsburgh-airport-tsa-worker-tests-positive-coronavirus",
+      "publishedDateTime": "2020-05-04T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22920172/20200504/124223/styles/patch_image/public/tsa-getty___04124034768.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": "Pittsburgh Airport TSA Worker Tests Positive For Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-2-employees-at-walmart-in-peterborough-test-positive-for-coronavirus.md",
+      "title": "2 employees at Walmart in Peterborough test positive for coronavirus",
+      "excerpt": "Walmart Canada confirms two employees at its store on Chemong Road in Peterborough, Ont., have tested positive for the novel coronavirus.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://globalnews.ca/news/6902107/coronavirus-walmart-employees-peterborough/",
+      "ampWebUrl": "https://globalnews.ca/news/6902107/coronavirus-walmart-employees-peterborough/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6902107/coronavirus-walmart-employees-peterborough/amp/",
+      "publishedDateTime": "2020-05-04T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-center-line-cancels-independence-festival-fireworks-due-to-coronavirus.md",
+      "title": "Center Line cancels Independence Festival, fireworks due to coronavirus",
+      "excerpt": "The Center Line Independence Festival in early June including the annual fireworks display have been cancelled because of concerns over the coronavirus pandemic, officials announced Monday.",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.macombdaily.com/lifestyles/center-line-cancels-independence-festival-fireworks-due-to-coronavirus/article_b86a594a-8e28-11ea-9596-b7441457814f.html",
+      "ampWebUrl": "https://www.macombdaily.com/lifestyles/center-line-cancels-independence-festival-fireworks-due-to-coronavirus/article_b86a594a-8e28-11ea-9596-b7441457814f.amp.html",
+      "cdnAmpWebUrl": "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/lifestyles/center-line-cancels-independence-festival-fireworks-due-to-coronavirus/article_b86a594a-8e28-11ea-9596-b7441457814f.amp.html",
+      "publishedDateTime": "2020-05-04T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Macomb Daily",
+        "domain": "macombdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/macombdaily.com/content/tncms/assets/v3/editorial/c/3f/c3f4ac0c-1826-53ca-b3aa-f1844ab8743c/5bf4bcb90e628.image.jpg?resize=1024%2C678",
+          "width": 1024,
+          "height": 678,
+          "title": "Center Line cancels Independence Festival, fireworks due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-supply-shortage-forces-cancellation-of-covid-19-testing-events-around-north-dakota-including-fargo.md",
+      "title": "Supply shortage forces cancellation of COVID-19 testing events around North Dakota, including Fargo",
+      "excerpt": "FARGO — A COVID-19 testing event that was scheduled for Monday, May 4, at the Fargodome has been canceled, Fargo Cass Public Health said in a statement released Monday morning.",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.inforum.com/newsmd/coronavirus/6476179-Supply-shortage-forces-cancellation-of-COVID-19-testing-events-around-North-Dakota-including-Fargo",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "INFORUM",
+        "domain": "inforum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.inforum.com/incoming/6287088-inlzyd-042520.N.FF.DOMETESTING.1.JPG/alternates/BASE_LANDSCAPE/042520.N.FF.DOMETESTING.1.JPG",
+          "width": 1140,
+          "height": 712,
+          "title": "Supply shortage forces cancellation of COVID-19 testing events around North Dakota, including Fargo",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-update-1-finland-to-let-restaurants-reopen-from-june-1-as-covid-19-curbs-ease.md",
+      "title": "UPDATE 1-Finland to let restaurants reopen from June 1 as COVID-19 curbs ease",
+      "excerpt": "Finland will lift some coronavirus restrictions, allowing restaurants to reopen gradually and public services including libraries and sports facilities to start operating again from June 1, the government said on Monday.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-finland/update-1-finland-to-let-restaurants-reopen-from-june-1-as-covid-19-curbs-ease-idUSL8N2CM6BC",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22G2AB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22G2AB",
+      "publishedDateTime": "2020-05-04T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200504&t=2&i=1517431763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG431LT",
+          "width": 817,
+          "height": 545,
+          "title": "UPDATE 1-Finland to let restaurants reopen from June 1 as COVID-19 curbs ease",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-why-is-florida-reopening-over-800-new-cases-20-deaths-as-state-begins-reopening.md",
+      "title": "Why Is Florida Reopening? Over 800 New Cases, 20 Deaths As State Begins Reopening",
+      "excerpt": "Retail outlets and restaurants would be the first businesses of note to reopen under Gov. Ron DeSantis' three phase plan.",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/why-florida-reopening-over-800-new-cases-20-deaths-state-begins-reopening-2969943",
+      "ampWebUrl": "https://www.ibtimes.com/why-florida-reopening-over-800-new-cases-20-deaths-state-begins-reopening-2969943?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/why-florida-reopening-over-800-new-cases-20-deaths-state-begins-reopening-2969943?amp=1",
+      "publishedDateTime": "2020-05-04T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/02/florida-governor-ron-desantis-initially-opposed-allowing-the.jpg",
+          "width": 1024,
+          "height": 704,
+          "title": "Why Is Florida Reopening? Over 800 New Cases, 20 Deaths As State Begins Reopening",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-with-no-one-in-the-water-because-of-coronavirus-chicago-area-swim-school-sets-its-sights-on-expansion.md",
+      "title": "With no one in the water because of coronavirus, Chicago-area swim school sets its sights on expansion",
+      "excerpt": "Temporarily closed because it's a nonessential business, Big Blue Swim School focuses on expanding across the country until coronavirus restrictions ease and it can reopen.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-swim-school-20200504-fk5yiodpi5botady6m5ux6uxvm-story.html",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-swim-school-20200504-fk5yiodpi5botady6m5ux6uxvm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-swim-school-20200504-fk5yiodpi5botady6m5ux6uxvm-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-04T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/UGJlTpU2jSHgFX1uNyFIIutnKK4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/O2T5XICSYFH6LEZTM337IYFGNU.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "With no one in the water because of coronavirus, Chicago-area swim school sets its sights on expansion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-laredo-officials-confirm-17th-death-due-to-covid-19-in-gateway-city.md",
+      "title": "Laredo officials confirm 17th death due to COVID-19 in Gateway City",
+      "excerpt": "Note the spikes that adorn the outer surface of the virus, The City of Laredo and Webb County have confirmed the 17th death due to COVID-19 in its daily media briefing today. The death came close to home for city officials,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chron.com/local/article/Laredo-officials-confirm-17th-death-due-to-15245322.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/12/43/19179741/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": "Laredo officials confirm 17th death due to COVID-19 in Gateway City",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-turkeys-coronavirus-death-toll-rises-by-64-to-3461-slowdown-continues.md",
+      "title": "Turkey's coronavirus death toll rises by 64 to 3,461, slowdown continues",
+      "excerpt": "The number of people who have died from COVID-19 in Turkey has risen by 65 in the last 24 hours to 3,461, Health Ministry data showed on Monday, as a slowdown in deaths and confirmed cases continued.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-turkey-idUSKBN22G2E0",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22G2E0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22G2E0",
+      "publishedDateTime": "2020-05-04T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200504&t=2&i=1517430870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG431L4",
+          "width": 834,
+          "height": 545,
+          "title": "Turkey's coronavirus death toll rises by 64 to 3,461, slowdown continues",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-cancellations-organizers-forced-to-cancel-2020-bantam-jeep-festival.md",
+      "title": "Coronavirus Cancellations: Organizers Forced To Cancel 2020 Bantam Jeep Festival",
+      "excerpt": "Organizers have officially canceled the 2020 Bantam Jeep Heritage Festival. They had hoped to hold the event in October if Coronavirus forced them to cancel the June date. However, they now say Cooper’s Lake Campground,",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pittsburgh.cbslocal.com/2020/05/04/coronavirus-cancellations-2020-bantam-jeep-festival/",
+      "ampWebUrl": "https://pittsburgh.cbslocal.com/2020/05/04/coronavirus-cancellations-2020-bantam-jeep-festival/amp/",
+      "cdnAmpWebUrl": "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/2020/05/04/coronavirus-cancellations-2020-bantam-jeep-festival/amp/",
+      "publishedDateTime": "2020-05-04T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-how-to-celebrate-teacher-appreciation-week-during-coronavirus-school-closures.md",
+      "title": "How to celebrate teacher appreciation week during coronavirus school closures",
+      "excerpt": "As schools across the country remain closed in accordance with state-wide stay-at-home orders, teachers continue to overcome obstacles to best serve their students. This teacher appreciation week, May 4 through May 8,",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sun-sentinel.com/coronavirus/sns-how-to-celebrate-teacher-appreciation-week-during-coronavirus-school-closures-20200504-iy52rcktrbdwxhxlhkmghuxgti-photogallery.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sun Sentinel",
+        "domain": "sun-sentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sun-sentinel.com/resizer/9i9nvdSIoDHRZ67CYRccop3l7k4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/4XC23IHR25OLFRP6WA6JZFAZEA.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "How to celebrate teacher appreciation week during coronavirus school closures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 53
+}

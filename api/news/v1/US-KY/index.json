@@ -1,0 +1,204 @@
+{
+  "location": {
+    "long": -84.270018,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Kentucky",
+    "county": null,
+    "isoCode": "US-KY",
+    "lat": 37.839333
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.4920377Z",
+  "news": [
+    {
+      "path": "_news/2020-05-10-beshear-infant-among-kentuckys-new-coronavirus-cases.md",
+      "title": "Beshear: Infant among Kentucky’s new coronavirus cases",
+      "excerpt": "FRANKFORT, Ky. (AP) — A 1-year-old child is among Kentucky's 158 new coronavirus cases, Gov. Andy Beshear said Saturday. The Democratic governor said the state's caseload continues",
+      "heat": 155,
+      "tags": [
+        "US-KY"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/065083df159ef7f85df41a0b6f3a4fea",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/6f4820446786468f83ebd4fb8715e2a0/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Beshear: Infant among Kentucky’s new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-roundup-kentucky-to-test-every-nursing-home-what-churches-must-do-to-reopen.md",
+      "title": "Coronavirus roundup: Kentucky to test every nursing home; what churches must do to reopen",
+      "excerpt": "Coronavirus roundup: Kentucky to test every nursing home; what churches must do to reopen At least 862 residents and 356 employees from 81 long-term care facilities have tested positive for COVID-19. At least 176 people have died. Check out this story on courier-journal.com: https://www.courier-journal.com/story/news/local/2020/05/08 ...",
+      "heat": 136,
+      "tags": [
+        "US-KY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.courier-journal.com/story/news/local/2020/05/08/coronavirus-kentucky-state-test-every-nursing-home/3097622001/",
+      "ampWebUrl": "https://amp.courier-journal.com/amp/3097622001",
+      "cdnAmpWebUrl": "https://amp-courier--journal-com.cdn.ampproject.org/c/s/amp.courier-journal.com/amp/3097622001",
+      "publishedDateTime": "2020-05-08T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courier-Journal",
+        "domain": "courier-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/30/PLOU/deb2a1c1-383b-47aa-b025-e6d51e7addff-CovidScenesMonday_11.JPG?auto=webp&crop=3491,1964,x0,y417&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus roundup: Kentucky to test every nursing home; what churches must do to reopen",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-kentucky-tax-collections-plummet-in-april-due-to-coronavirus.md",
+      "title": "Kentucky Tax Collections Plummet in April Due to Coronavirus",
+      "excerpt": "Kentucky 's tax collections went into a free-fall in April, when General Fund tax receipts fell nearly $433 million below collections a year ago as the coronavirus outbreak stalled much of the economy.",
+      "heat": null,
+      "tags": [
+        "US-KY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/kentucky/articles/2020-05-06/kentucky-tax-collections-plummet-in-april-due-to-coronavirus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-federal-judge-rules-kentuckys-covid-19-travel-ban-is-unconstitutional.md",
+      "title": "Federal Judge Rules Kentucky’s Covid-19 Travel Ban is Unconstitutional",
+      "excerpt": "A federal judge Monday struck down a portion of Kentucky Governor Andy Beshear’s travel restrictions that were enacted in wake of the ongoing Covid-19 pandemic.",
+      "heat": 100,
+      "tags": [
+        "US-KY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.courthousenews.com/federal-judge-rules-kentuckys-covid-19-travel-ban-is-unconstitutional/",
+      "ampWebUrl": "https://www.courthousenews.com/federal-judge-rules-kentuckys-covid-19-travel-ban-is-unconstitutional/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/federal-judge-rules-kentuckys-covid-19-travel-ban-is-unconstitutional/",
+      "publishedDateTime": "2020-05-04T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/05/1440px-Brent_Spence_Bridge_2018.jpg?resize=800%2C445&ssl=1",
+          "width": 800,
+          "height": 445,
+          "title": "Federal Judge Rules Kentucky’s Covid-19 Travel Ban is Unconstitutional",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-sued-in-challenge-to-covid-19-travel-ban-kentucky-ag-wants-to-switch-sides.md",
+      "title": "Sued in challenge to COVID-19 travel ban, Kentucky AG wants to switch sides",
+      "excerpt": "When Kentucky residents brought a suit earlier this month that challenged the constitutionality of Gov. Andy Beshear’s executive order restricting interstate travel, they named not only Beshear but also the state’s attorney general,",
+      "heat": 138,
+      "tags": [
+        "US-KY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-otc-kentucky-idUSKBN22B38O",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22B38O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B38O",
+      "publishedDateTime": "2020-04-29T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Sued in challenge to COVID-19 travel ban, Kentucky AG wants to switch sides",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    }
+  ]
+}

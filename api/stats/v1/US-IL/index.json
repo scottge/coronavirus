@@ -1,0 +1,2261 @@
+{
+  "location": {
+    "long": -89.398528,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Illinois",
+    "county": null,
+    "isoCode": "US-IL",
+    "lat": 40.633125
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.3922791Z",
+  "stats": {
+    "totalConfirmedCases": 76085,
+    "newlyConfirmedCases": 2325,
+    "totalDeaths": 3354,
+    "newDeaths": 109,
+    "totalRecoveredCases": 645,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 25,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 32,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 46,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 65,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 93,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 128,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 183,
+        "deaths": 1,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 290,
+        "deaths": 1,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 423,
+        "deaths": 4,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 585,
+        "deaths": 5,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 753,
+        "deaths": 6,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 1050,
+        "deaths": 9,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 1285,
+        "deaths": 12,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 1538,
+        "deaths": 16,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 1871,
+        "deaths": 19,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 2542,
+        "deaths": 26,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 3033,
+        "deaths": 34,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 3502,
+        "deaths": 47,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 4600,
+        "deaths": 66,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 5062,
+        "deaths": 74,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 6002,
+        "deaths": 100,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 6984,
+        "deaths": 146,
+        "recovered": 2
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 7700,
+        "deaths": 167,
+        "recovered": 7
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 8907,
+        "deaths": 210,
+        "recovered": 7
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 10362,
+        "deaths": 244,
+        "recovered": 18
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 11263,
+        "deaths": 276,
+        "recovered": 19
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 12267,
+        "deaths": 308,
+        "recovered": 24
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 13556,
+        "deaths": 380,
+        "recovered": 26
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 15082,
+        "deaths": 462,
+        "recovered": 122
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 16427,
+        "deaths": 529,
+        "recovered": 158
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 17893,
+        "deaths": 597,
+        "recovered": 212
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 19183,
+        "deaths": 677,
+        "recovered": 215
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 20855,
+        "deaths": 720,
+        "recovered": 226
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 22028,
+        "deaths": 798,
+        "recovered": 258
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 23248,
+        "deaths": 869,
+        "recovered": 408
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 24593,
+        "deaths": 949,
+        "recovered": 428
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 25733,
+        "deaths": 1073,
+        "recovered": 465
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 27577,
+        "deaths": 1132,
+        "recovered": 465
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 29146,
+        "deaths": 1259,
+        "recovered": 606
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 30357,
+        "deaths": 1290,
+        "recovered": 606
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 31508,
+        "deaths": 1349,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 33059,
+        "deaths": 1468,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 35109,
+        "deaths": 1565,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 36937,
+        "deaths": 1688,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 39656,
+        "deaths": 1795,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 41777,
+        "deaths": 1874,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 43903,
+        "deaths": 1933,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 45883,
+        "deaths": 1983,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 48102,
+        "deaths": 2125,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 50355,
+        "deaths": 2215,
+        "recovered": 645
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 52918,
+        "deaths": 2355,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 55697,
+        "deaths": 2452,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 58505,
+        "deaths": 2559,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 61499,
+        "deaths": 2622,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 63840,
+        "deaths": 2665,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 65962,
+        "deaths": 2838,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 68232,
+        "deaths": 2977,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 70873,
+        "deaths": 3114,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 73760,
+        "deaths": 3245,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 76085,
+        "deaths": 3354,
+        "recovered": 645
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -91.1084,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Adams",
+          "isoCode": "US-IL",
+          "lat": 39.8842
+        },
+        "totalConfirmedCases": 41,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.5247,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Bond",
+          "isoCode": "US-IL",
+          "lat": 39.029
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.7372,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Bureau",
+          "isoCode": "US-IL",
+          "lat": 41.3573
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.1396,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Carroll",
+          "isoCode": "US-IL",
+          "lat": 42.0904
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.1549,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Champaign",
+          "isoCode": "US-IL",
+          "lat": 40.3031
+        },
+        "totalConfirmedCases": 256,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 62,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4258,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Christian",
+          "isoCode": "US-IL",
+          "lat": 39.5919
+        },
+        "totalConfirmedCases": 30,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.6657,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Clark",
+          "isoCode": "US-IL",
+          "lat": 39.215
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.6844,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Clinton",
+          "isoCode": "US-IL",
+          "lat": 38.607
+        },
+        "totalConfirmedCases": 126,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 10,
+        "newDeaths": 2,
+        "totalRecoveredCases": 11,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.6976,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Cook",
+          "isoCode": "US-IL",
+          "lat": 41.7377
+        },
+        "totalConfirmedCases": 51674,
+        "newlyConfirmedCases": 1438,
+        "totalDeaths": 2264,
+        "newDeaths": 67,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.673,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Crawford",
+          "isoCode": "US-IL",
+          "lat": 39.1689
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4504,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Cumberland",
+          "isoCode": "US-IL",
+          "lat": 39.3215
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.7659,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "DeKalb",
+          "isoCode": "US-IL",
+          "lat": 41.7683
+        },
+        "totalConfirmedCases": 170,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 2,
+        "newDeaths": 1,
+        "totalRecoveredCases": 31,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.16,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Douglas",
+          "isoCode": "US-IL",
+          "lat": 39.8644
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.9456,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "DuPage",
+          "isoCode": "US-IL",
+          "lat": 41.7635
+        },
+        "totalConfirmedCases": 4493,
+        "newlyConfirmedCases": 119,
+        "totalDeaths": 247,
+        "newDeaths": 11,
+        "totalRecoveredCases": 100,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8505,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Fayette",
+          "isoCode": "US-IL",
+          "lat": 38.8676
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.1111,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Franklin",
+          "isoCode": "US-IL",
+          "lat": 37.9721
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.2805,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Grundy",
+          "isoCode": "US-IL",
+          "lat": 41.2763
+        },
+        "totalConfirmedCases": 58,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.3767,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Henry",
+          "isoCode": "US-IL",
+          "lat": 41.3515
+        },
+        "totalConfirmedCases": 59,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.0759,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Iroquois",
+          "isoCode": "US-IL",
+          "lat": 40.5162
+        },
+        "totalConfirmedCases": 89,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 2,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3398,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Jackson",
+          "isoCode": "US-IL",
+          "lat": 37.9013
+        },
+        "totalConfirmedCases": 162,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 10,
+        "newDeaths": 0,
+        "totalRecoveredCases": 14,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.1642,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Jo Daviess",
+          "isoCode": "US-IL",
+          "lat": 42.4302
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4016,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Kane",
+          "isoCode": "US-IL",
+          "lat": 41.9879
+        },
+        "totalConfirmedCases": 2818,
+        "newlyConfirmedCases": 150,
+        "totalDeaths": 88,
+        "newDeaths": 4,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.0539,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Kankakee",
+          "isoCode": "US-IL",
+          "lat": 41.145
+        },
+        "totalConfirmedCases": 479,
+        "newlyConfirmedCases": 21,
+        "totalDeaths": 29,
+        "newDeaths": 0,
+        "totalRecoveredCases": 59,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4508,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Kendall",
+          "isoCode": "US-IL",
+          "lat": 41.6561
+        },
+        "totalConfirmedCases": 388,
+        "newlyConfirmedCases": 15,
+        "totalDeaths": 12,
+        "newDeaths": 2,
+        "totalRecoveredCases": 76,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.3988,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Knox",
+          "isoCode": "US-IL",
+          "lat": 41.1093
+        },
+        "totalConfirmedCases": 71,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.8272,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Lake",
+          "isoCode": "US-IL",
+          "lat": 42.3689
+        },
+        "totalConfirmedCases": 5199,
+        "newlyConfirmedCases": 214,
+        "totalDeaths": 173,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8295,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "LaSalle",
+          "isoCode": "US-IL",
+          "lat": 41.1242
+        },
+        "totalConfirmedCases": 102,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 5,
+        "newDeaths": 2,
+        "totalRecoveredCases": 8,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3999,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Livingston",
+          "isoCode": "US-IL",
+          "lat": 40.6537
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4429,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Logan",
+          "isoCode": "US-IL",
+          "lat": 40.0669
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.9965,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Macon",
+          "isoCode": "US-IL",
+          "lat": 39.7117
+        },
+        "totalConfirmedCases": 140,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 15,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.0816,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Madison",
+          "isoCode": "US-IL",
+          "lat": 38.7631
+        },
+        "totalConfirmedCases": 414,
+        "newlyConfirmedCases": 13,
+        "totalDeaths": 31,
+        "newDeaths": 1,
+        "totalRecoveredCases": 72,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.1233,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Marion",
+          "isoCode": "US-IL",
+          "lat": 38.5224
+        },
+        "totalConfirmedCases": 43,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0522,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Marshall",
+          "isoCode": "US-IL",
+          "lat": 41.0486
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.2668,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "McHenry",
+          "isoCode": "US-IL",
+          "lat": 42.3334
+        },
+        "totalConfirmedCases": 936,
+        "newlyConfirmedCases": 39,
+        "totalDeaths": 52,
+        "newDeaths": 4,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0993,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "McLean",
+          "isoCode": "US-IL",
+          "lat": 40.4857
+        },
+        "totalConfirmedCases": 115,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 73,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.7407,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Menard",
+          "isoCode": "US-IL",
+          "lat": 40.085
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.1538,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Monroe",
+          "isoCode": "US-IL",
+          "lat": 38.3402
+        },
+        "totalConfirmedCases": 79,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 12,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4735,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Montgomery",
+          "isoCode": "US-IL",
+          "lat": 39.167
+        },
+        "totalConfirmedCases": 34,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9528,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Morgan",
+          "isoCode": "US-IL",
+          "lat": 39.5925
+        },
+        "totalConfirmedCases": 30,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.7547,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Peoria",
+          "isoCode": "US-IL",
+          "lat": 40.935
+        },
+        "totalConfirmedCases": 136,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 13,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9998,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Randolph",
+          "isoCode": "US-IL",
+          "lat": 38.2096
+        },
+        "totalConfirmedCases": 217,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 35,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.4464,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Rock Island",
+          "isoCode": "US-IL",
+          "lat": 41.4416
+        },
+        "totalConfirmedCases": 507,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 16,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5304,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Saline",
+          "isoCode": "US-IL",
+          "lat": 37.8262
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9026,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Sangamon",
+          "isoCode": "US-IL",
+          "lat": 39.7577
+        },
+        "totalConfirmedCases": 256,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 19,
+        "newDeaths": 0,
+        "totalRecoveredCases": 31,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.8743,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "St. Clair",
+          "isoCode": "US-IL",
+          "lat": 38.3188
+        },
+        "totalConfirmedCases": 689,
+        "newlyConfirmedCases": 41,
+        "totalDeaths": 49,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.7949,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Stephenson",
+          "isoCode": "US-IL",
+          "lat": 42.4929
+        },
+        "totalConfirmedCases": 88,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3556,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Tazewell",
+          "isoCode": "US-IL",
+          "lat": 40.534
+        },
+        "totalConfirmedCases": 59,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.2127,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Washington",
+          "isoCode": "US-IL",
+          "lat": 38.2214
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9238,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Whiteside",
+          "isoCode": "US-IL",
+          "lat": 41.7173
+        },
+        "totalConfirmedCases": 102,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 10,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.6231,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Will",
+          "isoCode": "US-IL",
+          "lat": 41.4399
+        },
+        "totalConfirmedCases": 3636,
+        "newlyConfirmedCases": 75,
+        "totalDeaths": 202,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.9993,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Williamson",
+          "isoCode": "US-IL",
+          "lat": 37.8611
+        },
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 6,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0631,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Winnebago",
+          "isoCode": "US-IL",
+          "lat": 42.45
+        },
+        "totalConfirmedCases": 877,
+        "newlyConfirmedCases": 47,
+        "totalDeaths": 24,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0181,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Woodford",
+          "isoCode": "US-IL",
+          "lat": 40.7406
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.2471,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Ford",
+          "isoCode": "US-IL",
+          "lat": 40.5709
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.404,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Ogle",
+          "isoCode": "US-IL",
+          "lat": 42.1236
+        },
+        "totalConfirmedCases": 148,
+        "newlyConfirmedCases": 7,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.6398,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Vermilion",
+          "isoCode": "US-IL",
+          "lat": 40.0941
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6279,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Massac",
+          "isoCode": "US-IL",
+          "lat": 37.1258
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.8173,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Macoupin",
+          "isoCode": "US-IL",
+          "lat": 39.1258
+        },
+        "totalConfirmedCases": 39,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 11,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.4748,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Mercer",
+          "isoCode": "US-IL",
+          "lat": 41.0904
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.7412,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Moultrie",
+          "isoCode": "US-IL",
+          "lat": 39.6441
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5724,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Piatt",
+          "isoCode": "US-IL",
+          "lat": 39.9229
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.9612,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "De Witt",
+          "isoCode": "US-IL",
+          "lat": 40.2218
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6259,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Effingham",
+          "isoCode": "US-IL",
+          "lat": 38.9537
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.1642,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Jersey",
+          "isoCode": "US-IL",
+          "lat": 39.1546
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.1499,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Jasper",
+          "isoCode": "US-IL",
+          "lat": 39.1043
+        },
+        "totalConfirmedCases": 48,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3679,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Lee",
+          "isoCode": "US-IL",
+          "lat": 41.729
+        },
+        "totalConfirmedCases": 63,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.1425,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Mason",
+          "isoCode": "US-IL",
+          "lat": 40.1906
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.7234,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Pike",
+          "isoCode": "US-IL",
+          "lat": 39.5612
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.7366,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Jefferson",
+          "isoCode": "US-IL",
+          "lat": 38.3256
+        },
+        "totalConfirmedCases": 94,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 15,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8693,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Boone",
+          "isoCode": "US-IL",
+          "lat": 42.3524
+        },
+        "totalConfirmedCases": 185,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 12,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.6127,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Calhoun",
+          "isoCode": "US-IL",
+          "lat": 39.2971
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.1279,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Gallatin",
+          "isoCode": "US-IL",
+          "lat": 37.9025
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.8726,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Lawrence",
+          "isoCode": "US-IL",
+          "lat": 38.7197
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.7103,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Wabash",
+          "isoCode": "US-IL",
+          "lat": 38.5276
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0189,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Shelby",
+          "isoCode": "US-IL",
+          "lat": 39.6265
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3627,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Coles",
+          "isoCode": "US-IL",
+          "lat": 39.4774
+        },
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.2234,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Richland",
+          "isoCode": "US-IL",
+          "lat": 38.6974
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.3829,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Hancock",
+          "isoCode": "US-IL",
+          "lat": 40.5457
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.6582,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Stark",
+          "isoCode": "US-IL",
+          "lat": 41.1773
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.2024,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Pulaski",
+          "isoCode": "US-IL",
+          "lat": 37.1145
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5666,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Schuyler",
+          "isoCode": "US-IL",
+          "lat": 40.1199
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2949,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Fulton",
+          "isoCode": "US-IL",
+          "lat": 40.4744
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2066,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Greene",
+          "isoCode": "US-IL",
+          "lat": 39.2693
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.6082,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "McDonough",
+          "isoCode": "US-IL",
+          "lat": 40.3269
+        },
+        "totalConfirmedCases": 49,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.24,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Perry",
+          "isoCode": "US-IL",
+          "lat": 38.0333
+        },
+        "totalConfirmedCases": 36,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5555,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Warren",
+          "isoCode": "US-IL",
+          "lat": 41.0629
+        },
+        "totalConfirmedCases": 97,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.9746,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Johnson",
+          "isoCode": "US-IL",
+          "lat": 37.4715
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4758,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Clay",
+          "isoCode": "US-IL",
+          "lat": 38.6688
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.1654,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Union",
+          "isoCode": "US-IL",
+          "lat": 37.3599
+        },
+        "totalConfirmedCases": 62,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.2714,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Alexander",
+          "isoCode": "US-IL",
+          "lat": 37.2416
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8621,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Henderson",
+          "isoCode": "US-IL",
+          "lat": 40.8539
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5382,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Wayne",
+          "isoCode": "US-IL",
+          "lat": 38.5208
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5386,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Hamilton",
+          "isoCode": "US-IL",
+          "lat": 38.0902
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2107,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Cass",
+          "isoCode": "US-IL",
+          "lat": 39.9525
+        },
+        "totalConfirmedCases": 56,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3279,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "White",
+          "isoCode": "US-IL",
+          "lat": 37.9789
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3501,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Hardin",
+          "isoCode": "US-IL",
+          "lat": 37.4239
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.7152749,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Brown",
+          "isoCode": "US-IL",
+          "lat": 39.9379573
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.0900762,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Out of IL",
+          "isoCode": "US-IL",
+          "lat": 41.5054724
+        },
+        "totalConfirmedCases": 77,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5951751,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Illinois",
+          "county": "Pope",
+          "isoCode": "US-IL",
+          "lat": 37.417132
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

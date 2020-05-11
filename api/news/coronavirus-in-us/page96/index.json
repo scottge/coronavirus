@@ -1,0 +1,1238 @@
+{
+  "page": 96,
+  "value": [
+    {
+      "path": "_news/2020-03-06-trumps-calamitous-coronavirus-response.md",
+      "title": "Trump’s Calamitous Coronavirus Response",
+      "excerpt": "President Trump being shown a model of the coronavirus at the National Institutes of Health.Credit...Doug Mills/The New York Times Last month, after analyzing figures on epidemics since 1960, The Economist concluded that people die at a higher rate from such disease outbreaks in authoritarian countries than in democratic ones,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/06/opinion/trump-coronavirus-us.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/06/opinion/trump-coronavirus-us.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/06/opinion/trump-coronavirus-us.amp.html",
+      "publishedDateTime": "2020-03-06T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/06/opinion/06goldbergSub/06goldbergSub-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Trump’s Calamitous Coronavirus Response",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-delivers-trump-the-presidency-he-always-wanted.md",
+      "title": "Coronavirus delivers Trump the presidency he always wanted",
+      "excerpt": "Mike Pence governs them. As Trump prepares to decamp to his oceanfront club in West Palm Beach this weekend, surrounded by GOP donors and top aides, the vice president will travel to Florida for a Saturday meeting with cruise ship operators about the rapidly evolving coronavirus crisis. The striking split-screen view that has played out this ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/03/06/coronavirus-trump-pence-messaging-122626",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/03/06/coronavirus-trump-pence-messaging-122626",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/03/06/coronavirus-trump-pence-messaging-122626",
+      "publishedDateTime": "2020-03-06T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/30/d2/247cfc474d7b8949d9e2ae89a879/200305-donald-trump2-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Coronavirus delivers Trump the presidency he always wanted",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Political Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-5-ways-the-global-coronavirus-is-entangling-the-nationalist-trump.md",
+      "title": "5 ways the global coronavirus is entangling the nationalist Trump",
+      "excerpt": "The Trump playbook has long been to hammer an “America First” agenda, glossing over international cooperative organizations and focusing on internal safety. But that approach doesn’t map well onto the coronavirus, a disease that can hop borders with just a droplet on a plane. And it’s posing unusual challenges to Trump’s way of doing ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/03/06/donald-trump-global-coronavirus-122431",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/03/06/donald-trump-global-coronavirus-122431",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/03/06/donald-trump-global-coronavirus-122431",
+      "publishedDateTime": "2020-03-06T01:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/05/b0/088482384065b392385644424cc4/200305-donald-trump-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "5 ways the global coronavirus is entangling the nationalist Trump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-two-microsoft-employees-in-washington-contract-coronavirus-placed-in-quarantine.md",
+      "title": "Two Microsoft Employees in Washington Contract Coronavirus, Placed in Quarantine",
+      "excerpt": "The two tech company staffers, whose exact job titles have not been released, are reportedly located in Puget Sound, which is close to Microsoft's corporate headquarters in Redmond.",
+      "heat": 160,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/washington-state-two-microsoft-employees-coronavirus-covid-19-quarantine-1490852",
+      "ampWebUrl": "https://www.newsweek.com/washington-state-two-microsoft-employees-coronavirus-covid-19-quarantine-1490852?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/washington-state-two-microsoft-employees-coronavirus-covid-19-quarantine-1490852?amp=1",
+      "publishedDateTime": "2020-03-06T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1571834/microsoft-logo.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Two Microsoft Employees in Washington Contract Coronavirus, Placed in Quarantine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-north-korea-releases-221-foreigners-held-in-coronavirus-quarantine.md",
+      "title": "North Korea Releases 221 Foreigners Held in Coronavirus Quarantine",
+      "excerpt": "(SEOUL, South Korea) — North Korea said Friday it has released about 220 foreigners from a quarantine imposed as part of its vigilant prevention efforts to avoid an outbreak of the coronavirus that has spread around ... earthquake and tsunami. In the United States, where 12 have died from COVID-19, hundreds of people were in self-quarantines ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://time.com/5797770/north-korea-releases-foreigners-coronavirus-quarantine/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T00:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/03/north-korea-coronavirus-1.jpg",
+          "width": 3500,
+          "height": 2333,
+          "title": "North Korea Releases 221 Foreigners Held in Coronavirus Quarantine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-gold-set-for-best-week-in-over-8-years-on-coronavirus-fears.md",
+      "title": "Gold set for best week in over 8 years on coronavirus fears",
+      "excerpt": "Gold prices inched higher on Friday and were poised for their biggest weekly gain since October 2011, as mounting worries over the economic fallout from the fast-spreading coronavirus drove investors towards the safe-haven metal.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/06/gold-markets-coronavirus-in-focus.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/06/gold-markets-coronavirus-in-focus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/06/gold-markets-coronavirus-in-focus.html",
+      "publishedDateTime": "2020-03-05T23:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106414893-1582856147970gettyimages-1201973711.jpeg?v=1583462789",
+          "width": 5678,
+          "height": 3785,
+          "title": "Gold set for best week in over 8 years on coronavirus fears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-rpt-traders-shipped-to-suburbia-as-banks-activate-coronavirus-firewalls.md",
+      "title": "RPT-Traders shipped to suburbia as banks activate coronavirus firewalls",
+      "excerpt": "Disaster recovery sites in Greenwich, Connecticut in the United States and Northolt in Britain are currently being tested by Goldman Sachs Group Inc and Barclays, with entire teams working in sales and trading already heading to the suburbs,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-banks-idUSL8N2AZ1BG",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2AZ1BG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2AZ1BG",
+      "publishedDateTime": "2020-03-05T23:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "RPT-Traders shipped to suburbia as banks activate coronavirus firewalls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coming-to-a-couch-near-you-a-brave-new-world-of-teleworking-in-the-coronavirus-era.md",
+      "title": "Coming to a couch near you: A brave new world of teleworking in the coronavirus era",
+      "excerpt": "HONG KONG — For a taste of what's in store for Americans, look to Hong Kong, where businesses have been enforcing work-from-home arrangements for six weeks due to coronavirus fears. The social experiment of teleworking en masse has unearthed pitfalls, comical moments and potential opportunities. With the virus hitting the United States and ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/asia_pacific/coming-to-a-couch-near-you-a-brave-new-world-of-teleworking-in-the-coronavirus-era/2020/03/06/86e82754-5e0c-11ea-ac50-18701e14e06d_story.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T22:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/bqlmj6SLRCaB_W0xdO_NnNc9KhQ=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EL5Z47C67YI6VECVL6QSTAN3X4.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Coming to a couch near you: A brave new world of teleworking in the coronavirus era",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-trump-just-made-up-his-own-coronavirus-death-rate.md",
+      "title": "Trump Just Made Up His Own Coronavirus Death Rate",
+      "excerpt": "He also contradicted his own administration’s advice on self-quarantining and announced a coronavirus death in New York that didn’t happen. Trump’s dismissal of the WHO’s figures and willingness to spread false information is the latest example of how the White House is trying to control the coronavirus narrative to play down the ...",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/z3bgx9/trump-just-made-up-his-own-coronavirus-death-rate",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/z3bgx9/trump-just-made-up-his-own-coronavirus-death-rate",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/z3bgx9/trump-just-made-up-his-own-coronavirus-death-rate",
+      "publishedDateTime": "2020-03-05T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e60e55e8ff8bd009c50412a/lede/1583410580576-AP_20064634746539.jpeg?crop=1xw%3A0.8427xh%3B0xw%2C0.0063xh&resize=2000%3A*",
+          "width": 2000,
+          "height": 1123,
+          "title": "Trump Just Made Up His Own Coronavirus Death Rate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-us-health-secretary-azar-says-more-coronavirus-cases-likely-seeks-more-funding.md",
+      "title": "US health secretary Azar says more coronavirus cases likely, seeks more funding",
+      "excerpt": "Azar said the U.S. currently has a stockpile of 30 million surgical masks, but HHS estimates suggest the country needs 300 million masks.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/25/coronavirus-us-health-secretary-azar-says-more-cases-likely.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/25/coronavirus-us-health-secretary-azar-says-more-cases-likely.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/25/coronavirus-us-health-secretary-azar-says-more-cases-likely.html",
+      "publishedDateTime": "2020-03-05T22:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106367874-1580510123521gettyimages-1197857176.jpeg?v=1580510159",
+          "width": 6000,
+          "height": 4000,
+          "title": "US health secretary Azar says more coronavirus cases likely, seeks more funding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-colorado-confirms-first-case-of-coronavirus-in-visitor-to-summit-county.md",
+      "title": "Colorado confirms first case of coronavirus in visitor to Summit County",
+      "excerpt": "A man in his 30s visiting Summit County from out of state has tested positive for coronavirus, the first confirmation that the virus sweeping ... spread the virus as they went about their daily lives. As of Thursday, 163 cases and 11 deaths from the new virus, known as COVID-19, have been confirmed in the United States. The virus got a slow ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.canoncitydailyrecord.com/2020/03/05/colorado-coronavirus-case-confirmed/",
+      "ampWebUrl": "https://www.canoncitydailyrecord.com/2020/03/05/colorado-coronavirus-case-confirmed/amp/",
+      "cdnAmpWebUrl": "https://www-canoncitydailyrecord-com.cdn.ampproject.org/c/s/www.canoncitydailyrecord.com/2020/03/05/colorado-coronavirus-case-confirmed/amp/",
+      "publishedDateTime": "2020-03-05T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Record",
+        "domain": "canoncitydailyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.canoncitydailyrecord.com/wp-content/uploads/2020/03/TDP-L-CORONAVIRUS-AAO-_ADO9308xxx-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": "Colorado confirms first case of coronavirus in visitor to Summit County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-cases-surge-in-us-and-europe.md",
+      "title": "Coronavirus Cases Surge in U.S. and Europe",
+      "excerpt": "Congress approved an $8.3 billion emergency spending bill to fight the virus, but officials in several countries say the virus will keep spreading fast for some time. The U.S. government rushed testing kits to a cruise ship quarantined off the coast of California on Thursday as the number of new cases and deaths related to the coronavirus in the United States continued to rise.",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/05/world/coronavirus-live-updates.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/05/world/coronavirus-live-updates.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/05/world/coronavirus-live-updates.amp.html",
+      "publishedDateTime": "2020-03-05T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/06/video/06video/tehran-airport-satellite-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Coronavirus Cases Surge in U.S. and Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Political Impact",
+        "Coronavirus",
+        "Coronavirus in US",
+        "Economic Impact",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-concerns-over-coronavirus-prompting-travel-deals.md",
+      "title": "Concerns over coronavirus prompting travel deals",
+      "excerpt": "“So some are like $50 to go to Europe or within the United States as well. JetBlue, Southwest — they’re going pretty low on their prices.” Swasbrook says that’s because more and more passengers are canceling their flights and cruises out of fear of the coronavirus. But that’s also leading to deals on everything from train tickets ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fox5sandiego.com/news/business/concerns-over-coronavirus-prompting-travel-deals/",
+      "ampWebUrl": "https://fox5sandiego.com/news/business/concerns-over-coronavirus-prompting-travel-deals/amp/",
+      "cdnAmpWebUrl": "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/business/concerns-over-coronavirus-prompting-travel-deals/amp/",
+      "publishedDateTime": "2020-03-05T21:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5 San Diego",
+        "domain": "fox5sandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://fox5sandiego.com/wp-content/uploads/sites/15/2017/04/gettyimages-464772676.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Concerns over coronavirus prompting travel deals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-new-coronavirus-cases-reported-in-massachusetts.md",
+      "title": "New coronavirus cases reported in Massachusetts",
+      "excerpt": "Two new presumptive positive cases of the highly contagious coronavirus have been reported in the Bay State, health officials announced on Thursday, raising the state’s count to one confirmed and three possible cases, forcing more people who were in contact to stay home. The Massachusetts Department of Public Health confirmed a new ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bostonherald.com/2020/03/05/new-coronavirus-cases-reported-in-massachusetts/",
+      "ampWebUrl": "https://www.bostonherald.com/2020/03/05/new-coronavirus-cases-reported-in-massachusetts/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/03/05/new-coronavirus-cases-reported-in-massachusetts/amp/",
+      "publishedDateTime": "2020-03-05T21:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2020/03/030520mbtaar05.jpg?w=1024&h=712",
+          "width": 1024,
+          "height": 711,
+          "title": "New coronavirus cases reported in Massachusetts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-trump-to-sign-83b-coronavirus-funding-bill-friday-pence-says.md",
+      "title": "Trump to sign $8.3B coronavirus funding bill Friday, Pence says",
+      "excerpt": "President Trump on Friday will sign newly approved legislation allocating more than $8 billion in emergency funding to combat the spread of coronavirus. The disclosure came Thursday from Vice President Mike Pence during his visit to Washington state, which has seen at least 70 cases of the virus and at least 11 deaths – more fatalities than ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/trump-to-sign-8-3b-coronavirus-funding-bill-friday-pence-says",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-sign-8-3b-coronavirus-funding-bill-friday-pence-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-sign-8-3b-coronavirus-funding-bill-friday-pence-says.amp",
+      "publishedDateTime": "2020-03-05T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c822fc6-bb02-4ef0-8ee2-14de96718918/4a8792ff-948b-49ac-a5fb-865ce4c02285/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Trump to sign $8.3B coronavirus funding bill Friday, Pence says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-nevada-health-officials-confirm-las-vegas-first-case-of-novel-coronavirus.md",
+      "title": "Nevada health officials confirm Las Vegas' first case of novel coronavirus",
+      "excerpt": "\"I would also like to say that it's still -- the results of coronavirus in Las Vegas and the country is considered low.\" Health officials say the Clark County resident recently traveled to both Texas and Washington by airline before presenting any symptoms. One day after a state of emergency was declared in Los Angeles County as six new cases ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abc7chicago.com/5988702/",
+      "ampWebUrl": "https://abc7chicago.com/amp/5988702",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/5988702",
+      "publishedDateTime": "2020-03-05T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-live-updates-coronavirus-fears-reverberate-as-us-officials-widen-states-of-emergency-south-korea-condemns-japan.md",
+      "title": "Live updates: Coronavirus fears reverberate as U.S. officials widen states of emergency; South Korea condemns Japan",
+      "excerpt": "There are more than 40 cases of the virus in Canada spread across four provinces. South Korea criticized its neighbor Japan for its handling of the novel coronavirus on Friday, suggesting it would summon Tokyo’s ambassador in Seoul to express its “extreme regret” for new quarantine rules that would subject South Koreans to 14 days of ...",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/2020/03/06/coronavirus-live-updates/",
+      "ampWebUrl": "https://www.washingtonpost.com/world/2020/03/06/coronavirus-live-updates/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/03/06/coronavirus-live-updates/?outputType=amp",
+      "publishedDateTime": "2020-03-05T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/-L4CCVn9eAdy0p_kWoIHdloGauI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBEC43C7LII6VLCQDBYB4FHANU.jpg",
+          "width": 1440,
+          "height": 944,
+          "title": "Live updates: Coronavirus fears reverberate as U.S. officials widen states of emergency; South Korea condemns Japan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Japan",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-bc-confirms-8-new-cases-of-coronavirus-on-thursday.md",
+      "title": "BC confirms 8 new cases of coronavirus on Thursday",
+      "excerpt": "Health officials announced eight additional cases of coronavirus in BC on Thursday afternoon. According to Dr. Bonnie Henry, the new cases are \"not surprising\" as four of the cases ... a woman in her 50s and a man in his 60s who live in the same household. The seventh case is a Seattle resident visiting family in BC who has also tested positive.",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kamloopsbcnow.com/watercooler/news/news/Provincial/BC_confirms_8_new_cases_of_coronavirus_on_Thursday/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kamloopsbcnow.com",
+        "domain": "kamloopsbcnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.kamloopsbcnow.com/files/coronavi21-3.jpg",
+          "width": 850,
+          "height": 446,
+          "title": "BC confirms 8 new cases of coronavirus on Thursday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-3-cases-of-coronavirus-confirmed-in-maryland-gov-hogan-declares-state-of-emergency.md",
+      "title": "3 Cases Of Coronavirus Confirmed In Maryland, Gov. Hogan Declares State Of Emergency",
+      "excerpt": "ANNAPOLIS, Md. (WJZ) — Health officials confirmed the first three positive cases of coronavirus in Maryland on Thursday night. According to officials, those patients are Montgomery County residents; a married couple in their 70’s and another person in their 50’s.",
+      "heat": 108,
+      "tags": [
+        "US-MD"
+      ],
+      "type": "article",
+      "webUrl": "https://baltimore.cbslocal.com/2020/03/05/3-cases-of-coronavirus-confirmed-in-maryland-state-emergency/",
+      "ampWebUrl": "https://baltimore.cbslocal.com/2020/03/05/3-cases-of-coronavirus-confirmed-in-maryland-state-emergency/amp/",
+      "cdnAmpWebUrl": "https://baltimore-cbslocal-com.cdn.ampproject.org/c/s/baltimore.cbslocal.com/2020/03/05/3-cases-of-coronavirus-confirmed-in-maryland-state-emergency/amp/",
+      "publishedDateTime": "2020-03-05T20:59:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbslocal.com/2020/03/05/3-cases-of-coronavirus-confirmed-in-maryland-state-emergency/",
+        "domain": "cbslocal.com/2020/03/05/3-cases-of-coronavirus-confirmed-in-maryland-state-emergency/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-four-new-cases-of-the-coronavirus-confirmed-in-houston-area.md",
+      "title": "Four new cases of the coronavirus confirmed in Houston area",
+      "excerpt": "by Alex Samuels and Shannon Najmabadi March 5, 2020 Updated: 4 hours ago The latest updates on Texas coronavirus cases: Texas has 16 known cases. Four new cases were identified in Harris County — home to Houston — on Thursday. Share your tips and stories here. Local officials confirmed four new cases of the new coronavirus in Harris County ...",
+      "heat": 220,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.texastribune.org/2020/03/05/texas-confirms-two-new-coronavirus-cases-harris-county/",
+      "ampWebUrl": "https://www.texastribune.org/2020/03/05/texas-confirms-two-new-coronavirus-cases-harris-county/amp/",
+      "cdnAmpWebUrl": "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/03/05/texas-confirms-two-new-coronavirus-cases-harris-county/amp/",
+      "publishedDateTime": "2020-03-05T19:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Texas Tribune",
+        "domain": "texastribune.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbnails.texastribune.org/xRPDr86Z4_Dhbfs2gAoS_U9f_BY=/1200x804/smart/filters:quality(95)/https://static.texastribune.org/media/files/ea833fa057e0aeb69e331a7af85ba270/Coronavirus%20hand%20washing%20REUTERS%20TT.jpg",
+          "width": 1200,
+          "height": 804,
+          "title": "Four new cases of the coronavirus confirmed in Houston area",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-colorado-now-up-to-8-coronavirus-cases-statewide-health-officials-say.md",
+      "title": "Colorado now up to 8 coronavirus cases statewide, health officials say",
+      "excerpt": "CDPHE officials said the state is acting on all \"presumptive\" cases as if they were confirmed, \"because a quick response is essential to minimize the spread of the virus.\" CDPHE officials also updated the total number of coronavirus tests in Colorado. Ninety-four cases have received results — 92 negative and two positive. Thirty case results ...",
+      "heat": null,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.click2houston.com/health/2020/03/05/man-woman-confirmed-to-be-first-cases-of-coronavirus-confirmed-in-harris-county/",
+      "ampWebUrl": "https://www.click2houston.com/health/2020/03/05/man-woman-confirmed-to-be-first-cases-of-coronavirus-confirmed-in-harris-county/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/health/2020/03/05/man-woman-confirmed-to-be-first-cases-of-coronavirus-confirmed-in-harris-county/?outputType=amp",
+      "publishedDateTime": "2020-03-05T19:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.click2houston.com/resizer/C-47vzESm5rf6VM8h2VF_icSHEg=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/CPEGHRMGCZHPLAXM22OYVMOAYQ.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Colorado now up to 8 coronavirus cases statewide, health officials say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-were-with-you-vice-president-pence-addresses-rising-coronavirus-death-toll-in-washington-state.md",
+      "title": "‘We’re with you’: Vice President Pence addresses rising coronavirus death toll in Washington state",
+      "excerpt": "Vice President Mike Pence addressed coronavirus concerns at a press conference in Washington state on Thursday. “Washington state is on the frontlines of coronavirus in America,” Pence began by saying.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kxly.com/were-with-you-vice-president-pence-addresses-rising-coronavirus-death-toll-in-washington-state/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXLY 4 News",
+        "domain": "kxly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2019/10/Vice20President20Mike20Pence20at20Pentagon-2.jpg_37867096_ver1.0-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "‘We’re with you’: Vice President Pence addresses rising coronavirus death toll in Washington state",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-us-death-toll-grows-to-12-with-latest-in-washington-state-global-total-nears-3300.md",
+      "title": "Coronavirus: U.S. Death Toll Grows To 12 With Latest In Washington State; Global Total Nears 3,300",
+      "excerpt": "The global death toll stands at 3,282, per the WHO, with 95,265 reported cases worldwide. Three U.S. deaths were announced Tuesday, two of which were residents of the Life Care Center nursing home in Kirland, WA, near Seattle, that has become a flashpoint for the illness. Washington state as of today had 70 positive diagnoses of coronavirus ...",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://deadline.com/feature/coronavirus-deaths-united-states-1202874446/",
+      "ampWebUrl": "https://deadline.com/feature/coronavirus-deaths-united-states-1202874446/amp/",
+      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/feature/coronavirus-deaths-united-states-1202874446/amp/",
+      "publishedDateTime": "2020-03-05T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pmcdeadline2.files.wordpress.com/2020/03/coronavirus.jpg?w=1024",
+          "width": 1024,
+          "height": 578,
+          "title": "Coronavirus: U.S. Death Toll Grows To 12 With Latest In Washington State; Global Total Nears 3,300",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-trump-talks-of-accomplishments-coronavirus-at-fox-news-town-hall.md",
+      "title": "Trump talks of accomplishments, coronavirus at Fox News town hall",
+      "excerpt": "But Trump was not totally free from scrutiny, being asked to answer for the administration’s initial halting response to a coronavirus epidemic that is spreading throughout the world and the U.S. Instead of responding with concrete plans that might allay fears, the president pointed to polls showing approval for some of the administration’s ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/03/05/trump-fox-news-town-hall-122555",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/03/05/trump-fox-news-town-hall-122555",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/03/05/trump-fox-news-town-hall-122555",
+      "publishedDateTime": "2020-03-05T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/37/9a/e2b6d7cb48768acccafeec097eb6/200305-donald-trump-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Trump talks of accomplishments, coronavirus at Fox News town hall",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-what-we-know-about-the-confirmed-covid-19-cases-near-houston.md",
+      "title": "What we know about the confirmed COVID-19 cases near Houston",
+      "excerpt": "HOUSTON, Texas ... first two cases of coronavirus, officials said Thursday. According to Harris County Public Health, the cases involve a man and a woman from an unincorporated area of the ...",
+      "heat": null,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://abc13.com/health/city-of-houston-reports-3rd-coronavirus-case/5999764/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc13.com",
+        "domain": "abc13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-hits-two-more-us-states-while-cases-jump-in-washington-new-york.md",
+      "title": "Coronavirus hits two more U.S. states, while cases jump in Washington, New York",
+      "excerpt": "At least 52 new cases of the fast-spreading new coronavirus were reported across the United States on Thursday, including the first in Tennessee, Texas and the city of San Francisco, as the number of people with the illness in Washington state nearly doubled to 70.",
+      "heat": 161,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-hits-two-more-u-s-states-while-cases-jump-in-washington-new-york-idUSKBN20S1W0?feedType=RSS&feedName=politicsNews",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20S1W0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20S1W0",
+      "publishedDateTime": "2020-03-05T18:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200306&t=2&i=1499638881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG241YO",
+          "width": 817,
+          "height": 545,
+          "title": "Coronavirus hits two more U.S. states, while cases jump in Washington, New York",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-live-updates-11th-washington-death-senate-passes-83-billion-bill-to-fight-virus.md",
+      "title": "Coronavirus live updates: 11th Washington death, Senate passes $8.3 billion bill to fight virus",
+      "excerpt": "According to a global counter by John Hopkins University, nearly 200 people in the U.S. have been infected. Officials in Washington state confirmed an 11th patient in Washington state has died from the coronavirus. The overall U.S. death toll from coronavirus now stands at 12. Senate vote sends $8.3 billion bill to Trump to fight virus The ...",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wusa9.com/article/news/nation-world/coronavirus-updates-march-5/507-f59017e6-7563-4402-be04-367fd3f4ab2b",
+      "ampWebUrl": "https://www.wusa9.com/amp/article/news/nation-world/coronavirus-updates-march-5/507-f59017e6-7563-4402-be04-367fd3f4ab2b",
+      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/coronavirus-updates-march-5/507-f59017e6-7563-4402-be04-367fd3f4ab2b",
+      "publishedDateTime": "2020-03-05T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA9",
+        "domain": "wusa9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WXIA/images/96ae2761-8daa-4659-8708-992b09bb085d/96ae2761-8daa-4659-8708-992b09bb085d_360x203.png",
+          "width": 361,
+          "height": 203,
+          "title": "Coronavirus live updates: 11th Washington death, Senate passes $8.3 billion bill to fight virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-vp-mike-pence-washington-setting-great-example-for-how-to-respond-to-coronavirus.md",
+      "title": "VP Mike Pence: Washington setting ‘great example’ for how to respond to coronavirus",
+      "excerpt": "with an additional death reported in King County. Coronavirus is spread through contact between people within 6 feet of each other, especially through coughing and sneezing that expels respiratory droplets. Pence said Washington state is on the “front lines of the coronavirus and the people of Washington state should be proud of their your ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsobserver.com/news/nation-world/national/article240938526.html",
+      "ampWebUrl": "https://amp.newsobserver.com/news/nation-world/national/article240938526.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article240938526.html",
+      "publishedDateTime": "2020-03-05T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/f32648e4-2dc0-4846-906b-5fce289d4461/efd8b837-dfdb-4470-af39-817e1dd3a2b6/1280x720/match/image.jpg",
+          "width": 1209,
+          "height": 720,
+          "title": "VP Mike Pence: Washington setting ‘great example’ for how to respond to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-senate-passes-coronavirus-spending-bill-sending-package-to-trump.md",
+      "title": "Senate Passes Coronavirus Spending Bill, Sending Package to Trump",
+      "excerpt": "The Senate passed a roughly $8.3 billion emergency spending bill to combat the coronavirus, sending the legislation to President Trump as lawmakers respond to the outbreak spreading across the country.",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/senate-passes-coronavirus-spending-bill-sending-package-to-trump-11583436261",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/senate-passes-coronavirus-spending-bill-sending-package-to-trump-11583436261",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-passes-coronavirus-spending-bill-sending-package-to-trump-11583436261",
+      "publishedDateTime": "2020-03-05T17:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-161169/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Senate Passes Coronavirus Spending Bill, Sending Package to Trump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-coronavirus-usa-update-230-confirmed-cases-death-toll-at-12-new-york-with-22-patients.md",
+      "title": "Coronavirus USA Update: 230 Confirmed Cases, Death Toll At 12; New York With 22 Patients",
+      "excerpt": "COVID-19 continues its relentless U.S. spread, with 197 confirmed cases Thursday compared to 148 on Wednesday.",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/coronavirus-usa-update-230-confirmed-cases-death-toll-12-new-york-22-patients-2934723",
+      "ampWebUrl": "https://www.ibtimes.com/coronavirus-usa-update-230-confirmed-cases-death-toll-12-new-york-22-patients-2934723?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/coronavirus-usa-update-230-confirmed-cases-death-toll-12-new-york-22-patients-2934723?amp=1",
+      "publishedDateTime": "2020-03-05T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/05/south-korea-has-been-fighting-a-rising-number.jpg",
+          "width": 1024,
+          "height": 666,
+          "title": "Coronavirus USA Update: 230 Confirmed Cases, Death Toll At 12; New York With 22 Patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    }
+  ],
+  "nextPage": 97
+}

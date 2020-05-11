@@ -1,0 +1,1419 @@
+{
+  "page": 21,
+  "value": [
+    {
+      "path": "_news/2020-03-18-coronavirus-hit-cruise-ship-hopes-to-dock-in-france.md",
+      "title": "Coronavirus-Hit Cruise Ship Hopes to Dock in France",
+      "excerpt": "An Italian cruise ship which earlier in its voyage disembarked two passengers who later tested positive for coronavirus hoped to dock in Marseille, France, but was still awaiting approval, port authorities said on Wednesday.",
+      "heat": null,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/18/world/europe/18reuters-health-coronavirus-france-marseille.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus-Hit Cruise Ship Hopes to Dock in France",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-coronavirus-law-to-ban-uk-landlords-from-evicting-tenants.md",
+      "title": "Coronavirus law to ban UK landlords from evicting tenants",
+      "excerpt": "Emergency legislation will protect renters for three months, says housing secretary",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/18/coronavirus-law-to-ban-uk-landlords-from-evicting-tenants",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/18/coronavirus-law-to-ban-uk-landlords-from-evicting-tenants",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/18/coronavirus-law-to-ban-uk-landlords-from-evicting-tenants",
+      "publishedDateTime": "2020-03-18T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a145a89b588d957331e6ebefbf76be07b342c462/874_110_2064_1238/master/2064.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=99b5137e0fad7cf6655d62eb25589352",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus law to ban UK landlords from evicting tenants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-italy-has-a-world-class-health-system-the-coronavirus-has-pushed-it-to-the-breaking-point.md",
+      "title": "Italy has a world-class health system. The coronavirus has pushed it to the breaking point.",
+      "excerpt": "“I have never seen so many people die together before my eyes,” said a nurse from one of the main hospitals in Bergamo, a city in northern Italy.",
+      "heat": 110,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/italy-has-world-class-health-system-coronavirus-has-pushed-it-n1162786",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1162786",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1162786",
+      "publishedDateTime": "2020-03-18T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_12/3273546/200317-cremona-icu-al-1532_3eaad0ce0b6b8de6e365d7999fefd2e1.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": "Italy has a world-class health system. The coronavirus has pushed it to the breaking point.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-rattled-world-at-war-with-coronavirus-as-deaths-surge-in-italy-france.md",
+      "title": "Rattled world 'at war' with coronavirus as deaths surge in Italy, France",
+      "excerpt": "Hundreds of millions of people faced a world turned upside down on Wednesday by unprecedented emergency measures against the coronavirus pandemic that is killing the old and vulnerable and threatening prolonged economic misery.",
+      "heat": 129,
+      "tags": [
+        "France",
+        "FR",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-idUSKBN21522O",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21522O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21522O",
+      "publishedDateTime": "2020-03-18T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1504891737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H1CK",
+          "width": 847,
+          "height": 545,
+          "title": "Rattled world 'at war' with coronavirus as deaths surge in Italy, France",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-honda-bmw-close-plants-in-us-and-europe-due-to-the-coronavirus-outbreak.md",
+      "title": "Honda, BMW close plants in U.S. and Europe due to the coronavirus outbreak",
+      "excerpt": "Honda North America announced it will be closing four U.S.-based plants starting March 23 due to an anticipated decline in market demand related to the coronavirus. In a statement, Honda said it would halt production for six days and that it plans to return at the end of the month.",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/18/coronavirus-honda-north-america-shuts-down-us-plants-due-to-outbreak.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/18/coronavirus-honda-north-america-shuts-down-us-plants-due-to-outbreak.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/18/coronavirus-honda-north-america-shuts-down-us-plants-due-to-outbreak.html",
+      "publishedDateTime": "2020-03-18T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105923243-1558376407430gettyimages-909301394.jpeg?v=1558376433",
+          "width": 4000,
+          "height": 2624,
+          "title": "Honda, BMW close plants in U.S. and Europe due to the coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-italys-coronavirus-death-toll-nears-chinas-after-largest-one-day-spike-despite-lockdown.md",
+      "title": "Italy's coronavirus death toll nears China's after largest one-day spike despite lockdown",
+      "excerpt": "Italy’s death toll is nearing that of China, where at least 3,122 people have died, according to Johns Hopkins University, since the novel COVID-19 first was reported in the city of Wuhan in the Hubei province late December. The World Health Organization last week named Europe the new epicenter of the coronavirus pandemic – and Italy is the ...",
+      "heat": 161,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/italy-coronavirus-death-toll-largest-spike-close-china",
+      "ampWebUrl": "https://www.foxnews.com/world/italy-coronavirus-death-toll-largest-spike-close-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/italy-coronavirus-death-toll-largest-spike-close-china.amp",
+      "publishedDateTime": "2020-03-18T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/AP-Italy-Virus.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Italy's coronavirus death toll nears China's after largest one-day spike despite lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-italys-lombardy-asks-retired-health-workers-to-join-coronavirus-fight.md",
+      "title": "Italy's Lombardy asks retired health workers to join coronavirus fight",
+      "excerpt": "The northern region of Lombardy, on the frontline of Italy’s battle against the coronavirus, appealed to recently retired doctors and nurses on Wednesday to return to work and help colleagues overwhelmed by the crisis.",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-idUSKBN2151M8",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2151M8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2151M8",
+      "publishedDateTime": "2020-03-18T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1505022701&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H1GC",
+          "width": 817,
+          "height": 545,
+          "title": "Italy's Lombardy asks retired health workers to join coronavirus fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-uk-moves-to-close-all-schools-indefinitely-after-32-more-die-of-coronavirus.md",
+      "title": "UK moves to close all schools indefinitely after 32 more die of coronavirus",
+      "excerpt": "U.K. officials on Wednesday announced that all schools will be closed indefinitely starting Friday in response to the coronavirus that took an additional 32 lives. The announcement from education secretary Gavin Williams mirrored similar measures already taken in Scotland, Wales, and Northern Ireland. Schools for children of parents who work ...",
+      "heat": 163,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/uk-close-all-schools-coronavirus",
+      "ampWebUrl": "https://www.foxnews.com/world/uk-close-all-schools-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uk-close-all-schools-coronavirus.amp",
+      "publishedDateTime": "2020-03-18T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/AP20078641632905.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "UK moves to close all schools indefinitely after 32 more die of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-zara-owner-offers-to-make-scrubs-for-spains-coronavirus-stretched-hospitals.md",
+      "title": "Zara owner offers to make scrubs for Spain's coronavirus-stretched hospitals",
+      "excerpt": "Zara owner Inditex, whose polka dot dress was a high-street sensation in 2019, may soon be stitching hospital scrubs, helping its home country Spain fight the coronavirus epidemic, the company said on Wednesday.",
+      "heat": 102,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-inditex-scrubs-idUSKBN2153EK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2153EK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2153EK",
+      "publishedDateTime": "2020-03-18T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1505010206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H26L",
+          "width": 997,
+          "height": 545,
+          "title": "Zara owner offers to make scrubs for Spain's coronavirus-stretched hospitals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-coronavirus-vodafone-uk-sees-30-rise-in-data-use.md",
+      "title": "Coronavirus: Vodafone UK sees 30% rise in data use",
+      "excerpt": "More people are working from home as a result of the coronavirus pandemic, putting more demand on all networks ... \"We have enough headroom to meet growing demand and to keep the UK connected,\" a spokesman told BBC News. \"Our network team is keeping a constant watch on the situation.\" While use of remote-access technologies, webmail and ...",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51947447",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51947447",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51947447",
+      "publishedDateTime": "2020-03-18T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/55AE/production/_111343912_mediaitem111343911.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Vodafone UK sees 30% rise in data use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-air-force-flew-500000-coronavirus-test-kits-from-italy-to-tennessee.md",
+      "title": "Air Force flew 500,000 coronavirus test kits from Italy to Tennessee",
+      "excerpt": "The U.S. Air Force has flown half a million coronavirus testing kits from Italy to Tennessee, the branch’s top general revealed Wednesday. Gen. David Goldfein told reporters at the Pentagon that the kits landed in Memphis on Monday. They were transported across the Atlantic on an Air Force C-17 cargo plane and now will be distributed ...",
+      "heat": 140,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/air-force-flew-500000-coronavirus-test-kits",
+      "ampWebUrl": "https://www.foxnews.com/us/air-force-flew-500000-coronavirus-test-kits.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/air-force-flew-500000-coronavirus-test-kits.amp",
+      "publishedDateTime": "2020-03-18T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Air-Force-C-17-iStock.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Air Force flew 500,000 coronavirus test kits from Italy to Tennessee",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-china-ramps-up-coronavirus-help-to-europe.md",
+      "title": "China ramps up coronavirus help to Europe",
+      "excerpt": "Brussels has thanked China for offering to provide more than 2m medical masks and 50,000 coronavirus testing kits, as Beijing escalates its help to European countries grappling with the growing pandemic. Ursula von der Leyen, European Commission president, said she spoke to Li Keqiang, China’s premier, on Wednesday and agreed with him that ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/186a9260-693a-11ea-800d-da70cff6e4d3",
+      "ampWebUrl": "https://amp.ft.com/content/186a9260-693a-11ea-800d-da70cff6e4d3",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/186a9260-693a-11ea-800d-da70cff6e4d3",
+      "publishedDateTime": "2020-03-18T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fc319b1ee-6932-11ea-a6ac-9122541af204?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "China ramps up coronavirus help to Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-experimental-lung-drug-to-be-tested-on-uk-coronavirus-patients.md",
+      "title": "Experimental lung drug to be tested on UK coronavirus patients",
+      "excerpt": "Biotech firm Synairgen will trial SNG001 inhaler on 100 people in race to find cure",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/18/uk-coronavirus-patients-trial-experimental-lung-drug-synairgen-cure",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/18/uk-coronavirus-patients-trial-experimental-lung-drug-synairgen-cure",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/18/uk-coronavirus-patients-trial-experimental-lung-drug-synairgen-cure",
+      "publishedDateTime": "2020-03-18T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0f33e9ef89a257405fcc1c73a5f18cc917904d9c/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=27f163c880cc6fb735bbf5a1f3fc988b",
+          "width": 600,
+          "height": 360,
+          "title": "Experimental lung drug to be tested on UK coronavirus patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-italy-reports-475-new-coronavirus-deaths-lifting-total-death-toll-to-2978.md",
+      "title": "Italy Reports 475 New Coronavirus Deaths, Lifting Total Death Toll to 2,978",
+      "excerpt": "The death toll from an outbreak of coronavirus in Italy has surged in the last 24 hours by 475 to 2,978, an increase of 19%, the biggest jump in numerical terms since the contagion came to light last month,",
+      "heat": 158,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/18/world/europe/18reuters-health-coronavirus-italy-tally.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Italy Reports 475 New Coronavirus Deaths, Lifting Total Death Toll to 2,978",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-london-could-go-into-lockdown-under-tougher-coronavirus-measures.md",
+      "title": "London could go into lockdown under tougher coronavirus measures",
+      "excerpt": "No 10 considers stricter containment steps as disease spreads rapidly in the capital",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/uk-news/2020/mar/18/london-coronavirus-lockdown-tougher-measures",
+      "ampWebUrl": "https://amp.theguardian.com/uk-news/2020/mar/18/london-coronavirus-lockdown-tougher-measures",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/mar/18/london-coronavirus-lockdown-tougher-measures",
+      "publishedDateTime": "2020-03-18T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2edf3a3b33d759263c23e85f511d02c0316a7a7b/0_285_5442_3265/master/5442.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a776ddae4c33347a566c32e0909d7c3",
+          "width": 600,
+          "height": 360,
+          "title": "London could go into lockdown under tougher coronavirus measures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-new-coronavirus-cases-in-asian-countries-that-seemed-to-have-outbreaks-under-control-are-being-blamed-on-people-fleeing-europe.md",
+      "title": "New coronavirus cases in Asian countries that seemed to have outbreaks under control are being blamed on people fleeing Europe",
+      "excerpt": "A new wave of coronavirus cases in Asia is said to be made up of mostly \"imported cases\" from people flying home to escape the outbreaks in Europe.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/uptick-coronavirus-cases-asia-dashes-hopes-covid19-pandemic-slowing-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/uptick-coronavirus-cases-asia-dashes-hopes-covid19-pandemic-slowing-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uptick-coronavirus-cases-asia-dashes-hopes-covid19-pandemic-slowing-2020-3?amp",
+      "publishedDateTime": "2020-03-18T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e723996c4854074736416a6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "New coronavirus cases in Asian countries that seemed to have outbreaks under control are being blamed on people fleeing Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-europe-barricades-borders-to-slow-coronavirus.md",
+      "title": "Europe Barricades Borders to Slow Coronavirus",
+      "excerpt": "Even as European countries erect barriers between one another, the E.U. announced a coordinated ban on nearly all travelers from the rest of the world. Published March 17, 2020 Updated March 18, 2020,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/17/world/europe/EU-closes-borders-virus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/17/world/europe/EU-closes-borders-virus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/17/world/europe/EU-closes-borders-virus.amp.html",
+      "publishedDateTime": "2020-03-18T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/17/world/17eu-travel01/17eu-travel01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Europe Barricades Borders to Slow Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-uncounted-among-coronavirus-victims-deaths-sweep-through-italys-nursing-homes.md",
+      "title": "Uncounted among coronavirus victims, deaths sweep through Italy's nursing homes",
+      "excerpt": "As the official death toll from Italy’s coronavirus outbreak passes 2,500, a silent surge in fatalities in nursing homes, where dozens of patients a day are dying untested for the virus, suggests the real total may be higher.",
+      "heat": 116,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-homes-insigh-idUSKBN2152V0",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2152V0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2152V0",
+      "publishedDateTime": "2020-03-18T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1505017863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H1TT",
+          "width": 817,
+          "height": 545,
+          "title": "Uncounted among coronavirus victims, deaths sweep through Italy's nursing homes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-coronavirus-death-toll-in-italys-lombardy-jumps-319-in-a-day-sources.md",
+      "title": "Coronavirus death toll in Italy's Lombardy jumps 319 in a day: sources",
+      "excerpt": "The death toll from an outbreak of coronavirus in the northern Italian region of Lombardy, which has borne the brunt of a nationwide contagion, has risen by 319 in a day to 1,959, two sources with access to the data said on Wednesday.",
+      "heat": 130,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-lombardy-idUSKBN2152R2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2152R2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2152R2",
+      "publishedDateTime": "2020-03-18T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus death toll in Italy's Lombardy jumps 319 in a day: sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-coronavirus-london-lockdown-imminent.md",
+      "title": "Coronavirus: London lockdown imminent",
+      "excerpt": "London is facing a lockdown, possibly before the weekend, as Boris Johnson prepares sweeping new measures — including school closures — to tackle the rapid spread of the coronavirus. Nicola Sturgeon, Scotland’s first minister, said the UK government was about to announce “more stringent measures” for London, which Mr Johnson has ...",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/e8c98d1c-6926-11ea-a3c9-1fe6fedcca75",
+      "ampWebUrl": "https://amp.ft.com/content/e8c98d1c-6926-11ea-a3c9-1fe6fedcca75",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e8c98d1c-6926-11ea-a3c9-1fe6fedcca75",
+      "publishedDateTime": "2020-03-18T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F76863ca2-692e-11ea-a6ac-9122541af204?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "Coronavirus: London lockdown imminent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-italys-prada-reports-27-rise-in-full-year-sales-flags-hit-from-coronavirus.md",
+      "title": "Italy's Prada reports 2.7% rise in full-year sales, flags hit from coronavirus",
+      "excerpt": "Sales at Italian fashion group Prada (1913.HK) rose by 2.7% at current exchange rates in 2019, but warned that it expected a negative impact on 2020 results due to the coronavirus outbreak. The luxury goods maker said it was implementing a comprehensive contingency plan to mitigate the effects without giving further details.",
+      "heat": 116,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-prada-results-idUSKBN2152DR",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2152DR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2152DR",
+      "publishedDateTime": "2020-03-18T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1504917716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H1JD",
+          "width": 818,
+          "height": 545,
+          "title": "Italy's Prada reports 2.7% rise in full-year sales, flags hit from coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-frances-state-backed-investment-bank-bpi-joins-coronavirus-fight.md",
+      "title": "France’s state-backed investment bank BPI joins coronavirus fight",
+      "excerpt": "France’s state-backed investment bank BPI has fielded about 12,000 inquiries in ... president Emmanuel Macron reaffirmed unlimited state financial support for businesses and employees affected by the coronavirus outbreak, including up to €300bn of state guarantees for bank loans to companies. The government was spending another €45bn ...",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/ee332e34-6912-11ea-800d-da70cff6e4d3",
+      "ampWebUrl": "https://amp.ft.com/content/ee332e34-6912-11ea-800d-da70cff6e4d3",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ee332e34-6912-11ea-800d-da70cff6e4d3",
+      "publishedDateTime": "2020-03-18T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F9c17f52a-6922-11ea-a6ac-9122541af204?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "France’s state-backed investment bank BPI joins coronavirus fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-european-mobile-operators-share-data-for-coronavirus-fight.md",
+      "title": "European mobile operators share data for coronavirus fight",
+      "excerpt": "Mobile carriers are sharing data with the health authorities in Italy, Germany and Austria, helping to fight coronavirus by monitoring whether people are complying with curbs on movement while at the same time respecting Europe’s privacy laws.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-europe-telecoms-idUSKBN2152C2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2152C2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2152C2",
+      "publishedDateTime": "2020-03-18T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1504911934&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H1HT",
+          "width": 853,
+          "height": 545,
+          "title": "European mobile operators share data for coronavirus fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-every-worker-will-receive-support-through-coronavirus-crisis-uk-pm.md",
+      "title": "Every worker will receive support through coronavirus crisis: UK PM",
+      "excerpt": "British Prime Minister Boris Johnson said on Wednesday his government would bring forward new measures to support workers and protect private renters from being evicted from their homes because of coronavirus.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-johnson-idUSKBN21523G",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21523G",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21523G",
+      "publishedDateTime": "2020-03-18T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1504891791&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H1DA",
+          "width": 984,
+          "height": 545,
+          "title": "Every worker will receive support through coronavirus crisis: UK PM",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-factbox-carmakers-suspend-european-production-in-face-of-coronavirus-crisis.md",
+      "title": "Factbox: Carmakers suspend European production in face of coronavirus crisis",
+      "excerpt": "Automakers are halting production at plants across Europe as they grapple with the coronavirus pandemic and diving demand. Below is a list of their announcements: The German company said on March 18 that it was preparing to suspend production at its plants in Europe and Rosslyn,",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-autos-production-f-idUSKBN2143A5",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2143A5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2143A5",
+      "publishedDateTime": "2020-03-18T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200317&t=2&i=1504888349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2G20G",
+          "width": 866,
+          "height": 545,
+          "title": "Factbox: Carmakers suspend European production in face of coronavirus crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-white-house-postpones-spains-state-visit-due-to-coronavirus.md",
+      "title": "White House postpones Spain's state visit due to coronavirus",
+      "excerpt": "President Trump and first lady Melania Trump were scheduled to host King Felipe VI and Queen Letizia of Spain on April 21.",
+      "heat": 115,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/coronavirus-white-house-postpones-spain-king-queen-state-visit/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/coronavirus-white-house-postpones-spain-king-queen-state-visit/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-white-house-postpones-spain-king-queen-state-visit/",
+      "publishedDateTime": "2020-03-18T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/18/20f92da3-d693-48f9-ab95-8c953f31bb9f/thumbnail/1200x630/925ae3e632c36f94969a1608245ee1e4/gettyimages-978827364.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "White House postpones Spain's state visit due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-rolls-royce-motor-cars-suspend-production-in-uk-over-coronavirus.md",
+      "title": "Rolls-Royce motor cars suspend production in UK over coronavirus",
+      "excerpt": "Rolls-Royce motor cars said it would suspend production at its British plant for two weeks to ensure the health of its employees. “Rolls-Royce Motor Cars announced today that production at the company’s Goodwood-based manufacturing plant will be suspended from Monday 23 March for two weeks,",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-rollsroyce-idUSKBN2151ZG",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2151ZG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2151ZG",
+      "publishedDateTime": "2020-03-18T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1504882928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H1A6",
+          "width": 817,
+          "height": 545,
+          "title": "Rolls-Royce motor cars suspend production in UK over coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-plunge-in-italys-electricity-use-hints-at-coronavirus-risks-facing-us.md",
+      "title": "Plunge in Italy’s Electricity Use Hints at Coronavirus Risks Facing U.S.",
+      "excerpt": "Demand for electricity is beginning to weaken in parts of the U.S. hardest hit by the coronavirus and could fall further in coming days as shelter-in-place orders spread, following a path taken by Italy’s industrial region.",
+      "heat": 119,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/plunge-in-italys-electricity-use-hints-at-coronavirus-risks-facing-u-s-11584532801",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/plunge-in-italys-electricity-use-hints-at-coronavirus-risks-facing-u-s-11584532801",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/plunge-in-italys-electricity-use-hints-at-coronavirus-risks-facing-u-s-11584532801",
+      "publishedDateTime": "2020-03-18T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-165938/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Plunge in Italy’s Electricity Use Hints at Coronavirus Risks Facing U.S.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-toyota-says-plans-to-shut-more-plants-in-europe-asia-due-to-coronavirus.md",
+      "title": "Toyota says plans to shut more plants in Europe, Asia due to coronavirus",
+      "excerpt": "Toyota Motor Corp ( 7203.T) on Wednesday said it planned to stop output at more vehicles plants in Europe and Asia as the spread of the coronavirus prompts countries to instruct non-essential businesses to suspend operations.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-toyota-idUSKBN2151FI",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2151FI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2151FI",
+      "publishedDateTime": "2020-03-18T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200318&t=2&i=1504842179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2H112",
+          "width": 817,
+          "height": 545,
+          "title": "Toyota says plans to shut more plants in Europe, Asia due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-italy-further-tightens-restrictions-on-residents-leaving-home.md",
+      "title": "Italy further tightens restrictions on residents leaving home",
+      "excerpt": "The number of coronavirus cases globally was approaching 200,000 on Wednesday, as people in the U.S. and in countries across the world adjusted to life under lockdown and isolation. According to Johns Hopkins University,",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-global-cases-approach-200-000-lockdown-becomes-new-n1162561/ncrd1162576",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1162561",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1162561",
+      "publishedDateTime": "2020-03-18T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_12/3274311/200318-coronavirus-blog-mc-652_186cf39294faea53a6deee85fabf6605.JPG",
+          "width": 2500,
+          "height": 1603,
+          "title": "Italy further tightens restrictions on residents leaving home",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 22
+}

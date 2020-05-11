@@ -1,0 +1,1424 @@
+{
+  "page": 19,
+  "value": [
+    {
+      "path": "_news/2020-03-25-spains-coronavirus-death-toll-soars-past-chinas-trailing-only-italy.md",
+      "title": "Spain's Coronavirus Death Toll Soars Past China's, Trailing Only Italy",
+      "excerpt": "Spain is now reporting COVID-19 has killed more than 3,400 people, making it the second European country with a death toll higher than in China, where the new coronavirus was first detected in late 2019. Italy is reporting 6,820 deaths from the viral ...",
+      "heat": 220,
+      "tags": [
+        "Italy",
+        "IT",
+        "CN",
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.npr.org/sections/coronavirus-live-updates/2020/03/25/821370109/spains-coronavirus-death-toll-soars-past-china-s-trailing-only-italy",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/03/25/coronavirus-spain_wide-fae4b3a3a95fb7b14025166e70b75154e839eaa4.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "Spain's Coronavirus Death Toll Soars Past China's, Trailing Only Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-patients-in-italy-face-prison-if-they-break-quarantine.md",
+      "title": "Coronavirus patients in Italy face prison if they break quarantine",
+      "excerpt": "The novel coronavirus pandemic continues to spread worldwide, sending countries into lockdown with millions under movement restrictions. Follow here for live updates",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/world/live-news/coronavirus-outbreak-03-25-20-intl-hnk/h_cc882daacccaa6f698ce0f1b562b42a2",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-outbreak-03-25-20-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-outbreak-03-25-20-intl-hnk/index.html",
+      "publishedDateTime": "2020-03-24T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175729-01-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Coronavirus patients in Italy face prison if they break quarantine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-updates-spain-now-has-more-deaths-than-china.md",
+      "title": "Coronavirus updates: Spain now has more deaths than China",
+      "excerpt": "The novel coronavirus pandemic continues to spread worldwide, sending countries into lockdown with millions under movement restrictions. Follow here for live updates",
+      "heat": 105,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-25-20-intl-hnk/h_06b0a776e96de18394f24ffcb406e46f",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-outbreak-03-25-20-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-outbreak-03-25-20-intl-hnk/index.html",
+      "publishedDateTime": "2020-03-24T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213175729-01-coronavirus-0213-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Coronavirus updates: Spain now has more deaths than China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-trump-privately-appeals-to-asia-and-europe-for-medical-help-to-fight-coronavirus.md",
+      "title": "Trump privately appeals to Asia and Europe for medical help to fight coronavirus",
+      "excerpt": "Santa Cruz County Health Care facilities have put the word out that they are in desperate need of personal protective equipment as they prepare for an increase of COVID-19 patients. Santa Cruz County released its stockpile of 27,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/25/trump-privately-appeals-to-asia-and-europe-for-medical-help-to-fight-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/25/trump-privately-appeals-to-asia-and-europe-for-medical-help-to-fight-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/25/trump-privately-appeals-to-asia-and-europe-for-medical-help-to-fight-coronavirus",
+      "publishedDateTime": "2020-03-24T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c75dab5a315a721234e35ebd7fdbe439a3c898e2/0_307_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39b3d4a87a71ff6ad1f84838fb717b1e",
+          "width": 600,
+          "height": 360,
+          "title": "Trump privately appeals to Asia and Europe for medical help to fight coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-coronavirus-in-italy-takes-its-toll-on-organized-crime.md",
+      "title": "Coronavirus in Italy takes its toll on organized crime",
+      "excerpt": "As global leaders scramble to fight the coronavirus, one overlooked institution in Italy has been badly impacted by the pandemic: organized crime.",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/coronavirus-italy-organized-crime",
+      "ampWebUrl": "https://www.foxnews.com/world/coronavirus-italy-organized-crime.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/coronavirus-italy-organized-crime.amp",
+      "publishedDateTime": "2020-03-24T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/AP20083676669623.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Coronavirus in Italy takes its toll on organized crime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-pep-guardiola-makes-1m-donation-to-aid-spains-fight-against-coronavirus.md",
+      "title": "Pep Guardiola makes €1m donation to aid Spain's fight against coronavirus",
+      "excerpt": "Photograph: Javier García/BPI/Shutterstock The Manchester City manager, Pep Guardiola, has donated €1m towards providing medical equipment for the fight against the coronavirus in his home country Spain. The former Barcelona player and manager made the donation to a campaign launched by the Angel Soler Daniel Foundation and Medical College ...",
+      "heat": 104,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/football/2020/mar/24/pep-guardiola-makes-1m-donation-to-aid-spains-fight-against-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/football/2020/mar/24/pep-guardiola-makes-1m-donation-to-aid-spains-fight-against-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2020/mar/24/pep-guardiola-makes-1m-donation-to-aid-spains-fight-against-coronavirus",
+      "publishedDateTime": "2020-03-24T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f29f84c8e988c16c5e0869af7fa961450a07b5dc/0_88_1195_717/master/1195.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa6a4436c63b058964d1dc577fe6cab6",
+          "width": 600,
+          "height": 360,
+          "title": "Pep Guardiola makes €1m donation to aid Spain's fight against coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-death-toll-in-italys-lombardy-rises-by-around-400-in-a-day-source.md",
+      "title": "Coronavirus death toll in Italy's Lombardy rises by around 400 in a day - source",
+      "excerpt": "The death toll from an outbreak of coronavirus in the northern region of Lombardy, which has borne the brunt of Italy’s contagion, has risen by around",
+      "heat": 195,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-italy-lombardy/coronavirus-death-toll-in-italys-lombardy-rises-by-around-400-in-a-day-source-idUSR1N29V012",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSR1N29V012",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSR1N29V012",
+      "publishedDateTime": "2020-03-24T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus death toll in Italy's Lombardy rises by around 400 in a day - source",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-italy-pm-raises-maximum-fine-to-3000-euros-for-those-who-defy-lockdown.md",
+      "title": "Italy PM raises maximum fine to 3,000 euros for those who defy lockdown",
+      "excerpt": "The Italian government increased fines Tuesday for those who violate a lockdown order from 206 euros to between 400 and 3,000 euros ($430 to $3,227).",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/italy-fines-those-who-defy-lockdown",
+      "ampWebUrl": "https://www.foxnews.com/world/italy-fines-those-who-defy-lockdown.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/italy-fines-those-who-defy-lockdown.amp",
+      "publishedDateTime": "2020-03-24T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/italy_3.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Italy PM raises maximum fine to 3,000 euros for those who defy lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-germany-says-six-million-coronavirus-face-masks-missing-in-kenya.md",
+      "title": "Germany says six million coronavirus face masks missing in Kenya",
+      "excerpt": "German customs officials are trying to track down about 6 million face masks, ordered to protect health workers from the coronavirus, that they say went missing",
+      "heat": 105,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-germany-masks-idUSKBN21B1T0",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21B1T0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21B1T0",
+      "publishedDateTime": "2020-03-24T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200324&t=2&i=1507574374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2N1IF",
+          "width": 731,
+          "height": 545,
+          "title": "Germany says six million coronavirus face masks missing in Kenya",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-why-germanys-coronavirus-death-toll-remains-low-as-cases-surge-in-europe.md",
+      "title": "Why Germany’s coronavirus death toll remains low as cases surge in Europe",
+      "excerpt": "Germany’s coronavirus death toll has remained low amid a surge in cases throughout Europe, with some experts saying the virus has not yet hit the country’s elderly population.",
+      "heat": 124,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/why-germany-coronavirus-deaths-low",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-why-germanys-coronavirus-death-rate-is-so-much-lower-than-other-countries-rates.md",
+      "title": "Why Germany’s coronavirus death rate is so much lower than other countries’ rates",
+      "excerpt": "Incluindo série Uncharted e The Last of Us Foi lançada uma nova versão do emulador de PS3 para PC, o RPCS3, que agora permite aos usuários desbloquear as taxas de quadros de alguns títulos do PS3 Em u",
+      "heat": 170,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-24T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/3TV1tTrhcTQ8H4RPPPpgfCVcphI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z763DHTNJQI6VI7MODLUPHMD6A.jpg",
+          "width": 1440,
+          "height": 980,
+          "title": "Why Germany’s coronavirus death rate is so much lower than other countries’ rates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-italy-coronavirus-deaths-rise-by-743-in-a-day-lifting-total-death-toll-to-6820.md",
+      "title": "Italy coronavirus deaths rise by 743 in a day, lifting total death toll to 6,820",
+      "excerpt": "The death toll from an outbreak of coronavirus in Italy has grown by 743 to 6,820, the head of the Civil Protection Agency said on Tuesday, reversing a decline in",
+      "heat": 195,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-tally-idUSKBN21B2T4",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21B2T4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21B2T4",
+      "publishedDateTime": "2020-03-24T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200324&t=2&i=1507650294&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2N1U5",
+          "width": 830,
+          "height": 545,
+          "title": "Italy coronavirus deaths rise by 743 in a day, lifting total death toll to 6,820",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-chinas-coronavirus-blame-game-now-shifts-to-italy.md",
+      "title": "China's coronavirus blame game now shifts to Italy",
+      "excerpt": "The Chinese government, in another effort to skirt blame for the global coronavirus pandemic, has reportedly backed away from the United States and is now looking to Italy as part of its ongoing propaganda campaign meant to sow disinformation about the outbreak.",
+      "heat": 170,
+      "tags": [
+        "Italy",
+        "IT",
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/china-coronavirus-propaganda-campaign-italy",
+      "ampWebUrl": "https://www.foxnews.com/world/china-coronavirus-propaganda-campaign-italy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-coronavirus-propaganda-campaign-italy.amp",
+      "publishedDateTime": "2020-03-24T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/GettyImages-China-Wet-Market-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "China's coronavirus blame game now shifts to Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-as-europe-fights-coronavirus-and-climate-is-green-stimulus-the-way.md",
+      "title": "As Europe fights coronavirus and climate, is 'green stimulus' the way?",
+      "excerpt": "Coronavirus has taken some focus away from environmental issues but pressure is now mounting to design spending around climate change. On Tuesday, UK government adviser Chris Stark urged governments to “look to green stimulus”.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-green-analysis-idUSKBN21B2NZ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21B2NZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21B2NZ",
+      "publishedDateTime": "2020-03-24T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200324&t=2&i=1507613677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2N1QH",
+          "width": 814,
+          "height": 545,
+          "title": "As Europe fights coronavirus and climate, is 'green stimulus' the way?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-spain-doctors-lack-protection-as-514-people-die-with-coronavirus-in-one-day.md",
+      "title": "Spain: doctors lack protection as 514 people die with coronavirus in one day",
+      "excerpt": "Healthcare workers in country account for more than 13% of the country’s Covid-19 cases",
+      "heat": 102,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/24/spain-doctors-lack-protection-coronavirus-covid-19",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/24/spain-doctors-lack-protection-coronavirus-covid-19",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/24/spain-doctors-lack-protection-coronavirus-covid-19",
+      "publishedDateTime": "2020-03-24T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1e13abbc986ad0ec5402c0b6dc2c821e3c714a2d/237_143_4612_2767/master/4612.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=971620377dbbcc6f295e7913dd60c9d5",
+          "width": 600,
+          "height": 360,
+          "title": "Spain: doctors lack protection as 514 people die with coronavirus in one day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-85-percent-of-new-coronavirus-cases-reported-in-europe-and-united-states-world-health-organization-says.md",
+      "title": "85 Percent of New Coronavirus Cases Reported in Europe and United States, World Health Organization Says",
+      "excerpt": "Italy and Spain have the most confirmed cases in Europe, while in this country New York has the most of any state.",
+      "heat": 158,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/85-percent-new-coronavirus-cases-reported-europe-united-states-world-health-organization-says-1493969",
+      "ampWebUrl": "https://www.newsweek.com/85-percent-new-coronavirus-cases-reported-europe-united-states-world-health-organization-says-1493969?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/85-percent-new-coronavirus-cases-reported-europe-united-states-world-health-organization-says-1493969?amp=1",
+      "publishedDateTime": "2020-03-24T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1576104/britain-health-virus.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "85 Percent of New Coronavirus Cases Reported in Europe and United States, World Health Organization Says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-france-eyes-shadow-army-of-fruit-pickers-as-coronavirus-bites.md",
+      "title": "France eyes \"shadow army\" of fruit pickers as coronavirus bites",
+      "excerpt": "France appealed on Tuesday to workers laid off by the coronavirus crisis to help...",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-france-agriculture-idUSKBN21B1XH",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21B1XH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21B1XH",
+      "publishedDateTime": "2020-03-24T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200324&t=2&i=1507537384&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2N1B5",
+          "width": 817,
+          "height": 545,
+          "title": "France eyes \"shadow army\" of fruit pickers as coronavirus bites",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-live-updates-new-cases-surge-in-spain-dow-futures-jump.md",
+      "title": "Coronavirus live updates: New cases surge in Spain; Dow futures jump",
+      "excerpt": "As of Tuesday, more than 387,382 cases of coronavirus have been reported, resulting in at least 16,767 deaths.",
+      "heat": 100,
+      "tags": [
+        "Spain",
+        "ES",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/24/coronavirus-live-updates.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus",
+        "Coronavirus in Europe",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-spains-coronavirus-death-toll-jumps-514-in-24-hours.md",
+      "title": "Spain's coronavirus death toll jumps 514 in 24 hours",
+      "excerpt": "The coronavirus death toll in Spain has jumped by 514 in a single day, as the situation in the country quickly worsens. Official figures show that 2,696 people have now died in the country and close to 40,000 are infected. About 5,400 health care workers are among those confirmed cases. Spain is the worst affected country in Europe after Italy ...",
+      "heat": 115,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.co.uk/news/world-europe-52020060",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7AD0/production/_111404413_bf0b65ba-1d4e-43f3-8bcb-60d1470dcee7.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Spain's coronavirus death toll jumps 514 in 24 hours",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-struggling-to-give-up-coffee-and-books-in-coronavirus-france.md",
+      "title": "Struggling to give up coffee and books in coronavirus France",
+      "excerpt": "France has battened down the hatches against coronavirus, with millions of school children studying from home, office workers connecting remotely, and restaurants and cinemas shut. But for some, adhering to the restrictions is already proving difficult.",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-france-rulebreaker-idUSKBN2132WK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2132WK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2132WK",
+      "publishedDateTime": "2020-03-24T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1504043395&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2F1TD",
+          "width": 817,
+          "height": 545,
+          "title": "Struggling to give up coffee and books in coronavirus France",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-us-and-europe-tighten-lockdowns-as-restrictions-lift-in-epicenter.md",
+      "title": "Coronavirus: U.S. and Europe tighten lockdowns as restrictions lift in epicenter",
+      "excerpt": "Residents of Wuhan will be allowed to travel out of the province for work as early as Wednesday.",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/news/world/coronavirus-u-s-europe-tighten-lockdown-restrictions-lift-epicenter-n1167391",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1167391",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1167391",
+      "publishedDateTime": "2020-03-24T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_13/3281341/200324-coronavirus-blog-mc-9272_adf5bcf35e59eab4ae263e637a496cb5.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": "Coronavirus: U.S. and Europe tighten lockdowns as restrictions lift in epicenter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-update-map-as-cases-pass-387000-china-eases-lockdown-in-wuhan-italy-sees-drop-in-cases.md",
+      "title": "Coronavirus Update, Map As Cases Pass 387,000, China Eases Lockdown in Wuhan, Italy Sees Drop in Cases",
+      "excerpt": "Italy has seen a slight drop in cases over the past few days, while the U.S. saw nearly 100 more deaths in a day.",
+      "heat": 169,
+      "tags": [
+        "Italy",
+        "IT",
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/coronavirus-update-map-cases-387000-china-eases-lockdown-wuhan-italy-cases-1493902",
+      "ampWebUrl": "https://www.newsweek.com/coronavirus-update-map-cases-387000-china-eases-lockdown-wuhan-italy-cases-1493902?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/coronavirus-update-map-cases-387000-china-eases-lockdown-wuhan-italy-cases-1493902?amp=1",
+      "publishedDateTime": "2020-03-24T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1576032/rome-italy-coronavirus-march-2020.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Coronavirus Update, Map As Cases Pass 387,000, China Eases Lockdown in Wuhan, Italy Sees Drop in Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-open-thread-share-your-thoughts-and-experiences-on-the-uk-coronavirus-lockdown.md",
+      "title": "Open thread: share your thoughts and experiences on the UK coronavirus lockdown",
+      "excerpt": "The Japanese conglomerate, which also operates the $100 billion Vision Fund, is considered especially vulnerable to economic shocks given its enormous debt load and ties to unprofitable startups.",
+      "heat": 101,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/24/open-thread-share-your-thoughts-and-experiences-on-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/24/open-thread-share-your-thoughts-and-experiences-on-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/24/open-thread-share-your-thoughts-and-experiences-on-coronavirus",
+      "publishedDateTime": "2020-03-24T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9d66600faac1b138e07691ba5fb07be599f4f200/134_124_3332_1998/master/3332.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4df6f46c94c93793a2831e37d92b0b66",
+          "width": 600,
+          "height": 360,
+          "title": "Open thread: share your thoughts and experiences on the UK coronavirus lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-life-under-lockdown-as-coronavirus-grips-italy-qa.md",
+      "title": "Life Under Lockdown as Coronavirus Grips Italy: Q&A",
+      "excerpt": "Professor Carlo Altomonte, who lives in Milan, answers questions about how he has experienced living, working, shopping, and socializing.",
+      "heat": 100,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-03-24/coronavirus-q-a-life-under-lockdown-in-italy",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-03-24/coronavirus-q-a-life-under-lockdown-in-italy",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-03-24/coronavirus-q-a-life-under-lockdown-in-italy",
+      "publishedDateTime": "2020-03-24T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-uk-coronavirus-lockdown-rules-what-you-can-and-cannot-do.md",
+      "title": "UK coronavirus lockdown rules: what you can and cannot do",
+      "excerpt": "Everything we know about the restrictions so far",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/24/uk-coronavirus-lockdown-rules-what-you-can-and-cannot-do",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/24/uk-coronavirus-lockdown-rules-what-you-can-and-cannot-do",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/24/uk-coronavirus-lockdown-rules-what-you-can-and-cannot-do",
+      "publishedDateTime": "2020-03-24T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cb37104ed02dd2855772aca2ae88c01b4339ec9e/0_83_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0709f95b0df3e469687bbb5ad6b0463",
+          "width": 600,
+          "height": 360,
+          "title": "UK coronavirus lockdown rules: what you can and cannot do",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-smashes-uk-economy-with-unprecedented-force-pmi.md",
+      "title": "Coronavirus smashes UK economy with unprecedented force: PMI",
+      "excerpt": "Britain's economy is shrinking at a record pace, faster than during the 200...",
+      "heat": 130,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-britain-economy-pmi-idUSKBN21B14A",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21B14A",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21B14A",
+      "publishedDateTime": "2020-03-24T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200324&t=2&i=1507466865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2N0TG",
+          "width": 841,
+          "height": 545,
+          "title": "Coronavirus smashes UK economy with unprecedented force: PMI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Economic Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-germany-to-return-to-austerity-after-coronavirus-crisis-economy-minister-says.md",
+      "title": "Germany to return to austerity after coronavirus crisis, economy minister says",
+      "excerpt": "The German government will return to its savings policy once the coronavirus crisis is over, Economy Minister Peter Altmaier told ZDF broadcaster on Tuesday.",
+      "heat": 121,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/24/germany-to-return-to-austerity-after-coronavirus-crisis-minister-says.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/24/germany-to-return-to-austerity-after-coronavirus-crisis-minister-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/24/germany-to-return-to-austerity-after-coronavirus-crisis-minister-says.html",
+      "publishedDateTime": "2020-03-24T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106458032-1585037380664gettyimages-1208033782.jpeg?v=1585037599",
+          "width": 5760,
+          "height": 3840,
+          "title": "Germany to return to austerity after coronavirus crisis, economy minister says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-uk-could-strengthen-punishment-for-flouting-coronavirus-measures-gove-says.md",
+      "title": "UK could strengthen punishment for flouting coronavirus measures, Gove says",
+      "excerpt": "Britain could introduce stronger measures than 30 pound fixed penalty fines for people who flout new restrictions announced on Monday to slow the spread of coronavirus, Cabinet Office minister Michael Gove said.",
+      "heat": 113,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-gove-idUSKBN21B0UO",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21B0UO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21B0UO",
+      "publishedDateTime": "2020-03-24T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200324&t=2&i=1507437424&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2N0M7",
+          "width": 853,
+          "height": 545,
+          "title": "UK could strengthen punishment for flouting coronavirus measures, Gove says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-briefing-uk-lockdown-and-who-warning-on-accelerating-pandemic.md",
+      "title": "Coronavirus briefing: UK lockdown and WHO warning on 'accelerating' pandemic",
+      "excerpt": "First it was advice, now it's an order. Boris Johnson has issued a stark message to the country: \"At this moment of national emergency... stay at home.\" Speaking after the UK death toll reached 335, the prime minister introduced unprecedented restrictions on everyday life,",
+      "heat": 102,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-52010707",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-52010707",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-52010707",
+      "publishedDateTime": "2020-03-23T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11634/production/_111402217_p087gr55.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus briefing: UK lockdown and WHO warning on 'accelerating' pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-london-the-most-vulnerable-to-coronavirus-outbreak.md",
+      "title": "London the most vulnerable to coronavirus outbreak",
+      "excerpt": "The characteristics that make London the UK’s richest city have rendered it the most vulnerable to the coronavirus outbreak. The capital has seen more than three times as many cases as any other region in the UK and almost half of the 335 deaths. Yet it contains just 14 per cent of the population. “Many of the things that make London so ...",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/1df725c0-6adb-11ea-800d-da70cff6e4d3",
+      "ampWebUrl": "https://amp.ft.com/content/1df725c0-6adb-11ea-800d-da70cff6e4d3",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/1df725c0-6adb-11ea-800d-da70cff6e4d3",
+      "publishedDateTime": "2020-03-23T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F34b5de78-6ac2-11ea-a6ac-9122541af204?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "London the most vulnerable to coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 20
+}

@@ -1,0 +1,1199 @@
+{
+  "location": {
+    "long": -95.712891,
+    "countryOrRegion": "United States",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "US",
+    "lat": 37.09024
+  },
+  "updatedDateTime": "2020-05-10T05:45:40.818893Z",
+  "news": [
+    {
+      "path": "_news/2020-05-10-la-county-announces-44-more-coronavirus-deaths-more-than-1000-new-cases.md",
+      "title": "LA County announces 44 more coronavirus deaths, more than 1,000 new cases",
+      "excerpt": "Another 44 Los Angeles County residents have died after testing positive for the coronavirus, officials announced Saturday, May 9, bringing the county’s death toll to 1,512. The county’s Public Health Department also reported 1,",
+      "heat": 199,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dailynews.com/2020/05/09/la-county-announces-44-more-coronavirus-deaths-more-than-1000-new-cases/",
+      "ampWebUrl": "https://www.dailynews.com/2020/05/09/la-county-announces-44-more-coronavirus-deaths-more-than-1000-new-cases/amp/",
+      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/05/09/la-county-announces-44-more-coronavirus-deaths-more-than-1000-new-cases/amp/",
+      "publishedDateTime": "2020-05-09T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Daily News",
+        "domain": "dailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailynews.com/wp-content/uploads/2020/05/LDN-L-VIRUS-LA-0313-01-SR-1.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 681,
+          "title": "LA County announces 44 more coronavirus deaths, more than 1,000 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-coronavirus-live-news-obama-calls-trumps-covid-19-response-chaotic-as-global-cases-pass-4-million.md",
+      "title": "Coronavirus live news: Obama calls Trump's Covid-19 response 'chaotic', as global cases pass 4 million",
+      "excerpt": "Mexican hospitals turn people away; Russia cases approach 200,000; German football league setback as Dynamo Dresden team quarantined",
+      "heat": 104,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/may/10/coronavirus-live-news-obama-trumps-covid-19--chaotic-as-global-cases-pass-4-million-mexico-russia-germany-south-korea-deaths-",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/may/10/coronavirus-live-news-obama-trumps-covid-19--chaotic-as-global-cases-pass-4-million-mexico-russia-germany-south-korea-deaths-",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/may/10/coronavirus-live-news-obama-trumps-covid-19--chaotic-as-global-cases-pass-4-million-mexico-russia-germany-south-korea-deaths-",
+      "publishedDateTime": "2020-05-09T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/45a5994a2f94016349125d7531d0b731d4269e5d/0_250_5440_3263/master/5440.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2229c0c065451654592fea41c0efc9ea",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus live news: Obama calls Trump's Covid-19 response 'chaotic', as global cases pass 4 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-lubbock-reports-6-new-coronavirus-cases-restaurant-as-possible-exposure-site.md",
+      "title": "Lubbock reports 6 new coronavirus cases, restaurant as possible exposure site",
+      "excerpt": "Lubbock health officials on Saturday announced six new confirmed coronavirus cases in the county, with no new deaths linked to COVID-19 reported for the",
+      "heat": 132,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.lubbockonline.com/news/20200509/lubbock-reports-6-new-coronavirus-cases-restaurant-as-possible-exposure-site",
+      "ampWebUrl": "https://www.lubbockonline.com/news/20200509/lubbock-reports-6-new-coronavirus-cases-restaurant-as-possible-exposure-site?template=ampart",
+      "cdnAmpWebUrl": "https://www-lubbockonline-com.cdn.ampproject.org/c/s/www.lubbockonline.com/news/20200509/lubbock-reports-6-new-coronavirus-cases-restaurant-as-possible-exposure-site?template=ampart",
+      "publishedDateTime": "2020-05-09T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lubbock Avalanche-Journal",
+        "domain": "lubbockonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.lubbockonline.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200509&Category=NEWS&ArtNo=200508977&Ref=AR",
+          "width": 1026,
+          "height": 577,
+          "title": "Lubbock reports 6 new coronavirus cases, restaurant as possible exposure site",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-coronavirus-alameda-reports-more-new-cases-than-other-bay-area-counties.md",
+      "title": "Coronavirus: Alameda reports more new cases than other Bay Area counties",
+      "excerpt": "Alameda County reported 62 new coronavirus cases on Saturday, more than anywhere else in the Bay Area. The county also recorded one of the region’s four deaths reported Saturday. The other three fatalities occurred in Contra Costa County.",
+      "heat": 149,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.eastbaytimes.com/2020/05/09/coronavirus-alameda-reports-more-new-cases-than-other-bay-area-counties/",
+      "ampWebUrl": "https://www.eastbaytimes.com/2020/05/09/coronavirus-alameda-reports-more-new-cases-than-other-bay-area-counties/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/05/09/coronavirus-alameda-reports-more-new-cases-than-other-bay-area-counties/amp/",
+      "publishedDateTime": "2020-05-09T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2020/05/TEASER_coronavirus_BAY_AREA-1-2-7.jpg?w=1024&h=688",
+          "width": 1024,
+          "height": 688,
+          "title": "Coronavirus: Alameda reports more new cases than other Bay Area counties",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-oregon-coronavirus-updates-saturday-marion-county-sees-spike-in-new-cases.md",
+      "title": "Oregon coronavirus updates, Saturday: Marion County sees spike in new cases",
+      "excerpt": "Check back on this story throughout the day for the latest news about coronavirus and its effects in Salem and around Oregon",
+      "heat": 148,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.statesmanjournal.com/story/news/2020/05/09/covid-19-oregon-coronavirus-updates-saturday-shakespeare-festival-cancels-season-salem/3102482001/",
+      "ampWebUrl": "https://amp.statesmanjournal.com/amp/3102482001",
+      "cdnAmpWebUrl": "https://amp-statesmanjournal-com.cdn.ampproject.org/c/s/amp.statesmanjournal.com/amp/3102482001",
+      "publishedDateTime": "2020-05-09T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statesman Journal",
+        "domain": "statesmanjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/04/07/PSAL/151a66a0-494f-4e75-9cbf-4d938e6e3acd-GettyImages-1210366866.jpg?auto=webp&crop=2031,1143,x0,y163&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Oregon coronavirus updates, Saturday: Marion County sees spike in new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-covid-19-city-of-lubbock-reports-6-new-cases-no-additional-recoveries-or-deaths-in-saturday-update.md",
+      "title": "COVID-19: City of Lubbock reports 6 new cases, no additional recoveries or deaths in Saturday update",
+      "excerpt": "Through its investigations into the positive COVID-19 cases, the Health Department has identified Buffalo Wild Wings at 6320 19th Street as a possible community exposure site. The exposure date is May 6 from 9:30 p.",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.everythinglubbock.com/news/local-news/covid-19-city-of-lubbock-reports-6-new-cases-no-additional-recoveries-or-deaths-in-saturday-update/",
+      "ampWebUrl": "https://www.everythinglubbock.com/news/local-news/covid-19-city-of-lubbock-reports-6-new-cases-no-additional-recoveries-or-deaths-in-saturday-update/amp/",
+      "cdnAmpWebUrl": "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/local-news/covid-19-city-of-lubbock-reports-6-new-cases-no-additional-recoveries-or-deaths-in-saturday-update/amp/",
+      "publishedDateTime": "2020-05-09T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everything Lubbock",
+        "domain": "everythinglubbock.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2020/03/lubbockcovid3.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "COVID-19: City of Lubbock reports 6 new cases, no additional recoveries or deaths in Saturday update",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-covid-19-live-updates-8-more-deaths-250-new-cases-in-dallas-county.md",
+      "title": "COVID-19 Live Updates: 8 More Deaths, 250 New Cases In Dallas County",
+      "excerpt": "Get live updates throughout the day on how COVID-19 , the illness caused by the novel coronavirus, is affecting North Texas.",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.keranews.org/post/covid-19-live-updates-8-more-deaths-250-new-cases-dallas-county",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KERA News",
+        "domain": "keranews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.keranews.org/sites/kera/files/styles/medium/public/202004/covid_hospital_mural_dallas_ap_04152020.jpg",
+          "width": 512,
+          "height": 342,
+          "title": "COVID-19 Live Updates: 8 More Deaths, 250 New Cases In Dallas County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-amarillo-phd-confirms-26-new-cases-of-covid-19-43-recoveries.md",
+      "title": "Amarillo PHD confirms 26 new cases of COVID-19; 43 recoveries",
+      "excerpt": "The Amarillo Public Health Department COVID-19 report card for Saturday, May 9, showed 26 new cases in the Amarillo counties, as well as 43 new recoveries. The report",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.myhighplains.com/life-health/health/coronavirus/amarillo-phd-confirms-26-new-cases-of-covid-19-43-recoveries/",
+      "ampWebUrl": "https://www.myhighplains.com/life-health/health/coronavirus/amarillo-phd-confirms-26-new-cases-of-covid-19-43-recoveries/amp/",
+      "cdnAmpWebUrl": "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/life-health/health/coronavirus/amarillo-phd-confirms-26-new-cases-of-covid-19-43-recoveries/amp/",
+      "publishedDateTime": "2020-05-09T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myhighplains.com",
+        "domain": "myhighplains.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/amarillo-report-0509.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Amarillo PHD confirms 26 new cases of COVID-19; 43 recoveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-chaotic-disaster-obama-hits-trumps-coronavirus-response-warns-of-disinformation-ahead-of-election.md",
+      "title": "'Chaotic disaster': Obama hits Trump's coronavirus response, warns of disinformation ahead of election",
+      "excerpt": "The former president was also critical of the Justice Department directing prosecutors to drop their case against Michael Flynn, warning that the “rule of law is at risk.”",
+      "heat": 109,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/chaotic-disaster-obama-hits-trump-s-coronavirus-response-warns-disinformation-n1203806",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1203806",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1203806",
+      "publishedDateTime": "2020-05-09T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_19/3343786/200509-barack-obama-al-1510_302f6b4783b9fcdc5a6d55f06b3051f5.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "'Chaotic disaster': Obama hits Trump's coronavirus response, warns of disinformation ahead of election",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-covid-19-live-updates-tarrant-county-reports-6-more-deaths-83-new-cases.md",
+      "title": "COVID-19 Live Updates: Tarrant County Reports 6 More Deaths, 83 New Cases",
+      "excerpt": "Get live updates throughout the day on how COVID-19 , the illness caused by the novel coronavirus, is affecting North Texas.",
+      "heat": 129,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.keranews.org/post/covid-19-live-updates-tarrant-county-reports-6-more-deaths-83-new-cases",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KERA News",
+        "domain": "keranews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.keranews.org/sites/kera/files/styles/medium/public/202004/covid_hospital_mural_dallas_ap_04152020.jpg",
+          "width": 512,
+          "height": 342,
+          "title": "COVID-19 Live Updates: Tarrant County Reports 6 More Deaths, 83 New Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-tdshs-confirms-7-new-cases-of-covid-19-1-new-death-in-moore-county.md",
+      "title": "TDSHS confirms 7 new cases of COVID-19, 1 new death in Moore County",
+      "excerpt": "The Texas Department of State Health Services is confirming 7 more positive cases and an additional death from COVID-19 in Moore County. On Saturday, May 9, the",
+      "heat": 170,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.myhighplains.com/news/local-news/tdshs-confirms-7-new-cases-of-covid-19-1-new-death-in-moore-county/",
+      "ampWebUrl": "https://www.myhighplains.com/news/local-news/tdshs-confirms-7-new-cases-of-covid-19-1-new-death-in-moore-county/amp/",
+      "cdnAmpWebUrl": "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/local-news/tdshs-confirms-7-new-cases-of-covid-19-1-new-death-in-moore-county/amp/",
+      "publishedDateTime": "2020-05-09T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myhighplains.com",
+        "domain": "myhighplains.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/moore-county-0509.png?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "TDSHS confirms 7 new cases of COVID-19, 1 new death in Moore County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-collin-county-reports-3-coronavirus-deaths-30-new-cases.md",
+      "title": "Collin County Reports 3 Coronavirus Deaths, 30 New Cases",
+      "excerpt": "The new cases bring the county's cumulative total to 887. The county currently has 280 active cases, including 84 in Plano.",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://dfw.cbslocal.com/2020/05/09/collin-county-reports-3-coronavirus-deaths-30-new-cases/",
+      "ampWebUrl": "https://dfw.cbslocal.com/2020/05/09/collin-county-reports-3-coronavirus-deaths-30-new-cases/amp/",
+      "cdnAmpWebUrl": "https://dfw-cbslocal-com.cdn.ampproject.org/c/s/dfw.cbslocal.com/2020/05/09/collin-county-reports-3-coronavirus-deaths-30-new-cases/amp/",
+      "publishedDateTime": "2020-05-09T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-covid-19-death-in-linn-county-79-new-cases-statewide.md",
+      "title": "COVID-19 death in Linn County, 79 new cases statewide",
+      "excerpt": "The Oregon Health Authority reported 79 new COVID-19 cases statewide and three more deaths, bringing the statewide total to 3160 and the death toll to 127.",
+      "heat": 170,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kezi.com/content/news/COVID-death-in-Linn-County-79-new-cases-statewide-570340291.html",
+      "ampWebUrl": "http://www.kezi.com/templates/AMP?contentID=570340291",
+      "cdnAmpWebUrl": "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=570340291",
+      "publishedDateTime": "2020-05-09T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KEZI",
+        "domain": "kezi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/images/oregon+coronavirus4.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "COVID-19 death in Linn County, 79 new cases statewide",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-reopenings-bring-new-cases-in-s-korea-virus-fears-in-italy.md",
+      "title": "Reopenings bring new cases in S. Korea, virus fears in Italy",
+      "excerpt": "South Korea's capital closed down more than 2,100 bars and other nightspots Saturday because of a new cluster of coronavirus infections, Germany scrambled to contain fresh outbreaks",
+      "heat": 200,
+      "tags": [
+        "US",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/fce9ea63c7c4199e4ff39ddd54d3944e",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/8544eabdc5b0428da95282955d2c6aae/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Reopenings bring new cases in S. Korea, virus fears in Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-may-9-covid-19-update-no-new-cases-for-san-angelo-tom-green-county.md",
+      "title": "May 9 COVID-19 update: No new cases for San Angelo, Tom Green County",
+      "excerpt": "The latest update from the City of San Angelo about the coronavirus pandemic and its impact on the Concho Valley on May 9, 2020.",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.gosanangelo.com/story/news/2020/05/09/may-9-update-no-new-coronavirus-cases-san-angelo/3103148001/",
+      "ampWebUrl": "https://amp.gosanangelo.com/amp/3103148001",
+      "cdnAmpWebUrl": "https://amp-gosanangelo-com.cdn.ampproject.org/c/s/amp.gosanangelo.com/amp/3103148001",
+      "publishedDateTime": "2020-05-09T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Angelo Standard-Times",
+        "domain": "gosanangelo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/07/PSAT/28c3d52e-a95b-4452-b455-c70d702be13c-5.jpg?auto=webp&crop=2199,1237,x0,y73&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "May 9 COVID-19 update: No new cases for San Angelo, Tom Green County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-15-more-deaths-854-new-coronavirus-cases-reported-in-virginia.md",
+      "title": "15 more deaths, 854 new coronavirus cases reported in Virginia",
+      "excerpt": "The state’s latest data shows Accomack County on the Eastern Shore now has the highest number of cases in region with 496, surpassing Virginia Beach, which has 478.",
+      "heat": 135,
+      "tags": [
+        "US",
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dailypress.com/news/health/vp-nw-may-9-coronavirus-numbers-20200509-4utdi5dntzhutghwh7rt57mg7e-story.html",
+      "ampWebUrl": "https://www.dailypress.com/news/health/vp-nw-may-9-coronavirus-numbers-20200509-4utdi5dntzhutghwh7rt57mg7e-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/news/health/vp-nw-may-9-coronavirus-numbers-20200509-4utdi5dntzhutghwh7rt57mg7e-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Press",
+        "domain": "dailypress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailypress.com/resizer/P_GoRahJ00EBJv2HZlOL6Wk9M5I=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2ZS7YFYMG5BPNNWCI5IYJC6Z6U.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "15 more deaths, 854 new coronavirus cases reported in Virginia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-obama-trumps-covid-19-response-is-a-chaotic-disaster.md",
+      "title": "Obama: Trump's Covid-19 response is a 'chaotic disaster'",
+      "excerpt": "Former President Barack Obama slammed President Donald Trump's coronavirus pandemic response during a web call with people who worked in his administration that was obtained by Yahoo News and verified by CNN.",
+      "heat": 125,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/videos/politics/2020/05/09/obama-trump-administration-coronavirus-pandemic-response-bts-ndwknd-vpx.cnn",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/05/09/obama-trump-administration-coronavirus-pandemic-response-bts-ndwknd-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/05/09/obama-trump-administration-coronavirus-pandemic-response-bts-ndwknd-vpx.cnn",
+      "publishedDateTime": "2020-05-09T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200218143745-obama-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Obama: Trump's Covid-19 response is a 'chaotic disaster'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-the-latest-hawaii-no-new-cases-for-1st-time-in-2-months.md",
+      "title": "The Latest: Hawaii: No new cases for 1st time in 2 months",
+      "excerpt": "The new coronavirus causes mild or moderate symptoms for most people. For some, especially older adults and people with existing health problems, it can cause more severe illness or death. - Louisiana to hire at least 250 contact tracers.",
+      "heat": 155,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wfmj.com/story/42105824/the-latest-hawaii-no-new-cases-for-1st-time-in-2-months",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMJ",
+        "domain": "wfmj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://APPREMIUM.images.worldnow.com/images/19399957_G.jpg?lastEditedDate=1588908579000",
+          "width": 512,
+          "height": 357,
+          "title": "The Latest: Hawaii: No new cases for 1st time in 2 months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-10-new-coronavirus-cases-in-pierce-county-1-more-dead.md",
+      "title": "10 New Coronavirus Cases In Pierce County; 1 More Dead",
+      "excerpt": "A new report suggests the rate of transmission may be rising again in western Washington. Catch up on the latest developments here.",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://patch.com/washington/puyallup/10-new-coronavirus-cases-pierce-county-1-more-dead",
+      "ampWebUrl": "https://patch.com/washington/puyallup/amp/28736399/10-new-coronavirus-cases-pierce-county-1-more-dead",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/washington/puyallup/amp/28736399/10-new-coronavirus-cases-pierce-county-1-more-dead",
+      "publishedDateTime": "2020-05-08T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/23562256/20200508/103754/styles/patch_image/public/gettyimages-1212156572___08223620465.jpg?width=984",
+          "width": 910,
+          "height": 683,
+          "title": "10 New Coronavirus Cases In Pierce County; 1 More Dead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-77-new-coronavirus-cases-in-king-county-5-more-dead.md",
+      "title": "77 New Coronavirus Cases In King County; 5 More Dead",
+      "excerpt": "A new report suggests the rate of transmission may be rising again across western Washington. Catch up on the latest developments here.",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://patch.com/washington/seattle/77-new-coronavirus-cases-king-county-5-more-dead",
+      "ampWebUrl": "https://patch.com/washington/seattle/amp/28736395/77-new-coronavirus-cases-king-county-5-more-dead",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/washington/seattle/amp/28736395/77-new-coronavirus-cases-king-county-5-more-dead",
+      "publishedDateTime": "2020-05-08T20:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/23562256/20200508/100003/styles/patch_image/public/gettyimages-1212156581___08215839853.jpg?width=984",
+          "width": 910,
+          "height": 683,
+          "title": "77 New Coronavirus Cases In King County; 5 More Dead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-ivanka-trumps-personal-assistant-has-reportedly-tested-positive-for-the-coronavirus.md",
+      "title": "Ivanka Trump's personal assistant has reportedly tested positive for the coronavirus",
+      "excerpt": "Ivanka Trump and her husband, Jared Kushner, reportedly tested negative for the virus on Friday. Two other West Wing staffers tested positive earlier.",
+      "heat": 108,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/ivanka-trump-personal-assistant-tested-positive-for-coronavirus-report-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/ivanka-trump-personal-assistant-tested-positive-for-coronavirus-report-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trump-personal-assistant-tested-positive-for-coronavirus-report-2020-5?amp",
+      "publishedDateTime": "2020-05-08T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5b6311642154a31c008b48a8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Ivanka Trump's personal assistant has reportedly tested positive for the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-navajo-nation-reports-119-new-coronavirus-cases.md",
+      "title": "Navajo Nation reports 119 new coronavirus cases",
+      "excerpt": "The Navajo Nation’s health department is reporting 119 new cases of COVID-19 and a total of 96 deaths as of Friday.",
+      "heat": 115,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtontimes.com/news/2020/may/8/navajo-nation-reports-119-new-coronavirus-cases/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://twt-assets.washtimes.com/img/icon-facebook.jpg",
+          "width": 314,
+          "height": 314,
+          "title": "Navajo Nation reports 119 new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-twin-falls-county-racks-up-the-most-new-coronavirus-cases-in-idaho-this-week.md",
+      "title": "Twin Falls County racks up the most new coronavirus cases in Idaho this week",
+      "excerpt": "Ada and Twin Falls counties each announced seven new confirmed coronavirus cases Friday as the state’s total grew by 22 cases to 2,030 ... Teton 10, Twin Falls 206, Valley 2 and Washington 1. Counties with community spread: Ada, Bannock, Bingham, Blaine, Bonneville, Canyon, Elmore, Gem, Jefferson, Jerome, Kootenai, Lemhi, Owyhee, Madison ...",
+      "heat": 132,
+      "tags": [
+        "US",
+        "US-ID"
+      ],
+      "type": "article",
+      "webUrl": "https://magicvalley.com/news/local/twin-falls-county-racks-up-the-most-new-coronavirus-cases-in-idaho-this-week/article_4395af28-287c-58b6-aa98-d6bcdbe29a51.html",
+      "ampWebUrl": "https://magicvalley.com/news/local/twin-falls-county-racks-up-the-most-new-coronavirus-cases-in-idaho-this-week/article_4395af28-287c-58b6-aa98-d6bcdbe29a51.amp.html",
+      "cdnAmpWebUrl": "https://magicvalley-com.cdn.ampproject.org/c/s/magicvalley.com/news/local/twin-falls-county-racks-up-the-most-new-coronavirus-cases-in-idaho-this-week/article_4395af28-287c-58b6-aa98-d6bcdbe29a51.amp.html",
+      "publishedDateTime": "2020-05-08T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times-News",
+        "domain": "magicvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/4/4e/44e939e8-3f32-51ed-a48e-69defc897350/5e7d30e959960.image.jpg?resize=1024%2C619",
+          "width": 1024,
+          "height": 619,
+          "title": "Twin Falls County racks up the most new coronavirus cases in Idaho this week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-updates-in-central-texas-travis-county-confirms-another-death-from-covid-19-69-new-cases.md",
+      "title": "Coronavirus updates in Central Texas: Travis County confirms another death from COVID-19, 69 new cases",
+      "excerpt": "KVUE is keeping you updated with the latest coronavirus, also known as COVID-19, news in the Austin area. Scroll down for the top headlines and latest updates in KVUE's May 8 live blog. Texas: There are more than 35,",
+      "heat": 129,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kvue.com/article/news/health/coronavirus/coronavirus-covid-19-austin-central-texas-updates/269-44f55b5e-a8e9-472a-b829-cdcd43e02cef",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/KGW/images/91744437-dca4-497d-9d98-acb4b28cb45b/91744437-dca4-497d-9d98-acb4b28cb45b_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Coronavirus updates in Central Texas: Travis County confirms another death from COVID-19, 69 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-harrison-county-reports-2-new-deaths-12-new-cases-of-covid-19.md",
+      "title": "Harrison County reports 2 new deaths, 12 new cases of COVID-19",
+      "excerpt": "Harrison County Judge Chad Sims is reporting two new deaths from COVID-19 in his county and 12 new cases. “Today, with a heavy heart, I do report 2 more fatalities",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.arklatexhomepage.com/news/local-news/harrison-county-reports-2-new-deaths-12-new-cases-of-covid-19/",
+      "ampWebUrl": "https://www.arklatexhomepage.com/news/local-news/harrison-county-reports-2-new-deaths-12-new-cases-of-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-arklatexhomepage-com.cdn.ampproject.org/c/s/www.arklatexhomepage.com/news/local-news/harrison-county-reports-2-new-deaths-12-new-cases-of-covid-19/amp/",
+      "publishedDateTime": "2020-05-08T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArkLaTex Homepage",
+        "domain": "arklatexhomepage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.arklatexhomepage.com/wp-content/uploads/sites/5/2020/04/Marshall-Harrison-County-update-art-4-21-20.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Harrison County reports 2 new deaths, 12 new cases of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-top-pence-aide-married-to-key-trump-adviser-diagnosed-with-coronavirus.md",
+      "title": "Top Pence aide, married to key Trump adviser, diagnosed with coronavirus",
+      "excerpt": "U.S. Vice President Mike Pence's press secretary, the wife of one of President Donald Trump's senior advisors, has tested positive for the coronavirus, raising alarm about the virus' potential spread within the White House's inner most circle.",
+      "heat": 144,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN22K1SS",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22K1SS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K1SS",
+      "publishedDateTime": "2020-05-08T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517991879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG471VP",
+          "width": 817,
+          "height": 545,
+          "title": "Top Pence aide, married to key Trump adviser, diagnosed with coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-2-new-cases-of-covid-19-confirmed-in-dallam-county.md",
+      "title": "2 new cases of COVID-19 confirmed in Dallam County",
+      "excerpt": "Hartley Counties Hospital District posted today’s report, showing two new cases.",
+      "heat": 110,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newschannel10.com/2020/05/08/new-cases-covid-confirmed-dallam-county/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFDA-TV",
+        "domain": "newschannel10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-officials-announce-130-additional-coronavirus-deaths-in-illinois-over-2800-new-cases.md",
+      "title": "Officials announce 130 additional coronavirus deaths in Illinois, over 2,800 new cases",
+      "excerpt": "Illinois state health officials announced 130 new coronavirus deaths Thursday and over 2,800 new cases. Since Thursday, just under 20,000 tests were performed and 2,887 were",
+      "heat": 142,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://wgntv.com/news/coronavirus/officials-announce-130-additional-coronavirus-deaths-in-illinois-over-2800-new-cases/",
+      "ampWebUrl": "https://wgntv.com/news/coronavirus/officials-announce-130-additional-coronavirus-deaths-in-illinois-over-2800-new-cases/amp/",
+      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/coronavirus/officials-announce-130-additional-coronavirus-deaths-in-illinois-over-2800-new-cases/amp/",
+      "publishedDateTime": "2020-05-08T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wgntv.com/wp-content/uploads/sites/5/2020/05/ezike5.jpeg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Officials announce 130 additional coronavirus deaths in Illinois, over 2,800 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-trump-to-refocus-coronavirus-task-force-on-economic-revival-concedes-risks.md",
+      "title": "Trump to refocus coronavirus task force on economic revival, concedes risks",
+      "excerpt": "President Donald Trump said on Wednesday his coronavirus task force would shift its primary focus to reviving U.S. business and social life, while acknowledging that reopening the economy could put more lives at risk.",
+      "heat": 103,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN22I20M",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I20M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I20M",
+      "publishedDateTime": "2020-05-08T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517675973&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG451G2",
+          "width": 817,
+          "height": 545,
+          "title": "Trump to refocus coronavirus task force on economic revival, concedes risks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-dallas-county-reports-10-more-covid-19-deaths-249-new-cases.md",
+      "title": "Dallas County reports 10 more COVID-19 deaths, 249 new cases",
+      "excerpt": "DALLAS - Dallas County reported 10 new COVID-19 deaths on Friday, along with 249 more cases of the coronavirus. This brings the county’s totals to 135 deaths and 5,346 cases. The youngest of the 10 new deaths was a Duncanville man in his 40s,",
+      "heat": 170,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.fox4news.com/news/dallas-county-reports-10-more-covid-19-deaths-249-new-cases",
+      "ampWebUrl": "https://www.fox4news.com/news/dallas-county-reports-10-more-covid-19-deaths-249-new-cases.amp",
+      "cdnAmpWebUrl": "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/dallas-county-reports-10-more-covid-19-deaths-249-new-cases.amp",
+      "publishedDateTime": "2020-05-08T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KDFW",
+        "domain": "fox4news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/932/470/6427eb5d-CV-NORTH-TEXAS.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": "Dallas County reports 10 more COVID-19 deaths, 249 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "location": {
+    "long": -66.4619,
+    "countryOrRegion": "Canada",
+    "provinceOrState": "New Brunswick",
+    "county": null,
+    "isoCode": "CA-NB",
+    "lat": 46.5653
+  },
+  "updatedDateTime": "2020-05-10T05:45:36.3812581Z",
+  "news": [
+    {
+      "path": "_news/2020-05-08-new-brunswick-loosens-covid-19-restrictions-a-second-time.md",
+      "title": "New Brunswick loosens COVID-19 restrictions a second time",
+      "excerpt": "Two weeks after taking the first step, New Brunswick is making a second larger step to try to get back to some semblance of normal. \"Today, we announce a further loosening of restrictions,\" said Premier Blaine Higgs at a news conference in Fredericton to announce what businesses can open under its state of emergency.",
+      "heat": 115,
+      "tags": [
+        "CA",
+        "CA-NB"
+      ],
+      "type": "article",
+      "webUrl": "https://atlantic.ctvnews.ca/new-brunswick-loosens-covid-19-restrictions-a-second-time-1.4931077",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/atlantic/2020/5/8/1_4931077.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/atlantic/2020/5/8/1_4931077.html",
+      "publishedDateTime": "2020-05-08T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/5/8/1_4931121.jpg?cache_timestamp=1588960549784",
+          "width": 947,
+          "height": 479,
+          "title": "New Brunswick loosens COVID-19 restrictions a second time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-new-brunswick-students-create-virtual-thank-you-for-health-care-workers.md",
+      "title": "New Brunswick students create virtual thank you for health-care workers",
+      "excerpt": "A New Brunswick school has come together virtually to thank health-care workers for their service during the COVID-19 pandemic.",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-NB"
+      ],
+      "type": "article",
+      "webUrl": "https://atlantic.ctvnews.ca/mobile/new-brunswick-students-create-virtual-thank-you-for-health-care-workers-1.4919402?autoPlay=true",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/atlantic/2020/4/30/1_4919402.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/atlantic/2020/4/30/1_4919402.html",
+      "publishedDateTime": "2020-04-30T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/video-placeholder-small.jpg",
+          "width": 420,
+          "height": 236,
+          "title": "New Brunswick students create virtual thank you for health-care workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

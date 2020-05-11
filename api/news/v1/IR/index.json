@@ -1,0 +1,442 @@
+{
+  "location": {
+    "long": 53.0,
+    "countryOrRegion": "Iran",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "IR",
+    "lat": 32.0
+  },
+  "updatedDateTime": "2020-05-10T05:45:39.8270665Z",
+  "news": [
+    {
+      "path": "_news/2020-05-08-report-accuses-iran-of-cyberattack-on-us-company-trying-to-find-treatment-for-coronavirus.md",
+      "title": "Report Accuses Iran of Cyberattack on U.S. Company Trying to Find Treatment for Coronavirus",
+      "excerpt": "\"The Iranian government does not engage in cyber warfare,\" Iranian mission to the U.N. spokesperson Alireza Miryousefi told Newsweek following a Reuters report tying Tehran to an attack on Gilead.",
+      "heat": 120,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/report-accuses-iran-attack-drug-company-coronavirus-1502838",
+      "ampWebUrl": "https://www.newsweek.com/report-accuses-iran-attack-drug-company-coronavirus-1502838?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/report-accuses-iran-attack-drug-company-coronavirus-1502838?amp=1",
+      "publishedDateTime": "2020-05-08T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1588511/gilead-cyber-attack-iran-remdesivir.jpg",
+          "width": 2500,
+          "height": 1544,
+          "title": "Report Accuses Iran of Cyberattack on U.S. Company Trying to Find Treatment for Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-exclusive-iran-linked-hackers-recently-targeted-coronavirus-drugmaker-gilead-sources.md",
+      "title": "Exclusive: Iran-linked hackers recently targeted coronavirus drugmaker Gilead - sources",
+      "excerpt": "Hackers linked to Iran have targeted staff at U.S. drugmaker Gilead Sciences Inc in recent weeks, according to publicly-available web archives reviewed by Reuters and three cybersecurity researchers,",
+      "heat": 167,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-healthcare-coronavirus-gilead-iran-ex-idUSKBN22K2EV",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22K2EV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K2EV",
+      "publishedDateTime": "2020-05-08T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517969081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG471IY",
+          "width": 817,
+          "height": 545,
+          "title": "Exclusive: Iran-linked hackers recently targeted coronavirus drugmaker Gilead - sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Treatment",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-irans-coronavirus-cases-rise-anew-as-friday-prayers-are-set-to-resume.md",
+      "title": "Iran’s Coronavirus Cases Rise Anew as Friday Prayers Are Set to Resume",
+      "excerpt": "Two weeks after the country began lifting restrictions and a day before some mosques are set to reopen, cases of Covid-19 have surged afresh in Iran, where nearly 6,500 people have died from the disease.",
+      "heat": 105,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/irans-coronavirus-cases-rise-anew-as-friday-prayers-are-set-to-resume-11588870093",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/irans-coronavirus-cases-rise-anew-as-friday-prayers-are-set-to-resume-11588870093",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irans-coronavirus-cases-rise-anew-as-friday-prayers-are-set-to-resume-11588870093",
+      "publishedDateTime": "2020-05-07T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-184319/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Iran’s Coronavirus Cases Rise Anew as Friday Prayers Are Set to Resume",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-exclusive-iran-hunts-for-grains-as-coronavirus-compounds-economic-woes.md",
+      "title": "Exclusive: Iran hunts for grains as coronavirus compounds economic woes",
+      "excerpt": "Iran is scrambling to buy millions of tonnes of wheat, corn and soybeans to shore up its reserves, Iranian officials and traders said, despite President Hassan Rouhani's assertions that the coronavirus would not endanger food supplies to the Middle Eastern country worst hit by the pandemic.",
+      "heat": 105,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-iran-grains-exclus-idUSKBN22J233",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22J233",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22J233",
+      "publishedDateTime": "2020-05-07T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200507&t=2&i=1517812534&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4616D",
+          "width": 834,
+          "height": 545,
+          "title": "Exclusive: Iran hunts for grains as coronavirus compounds economic woes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-irans-coronavirus-death-toll-rises-by-78-to-6418.md",
+      "title": "Iran's coronavirus death toll rises by 78 to 6,418",
+      "excerpt": "The death toll from the new coronavirus outbreak in Iran rose by 78 in the past 24 hours to 6,418 and the total number of infections to 101,650, the Health Ministry said in a tweet on Wednesday.",
+      "heat": null,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKBN22I1CH",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I1CH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I1CH",
+      "publishedDateTime": "2020-05-06T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517636961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG450S1",
+          "width": 817,
+          "height": 545,
+          "title": "Iran's coronavirus death toll rises by 78 to 6,418",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-iran-death-toll-from-new-coronavirus-outbreak-rises-by-63-to-6340-health-ministry-official.md",
+      "title": "Iran death toll from new coronavirus outbreak rises by 63 to 6,340: health ministry official",
+      "excerpt": "The death toll from the outbreak of new coronavirus in Iran rose by 63 in the past 24 hours to 6,340, Health Ministry spokesman Kianush Jahanpur said in a statement on state TV on Tuesday.",
+      "heat": 164,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKBN22H13H",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H13H",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H13H",
+      "publishedDateTime": "2020-05-05T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517503627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440LU",
+          "width": 817,
+          "height": 545,
+          "title": "Iran death toll from new coronavirus outbreak rises by 63 to 6,340: health ministry official",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-irans-coronavirus-death-toll-rises-by-74-as-mosques-due-to-reopen.md",
+      "title": "Iran's Coronavirus Death Toll Rises by 74 as Mosques Due to Reopen",
+      "excerpt": "The coronavirus death toll in Iran, one of the hardest hit countries in the Middle East, rose by 74 in the past 24 hours to 6,277, the Health Ministry said on Monday, as mosques were due to reopen in many cities.",
+      "heat": null,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-04/iran-death-toll-from-coronavirus-outbreak-rises-by-74-to-6-277-health-ministry-official",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-mosques-and-schools-to-reopen-in-irans-low-risk-areas.md",
+      "title": "Mosques and schools to reopen in Iran's low-risk areas",
+      "excerpt": "Iran plans to reopen mosques and schools in areas that have been consistently free of the coronavirus as President Hassan Rouhani's government starts to ease restrictions that were aimed at containing the outbreak.",
+      "heat": 100,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKBN22F090",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22F090",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22F090",
+      "publishedDateTime": "2020-05-03T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200503&t=2&i=1517295700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG42070",
+          "width": 817,
+          "height": 545,
+          "title": "Mosques and schools to reopen in Iran's low-risk areas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-iran-coronavirus-deaths-rise-by-65-to-6156.md",
+      "title": "Iran Coronavirus Deaths Rise by 65 to 6,156",
+      "excerpt": "Iran's death toll from new coronavirus increased by 65 in the past 24 hours to 6,156 on Saturday, Health Ministry spokesman Kianush Jahanpur said in a statement on state TV. The total number of diagnosed cases in Iran,",
+      "heat": null,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-02/iran-coronavirus-deaths-rise-by-65-to-6-156",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-02/iran-coronavirus-deaths-rise-by-65-to-6-156?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-02/iran-coronavirus-deaths-rise-by-65-to-6-156?context=amp",
+      "publishedDateTime": "2020-05-02T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-pompeo-clashes-with-warren-on-iran-deal-asks-if-shes-good-with-china-sending-tanks-to-tehran.md",
+      "title": "Pompeo clashes with Warren on Iran deal, asks if she's 'good' with China sending tanks to Tehran",
+      "excerpt": "Secretary of State Mike Pompeo on Thursday clashed with Sen. Elizabeth Warren, D-Mass., over a Trump administration plan to block weapon sales to Iran by arguing that the U.S. is still part of the Iran nuclear deal because it remains part of a U.",
+      "heat": 117,
+      "tags": [
+        "Iran",
+        "IR",
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/pompeo-warren-iran-deal-china-sending-tanks",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-warren-iran-deal-china-sending-tanks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-warren-iran-deal-china-sending-tanks.amp",
+      "publishedDateTime": "2020-04-30T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d86f2324-b516-4d77-bf02-ff7f493dd247/d56bddf3-f115-4cab-a01a-f8d042b06a3f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Pompeo clashes with Warren on Iran deal, asks if she's 'good' with China sending tanks to Tehran",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in China"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-irans-coronavirus-death-toll-rises-by-71-to-5877-health-ministry-official.md",
+      "title": "Iran's coronavirus death toll rises by 71 to 5,877 -health ministry official",
+      "excerpt": "The death toll in Iran from the coronavirus pandemic rose by 71 in the past 24 hours to 5,877, health ministry spokesman Kianush Jahanpur said on state TV on Tuesday.",
+      "heat": 112,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKCN22A1CL",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22A1CL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22A1CL",
+      "publishedDateTime": "2020-04-28T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Iran's coronavirus death toll rises by 71 to 5,877 -health ministry official",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

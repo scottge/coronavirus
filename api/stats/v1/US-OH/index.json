@@ -1,0 +1,2085 @@
+{
+  "location": {
+    "long": -82.907123,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Ohio",
+    "county": null,
+    "isoCode": "US-OH",
+    "lat": 40.417287
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.7010159Z",
+  "stats": {
+    "totalConfirmedCases": 23701,
+    "newlyConfirmedCases": 681,
+    "totalDeaths": 1338,
+    "newDeaths": 27,
+    "totalRecoveredCases": 448,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 38,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 37,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 50,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 67,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 89,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 120,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 174,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 248,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 356,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 443,
+        "deaths": 6,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 567,
+        "deaths": 8,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 704,
+        "deaths": 11,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 870,
+        "deaths": 15,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 1139,
+        "deaths": 19,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 1406,
+        "deaths": 25,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 1653,
+        "deaths": 29,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 1933,
+        "deaths": 40,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 2199,
+        "deaths": 55,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 2547,
+        "deaths": 65,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 2902,
+        "deaths": 81,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 3312,
+        "deaths": 91,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 3739,
+        "deaths": 102,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 4043,
+        "deaths": 119,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 4453,
+        "deaths": 142,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 4782,
+        "deaths": 167,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 5148,
+        "deaths": 193,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 5512,
+        "deaths": 213,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 5878,
+        "deaths": 231,
+        "recovered": 12
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 6250,
+        "deaths": 247,
+        "recovered": 12
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 6604,
+        "deaths": 253,
+        "recovered": 12
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 6975,
+        "deaths": 274,
+        "recovered": 12
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 7285,
+        "deaths": 324,
+        "recovered": 305
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 7794,
+        "deaths": 362,
+        "recovered": 367
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 8414,
+        "deaths": 391,
+        "recovered": 367
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 9107,
+        "deaths": 418,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 10218,
+        "deaths": 451,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 11595,
+        "deaths": 471,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 12919,
+        "deaths": 509,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 13725,
+        "deaths": 557,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 14117,
+        "deaths": 610,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 14694,
+        "deaths": 656,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 15173,
+        "deaths": 693,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 15590,
+        "deaths": 712,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 15974,
+        "deaths": 732,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 16349,
+        "deaths": 759,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 16781,
+        "deaths": 804,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 17309,
+        "deaths": 940,
+        "recovered": 448
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 18032,
+        "deaths": 981,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 18670,
+        "deaths": 996,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 19345,
+        "deaths": 1026,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 19920,
+        "deaths": 1042,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 20477,
+        "deaths": 1060,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 20972,
+        "deaths": 1136,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 21579,
+        "deaths": 1227,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 22134,
+        "deaths": 1276,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 23020,
+        "deaths": 1311,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 23701,
+        "deaths": 1338,
+        "recovered": 448
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -84.0846,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Allen",
+          "isoCode": "US-OH",
+          "lat": 40.8307
+        },
+        "totalConfirmedCases": 144,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 29,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.3144,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Ashland",
+          "isoCode": "US-OH",
+          "lat": 40.6584
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8597,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Ashtabula",
+          "isoCode": "US-OH",
+          "lat": 41.5364
+        },
+        "totalConfirmedCases": 190,
+        "newlyConfirmedCases": 18,
+        "totalDeaths": 18,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.9549,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Athens",
+          "isoCode": "US-OH",
+          "lat": 39.4016
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.0796,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Auglaize",
+          "isoCode": "US-OH",
+          "lat": 40.5558
+        },
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8814,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Belmont",
+          "isoCode": "US-OH",
+          "lat": 40.0105
+        },
+        "totalConfirmedCases": 229,
+        "newlyConfirmedCases": 13,
+        "totalDeaths": 7,
+        "newDeaths": 0,
+        "totalRecoveredCases": 12,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.9267,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Brown",
+          "isoCode": "US-OH",
+          "lat": 39.0293
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.462,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Butler",
+          "isoCode": "US-OH",
+          "lat": 39.4791
+        },
+        "totalConfirmedCases": 436,
+        "newlyConfirmedCases": 32,
+        "totalDeaths": 13,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.1992,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Carroll",
+          "isoCode": "US-OH",
+          "lat": 40.555
+        },
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.9644,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Champaign",
+          "isoCode": "US-OH",
+          "lat": 40.127
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.6139,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Clark",
+          "isoCode": "US-OH",
+          "lat": 39.9295
+        },
+        "totalConfirmedCases": 90,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 3,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.3001,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Clermont",
+          "isoCode": "US-OH",
+          "lat": 39.2123
+        },
+        "totalConfirmedCases": 122,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.7856,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Clinton",
+          "isoCode": "US-OH",
+          "lat": 39.5523
+        },
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.6749,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Columbiana",
+          "isoCode": "US-OH",
+          "lat": 40.8871
+        },
+        "totalConfirmedCases": 319,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 35,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.848,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Coshocton",
+          "isoCode": "US-OH",
+          "lat": 40.2618
+        },
+        "totalConfirmedCases": 19,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 9,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8568,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Crawford",
+          "isoCode": "US-OH",
+          "lat": 40.7924
+        },
+        "totalConfirmedCases": 71,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 11,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.6758,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Cuyahoga",
+          "isoCode": "US-OH",
+          "lat": 41.4339
+        },
+        "totalConfirmedCases": 2755,
+        "newlyConfirmedCases": 87,
+        "totalDeaths": 145,
+        "newDeaths": 2,
+        "totalRecoveredCases": 224,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.4966,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Darke",
+          "isoCode": "US-OH",
+          "lat": 40.1157
+        },
+        "totalConfirmedCases": 84,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 14,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.7648,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Defiance",
+          "isoCode": "US-OH",
+          "lat": 41.2944
+        },
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8802,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Delaware",
+          "isoCode": "US-OH",
+          "lat": 40.2219
+        },
+        "totalConfirmedCases": 211,
+        "newlyConfirmedCases": 12,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5995,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Erie",
+          "isoCode": "US-OH",
+          "lat": 41.2883
+        },
+        "totalConfirmedCases": 79,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8235,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Fairfield",
+          "isoCode": "US-OH",
+          "lat": 39.6049
+        },
+        "totalConfirmedCases": 177,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 25,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.3953,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Fayette",
+          "isoCode": "US-OH",
+          "lat": 39.6079
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8637,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Franklin",
+          "isoCode": "US-OH",
+          "lat": 40.0251
+        },
+        "totalConfirmedCases": 3710,
+        "newlyConfirmedCases": 95,
+        "totalDeaths": 114,
+        "newDeaths": 6,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.9057,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Fulton",
+          "isoCode": "US-OH",
+          "lat": 41.7113
+        },
+        "totalConfirmedCases": 30,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.3374,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Gallia",
+          "isoCode": "US-OH",
+          "lat": 38.9776
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.3351,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Geauga",
+          "isoCode": "US-OH",
+          "lat": 41.4318
+        },
+        "totalConfirmedCases": 189,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 19,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.0624,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Greene",
+          "isoCode": "US-OH",
+          "lat": 39.731
+        },
+        "totalConfirmedCases": 53,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.3703,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Hamilton",
+          "isoCode": "US-OH",
+          "lat": 39.1063
+        },
+        "totalConfirmedCases": 1731,
+        "newlyConfirmedCases": 67,
+        "totalDeaths": 100,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.7271,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Hancock",
+          "isoCode": "US-OH",
+          "lat": 40.8995
+        },
+        "totalConfirmedCases": 39,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.6113,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Highland",
+          "isoCode": "US-OH",
+          "lat": 39.2123
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.8011,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Holmes",
+          "isoCode": "US-OH",
+          "lat": 40.5628
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.4066,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Huron",
+          "isoCode": "US-OH",
+          "lat": 41.0796
+        },
+        "totalConfirmedCases": 38,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 8,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.6318,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Jefferson",
+          "isoCode": "US-OH",
+          "lat": 40.2701
+        },
+        "totalConfirmedCases": 54,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 6,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5485,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Knox",
+          "isoCode": "US-OH",
+          "lat": 40.4784
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.4323,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Lake",
+          "isoCode": "US-OH",
+          "lat": 41.6581
+        },
+        "totalConfirmedCases": 194,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.3818,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Lawrence",
+          "isoCode": "US-OH",
+          "lat": 38.4375
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5985,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Licking",
+          "isoCode": "US-OH",
+          "lat": 39.95
+        },
+        "totalConfirmedCases": 162,
+        "newlyConfirmedCases": 12,
+        "totalDeaths": 7,
+        "newDeaths": 0,
+        "totalRecoveredCases": 31,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.8875,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Logan",
+          "isoCode": "US-OH",
+          "lat": 40.516
+        },
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.304,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Lorain",
+          "isoCode": "US-OH",
+          "lat": 41.2665
+        },
+        "totalConfirmedCases": 543,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 44,
+        "newDeaths": 0,
+        "totalRecoveredCases": 40,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.8747,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Lucas",
+          "isoCode": "US-OH",
+          "lat": 41.4906
+        },
+        "totalConfirmedCases": 1710,
+        "newlyConfirmedCases": 45,
+        "totalDeaths": 164,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.4765,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Madison",
+          "isoCode": "US-OH",
+          "lat": 39.733
+        },
+        "totalConfirmedCases": 81,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.9524,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Mahoning",
+          "isoCode": "US-OH",
+          "lat": 40.9042
+        },
+        "totalConfirmedCases": 1104,
+        "newlyConfirmedCases": 17,
+        "totalDeaths": 122,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.0848,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Marion",
+          "isoCode": "US-OH",
+          "lat": 40.4598
+        },
+        "totalConfirmedCases": 2381,
+        "newlyConfirmedCases": 15,
+        "totalDeaths": 13,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.0123,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Medina",
+          "isoCode": "US-OH",
+          "lat": 41.0349
+        },
+        "totalConfirmedCases": 193,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 17,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.6502,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Mercer",
+          "isoCode": "US-OH",
+          "lat": 40.6915
+        },
+        "totalConfirmedCases": 66,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.2438,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Miami",
+          "isoCode": "US-OH",
+          "lat": 40.1504
+        },
+        "totalConfirmedCases": 244,
+        "newlyConfirmedCases": 68,
+        "totalDeaths": 27,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.4176,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Montgomery",
+          "isoCode": "US-OH",
+          "lat": 39.8393
+        },
+        "totalConfirmedCases": 369,
+        "newlyConfirmedCases": 13,
+        "totalDeaths": 12,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.0119,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Muskingum",
+          "isoCode": "US-OH",
+          "lat": 40.1376
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.9383,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Ottawa",
+          "isoCode": "US-OH",
+          "lat": 41.5094
+        },
+        "totalConfirmedCases": 46,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.9471,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Pickaway",
+          "isoCode": "US-OH",
+          "lat": 39.5705
+        },
+        "totalConfirmedCases": 1844,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 23,
+        "newDeaths": 0,
+        "totalRecoveredCases": 18,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.9836,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Pike",
+          "isoCode": "US-OH",
+          "lat": 39.1256
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.345,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Portage",
+          "isoCode": "US-OH",
+          "lat": 41.3118
+        },
+        "totalConfirmedCases": 274,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 46,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.7922,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Preble",
+          "isoCode": "US-OH",
+          "lat": 39.8564
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5793,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Richland",
+          "isoCode": "US-OH",
+          "lat": 40.68
+        },
+        "totalConfirmedCases": 113,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 14,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.7456,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Ross",
+          "isoCode": "US-OH",
+          "lat": 39.4647
+        },
+        "totalConfirmedCases": 49,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.221,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Sandusky",
+          "isoCode": "US-OH",
+          "lat": 41.4216
+        },
+        "totalConfirmedCases": 48,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 7,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8592,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Seneca",
+          "isoCode": "US-OH",
+          "lat": 41.2355
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.1667,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Shelby",
+          "isoCode": "US-OH",
+          "lat": 40.2891
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 12,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.2519,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Stark",
+          "isoCode": "US-OH",
+          "lat": 40.8685
+        },
+        "totalConfirmedCases": 479,
+        "newlyConfirmedCases": 15,
+        "totalDeaths": 67,
+        "newDeaths": 5,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.4344,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Summit",
+          "isoCode": "US-OH",
+          "lat": 41.1386
+        },
+        "totalConfirmedCases": 880,
+        "newlyConfirmedCases": 13,
+        "totalDeaths": 78,
+        "newDeaths": 4,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.5277,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Trumbull",
+          "isoCode": "US-OH",
+          "lat": 41.3421
+        },
+        "totalConfirmedCases": 404,
+        "newlyConfirmedCases": 12,
+        "totalDeaths": 36,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.5949,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Tuscarawas",
+          "isoCode": "US-OH",
+          "lat": 40.2761
+        },
+        "totalConfirmedCases": 196,
+        "newlyConfirmedCases": 28,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 17,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.2628,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Union",
+          "isoCode": "US-OH",
+          "lat": 40.3534
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.4559,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Van Wert",
+          "isoCode": "US-OH",
+          "lat": 40.7852
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.9984,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Warren",
+          "isoCode": "US-OH",
+          "lat": 39.5022
+        },
+        "totalConfirmedCases": 202,
+        "newlyConfirmedCases": 11,
+        "totalDeaths": 13,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.468,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Washington",
+          "isoCode": "US-OH",
+          "lat": 39.4739
+        },
+        "totalConfirmedCases": 113,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 17,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.9,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Wayne",
+          "isoCode": "US-OH",
+          "lat": 40.9764
+        },
+        "totalConfirmedCases": 188,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 42,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.8438,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Wood",
+          "isoCode": "US-OH",
+          "lat": 41.2846
+        },
+        "totalConfirmedCases": 222,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 29,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.1709,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Wyandot",
+          "isoCode": "US-OH",
+          "lat": 40.9517
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.2046,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Perry",
+          "isoCode": "US-OH",
+          "lat": 39.6063
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8279,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Morrow",
+          "isoCode": "US-OH",
+          "lat": 40.5533
+        },
+        "totalConfirmedCases": 84,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.5758,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Guernsey",
+          "isoCode": "US-OH",
+          "lat": 40.1508
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.643,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Hardin",
+          "isoCode": "US-OH",
+          "lat": 40.788
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.4183,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Williams",
+          "isoCode": "US-OH",
+          "lat": 41.5026
+        },
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.1168,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Monroe",
+          "isoCode": "US-OH",
+          "lat": 39.7631
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8552,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Scioto",
+          "isoCode": "US-OH",
+          "lat": 38.8618
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.0597,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Putnam",
+          "isoCode": "US-OH",
+          "lat": 40.9205
+        },
+        "totalConfirmedCases": 76,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 13,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.4775,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Paulding",
+          "isoCode": "US-OH",
+          "lat": 41.019
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.7944,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Morgan",
+          "isoCode": "US-OH",
+          "lat": 39.5489
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.9686,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Meigs",
+          "isoCode": "US-OH",
+          "lat": 38.9984
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5375,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Jackson",
+          "isoCode": "US-OH",
+          "lat": 39.1172
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.2554,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Henry",
+          "isoCode": "US-OH",
+          "lat": 41.4387
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.5565,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Noble",
+          "isoCode": "US-OH",
+          "lat": 39.7888
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.4094,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Adams",
+          "isoCode": "US-OH",
+          "lat": 38.9463
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.7374,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Hocking",
+          "isoCode": "US-OH",
+          "lat": 39.4719
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8954,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Harrison",
+          "isoCode": "US-OH",
+          "lat": 40.3265
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.5185837,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Ohio",
+          "county": "Vinton",
+          "isoCode": "US-OH",
+          "lat": 39.2875595
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

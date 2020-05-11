@@ -1,0 +1,245 @@
+{
+  "location": {
+    "long": -93.097702,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Iowa",
+    "county": null,
+    "isoCode": "US-IA",
+    "lat": 41.878003
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.4469484Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-9-more-die-of-coronavirus-in-iowa-bringing-total-to-252.md",
+      "title": "9 More Die of Coronavirus in Iowa, Bringing Total to 252",
+      "excerpt": "Nine more people have died of the coronavirus in Iowa, bringing the state's total to 252. New numbers from the Iowa Department of Public Health also show that the number of infections increased Saturday to 11,",
+      "heat": 105,
+      "tags": [
+        "US-IA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/iowa/articles/2020-05-09/9-more-die-of-coronavirus-in-iowa-bringing-total-to-252",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/iowa/articles/2020-05-09/9-more-die-of-coronavirus-in-iowa-bringing-total-to-252?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/iowa/articles/2020-05-09/9-more-die-of-coronavirus-in-iowa-bringing-total-to-252?context=amp",
+      "publishedDateTime": "2020-05-09T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-iowa-sees-12-new-covid-19-deaths-nearly-300-new-cases.md",
+      "title": "Iowa sees 12 new COVID-19 deaths, nearly 300 new cases",
+      "excerpt": "Iowa state health officials said Wednesday the state has seen 12 new COVID-19 deaths from the previous day, bringing the state's total to 219. The Iowa Department of Public Health also announced another one-day jump in confirmed cases of the new coronavirus by 293 from Tuesday to Wednesday.",
+      "heat": 150,
+      "tags": [
+        "US-IA",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/news/article/Iowa-sees-12-new-COVID-19-deaths-nearly-300-new-15251096.php",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/Iowa-sees-12-new-COVID-19-deaths-nearly-300-new-15251096.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Iowa-sees-12-new-COVID-19-deaths-nearly-300-new-15251096.php",
+      "publishedDateTime": "2020-05-06T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Iowa sees 12 new COVID-19 deaths, nearly 300 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-over-half-of-workforce-at-tyson-plant-in-iowa-tests-positive-for-coronavirus.md",
+      "title": "Over half of workforce at Tyson plant in Iowa tests positive for coronavirus",
+      "excerpt": "More than half of the workforce at a Tyson Foods pork processing plant in Perry, Iowa, has tested positive for COVID-19, the disease caused by the novel coronavirus.",
+      "heat": 132,
+      "tags": [
+        "US-IA"
+      ],
+      "type": "article",
+      "webUrl": "https://thehill.com/homenews/state-watch/496303-more-than-half-of-workforce-at-tyson-plant-in-iowa-tests-positive-for",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/496303-more-than-half-of-workforce-at-tyson-plant-in-iowa-tests-positive-for?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/496303-more-than-half-of-workforce-at-tyson-plant-in-iowa-tests-positive-for?amp",
+      "publishedDateTime": "2020-05-05T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/tysonfoods08162016getty.jpg",
+          "width": 645,
+          "height": 363,
+          "title": "Over half of workforce at Tyson plant in Iowa tests positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-iowa-school-district-sends-wi-fi-vans-into-vulnerable-communities-as-coronavirus-keeps-students-home.md",
+      "title": "Iowa school district sends Wi-Fi vans into vulnerable communities as coronavirus keeps students home",
+      "excerpt": "Over 55 million students enrolled in K-12 education have shifted to digital learning as the coronavirus pandemic prompted school closures – but online classes have presented challenges for some districts.",
+      "heat": 150,
+      "tags": [
+        "US-IA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/coronavirus-iowa-school-district-wifi-students",
+      "ampWebUrl": "https://www.foxnews.com/us/coronavirus-iowa-school-district-wifi-students.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/coronavirus-iowa-school-district-wifi-students.amp",
+      "publishedDateTime": "2020-05-05T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Sioux-City-Wifi-_3-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Iowa school district sends Wi-Fi vans into vulnerable communities as coronavirus keeps students home",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-latest-coronavirus-news-almost-60-of-tyson-iowa-plant-workers-test-covid-19-positive.md",
+      "title": "Latest coronavirus news: Almost 60% of Tyson Iowa plant workers test COVID-19 positive",
+      "excerpt": "This daily live blog will provide the latest updates, news and details of COVID-19 from media outlets and social media sources nationally and internationally.",
+      "heat": 142,
+      "tags": [
+        "US-IA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ajc.com/news/latest-coronavirus-news-microsoft-worker-says-one-allowed-back-office-until-october/5gfR5JDqLB0pOtIc0MZrkJ/",
+      "ampWebUrl": "https://www.ajc.com/news/latest-coronavirus-news-microsoft-worker-says-one-allowed-back-office-until-october/5gfR5JDqLB0pOtIc0MZrkJ/amp.html",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/latest-coronavirus-news-microsoft-worker-says-one-allowed-back-office-until-october/5gfR5JDqLB0pOtIc0MZrkJ/amp.html",
+      "publishedDateTime": "2020-05-05T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ajc.com/rf/image_medium/Pub/p11/AJC/2020/04/28/Videos/4894042.vpx",
+          "width": 750,
+          "height": 422,
+          "title": "Latest coronavirus news: Almost 60% of Tyson Iowa plant workers test COVID-19 positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-8-test-positive-for-covid-19-at-bridgestones-iowa-plant.md",
+      "title": "8 test positive for COVID-19 at Bridgestone's Iowa plant",
+      "excerpt": "Eight employees at Bridgestone Americas Inc.'s Des Moines agricultural tire plant have tested positive for COVID-19 as of May 1, the company confirmed to Tire Business. \"We are taking every precaution,",
+      "heat": 115,
+      "tags": [
+        "US-IA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.rubbernews.com/coronavirus/8-test-positive-covid-19-bridgestones-iowa-plant",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rubber and Plastics News",
+        "domain": "rubbernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Bridgestone%20Des%20Moines-main_i.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "8 test positive for COVID-19 at Bridgestone's Iowa plant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    }
+  ]
+}

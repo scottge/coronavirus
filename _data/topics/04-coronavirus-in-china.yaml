@@ -1,0 +1,16 @@
+taxonomy: topic
+_id: coronavirus-in-china
+name: Coronavirus in China
+shortname: China
+parent: Coronavirus in Asia
+keywords:
+  - china
+  - wuhan
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-china.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-china-2.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-china-3.jpg
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-china-4.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/coronavirus-in-china/
+  stats: https://insideout.app/coronavirus/api/stats/coronavirus-in-china/

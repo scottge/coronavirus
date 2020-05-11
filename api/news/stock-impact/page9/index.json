@@ -1,0 +1,1280 @@
+{
+  "page": 9,
+  "value": [
+    {
+      "path": "_news/2020-03-25-comcasts-stock-down-20-in-50-days-will-it-underperform-the-market-post-coronavirus.md",
+      "title": "Comcast’s Stock Down >20% In 50 Days; Will It Underperform The Market Post Coronavirus?",
+      "excerpt": "Comcast Corporation‘s stock declined by over 14% between 8th March 2020 and 24th March 2020 (vs. an 18% decline in the S&P 500), and the stock is down almost 20% since January 31 after the WHO declared a global health emergency in light of the coronavirus spread (vs.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/03/25/comcasts-stock-down-20-in-50-days-will-it-underperform-the-market-post-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-stock-market-live-updates-futures-turn-negative-stimulus-bill-agreement-dows-historic-day.md",
+      "title": "Stock market live updates: Futures turn negative, stimulus bill agreement, Dow's historic day",
+      "excerpt": "The much awaited $2 trillion coronavirus stimulus bill got the greenlight early Wednesday morning, and the Street cheered the progress, sending Dow futures higher and pointing to an 800-point rally at the open.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/25/stock-market-today-live.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/25/stock-market-today-live.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/25/stock-market-today-live.html",
+      "publishedDateTime": "2020-03-25T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106457229-1584992924496gettyimages-1207666171.jpeg?v=1584993000",
+          "width": 4500,
+          "height": 2820,
+          "title": "Stock market live updates: Futures turn negative, stimulus bill agreement, Dow's historic day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-dow-falls-nearly-3000-points-as-virus-fears-spread.md",
+      "title": "Dow Falls Nearly 3,000 Points As Virus Fears Spread",
+      "excerpt": "U.S. stocks dropped sharply, with the Dow suffering a 13% decline, signaling markets’ increasing struggle with the concern that emergency measures won’t ward off a recession caused by the coronavirus outbreak.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/stock-futures-slide-after-fed-slashes-rates-11584310328?mod=md_home_pan_mkt_news",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/stocks-dow-slide-after-fed-slashes-rates-11584310328",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/stocks-dow-slide-after-fed-slashes-rates-11584310328",
+      "publishedDateTime": "2020-03-24T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-165221/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Dow Falls Nearly 3,000 Points As Virus Fears Spread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-senate-white-house-reach-2-trillion-stimulus-deal-to-blunt-coronavirus-fallout.md",
+      "title": "Senate, White House reach $2 trillion stimulus deal to blunt coronavirus fallout",
+      "excerpt": "For more free stories, sign up for our daily Coronavirus Updates newsletter. Senate leaders and the Trump administration reached agreement early Wednesday on a $2 trillion stimulus package to rescue the economy from the coronavirus assault,",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/us-policy/2020/03/24/trump-coronavirus-congress-economic-stimulus/",
+      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/03/24/trump-coronavirus-congress-economic-stimulus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/03/24/trump-coronavirus-congress-economic-stimulus/?outputType=amp",
+      "publishedDateTime": "2020-03-24T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/0XcGzhaw-qJRaJ-Bjn11bVqS2wY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I7PFGATNH4I6VIKWABELMLG3KE.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Senate, White House reach $2 trillion stimulus deal to blunt coronavirus fallout",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-dow-has-best-day-since-1933-as-congress-nears-deal-on-aid.md",
+      "title": "Dow has best day since 1933 as Congress nears deal on aid",
+      "excerpt": "The Dow Jones Industrial Average surged to its best day since 1933 as Congress and the White House neared a deal on Tuesday to inject nearly $2 trillion of aid into an economy ravaged by the coronavir",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/business/technology/asian-stocks-gain-after-us-fed-promises-economic-support/2020/03/23/68fe9814-6d83-11ea-a156-0048b62cdb51_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/business/technology/asian-stocks-gain-after-us-fed-promises-economic-support/2020/03/23/68fe9814-6d83-11ea-a156-0048b62cdb51_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/asian-stocks-gain-after-us-fed-promises-economic-support/2020/03/23/68fe9814-6d83-11ea-a156-0048b62cdb51_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-24T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G2V6QCTNQYI6VIKWABELMLG3KE.jpg&w=767",
+          "width": 767,
+          "height": 511,
+          "title": "Dow has best day since 1933 as Congress nears deal on aid",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-stock-market-wrap-up-homebuilders-signal-hope-for-a-recovery.md",
+      "title": "Stock Market Wrap-Up: Homebuilders Signal Hope for a Recovery",
+      "excerpt": "Yet it's a mistake to treat all homebuilders the same, even though most of them saw their shares rise Tuesday. Toll Brothers, for instance, faced challenges even before the outbreak, as its strategic move to try to capture a broader audience of homebuyers ran into some operational problems.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/stock-market-wrap-up%3A-homebuilders-signal-hope-for-a-recovery-2020-03-24",
+      "ampWebUrl": "https://www.nasdaq.com/articles/stock-market-wrap-up%3A-homebuilders-signal-hope-for-a-recovery-2020-03-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/stock-market-wrap-up%3A-homebuilders-signal-hope-for-a-recovery-2020-03-24?amp",
+      "publishedDateTime": "2020-03-24T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1844519826",
+          "width": 1024,
+          "height": 512,
+          "title": "Stock Market Wrap-Up: Homebuilders Signal Hope for a Recovery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-why-zoom-stock-fell-sharply-on-tuesday.md",
+      "title": "Why Zoom Stock Fell Sharply on Tuesday",
+      "excerpt": "Despite the stock's sharp pullback on Tuesday, Zoom shares are up 117% in the past three months. Indeed, the stock has been one of the rare beneficiaries during the coronavirus market downturn since Feb. 19. During this time, the stock is up 39% as investors bet that Zoom will benefit from a growing number of businesses letting their employees ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/24/why-zoom-stock-fell-sharply-on-tuesday.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/24/why-zoom-stock-fell-sharply-on-tuesday.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/24/why-zoom-stock-fell-sharply-on-tuesday.aspx",
+      "publishedDateTime": "2020-03-24T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565012%2Fzoom-stock-zm.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Why Zoom Stock Fell Sharply on Tuesday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-dow-jones-news-intel-suspends-buybacks-chevron-cuts-capital-spending.md",
+      "title": "Dow Jones News: Intel Suspends Buybacks; Chevron Cuts Capital Spending",
+      "excerpt": "Investors got a reprieve on Tuesday as the major U.S. stock indexes staged a rally. The Dow Jones Industrial Average (DJINDICES: ^DJI) was up 7.7% at 11:25 a.m. EDT, rising back above the 20,000 level for the time being. There hasn't been any good news on the novel coronavirus front. Cases and deaths continue to soar as more U.S. cities and ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/dow-jones-news%3A-intel-suspends-buybacks-chevron-cuts-capital-spending-2020-03-24",
+      "ampWebUrl": "https://www.nasdaq.com/articles/dow-jones-news%3A-intel-suspends-buybacks-chevron-cuts-capital-spending-2020-03-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-jones-news%3A-intel-suspends-buybacks-chevron-cuts-capital-spending-2020-03-24?amp",
+      "publishedDateTime": "2020-03-24T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1393379125",
+          "width": 1024,
+          "height": 512,
+          "title": "Dow Jones News: Intel Suspends Buybacks; Chevron Cuts Capital Spending",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-2-top-stocks-to-buy-in-this-coronavirus-rattled-stock-market.md",
+      "title": "2 Top Stocks to Buy in This Coronavirus-Rattled Stock Market",
+      "excerpt": "At a time when the novel coronavirus outbreak has rattled the stock market, investors might be left wondering if it is a prudent idea to buy stocks right now. After all, it has been a crazy past month with the Dow Jones Industrial Average receding from a record-high close of 29,551 points on Feb. 12, 2020, to nearly 19,000 points on March 20.",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/2-top-stocks-to-buy-in-this-coronavirus-rattled-stock-market-2020-03-24",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-top-stocks-to-buy-in-this-coronavirus-rattled-stock-market-2020-03-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-stocks-to-buy-in-this-coronavirus-rattled-stock-market-2020-03-24?amp",
+      "publishedDateTime": "2020-03-24T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?450230540",
+          "width": 1024,
+          "height": 512,
+          "title": "2 Top Stocks to Buy in This Coronavirus-Rattled Stock Market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-my-top-7-stocks-to-buy-in-marchs-stock-market-crash.md",
+      "title": "My Top 7 Stocks to Buy in March's Stock Market Crash",
+      "excerpt": "The novel coronavirus and the COVID-19 pandemic have raised a lot of fear and uncertainty in society and driven the stock market into bear territory. Nonetheless, I remain bullish on growth stocks for 2020, particularly at these prices. For those of us who remain optimistic about the market, some magnificent stocks are on sale right now.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/24/my-top-7-stocks-to-buy-in-marchs-stock-market-cras.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/24/my-top-7-stocks-to-buy-in-marchs-stock-market-cras.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/24/my-top-7-stocks-to-buy-in-marchs-stock-market-cras.aspx",
+      "publishedDateTime": "2020-03-24T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564394%2Fgettyimages-483688202.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 1200,
+          "title": "My Top 7 Stocks to Buy in March's Stock Market Crash",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-us-stock-futures-bounce-after-brutal-selloff.md",
+      "title": "U.S. stock futures bounce after brutal selloff",
+      "excerpt": "By Uday Sampath Kumar March 24 (Reuters) - U.S. stock index futures jumped 5% to their daily upper trading limit on Tuesday, rebounding from a brutal coronavirus-driven selloff on signs that Washington was nearing a deal on a $2 trillion economic rescue package. The S&P 500 .SPX and Dow Jones .DJI indexes closed about 3% lower on Monday ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-stock-futures-bounce-after-brutal-selloff-2020-03-24",
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-stock-futures-bounce-after-brutal-selloff-2020-03-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-stock-futures-bounce-after-brutal-selloff-2020-03-24?amp",
+      "publishedDateTime": "2020-03-24T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2020-03-24T100534Z_1_XR8_RTRLXPP_2_LYNXPACKAGER.JPG?777233823",
+          "width": 450,
+          "height": 300,
+          "title": "U.S. stock futures bounce after brutal selloff",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-coronavirus-live-updates-new-cases-surge-in-spain-dow-futures-jump.md",
+      "title": "Coronavirus live updates: New cases surge in Spain; Dow futures jump",
+      "excerpt": "As of Tuesday, more than 387,382 cases of coronavirus have been reported, resulting in at least 16,767 deaths.",
+      "heat": 100,
+      "tags": [
+        "Spain",
+        "ES",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/24/coronavirus-live-updates.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus",
+        "Coronavirus in Europe",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-indonesia-stock-market-may-extend-mondays-losses.md",
+      "title": "Indonesia Stock Market May Extend Monday's Losses",
+      "excerpt": "(RTTNews) - The Indonesia stock market turned lower again on Monday, one session after it had ended the four-day losing streak in which it had stumbled more than 800 points or 18.5 percent. The Jakarta Composite Index now rests just beneath the 3,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/indonesia-stock-market-may-extend-mondays-losses-2020-03-23",
+      "ampWebUrl": "https://www.nasdaq.com/articles/indonesia-stock-market-may-extend-mondays-losses-2020-03-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/indonesia-stock-market-may-extend-mondays-losses-2020-03-23?amp",
+      "publishedDateTime": "2020-03-23T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1395146758",
+          "width": 1024,
+          "height": 512,
+          "title": "Indonesia Stock Market May Extend Monday's Losses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-stock-market-live-monday-dow-sinks-580-points-virus-bill-stalls-in-senate-tepper-nibbles.md",
+      "title": "Stock market live Monday: Dow sinks 580 points, virus bill stalls in Senate, Tepper 'nibbles'",
+      "excerpt": "With the bear market picking up steam with Monday’s 3% slide, the Dow is nearing the completion of its worst month of trading since 1931. The blue-chip index, down 26.8% for the month of March, is on pace to notch its worst calendar month since September 1931,",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/23/stock-market-live-today.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/23/stock-market-live-today.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/23/stock-market-live-today.html",
+      "publishedDateTime": "2020-03-23T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106452717-1584654082317gettyimages-1207642272.jpeg?v=1584654146",
+          "width": 5240,
+          "height": 3493,
+          "title": "Stock market live Monday: Dow sinks 580 points, virus bill stalls in Senate, Tepper 'nibbles'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-stock-market-tumbles-yet-again-but-one-measure-suggests-things-may-be-getting-better.md",
+      "title": "Stock Market Tumbles Yet Again, but One Measure Suggests Things May Be Getting Better",
+      "excerpt": "The S&P 500 hit a new 52-week low after the Senate failed to pass a coronavirus aid package. The Vix, however, fell too. Here’s what that means. The S&P 500 hit a new 52-week low after the Senate failed to pass a coronavirus aid package.",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/stock-market-tumbles-yet-again-but-one-measure-suggests-things-may-be-getting-better-2020",
+      "ampWebUrl": "https://www.nasdaq.com/articles/stock-market-tumbles-yet-again-but-one-measure-suggests-things-may-be-getting-better-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/stock-market-tumbles-yet-again-but-one-measure-suggests-things-may-be-getting-better-2020?amp",
+      "publishedDateTime": "2020-03-23T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1348015679",
+          "width": 1024,
+          "height": 512,
+          "title": "Stock Market Tumbles Yet Again, but One Measure Suggests Things May Be Getting Better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-wells-fargo-sees-compelling-value-in-snap-stock.md",
+      "title": "Wells Fargo Sees Compelling Value in Snap Stock",
+      "excerpt": "Snap (SNAP), the maker of the Snapchat app, was one of the hottest stocks in the market in 2019, adding an enormous 181% to the share price over the year. Unfortunately for investors, a large chunk of these gains has disappeared following the coronavirus outbreak -- Snap stock is down by 35% year-to-date.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/wells-fargo-sees-compelling-value-in-snap-stock-2020-03-23",
+      "ampWebUrl": "https://www.nasdaq.com/articles/wells-fargo-sees-compelling-value-in-snap-stock-2020-03-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/wells-fargo-sees-compelling-value-in-snap-stock-2020-03-23?amp",
+      "publishedDateTime": "2020-03-23T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1105492121",
+          "width": 1024,
+          "height": 512,
+          "title": "Wells Fargo Sees Compelling Value in Snap Stock",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-stock-market-wrap-up-airlines-cruise-lines-soar-on-coronavirus-stimulus-hopes.md",
+      "title": "Stock Market Wrap-Up: Airlines, Cruise Lines Soar on Coronavirus Stimulus Hopes",
+      "excerpt": "despite efforts from the Federal Reserve to provide potentially unlimited liquidity to prevent the financial system from seizing up over economic consequences of the COVID-19 coronavirus disease pandemic. Tech stocks once again outperformed the broader market, giving the Nasdaq Composite (NASDAQINDEX:^IXIC) a better showing than the Dow Jones ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/23/stock-market-wrap-up-airlines-cruise-lines-soar-on.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/23/stock-market-wrap-up-airlines-cruise-lines-soar-on.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/23/stock-market-wrap-up-airlines-cruise-lines-soar-on.aspx",
+      "publishedDateTime": "2020-03-23T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564875%2Fdal-airplane.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 864,
+          "title": "Stock Market Wrap-Up: Airlines, Cruise Lines Soar on Coronavirus Stimulus Hopes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-stocks-slump-dow-falls-600-points-as-congress-again-fails-to-pass-coronavirus-stimulus-bill.md",
+      "title": "Stocks Slump, Dow Falls 600 Points As Congress Again Fails To Pass Coronavirus Stimulus Bill",
+      "excerpt": "Topline: Despite a massive new intervention from the Federal Reserve, the stock market moved lower again on Monday after a divided Congress failed to pass a $2 trillion coronavirus relief package for the second day in a row.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sergeiklebnikov/2020/03/23/stocks-slump-dow-falls-600-points-as-congress-again-fails-to-pass-coronavirus-stimulus-bill/",
+      "ampWebUrl": "https://www.forbes.com/sites/sergeiklebnikov/2020/03/23/stocks-slump-dow-falls-600-points-as-congress-again-fails-to-pass-coronavirus-stimulus-bill/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2020/03/23/stocks-slump-dow-falls-600-points-as-congress-again-fails-to-pass-coronavirus-stimulus-bill/amp/",
+      "publishedDateTime": "2020-03-23T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1213764421%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Stocks Slump, Dow Falls 600 Points As Congress Again Fails To Pass Coronavirus Stimulus Bill",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-wall-street-recoils-after-massive-coronavirus-rescue-bill-trips-up-a-second-time-in-senate.md",
+      "title": "Wall Street recoils after massive coronavirus rescue bill trips up a second time in Senate",
+      "excerpt": "Oil prices have plummeted as demand has evaporated and governments around the world urge people to stay in their homes to contain the spread of coronavirus. Ed Yardeni ... Germany’s DAX shed roughly 2 percent, and the pan-European Stoxx 3 percent. In Asia, Hong Kong’s Hang Seng plunged 4.86 percent, and the Shanghai composite dropped ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/business/2020/03/23/stocks-markets-today-coronavirus/",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2020/03/23/stocks-markets-today-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/03/23/stocks-markets-today-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-03-23T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/xUl7vRmrwrwV-1cLZ_SuPUPtUr8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5J4GTKTNDMI6VIKWABELMLG3KE.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Wall Street recoils after massive coronavirus rescue bill trips up a second time in Senate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Stock Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-why-netflix-stock-jumped-monday.md",
+      "title": "Why Netflix Stock Jumped Monday",
+      "excerpt": "Shares are up even as the overall market is down. As of this writing ... In addition, the analyst lifted his 12-month price target for the stock from $350 to $415. This more optimistic outlook for Netflix comes as the coronavirus pandemic has led to people spending far more time at home, where they are more likely to use services like Netflix.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/23/why-netflix-stock-jumped-monday.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/23/why-netflix-stock-jumped-monday.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/23/why-netflix-stock-jumped-monday.aspx",
+      "publishedDateTime": "2020-03-23T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564812%2Fnetflix-stock.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Why Netflix Stock Jumped Monday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-why-crowdstrike-stock-will-remain-highly-volatile-despite-stellar-fourth-quarter.md",
+      "title": "Why CrowdStrike Stock Will Remain Highly Volatile Despite Stellar Fourth Quarter",
+      "excerpt": "Given these strong results, the market values the company at a forward enterprise ... shares of CrowdStrike have swung from over $100 per share to as low as $33 as the coronavirus-induced sell-off took hold. And since CrowdStrike is the classic high-growth tech company with no profits, the stock will continue on its volatile path.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/23/why-crowdstrike-stock-will-remain-highly-volatile.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/23/why-crowdstrike-stock-will-remain-highly-volatile.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/23/why-crowdstrike-stock-will-remain-highly-volatile.aspx",
+      "publishedDateTime": "2020-03-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564257%2Fman-touching-cloud-with-padlock-icon-on-network-connection.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 720,
+          "title": "Why CrowdStrike Stock Will Remain Highly Volatile Despite Stellar Fourth Quarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-dow-skids-down-more-than-500-points-as-fed-efforts-overshadowed-by-rising-us-coronavirus-cases.md",
+      "title": "Dow skids down more than 500 points as Fed efforts overshadowed by rising U.S. coronavirus cases",
+      "excerpt": "U.S. stocks slumped Monday as investors focused on the economic damage from the rapidly spreading coronavirus, looking past the Federal Reserve’s announcement that there was no limit to its bond purchases.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/dow-futures-plunge-the-most-allowable-as-coronavirus-slams-market-fed-officials-warns-unemployment-could-hit-30-2020-03-22?mod=MW_section_top_stories",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/44BF0566-6C8D-11EA-8762-407E1360EFBA",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/44BF0566-6C8D-11EA-8762-407E1360EFBA",
+      "publishedDateTime": "2020-03-23T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IC798_20trum_ZH_20200322192941.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "Dow skids down more than 500 points as Fed efforts overshadowed by rising U.S. coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-stock-market-news-this-top-coronavirus-stock-just-soared-again.md",
+      "title": "Stock Market News: This Top Coronavirus Stock Just Soared Again",
+      "excerpt": "As of 11 a.m. EDT, the Dow Jones Industrial Average (DJINDICES:^DJI) was down 334 points to 18,839. The S&P 500 (SNPINDEX:^GSPC) dropped 39 points to 2,266, and the Nasdaq Composite (NASDAQINDEX:^IXIC) fell 16 points to 6,864. One big winner from the coronavirus outbreak so far has been Zoom Video Communications (NASDAQ:ZM), and the stock ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/23/stock-market-news-this-top-coronavirus-stock-just.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/23/stock-market-news-this-top-coronavirus-stock-just.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/23/stock-market-news-this-top-coronavirus-stock-just.aspx",
+      "publishedDateTime": "2020-03-23T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564781%2Fworking-woman-gettyimages-147205418.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Stock Market News: This Top Coronavirus Stock Just Soared Again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-is-altria-stock-a-buy.md",
+      "title": "Is Altria Stock a Buy?",
+      "excerpt": "Let's start with the coronavirus impact on Altria ... Altria is a controversial stock that may be a bad investment five or more years from now, but it has a strong possibility of beating the market in the year ahead for investors with the stomach to invest in tobacco stocks.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/23/is-altria-stock-a-buy.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/23/is-altria-stock-a-buy.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/23/is-altria-stock-a-buy.aspx",
+      "publishedDateTime": "2020-03-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564748%2Fmoaltriasign.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 676,
+          "title": "Is Altria Stock a Buy?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-how-the-coronvavirus-stock-market-rout-left-chewys-founder-down-150-million-on-his-apple-bet.md",
+      "title": "How the coronvavirus stock-market rout left Chewy’s founder down $150 million on his Apple bet",
+      "excerpt": "Ryan Cohen, founder and former chief executive of the online pet supply company Chewy, has won the sort of success that most entrepreneurs can only dream of. But since the coronavirus-induced market meltdown that began last month,",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/how-the-coronvavirus-stock-market-rout-left-chewys-founder-down-150-million-on-his-apple-bet-2020-03-23",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/AAAA450C-6D00-11EA-A687-9E83803F6B96",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/AAAA450C-6D00-11EA-A687-9E83803F6B96",
+      "publishedDateTime": "2020-03-23T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IC826_cohen__ZH_20200323102436.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "How the coronvavirus stock-market rout left Chewy’s founder down $150 million on his Apple bet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-insulating-your-assets-from-market-downturn.md",
+      "title": "Insulating Your Assets From Market Downturn",
+      "excerpt": "During a downturn, investing in alternative assets uncorrelated to the U.S. dollar or the stock market can be a good way to protect your savings and hedge against risk.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/03/23/insulating-your-assets-from-market-downturn/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/03/23/insulating-your-assets-from-market-downturn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/03/23/insulating-your-assets-from-market-downturn/amp/",
+      "publishedDateTime": "2020-03-23T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesfinancecouncil%2Ffiles%2F2020%2F03%2F56-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Insulating Your Assets From Market Downturn",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-stock-futures-trade-limit-down-as-coronavirus-stimulus-package-gets-hammered-out.md",
+      "title": "Stock futures trade limit down as coronavirus stimulus package gets hammered out",
+      "excerpt": "Continue Reading Below S&P 500 futures fell by 5 percent, triggering a trading halt. Dow futures were lower by 954 points, or 5 percent, while Nasdaq futures fell by 4.9 percent. The losses come after the major averages last week suffered through their sharpest weekly drop since the 2008 financial crisis. West Texas Intermediate crude oil ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxbusiness.com/markets/us-stock-futures-march-22-2020",
+      "ampWebUrl": "https://www.foxbusiness.com/markets/us-stock-futures-march-22-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/us-stock-futures-march-22-2020.amp",
+      "publishedDateTime": "2020-03-23T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74aed906-0f99-4286-ad16-e78126ce2021/9c006014-cfe8-4070-965f-b3d03703c112/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Stock futures trade limit down as coronavirus stimulus package gets hammered out",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-theres-still-plenty-of-downside-in-this-oil-market.md",
+      "title": "There’s Still Plenty Of Downside In This Oil Market",
+      "excerpt": "outbreak in early January. At that time, supply and demand looked reasonably balanced. OPEC and its partners (primarily Russia) were taking action to make sure that balance was maintained. I felt confident enough in the fundamentals to predict that oil prices wouldn’t fall below $50/bbl this year.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rrapier/2020/03/23/theres-still-plenty-of-downside/",
+      "ampWebUrl": "https://www.forbes.com/sites/rrapier/2020/03/23/theres-still-plenty-of-downside/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rrapier/2020/03/23/theres-still-plenty-of-downside/amp/",
+      "publishedDateTime": "2020-03-23T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211448386%2F0x0.jpg%3FcropX1%3D239%26cropX2%3D6093%26cropY1%3D0%26cropY2%3D3295",
+          "width": 1200,
+          "height": 676,
+          "title": "There’s Still Plenty Of Downside In This Oil Market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-extraordinary-change-how-coronavirus-is-rewiring-the-republican-and-democratic-parties.md",
+      "title": "‘Extraordinary change’: How coronavirus is rewiring the Republican and Democratic parties",
+      "excerpt": "But unlike many past crises, the coronavirus pandemic has caused turmoil in the economy, public health and politics all at once. The death toll is rising. The stock market is in freefall. The virus has consumed Trump’s presidency and his re-election prospects, and it has all but frozen the Democratic presidential primary in time.",
+      "heat": 156,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/03/23/coronavirus-rewiring-republican-democratic-parties-141298",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/3e/c8/874e5ebe4334a8944618ba1c490c/20200322-house-chamber-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "‘Extraordinary change’: How coronavirus is rewiring the Republican and Democratic parties",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus",
+        "Economic Impact",
+        "Political Impact",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-dow-futures-plunge-as-coronavirus-slams-market-fed-official-warns-unemployment-could-hit-30.md",
+      "title": "Dow futures plunge as coronavirus slams market, Fed official warns unemployment could hit 30%",
+      "excerpt": "U.S. stock-index futures fell by the most allowable for the day Sunday evening as the cases of coronavirus globally neared 330,000 and the market appeared unhappy with a lack of government action to address the current and expected fallout from the COVID-19 pandemic.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/dow-futures-plunge-the-most-allowable-as-coronavirus-slams-market-fed-officials-warns-unemployment-could-hit-30-2020-03-22?mod=darrell-delamaides-political-capital",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/44BF0566-6C8D-11EA-8762-407E1360EFBA",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/44BF0566-6C8D-11EA-8762-407E1360EFBA",
+      "publishedDateTime": "2020-03-22T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IC798_20trum_ZH_20200322192941.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "Dow futures plunge as coronavirus slams market, Fed official warns unemployment could hit 30%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 10
+}

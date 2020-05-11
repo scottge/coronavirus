@@ -1,0 +1,2053 @@
+{
+  "location": {
+    "long": -94.6859,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Minnesota",
+    "county": null,
+    "isoCode": "US-MN",
+    "lat": 46.729553
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.5669969Z",
+  "stats": {
+    "totalConfirmedCases": 10797,
+    "newlyConfirmedCases": 709,
+    "totalDeaths": 558,
+    "newDeaths": 24,
+    "totalRecoveredCases": 6322,
+    "newlyRecoveredCases": 625,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 14,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 32,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 35,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 73,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 66,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 77,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 89,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 116,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 138,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 170,
+        "deaths": 1,
+        "recovered": 24
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 236,
+        "deaths": 1,
+        "recovered": 24
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 263,
+        "deaths": 1,
+        "recovered": 24
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 288,
+        "deaths": 1,
+        "recovered": 122
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 347,
+        "deaths": 2,
+        "recovered": 122
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 399,
+        "deaths": 4,
+        "recovered": 122
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 442,
+        "deaths": 5,
+        "recovered": 122
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 504,
+        "deaths": 9,
+        "recovered": 122
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 577,
+        "deaths": 10,
+        "recovered": 260
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 630,
+        "deaths": 12,
+        "recovered": 260
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 690,
+        "deaths": 17,
+        "recovered": 342
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 743,
+        "deaths": 18,
+        "recovered": 342
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 790,
+        "deaths": 22,
+        "recovered": 410
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 866,
+        "deaths": 24,
+        "recovered": 440
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 936,
+        "deaths": 29,
+        "recovered": 451
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 987,
+        "deaths": 30,
+        "recovered": 470
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 1070,
+        "deaths": 34,
+        "recovered": 549
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 1155,
+        "deaths": 39,
+        "recovered": 632
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 1243,
+        "deaths": 50,
+        "recovered": 675
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 1337,
+        "deaths": 57,
+        "recovered": 732
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 1428,
+        "deaths": 64,
+        "recovered": 732
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 1622,
+        "deaths": 70,
+        "recovered": 842
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 1651,
+        "deaths": 70,
+        "recovered": 842
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 1718,
+        "deaths": 79,
+        "recovered": 909
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 1832,
+        "deaths": 87,
+        "recovered": 940
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 1935,
+        "deaths": 95,
+        "recovered": 1020
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 2093,
+        "deaths": 111,
+        "recovered": 1066
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 2236,
+        "deaths": 121,
+        "recovered": 1118
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 2379,
+        "deaths": 134,
+        "recovered": 1160
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 2493,
+        "deaths": 143,
+        "recovered": 1160
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 2590,
+        "deaths": 160,
+        "recovered": 1160
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 2745,
+        "deaths": 179,
+        "recovered": 1160
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 2965,
+        "deaths": 200,
+        "recovered": 1536
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 3208,
+        "deaths": 221,
+        "recovered": 1536
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 3464,
+        "deaths": 244,
+        "recovered": 1654
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 3617,
+        "deaths": 272,
+        "recovered": 1774
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 3835,
+        "deaths": 286,
+        "recovered": 1842
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 4198,
+        "deaths": 301,
+        "recovered": 1912
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 4660,
+        "deaths": 319,
+        "recovered": 2043
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 5150,
+        "deaths": 343,
+        "recovered": 2172
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 5676,
+        "deaths": 366,
+        "recovered": 2284
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 6257,
+        "deaths": 395,
+        "recovered": 2397
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 6682,
+        "deaths": 419,
+        "recovered": 3015
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 7262,
+        "deaths": 428,
+        "recovered": 4212
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 7856,
+        "deaths": 455,
+        "recovered": 4614
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 8593,
+        "deaths": 485,
+        "recovered": 5005
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 9371,
+        "deaths": 508,
+        "recovered": 5308
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 10088,
+        "deaths": 534,
+        "recovered": 5697
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 10797,
+        "deaths": 558,
+        "recovered": 6322
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -93.2197,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Anoka",
+          "isoCode": "US-MN",
+          "lat": 45.3293
+        },
+        "totalConfirmedCases": 518,
+        "newlyConfirmedCases": 41,
+        "totalDeaths": 29,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.997,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Beltrami",
+          "isoCode": "US-MN",
+          "lat": 47.5065
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.2317,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Benton",
+          "isoCode": "US-MN",
+          "lat": 45.7525
+        },
+        "totalConfirmedCases": 87,
+        "newlyConfirmedCases": 11,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.294,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Big Stone",
+          "isoCode": "US-MN",
+          "lat": 45.5723
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.1666,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Blue earth",
+          "isoCode": "US-MN",
+          "lat": 43.9626
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.7842,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Carver",
+          "isoCode": "US-MN",
+          "lat": 44.8254
+        },
+        "totalConfirmedCases": 78,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 1,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.9126,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Cass",
+          "isoCode": "US-MN",
+          "lat": 47.0568
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.9654,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Chisago",
+          "isoCode": "US-MN",
+          "lat": 45.6875
+        },
+        "totalConfirmedCases": 19,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.5579,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Clay",
+          "isoCode": "US-MN",
+          "lat": 46.7105
+        },
+        "totalConfirmedCases": 233,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 16,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.4287,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Clearwater",
+          "isoCode": "US-MN",
+          "lat": 47.6962
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0461,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Cottonwood",
+          "isoCode": "US-MN",
+          "lat": 43.9096
+        },
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.1301,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Dakota",
+          "isoCode": "US-MN",
+          "lat": 44.9096
+        },
+        "totalConfirmedCases": 408,
+        "newlyConfirmedCases": 44,
+        "totalDeaths": 15,
+        "newDeaths": 3,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.8995,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Dodge",
+          "isoCode": "US-MN",
+          "lat": 44.1529
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.2925,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Douglas",
+          "isoCode": "US-MN",
+          "lat": 45.9741
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.0174,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Faribault",
+          "isoCode": "US-MN",
+          "lat": 43.7677
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.0303,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Goodhue",
+          "isoCode": "US-MN",
+          "lat": 44.4088
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.5891,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Hennepin",
+          "isoCode": "US-MN",
+          "lat": 44.9394
+        },
+        "totalConfirmedCases": 3379,
+        "newlyConfirmedCases": 226,
+        "totalDeaths": 374,
+        "newDeaths": 12,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0596,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Hubbard",
+          "isoCode": "US-MN",
+          "lat": 46.917
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.1717,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Isanti",
+          "isoCode": "US-MN",
+          "lat": 45.7223
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.7859,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Itasca",
+          "isoCode": "US-MN",
+          "lat": 47.3207
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.9886,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Jackson",
+          "isoCode": "US-MN",
+          "lat": 43.6288
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8397,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Kandiyohi",
+          "isoCode": "US-MN",
+          "lat": 45.4054
+        },
+        "totalConfirmedCases": 276,
+        "newlyConfirmedCases": 15,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.5747,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Le Sueur",
+          "isoCode": "US-MN",
+          "lat": 44.2236
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.1812,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Lincoln",
+          "isoCode": "US-MN",
+          "lat": 44.3814
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.9512,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Mahnomen",
+          "isoCode": "US-MN",
+          "lat": 47.3219
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.4621,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Martin",
+          "isoCode": "US-MN",
+          "lat": 43.6441
+        },
+        "totalConfirmedCases": 112,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.5197,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Meeker",
+          "isoCode": "US-MN",
+          "lat": 44.9431
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.5078,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Mower",
+          "isoCode": "US-MN",
+          "lat": 43.5133
+        },
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.9659,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Nicollet",
+          "isoCode": "US-MN",
+          "lat": 44.3296
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.3814,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Olmsted",
+          "isoCode": "US-MN",
+          "lat": 43.9952
+        },
+        "totalConfirmedCases": 363,
+        "newlyConfirmedCases": 12,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.1309,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Otter Tail",
+          "isoCode": "US-MN",
+          "lat": 46.3798
+        },
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.0616,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Ramsey",
+          "isoCode": "US-MN",
+          "lat": 44.9964
+        },
+        "totalConfirmedCases": 875,
+        "newlyConfirmedCases": 75,
+        "totalDeaths": 43,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.7231,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Renville",
+          "isoCode": "US-MN",
+          "lat": 44.5283
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.1697,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Rice",
+          "isoCode": "US-MN",
+          "lat": 44.4551
+        },
+        "totalConfirmedCases": 102,
+        "newlyConfirmedCases": 21,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.4409,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Scott",
+          "isoCode": "US-MN",
+          "lat": 44.7251
+        },
+        "totalConfirmedCases": 129,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.5981,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Sherburne",
+          "isoCode": "US-MN",
+          "lat": 45.4416
+        },
+        "totalConfirmedCases": 107,
+        "newlyConfirmedCases": 12,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.232,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Sibley",
+          "isoCode": "US-MN",
+          "lat": 44.6728
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.2399,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "St. Louis",
+          "isoCode": "US-MN",
+          "lat": 47.5312
+        },
+        "totalConfirmedCases": 91,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 12,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.3222,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Stearns",
+          "isoCode": "US-MN",
+          "lat": 45.465
+        },
+        "totalConfirmedCases": 1348,
+        "newlyConfirmedCases": 74,
+        "totalDeaths": 5,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.0552,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Steele",
+          "isoCode": "US-MN",
+          "lat": 43.8683
+        },
+        "totalConfirmedCases": 58,
+        "newlyConfirmedCases": 13,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.042,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Wabasha",
+          "isoCode": "US-MN",
+          "lat": 44.3707
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0878,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Wadena",
+          "isoCode": "US-MN",
+          "lat": 46.629
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.4939,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Waseca",
+          "isoCode": "US-MN",
+          "lat": 43.8938
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.9777,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Washington",
+          "isoCode": "US-MN",
+          "lat": 45.0598
+        },
+        "totalConfirmedCases": 231,
+        "newlyConfirmedCases": 20,
+        "totalDeaths": 14,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8378,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Watonwan",
+          "isoCode": "US-MN",
+          "lat": 44.0535
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.3122,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Wilkin",
+          "isoCode": "US-MN",
+          "lat": 46.2769
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.868,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Winona",
+          "isoCode": "US-MN",
+          "lat": 43.9837
+        },
+        "totalConfirmedCases": 70,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 15,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.7453,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Wright",
+          "isoCode": "US-MN",
+          "lat": 45.092
+        },
+        "totalConfirmedCases": 92,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.4945,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Brown",
+          "isoCode": "US-MN",
+          "lat": 44.1488
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.8327,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Traverse",
+          "isoCode": "US-MN",
+          "lat": 45.5947
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.6279,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Carlton",
+          "isoCode": "US-MN",
+          "lat": 46.5616
+        },
+        "totalConfirmedCases": 64,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.7897,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Lyon",
+          "isoCode": "US-MN",
+          "lat": 44.4488
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.5645,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Freeborn",
+          "isoCode": "US-MN",
+          "lat": 43.7659
+        },
+        "totalConfirmedCases": 43,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.363,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Crow Wing",
+          "isoCode": "US-MN",
+          "lat": 46.169
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.6194,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Yellow Medicine",
+          "isoCode": "US-MN",
+          "lat": 44.6918
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.2132,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Koochiching",
+          "isoCode": "US-MN",
+          "lat": 47.9209
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.1513,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "McLeod",
+          "isoCode": "US-MN",
+          "lat": 44.7699
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.144,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Polk",
+          "isoCode": "US-MN",
+          "lat": 47.6966
+        },
+        "totalConfirmedCases": 48,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 1,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.2823,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Houston",
+          "isoCode": "US-MN",
+          "lat": 43.6992
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.1905,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Pipestone",
+          "isoCode": "US-MN",
+          "lat": 43.9546
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.6668,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Murray",
+          "isoCode": "US-MN",
+          "lat": 44.0704
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.1297,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Redwood",
+          "isoCode": "US-MN",
+          "lat": 44.2098
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.7559,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Swift",
+          "isoCode": "US-MN",
+          "lat": 45.2814
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.7624,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Roseau",
+          "isoCode": "US-MN",
+          "lat": 48.8445
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.9683,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Pine",
+          "isoCode": "US-MN",
+          "lat": 45.8367
+        },
+        "totalConfirmedCases": 69,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.4823,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Nobles",
+          "isoCode": "US-MN",
+          "lat": 43.8266
+        },
+        "totalConfirmedCases": 1230,
+        "newlyConfirmedCases": 53,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.3526,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Becker",
+          "isoCode": "US-MN",
+          "lat": 46.8066
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.3591,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Rock",
+          "isoCode": "US-MN",
+          "lat": 43.5275
+        },
+        "totalConfirmedCases": 19,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0903,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Todd",
+          "isoCode": "US-MN",
+          "lat": 46.324
+        },
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.2727,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Red Lake",
+          "isoCode": "US-MN",
+          "lat": 47.8837
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.1583,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Blue Earth",
+          "isoCode": "US-MN",
+          "lat": 43.8879
+        },
+        "totalConfirmedCases": 64,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.4263,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Fillmore",
+          "isoCode": "US-MN",
+          "lat": 43.6137
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.1889,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Lac qui Parle",
+          "isoCode": "US-MN",
+          "lat": 45.0127
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.8015,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Norman",
+          "isoCode": "US-MN",
+          "lat": 47.1761
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.59,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Mille Lacs",
+          "isoCode": "US-MN",
+          "lat": 45.5689
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.7051,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Aitkin",
+          "isoCode": "US-MN",
+          "lat": 46.5303
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.8019,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Kittson",
+          "isoCode": "US-MN",
+          "lat": 48.8577
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.1945,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Marshall",
+          "isoCode": "US-MN",
+          "lat": 48.2929
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.1008,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Morrison",
+          "isoCode": "US-MN",
+          "lat": 45.9772
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.3672,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Chippewa",
+          "isoCode": "US-MN",
+          "lat": 44.9583
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.2137,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Pennington",
+          "isoCode": "US-MN",
+          "lat": 48.0135
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.2883531,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Kanabec",
+          "isoCode": "US-MN",
+          "lat": 45.9329034
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.0471362,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Grant",
+          "isoCode": "US-MN",
+          "lat": 45.9729315
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.4363717,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Pope",
+          "isoCode": "US-MN",
+          "lat": 45.5472257
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.4964639,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Lake",
+          "isoCode": "US-MN",
+          "lat": 47.5964304
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.9522178,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Minnesota",
+          "county": "Stevens",
+          "isoCode": "US-MN",
+          "lat": 45.5215118
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,1437 @@
+{
+  "page": 7,
+  "value": [
+    {
+      "path": "_news/2020-05-04-coronavirus-deaths-slow-in-italy-nra-lays-off-employees.md",
+      "title": "Coronavirus deaths slow in Italy, NRA lays off employees",
+      "excerpt": "Covid-19 has infected more than 3.4 million people around the world as of Sunday, killing at least 244,229 people.",
+      "heat": 130,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/03/coronavirus-latest-updates.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/03/coronavirus-latest-updates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/03/coronavirus-latest-updates.html",
+      "publishedDateTime": "2020-05-03T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106502750-1587649633288gettyimages-1209758339.jpeg?v=1587649799",
+          "width": 6720,
+          "height": 4480,
+          "title": "Coronavirus deaths slow in Italy, NRA lays off employees",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-slowing-coronavirus-spread-calms-us-and-european-markets.md",
+      "title": "Slowing coronavirus spread calms US and European markets",
+      "excerpt": "The slowing spread of coronavirus has calmed stock markets in the US and Europe, easing one of the most turbulent periods of trading on record. The Cboe Vix index, which tracks volatility in the US stock market and is known as Wall Street’s “fear gauge”,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/c41ffd47-9743-4ece-a0bd-8097ed3ef432",
+      "ampWebUrl": "https://amp.ft.com/content/c41ffd47-9743-4ece-a0bd-8097ed3ef432",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c41ffd47-9743-4ece-a0bd-8097ed3ef432",
+      "publishedDateTime": "2020-05-03T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F9b8d6920-8aae-11ea-9a8b-65fe86ae18c4-standard.png?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 357,
+          "title": "Slowing coronavirus spread calms US and European markets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-boris-johnson-china-italy-coronavirus-world-updates-the-new-york-times.md",
+      "title": "Boris Johnson, China, Italy: Coronavirus World Updates - The New York Times",
+      "excerpt": "European plans for reopening have prompted protests and sown confusion, and the band U2 has helped get protective gear to Ireland.",
+      "heat": 178,
+      "tags": [
+        "Italy",
+        "IT",
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/03/world/coronavirus-news.html?partner=IFTTT",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/03/world/coronavirus-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/03/world/coronavirus-news.amp.html",
+      "publishedDateTime": "2020-05-03T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/03/world/03virus-inr-briefing-rome/merlin_172055475_02874700-7cf9-43a1-986f-746f1bf4dbe2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Boris Johnson, China, Italy: Coronavirus World Updates - The New York Times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-world-updates-italy-reports-474-new-deaths-the-new-york-times.md",
+      "title": "Coronavirus World Updates: Italy Reports 474 New Deaths - The New York Times",
+      "excerpt": "As lockdowns begin to ease for millions of Europeans, Italy reports a spike in deaths. Migrants face roundups in Malaysia and surging infections in Singapore’s dormitories.",
+      "heat": 127,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/02/world/coronavirus-news.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/02/world/coronavirus-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/world/coronavirus-news.amp.html",
+      "publishedDateTime": "2020-05-03T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/02/us/02virus-int-briefing-asia/02virus-int-briefing-asia-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Coronavirus World Updates: Italy Reports 474 New Deaths - The New York Times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-uks-boris-johnson-says-doctors-prepared-to-announce-his-death-as-he-fought-covid-19.md",
+      "title": "UK's Boris Johnson says doctors prepared to announce his death as he fought COVID-19",
+      "excerpt": "\"The doctors had all sorts of arrangements for what to do if things went badly wrong,\" Johnson said, NBC News reports.",
+      "heat": 158,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/04/boris-johnson-says-doctors-prepared-to-announce-his-death-as-he-fought-coronavirus-covid19.html?ref=hvper.com",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/04/boris-johnson-says-doctors-prepared-to-announce-his-death-as-he-fought-coronavirus-covid19.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/04/boris-johnson-says-doctors-prepared-to-announce-his-death-as-he-fought-coronavirus-covid19.html",
+      "publishedDateTime": "2020-05-03T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106507410-1587988157191gettyimages-1211081948.jpeg?v=1588554445",
+          "width": 594,
+          "height": 396,
+          "title": "UK's Boris Johnson says doctors prepared to announce his death as he fought COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-uk-chafes-at-covid-19-death-toll-comparison-with-italy.md",
+      "title": "UK Chafes at COVID-19 Death Toll Comparison With Italy",
+      "excerpt": "The British government sought on Sunday to deflect questions over a coronavirus death toll that is Europe's second worst after Italy, with officials saying it would take a long time before the full picture became clear.",
+      "heat": 160,
+      "tags": [
+        "GB",
+        "UK",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-03/uk-pushes-back-against-covid-19-death-toll-comparison-with-italy",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-03/uk-pushes-back-against-covid-19-death-toll-comparison-with-italy?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-03/uk-pushes-back-against-covid-19-death-toll-comparison-with-italy?context=amp",
+      "publishedDateTime": "2020-05-03T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-more-than-300000-uk-smokers-may-have-quit-owing-to-covid-19-fears.md",
+      "title": "More than 300,000 UK smokers may have quit owing to Covid-19 fears",
+      "excerpt": "Health groups welcome survey suggesting many have quit, are trying to or have cut down",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/society/2020/may/04/more-than-300000-uk-smokers-may-have-quit-owing-to-covid-19-fears",
+      "ampWebUrl": "https://amp.theguardian.com/society/2020/may/04/more-than-300000-uk-smokers-may-have-quit-owing-to-covid-19-fears",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/may/04/more-than-300000-uk-smokers-may-have-quit-owing-to-covid-19-fears",
+      "publishedDateTime": "2020-05-03T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/34bf8296e0fdd55ea35a35df51a9cf2d7ba58659/0_93_2036_1222/master/2036.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54436d11b3170b22c087e8302a6e5727",
+          "width": 600,
+          "height": 360,
+          "title": "More than 300,000 UK smokers may have quit owing to Covid-19 fears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-france-reports-its-lowest-daily-coronavirus-death-toll-since-late-march.md",
+      "title": "France reports its lowest daily coronavirus death toll since late March",
+      "excerpt": "The virus claimed the lives of 135 people in France in the most recent 24-hour window -- the country's lowest daily death toll from Covid-19 since March 22.",
+      "heat": 165,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/03/europe/france-coronavirus-deaths-update/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/03/europe/france-coronavirus-deaths-update/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/03/europe/france-coronavirus-deaths-update/index.html",
+      "publishedDateTime": "2020-05-03T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200504074110-paris-market-covid-may-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "France reports its lowest daily coronavirus death toll since late March",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-new-lows-for-deaths-in-france-spain-and-italy.md",
+      "title": "Coronavirus: New lows for deaths in France, Spain and Italy",
+      "excerpt": "France, Italy and Spain have registered the lowest daily death tolls for weeks as they prepare to ease restrictions. France reported 135 deaths; Spain's 164 were the lowest since mid-March; and Italy's 174 was a two-month low.",
+      "heat": null,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-europe-52524001",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/world-europe-52524001",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-europe-52524001",
+      "publishedDateTime": "2020-05-03T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/AFC8/production/_112100054_mediaitem112100051.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: New lows for deaths in France, Spain and Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-uk-chafes-at-covid-19-death-toll-comparison-with-italy.md",
+      "title": "UK chafes at COVID-19 death toll comparison with Italy",
+      "excerpt": "The British government sought on Sunday to deflect questions over a coronavirus death toll that is Europe's second worst after Italy, with officials saying it would take a long time before the full picture became clear.",
+      "heat": 190,
+      "tags": [
+        "GB",
+        "UK",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-idUSKBN22F0J6",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22F0J6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22F0J6",
+      "publishedDateTime": "2020-05-03T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200503&t=2&i=1517321574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG420L2",
+          "width": 774,
+          "height": 545,
+          "title": "UK chafes at COVID-19 death toll comparison with Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-frances-covid-19-tracing-app-expected-to-enter-testing-in-week-of-may-11.md",
+      "title": "France's COVID-19 tracing app expected to enter testing in week of May 11",
+      "excerpt": "France's state-supported \"StopCOVID\" contact-tracing app should enter its testing phase in the week of May 11 when the country starts to unwind its lockdown, a government minister said on Sunday.",
+      "heat": 124,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-france-idUSKBN22F0QW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22F0QW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22F0QW",
+      "publishedDateTime": "2020-05-03T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200503&t=2&i=1517323365&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG420LP",
+          "width": 817,
+          "height": 545,
+          "title": "France's COVID-19 tracing app expected to enter testing in week of May 11",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-north-west-overtakes-london-for-number-of-covid-19-hospital-cases.md",
+      "title": "North-west overtakes London for number of Covid-19 hospital cases",
+      "excerpt": "Latest figures reveal English regional differences in spread and peak of coronavirus",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/uk-news/2020/may/03/north-west-overtakes-london-for-number-of-covid-19-hospital-cases-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/uk-news/2020/may/03/north-west-overtakes-london-for-number-of-covid-19-hospital-cases-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/may/03/north-west-overtakes-london-for-number-of-covid-19-hospital-cases-coronavirus",
+      "publishedDateTime": "2020-05-03T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/18db6deab28aefd2e6939a5b1ddd023017549fcc/0_355_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3da50dc952fa6c3cab6da71a9b573d0f",
+          "width": 600,
+          "height": 360,
+          "title": "North-west overtakes London for number of Covid-19 hospital cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-after-strict-lockdown-spain-has-lowest-coronavirus-death-toll-in-6-weeks.md",
+      "title": "After Strict Lockdown, Spain Has Lowest Coronavirus Death Toll In 6 Weeks",
+      "excerpt": "Spain reported its lowest daily increase in coronavirus deaths in six weeks on Sunday, with 164 new deaths, as it eases stay-at-home restrictions after weeks under one of the strictest lockdowns in the world.",
+      "heat": 104,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alexandrasternlicht/2020/05/03/after-strict-lockdown-spain-has-lowest-coronavirus-death-toll-in-6-weeks/",
+      "ampWebUrl": "https://www.forbes.com/sites/alexandrasternlicht/2020/05/03/after-strict-lockdown-spain-has-lowest-coronavirus-death-toll-in-6-weeks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexandrasternlicht/2020/05/03/after-strict-lockdown-spain-has-lowest-coronavirus-death-toll-in-6-weeks/amp/",
+      "publishedDateTime": "2020-05-03T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1222463414%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "After Strict Lockdown, Spain Has Lowest Coronavirus Death Toll In 6 Weeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-italy-reaches-lowest-coronavirus-death-toll-since-march-10.md",
+      "title": "Italy reaches lowest coronavirus death toll since March 10",
+      "excerpt": "Deaths from the COVID-19 epidemic in Italy climbed by 174 on Sunday, from 474 the day before, the Civil Protection Agency said, posting the smallest daily toll of fatalities since March 10.",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-03-coronavirus-news-n1198861/ncrd1199021",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1198861",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1198861",
+      "publishedDateTime": "2020-05-03T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_18/3334831/200503-huntington-beach-pier-california-cs-924a_9507b09cdfd97f6b083e311827c5bb08.jpg",
+          "width": 2500,
+          "height": 1403,
+          "title": "Italy reaches lowest coronavirus death toll since March 10",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-uk-covid-19-death-toll-rises-to-28446-up-315.md",
+      "title": "UK COVID-19 death toll rises to 28,446, up 315",
+      "excerpt": "The United Kingdom's death toll from COVID-19 rose to 28,446, an increase of 315, according to figures announced on Sunday that include deaths in hospital and in other settings like nursing homes. (Reporting by Estelle Shirbon,",
+      "heat": 175,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-britain-toll-idUSL9N2AV00B",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL9N2AV00B",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL9N2AV00B",
+      "publishedDateTime": "2020-05-03T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UK COVID-19 death toll rises to 28,446, up 315",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-france-proposes-coronavirus-quarantine-for-visitors-from-abroad.md",
+      "title": "France proposes coronavirus quarantine for visitors from abroad",
+      "excerpt": "If passed, law would mean anyone arriving would be confined even if asymptomatic",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/03/france-proposes-coronavirus-quarantine-for-visitors-from-abroad",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/03/france-proposes-coronavirus-quarantine-for-visitors-from-abroad",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/03/france-proposes-coronavirus-quarantine-for-visitors-from-abroad",
+      "publishedDateTime": "2020-05-03T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dfeaf95a4ee65ca23fba2f41c6e6b23024ca5752/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b5bc23e9315fdfc6971c2c80025b6564",
+          "width": 600,
+          "height": 360,
+          "title": "France proposes coronavirus quarantine for visitors from abroad",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-mcdonalds-seeks-rent-cut-from-uk-landlords.md",
+      "title": "Coronavirus: McDonald's seeks rent cut from UK landlords",
+      "excerpt": "McDonald's is in talks with some of its landlords in the UK about cutting rent payments as the fast food chain prepares to reopen some of its sites. Businesses face their next quarterly rent bill on 24 June when they are due to pay for the next three months.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52520109",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52520109",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52520109",
+      "publishedDateTime": "2020-05-03T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13C53/production/_112097908_mcdsreuters.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: McDonald's seeks rent cut from UK landlords",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-spain-reports-lowest-daily-death-toll-in-nearly-seven-weeks.md",
+      "title": "Spain reports lowest daily death toll in nearly seven weeks",
+      "excerpt": "U.S. deaths top 66,000 as pandemic takes its toll on ordinary Americans OMAHA, Neb. — Warren Buffett’s company reported a nearly $50 billion loss on Saturday because of a huge drop in the paper value of its investments,",
+      "heat": 100,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-03-coronavirus-news-n1198861/ncrd1198916",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1198861",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1198861",
+      "publishedDateTime": "2020-05-03T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_18/3334831/200503-huntington-beach-pier-california-cs-924a_9507b09cdfd97f6b083e311827c5bb08.jpg",
+          "width": 2500,
+          "height": 1403,
+          "title": "Spain reports lowest daily death toll in nearly seven weeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-spain-deaths-slow-japan-set-to-extend-emergency-virus-update.md",
+      "title": "Spain Deaths Slow; Japan Set to Extend Emergency: Virus Update",
+      "excerpt": "Spain recorded the fewest deaths from coronavirus in more than six weeks, as the nation begins gradually relaxing Europe’s strictest lockdown regime after weeks of confinement.",
+      "heat": 105,
+      "tags": [
+        "Spain",
+        "ES",
+        "JP"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/business/on-small-business/spain-deaths-slow-japan-set-to-extend-emergency-virus-update/2020/05/03/6799117c-8cf3-11ea-80df-d24b35a568ae_story.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/4zJ-yZuXLifU1zxHqlTl8DN5ySg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3M3QE7EM4EI6VAG72JFTLJLIVY.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Spain Deaths Slow; Japan Set to Extend Emergency: Virus Update",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in Japan",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-world-updates-italy-reports-474-new-deaths-the-new-york-times.md",
+      "title": "Coronavirus World Updates: Italy Reports 474 New Deaths - The New York Times",
+      "excerpt": "As lockdowns begin to ease for millions of Europeans, Italy reports a spike in deaths. Migrants face roundups in Malaysia and surging infections in Singapore’s dormitories.",
+      "heat": 137,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/02/world/coronavirus-news.html?partner=IFTTT",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/02/world/coronavirus-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/world/coronavirus-news.amp.html",
+      "publishedDateTime": "2020-05-03T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/02/us/02virus-int-briefing-asia/02virus-int-briefing-asia-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Coronavirus World Updates: Italy Reports 474 New Deaths - The New York Times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-italys-incredible-floating-ship-bridge-reaches-for-the-sky.md",
+      "title": "Italy's incredible 'floating ship' bridge reaches for the sky",
+      "excerpt": "High above Northern Italy's Genoa, the final section of a majestic new bridge was hoisted into place this week, signaling the imminent completion of a remarkable engineering project which has inspired",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/travel/article/italy-genoa-new-bridge/index.html",
+      "ampWebUrl": "https://www.cnn.com/travel/amp/italy-genoa-new-bridge/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/italy-genoa-new-bridge/index.html",
+      "publishedDateTime": "2020-05-03T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200501142530-bridge-x-section-1-super-tease.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Italy's incredible 'floating ship' bridge reaches for the sky",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-spains-daily-coronavirus-death-toll-falls-to-164-el-pais.md",
+      "title": "Spain's Daily Coronavirus Death Toll Falls to 164: El Pais",
+      "excerpt": "Spain has recorded 164 deaths from the new coronavirus in the past 24 hours, the lowest daily increase since March 18, newspaper El Pais reported on Sunday. That would bring the country's cumulative death toll from the virus to 25,",
+      "heat": 195,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-03/spains-daily-coronavirus-death-toll-falls-to-164-el-pais",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-03/spains-daily-coronavirus-death-toll-falls-to-164-el-pais?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-03/spains-daily-coronavirus-death-toll-falls-to-164-el-pais?context=amp",
+      "publishedDateTime": "2020-05-03T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-the-risk-of-swedens-coronavirus-strategy-blind-patriotism.md",
+      "title": "The risk of Sweden’s coronavirus strategy? Blind patriotism.",
+      "excerpt": "Pandemic experts have criticized this approach, combining a handful of restrictions with strong recommendations for risk groups and anyone feeling sick to self-isolate, and voluntary social distancing for everyone else.",
+      "heat": 115,
+      "tags": [
+        "Sweden",
+        "SE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/politics/2020/05/03/risk-swedens-coronavirus-strategy-blind-patriotism/",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/05/03/risk-swedens-coronavirus-strategy-blind-patriotism/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/05/03/risk-swedens-coronavirus-strategy-blind-patriotism/?outputType=amp",
+      "publishedDateTime": "2020-05-03T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/e8wwlecL-gRryTYd7ja5uL7QGvU=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UUPKAXEHGAI6VANDS2IMTCARCE.jpg",
+          "width": 1440,
+          "height": 903,
+          "title": "The risk of Sweden’s coronavirus strategy? Blind patriotism.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-i-bought-a-car-from-northern-italy-as-the-pandemic-took-hold.md",
+      "title": "I Bought a Car From Northern Italy as the Pandemic Took Hold",
+      "excerpt": "I bought a classic car from just outside Lombardy, days before northern Italy became the grimmest hot spot in the global coronavirus outbreak. In hindsight, it looks incredibly foolhardy, but on the day I wired the funds,",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/03/business/italian-car-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/03/business/italian-car-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/03/business/italian-car-coronavirus.amp.html",
+      "publishedDateTime": "2020-05-03T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/03/business/03wheels1/03wheels1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "I Bought a Car From Northern Italy as the Pandemic Took Hold",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-uk-had-contingency-plan-for-pm-johnsons-death-as-he-battled-covid-19-the-sun.md",
+      "title": "UK Had Contingency Plan for PM Johnson's Death as He Battled COVID-19: The Sun",
+      "excerpt": "The British government had a contingency plan for Prime Minister Boris Johnson's death as he battled COVID-19 in intensive care last month, he said in an interview with The Sun newspaper.",
+      "heat": 151,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/05/03/world/europe/03reuters-health-coronavirus-britain-johnson-illness.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UK Had Contingency Plan for PM Johnson's Death as He Battled COVID-19: The Sun",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-no-deal-brexit-could-wreck-uks-chance-of-leading-covid-19-global-research.md",
+      "title": "No-deal Brexit could wreck UK’s chance of leading Covid-19 global research",
+      "excerpt": "Nobel scientists warn Britain will lose ‘superpower’ status if access barred to EU €100bn fund",
+      "heat": 103,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/politics/2020/may/03/no-deal-brexit-could-wreck-uks-chance-of-leading-covid-19-global-research",
+      "ampWebUrl": "https://amp.theguardian.com/politics/2020/may/03/no-deal-brexit-could-wreck-uks-chance-of-leading-covid-19-global-research",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2020/may/03/no-deal-brexit-could-wreck-uks-chance-of-leading-covid-19-global-research",
+      "publishedDateTime": "2020-05-03T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3a2598364746b59451ce6f51e74d879eed5892eb/0_190_5100_3060/master/5100.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37a352e911556b9c4df01f3c70582192",
+          "width": 600,
+          "height": 360,
+          "title": "No-deal Brexit could wreck UK’s chance of leading Covid-19 global research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-uk-coronavirus-live-doctors-had-prepared-to-announce-boris-johnsons-death.md",
+      "title": "UK coronavirus live: doctors had prepared to announce Boris Johnson's death",
+      "excerpt": "Prime minister reveals in interview they had a ‘death of Stalin’-type strategy in the event he died of Covid-19",
+      "heat": 173,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/may/03/uk-coronavirus-live-doctors-had-prepared-to-announce-boris-johnsons-death",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/may/03/uk-coronavirus-live-doctors-had-prepared-to-announce-boris-johnsons-death",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/may/03/uk-coronavirus-live-doctors-had-prepared-to-announce-boris-johnsons-death",
+      "publishedDateTime": "2020-05-03T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e7959cfbffc331fffc3eeed66a78ffb4e8de719c/0_27_5127_3075/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7191fee4397abe36f2f68a0e134fab3e",
+          "width": 600,
+          "height": 360,
+          "title": "UK coronavirus live: doctors had prepared to announce Boris Johnson's death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-anger-as-italy-slowly-emerges-from-long-covid-19-lockdown.md",
+      "title": "Anger as Italy slowly emerges from long Covid-19 lockdown",
+      "excerpt": "After nearly two months stuck in their homes citizens say the new rules don’t go far enough to save the economy or their mental health",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/03/anger-as-italy-slowly-emerges-from-long-covid-19-lockdown",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/03/anger-as-italy-slowly-emerges-from-long-covid-19-lockdown",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/03/anger-as-italy-slowly-emerges-from-long-covid-19-lockdown",
+      "publishedDateTime": "2020-05-03T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ebd70409e518cfd7d59541cc42ce2dbe98d08c02/0_138_4134_2480/master/4134.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d3f513c21c22fdd34e0eb5769cd34840",
+          "width": 600,
+          "height": 360,
+          "title": "Anger as Italy slowly emerges from long Covid-19 lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-the-coronavirus-pandemic-makes-it-clear-europe-must-decide-between-the-us-and-china.md",
+      "title": "The coronavirus pandemic makes it clear: Europe must decide between the US and China",
+      "excerpt": "The EU needs to stop sitting in the middle in the battle between the US and China. Europe, and Germany, must reject China and side with the US.",
+      "heat": 158,
+      "tags": [
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/coronavirus-pandemic-crisis-clear-europe-must-choose-us-china-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/coronavirus-pandemic-crisis-clear-europe-must-choose-us-china-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-pandemic-crisis-clear-europe-must-choose-us-china-2020-5?amp",
+      "publishedDateTime": "2020-05-02T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eaecd99fc593d247c1988c3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "The coronavirus pandemic makes it clear: Europe must decide between the US and China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in Asia",
+        "Political Impact",
+        "Coronavirus in China"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-germanys-confirmed-coronavirus-cases-rise-by-793-to-162496-rki.md",
+      "title": "Germany's confirmed coronavirus cases rise by 793 to 162,496: RKI",
+      "excerpt": "The number of confirmed coronavirus cases in Germany increased by 793 to 162,496, data from the Robert Koch Institute (RKI) for infectious diseases showed on Sunday.",
+      "heat": 125,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-germany-cases-idUSKBN22F047",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22F047",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22F047",
+      "publishedDateTime": "2020-05-02T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200503&t=2&i=1517286218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4203B",
+          "width": 827,
+          "height": 545,
+          "title": "Germany's confirmed coronavirus cases rise by 793 to 162,496: RKI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 8
+}

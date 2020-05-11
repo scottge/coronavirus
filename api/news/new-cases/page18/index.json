@@ -1,0 +1,1173 @@
+{
+  "page": 18,
+  "value": [
+    {
+      "path": "_news/2020-05-03-texas-posts-third-straight-day-of-1000-new-cases-as-state-reopens.md",
+      "title": "Texas posts third straight day of 1,000 new cases as state reopens",
+      "excerpt": "Covid-19 has infected more than 3.4 million people around the world as of Friday, killing at least 242,270 people.",
+      "heat": 175,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/02/coronavirus-live-updates.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/02/coronavirus-live-updates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/02/coronavirus-live-updates.html",
+      "publishedDateTime": "2020-05-02T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106516931-1588432060923gettyimages-1211486091.jpeg?v=1588432127",
+          "width": 2000,
+          "height": 1333,
+          "title": "Texas posts third straight day of 1,000 new cases as state reopens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-live-updates-global-cases-top-34-million-death-toll-over-243600.md",
+      "title": "Coronavirus live updates: Global cases top 3.4 million, death toll over 243,600",
+      "excerpt": "The United States reported the most number of cases, with over 1.1 million infections and more than 66,000 deaths, Hopkins data showed.",
+      "heat": 161,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/03/coronavirus-latest-updates-asia-europe.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/03/coronavirus-latest-updates-asia-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/03/coronavirus-latest-updates-asia-europe.html",
+      "publishedDateTime": "2020-05-02T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106513748-1588235666221gettyimages-1210655090.jpeg?v=1588468859",
+          "width": 3460,
+          "height": 2220,
+          "title": "Coronavirus live updates: Global cases top 3.4 million, death toll over 243,600",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-collin-county-reports-19-new-cases-of-covid-19.md",
+      "title": "Collin County Reports 19 New Cases of COVID-19",
+      "excerpt": "Officials reported Saturday 19 new cases of COVID-19 in Collin County, raising the countywide total to 784. Seven additional people have also recovered from the new coronavirus, according to Collin County Health Care Services,",
+      "heat": 160,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/collin-county-reports-19-new-cases-of-covid-19/2362381/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/collin-county-reports-19-new-cases-of-covid-19/2362381/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/collin-county-reports-19-new-cases-of-covid-19/2362381/?amp",
+      "publishedDateTime": "2020-05-02T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/collin-county-generic.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Collin County Reports 19 New Cases of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-dallas-county-reports-181-new-coronavirus-cases-4-deaths-tarrant-county-reports-115-new-cases.md",
+      "title": "Dallas County reports 181 new coronavirus cases, 4 deaths; Tarrant County reports 115 new cases",
+      "excerpt": "Dallas County health officials reported 181 new positive coronavirus cases Saturday, along with four deaths. The deaths include an Irving man in his 20s,",
+      "heat": 138,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dallasnews.com/news/public-health/2020/05/02/tarrant-county-reports-115-positive-coronavirus-cases-2-deaths/",
+      "ampWebUrl": "https://www.dallasnews.com/news/public-health/2020/05/02/tarrant-county-reports-115-positive-coronavirus-cases-2-deaths/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/public-health/2020/05/02/tarrant-county-reports-115-positive-coronavirus-cases-2-deaths/?outputType=amp",
+      "publishedDateTime": "2020-05-02T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/BDTKitKIwJmRA47y_49ndVm__ZE=/1200x630/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/4NJD2LX2MRDNVGW6XGUGJMVPFA.JPG",
+          "width": 1200,
+          "height": 630,
+          "title": "Dallas County reports 181 new coronavirus cases, 4 deaths; Tarrant County reports 115 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-90-lapd-employees-test-positive-for-coronavirus.md",
+      "title": "90 LAPD Employees Test Positive For Coronavirus",
+      "excerpt": "A total of 90 employees of the Los Angeles Police Department have tested positive for coronavirus as of Saturday, according to officials.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://losangeles.cbslocal.com/2020/05/02/90-lapd-employees-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://losangeles.cbslocal.com/2020/05/02/90-lapd-employees-test-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/05/02/90-lapd-employees-test-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-05-02T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-breaking-georgias-covid-19-death-toll-increases-to-1174-cases-top-283k.md",
+      "title": "BREAKING: Georgia’s COVID-19 death toll increases to 1,174; cases top 28.3K",
+      "excerpt": "Nearly 5,390 COVID-19 patients have been hospitalized in Georgia so far and at least 1,249 of those people were admitted into a hospital’s intensive care unit. As of 7 p.m., a total of 174,800 people have been tested for COVID-19,",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ajc.com/news/local/breaking-999-new-coronavirus-cases-two-dozen-deaths-confirmed-last-hours/dDxDaVzHSGqWAmAvd20EzK/",
+      "ampWebUrl": "https://www.ajc.com/news/local/breaking-999-new-coronavirus-cases-two-dozen-deaths-confirmed-last-hours/dDxDaVzHSGqWAmAvd20EzK/amp.html",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/local/breaking-999-new-coronavirus-cases-two-dozen-deaths-confirmed-last-hours/dDxDaVzHSGqWAmAvd20EzK/amp.html",
+      "publishedDateTime": "2020-05-02T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ajc.com/rf/image_medium/Pub/p11/AJC/2020/05/02/Images/Corona%205-2.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "BREAKING: Georgia’s COVID-19 death toll increases to 1,174; cases top 28.3K",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-81-walmart-workers-test-positive-in-coronavirus-hotspot.md",
+      "title": "81 Walmart workers test positive in coronavirus 'hotspot'",
+      "excerpt": "Walmart said their focus was to give their workers the time they need to recover, as they work to prepare the store to reopen.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wcvb.com/article/81-walmart-workers-test-positive-in-coronavirus-hotspot/32353567",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/81-walmart-workers-test-positive-in-coronavirus-hotspot/32353567",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/81-walmart-workers-test-positive-in-coronavirus-hotspot/32353567",
+      "publishedDateTime": "2020-05-02T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/fac53437-2dde-4e97-8438-ce60b0047350/fac53437-2dde-4e97-8438-ce60b0047350_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "81 Walmart workers test positive in coronavirus 'hotspot'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-the-latest-yemen-reports-new-cases-of-covid-19.md",
+      "title": "The Latest: Yemen reports new cases of COVID-19",
+      "excerpt": "The new coronavirus causes mild or moderate symptoms for most people. For some, especially older adults and people with existing health problems, it can cause more severe illness or death. — Pelosi, McConnell decline COVID-19 tests.",
+      "heat": 160,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.timesunion.com/news/article/The-Latest-China-reports-1-new-virus-case-no-15241888.php",
+      "ampWebUrl": "https://www.timesunion.com/news/amp/The-Latest-China-reports-1-new-virus-case-no-15241888.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/The-Latest-China-reports-1-new-virus-case-no-15241888.php",
+      "publishedDateTime": "2020-05-02T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/70/27/19367418/39/375x250.jpg",
+          "width": 375,
+          "height": 249,
+          "title": "The Latest: Yemen reports new cases of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-lubbock-confirms-6-new-cases-another-death-linked-to-coronavirus.md",
+      "title": "Lubbock confirms 6 new cases, another death linked to coronavirus",
+      "excerpt": "Lubbock health officials on Saturday announced six new confirmed coronavirus cases in the county, with another death linked to COVID-19.The total number",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.lubbockonline.com/news/20200502/lubbock-confirms-6-new-cases-another-death-linked-to-coronavirus",
+      "ampWebUrl": "https://www.lubbockonline.com/news/20200502/lubbock-confirms-6-new-cases-another-death-linked-to-coronavirus?template=ampart",
+      "cdnAmpWebUrl": "https://www-lubbockonline-com.cdn.ampproject.org/c/s/www.lubbockonline.com/news/20200502/lubbock-confirms-6-new-cases-another-death-linked-to-coronavirus?template=ampart",
+      "publishedDateTime": "2020-05-02T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lubbock Avalanche-Journal",
+        "domain": "lubbockonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.lubbockonline.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200502&Category=NEWS&ArtNo=200509777&Ref=AR",
+          "width": 1026,
+          "height": 577,
+          "title": "Lubbock confirms 6 new cases, another death linked to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-coronavirus-cases-among-worcester-walmart-employees-reach-81-a-total-of-391-employees-have-been-tested.md",
+      "title": "Coronavirus cases among Worcester Walmart employees reach 81; A total of 391 employees have been tested",
+      "excerpt": "The store has undergone a professional, deep cleaning, officials said. All employees must be tested before they return to work, per the city’s order.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.masslive.com/coronavirus/2020/05/coronavirus-cases-among-worcester-walmart-employees-reach-81-a-total-of-391-employees-have-been-tested.html",
+      "ampWebUrl": "https://www.masslive.com/coronavirus/2020/05/coronavirus-cases-among-worcester-walmart-employees-reach-81-a-total-of-391-employees-have-been-tested.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/05/coronavirus-cases-among-worcester-walmart-employees-reach-81-a-total-of-391-employees-have-been-tested.html?outputType=amp",
+      "publishedDateTime": "2020-05-02T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EIAEJRI36BDSTOG52VSMZGTIBE.png",
+          "width": 696,
+          "height": 406,
+          "title": "Coronavirus cases among Worcester Walmart employees reach 81; A total of 391 employees have been tested",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-virginia-beach-stihl-facility-reports-2-employees-test-positive-for-coronavirus.md",
+      "title": "Virginia Beach STIHL facility reports 2 employees test positive for coronavirus",
+      "excerpt": "A manufacturing Virginia Beach company reports two employees have tested positive for coronavirus. The company sent an email informing all employees of the cases and the measures being taken to lower risks of the virus spreading.",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wtkr.com/news/coronavirus/virginia-beach-stihl-facility-reports-2-employees-test-positive-for-coronavirus",
+      "ampWebUrl": "https://www.wtkr.com/news/coronavirus/virginia-beach-stihl-facility-reports-2-employees-test-positive-for-coronavirus?_amp=true",
+      "cdnAmpWebUrl": "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/coronavirus/virginia-beach-stihl-facility-reports-2-employees-test-positive-for-coronavirus?_amp=true",
+      "publishedDateTime": "2020-05-02T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTKR.com",
+        "domain": "wtkr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/0ef2209/2147483647/strip/true/crop/5508x3098+0+287/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.wtkr.com%2Ftribune-network%2Ftribwtkr-files-wordpress%2F2016%2F08%2F160728_summer_camp_133.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Virginia Beach STIHL facility reports 2 employees test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-australia-coronavirus-live-update-people-enjoy-eased-restrictions-as-four-states-record-new-cases-latest-news.md",
+      "title": "Australia coronavirus live update: people enjoy eased restrictions as four states record new cases – latest news",
+      "excerpt": "Newmarch House considers extracting residents and new Covid-19 cluster emerges at Victorian meat processing facility. Follow the latest updates live",
+      "heat": 149,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/may/03/australia-coronavirus-live-update-new-cases-politics-nsw-victoria-queensland",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/may/03/australia-coronavirus-live-update-new-cases-politics-nsw-victoria-queensland",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/may/03/australia-coronavirus-live-update-new-cases-politics-nsw-victoria-queensland",
+      "publishedDateTime": "2020-05-02T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8a40b3d1ac01e8186f98f6780561d972a0fa163a/0_303_3481_2088/master/3481.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bd91954690cfe97f52b802d5ac0dafdc",
+          "width": 600,
+          "height": 360,
+          "title": "Australia coronavirus live update: people enjoy eased restrictions as four states record new cases – latest news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-7345-coronavirus-cases-in-alabama-up-277-overnight-mobile-adds-68-new-cases.md",
+      "title": "7,345 coronavirus cases in Alabama, up 277 overnight; Mobile adds 68 new cases",
+      "excerpt": "According to the Alabama Department of Public Health’s May 2 9:30 a.m. numbers, Alabama has 7,345 cases of COVID-19 with 289 deaths. Nationally, there are 1,105,078 confirmed cases of coronavirus with 64,",
+      "heat": 146,
+      "tags": [
+        "US-AL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.al.com/news/2020/05/7345-coronavirus-cases-in-alabama-up-277-overnight-mobile-adds-68-new-cases.html",
+      "ampWebUrl": "https://www.al.com/news/2020/05/7345-coronavirus-cases-in-alabama-up-277-overnight-mobile-adds-68-new-cases.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/05/7345-coronavirus-cases-in-alabama-up-277-overnight-mobile-adds-68-new-cases.html?outputType=amp",
+      "publishedDateTime": "2020-05-02T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/WKZEYAVS2NDENBULG5HZXULUDU.jpg",
+          "width": 5076,
+          "height": 3384,
+          "title": "7,345 coronavirus cases in Alabama, up 277 overnight; Mobile adds 68 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-brazil-reports-4970-new-coronavirus-cases-421-deaths-on-saturday.md",
+      "title": "Brazil reports 4,970 new coronavirus cases, 421 deaths on Saturday",
+      "excerpt": "There have been 4,970 new cases of the novel coronavirus in Brazil and 421 deaths over the last 24 hours, the health ministry said on Saturday.",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-brazil-idUSKBN22E0U7",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22E0U7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22E0U7",
+      "publishedDateTime": "2020-05-02T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200502&t=2&i=1517273467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG410LH",
+          "width": 888,
+          "height": 545,
+          "title": "Brazil reports 4,970 new coronavirus cases, 421 deaths on Saturday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-amarillo-phd-confirms-96-new-cases-of-covid-19.md",
+      "title": "Amarillo PHD confirms 96 new cases of COVID-19",
+      "excerpt": "The Amarillo Public Health Department COVID-19 report card for Saturday, May 2, showed 82 new cases in Potter County, as well as 14 new cases in Randall County. The",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.myhighplains.com/news/local-news/amarillo-phd-confirms-96-new-cases-of-covid-19/",
+      "ampWebUrl": "https://www.myhighplains.com/news/local-news/amarillo-phd-confirms-96-new-cases-of-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/local-news/amarillo-phd-confirms-96-new-cases-of-covid-19/amp/",
+      "publishedDateTime": "2020-05-02T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myhighplains.com",
+        "domain": "myhighplains.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/APHD-COVID-19-Report-Card-05-02-2020.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Amarillo PHD confirms 96 new cases of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-covid-19-death-toll-climbs-by-105-in-illinois-raleigh-news-observer.md",
+      "title": "COVID-19 death toll climbs by 105 in Illinois | Raleigh News & Observer",
+      "excerpt": "Officials announced Saturday that Illinois saw another 105 deaths in one day from the coronavirus pandemic, bringing the state's total to 2,559. At a news conference with Gov. J.B. Pritzker, Illinois Public Health Director Dr.",
+      "heat": 125,
+      "tags": [
+        "US-IL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsobserver.com/news/article242464116.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-4-more-deaths-181-new-cases-of-covid-19-reported-in-dallas-county.md",
+      "title": "4 More Deaths, 181 New Cases of COVID-19 Reported in Dallas County",
+      "excerpt": "Dallas County reported four additional deaths and 181 new positive cases of the coronavirus Saturday. The four deaths included a Irving man in his 20s, a Richardson man in his 70s, a Grand Prairie man in his 70s and a Mesquite man in his 90s who had been a resident at a long-term care facility.",
+      "heat": 110,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/4-more-deaths-181-new-cases-of-covid-19-reported-in-dallas-county/2362296/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-covid-19-live-updates-dallas-reports-181-new-cases-the-second-highest-daily-total.md",
+      "title": "COVID-19 Live Updates: Dallas Reports 181 New Cases, The Second Highest Daily Total",
+      "excerpt": "Get live updates throughout the day on how COVID-19 , the illness caused by the novel coronavirus, is affecting North Texas.",
+      "heat": 144,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.keranews.org/post/covid-19-live-updates-dallas-reports-181-new-cases-second-highest-daily-total",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KERA News",
+        "domain": "keranews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.keranews.org/sites/kera/files/styles/medium/public/202004/covid_hospital_mural_dallas_ap_04152020.jpg",
+          "width": 512,
+          "height": 342,
+          "title": "COVID-19 Live Updates: Dallas Reports 181 New Cases, The Second Highest Daily Total",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-5-additional-covid-19-deaths-reported-in-oregon-57-new-cases.md",
+      "title": "5 additional COVID-19 deaths reported in Oregon, 57 new cases",
+      "excerpt": "The Oregon Health Authority on Saturday reported five additional COVID-19 deaths, along with 57 new cases statewide.",
+      "heat": 170,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kptv.com/news/5-additional-covid-19-deaths-reported-in-oregon-57-new-cases/article_e182100c-8cac-11ea-9015-9724ff56071c.html",
+      "ampWebUrl": "https://www.kptv.com/news/5-additional-covid-19-deaths-reported-in-oregon-57-new-cases/article_e182100c-8cac-11ea-9015-9724ff56071c.amp.html",
+      "cdnAmpWebUrl": "https://www-kptv-com.cdn.ampproject.org/c/s/www.kptv.com/news/5-additional-covid-19-deaths-reported-in-oregon-57-new-cases/article_e182100c-8cac-11ea-9015-9724ff56071c.amp.html",
+      "publishedDateTime": "2020-05-02T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 12 Oregon",
+        "domain": "kptv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kptv.com/content/tncms/assets/v3/editorial/f/e0/fe0dc20c-8cac-11ea-8a48-ffaca7a40da8/5eadcd50ed27b.image.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "5 additional COVID-19 deaths reported in Oregon, 57 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-regional-covid-19-updates-5-new-deaths-57-new-cases.md",
+      "title": "Regional COVID-19 updates: 5 new deaths, 57 new cases",
+      "excerpt": "Here is the latest information from May 2, 2020, in Oregon and Southwest Washington in the ongoing coronavirus pandemic.",
+      "heat": 160,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.koin.com/news/health/coronavirus/regional-covid-19-updates-05022020/",
+      "ampWebUrl": "https://www.koin.com/news/health/coronavirus/regional-covid-19-updates-05022020/amp/",
+      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/health/coronavirus/regional-covid-19-updates-05022020/amp/",
+      "publishedDateTime": "2020-05-02T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOIN 6",
+        "domain": "koin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.koin.com/wp-content/uploads/sites/10/2020/05/498f0dd2188c4f388bd8e83b0e45c70b.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Regional COVID-19 updates: 5 new deaths, 57 new cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-2450-new-cases-of-covid-19-in-illinois-on-saturday-105-additional-deaths.md",
+      "title": "2,450 new cases of COVID-19 in Illinois on Saturday, 105 additional deaths",
+      "excerpt": "Governor Pritzker began his press briefing on Saturday with the medical update from the IDPH. Dr. Ngozi Ezike announced an additional 2,450 COVID-19 cases out of the",
+      "heat": 148,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.mystateline.com/news/live-governor-pritzker-holds-daily-covid-19-response-press-briefing-for-saturday/",
+      "ampWebUrl": "https://www.mystateline.com/news/live-governor-pritzker-holds-daily-covid-19-response-press-briefing-for-saturday/amp/",
+      "cdnAmpWebUrl": "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/live-governor-pritzker-holds-daily-covid-19-response-press-briefing-for-saturday/amp/",
+      "publishedDateTime": "2020-05-02T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVO",
+        "domain": "mystateline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mystateline.com/wp-content/uploads/sites/17/2020/05/thumbnail_Coronavirus-Update.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "2,450 new cases of COVID-19 in Illinois on Saturday, 105 additional deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-coronavirus-in-nc-duplin-county-sees-its-first-death-from-covid-19.md",
+      "title": "Coronavirus in NC: Duplin County sees its first death from COVID-19",
+      "excerpt": "Here are the latest North Carolina coronavirus updates on cases and the pandemic’s impact on our health, jobs, schools and more: Mecklenburg County has 45 new cases, and Chatham County has 32 new cases and one death since yesterday.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wral.com/coronavirus/coronavirus-in-nc-duplin-county-sees-its-first-death-from-covid-19/19081569/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-yemen-reports-three-new-coronavirus-cases.md",
+      "title": "Yemen reports three new coronavirus cases",
+      "excerpt": "Yemen has reported three new coronavirus cases, two in Aden and one in Taiz province, the national emergency coronavirus committee said on Saturday, raising the number of diagnosed infections in the war-town country to 10 with two deaths.",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-yemen-idUSKBN22E0R7",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22E0R7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22E0R7",
+      "publishedDateTime": "2020-05-02T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200502&t=2&i=1517265949&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG410IT",
+          "width": 770,
+          "height": 545,
+          "title": "Yemen reports three new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-britain-hits-coronavirus-testing-target-as-death-toll-leaps-again.md",
+      "title": "Britain hits coronavirus testing target as death toll leaps again",
+      "excerpt": "Britain has hit its target of carrying out 100,000 COVID-19 tests a day, health minister Matt Hancock said on Friday, stressing that the programme was crucial to helping ease a national lockdown.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-testing-idUSKBN22D4NF",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-osdh-garfield-county-has-1-of-states-103-new-cases-state-sees-decline-in-numbers-in-past-week.md",
+      "title": "OSDH: Garfield County has 1 of state's 103 new cases; state sees decline in numbers in past week",
+      "excerpt": "Oklahoma saw 103 new COVID-19 cases, including one in Garfield County, reported Saturday, but the number of cases declined in the past week by 8.2%, according to the Oklahoma State",
+      "heat": 102,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.enidnews.com/news/covid19/osdh-garfield-county-has-1-of-states-103-new-cases-state-sees-decline-in-numbers/article_8639dce2-8c8f-11ea-ab32-e36a5ca482b4.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/6/2e/62ee777c-8c97-11ea-bf43-2bfef5f99aa5/5eada8f787704.image.jpg?resize=807%2C603",
+          "width": 807,
+          "height": 603,
+          "title": "OSDH: Garfield County has 1 of state's 103 new cases; state sees decline in numbers in past week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-team-members-at-whole-foods-in-lincoln-park-test-positive-for-covid-19.md",
+      "title": "Team Members At Whole Foods In Lincoln Park Test Positive For COVID-19",
+      "excerpt": "CHICAGO (CBS) — Several COVID-19 cases have been reported at Whole Foods on Kingsbury in Lincoln Park. One employee, who asked not to be identified, provided documentation showing five cases at that location since April 9.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://chicago.cbslocal.com/2020/05/02/team-members-at-whole-foods-in-lincoln-park-test-positive-for-covid-19/",
+      "ampWebUrl": "https://chicago.cbslocal.com/2020/05/02/team-members-at-whole-foods-in-lincoln-park-test-positive-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2020/05/02/team-members-at-whole-foods-in-lincoln-park-test-positive-for-covid-19/amp/",
+      "publishedDateTime": "2020-05-02T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-turkeys-coronavirus-death-toll-rises-by-78-to-3336-ministry.md",
+      "title": "Turkey's Coronavirus Death Toll Rises by 78 to 3,336: Ministry",
+      "excerpt": "Medics wearing protective suits, members of Turkish Health Ministry's coronavirus contact tracing team, visit a home to check a suspected coronavirus disease (COVID-19) case in Ankara, Turkey, April 27,",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-02/turkeys-coronavirus-death-toll-rises-by-78-to-3-336-ministry",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-02/turkeys-coronavirus-death-toll-rises-by-78-to-3-336-ministry?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-02/turkeys-coronavirus-death-toll-rises-by-78-to-3-336-ministry?context=amp",
+      "publishedDateTime": "2020-05-02T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-new-yorks-coronavirus-death-toll-has-remained-obnoxiously-and-terrifyingly-high-cuomo-says.md",
+      "title": "New York's coronavirus death toll has remained \"obnoxiously and terrifyingly high,\" Cuomo says",
+      "excerpt": "New York Governor Andrew Cuomo said Saturday that 299 people died due to the coronavirus on Friday. That marked a slight uptick from 289 deaths the day before – the first day in weeks that the single-day death toll had dropped below 300.",
+      "heat": 163,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/new-york-coronavirus-death-toll-obnoxiously-and-terrifyingly-high-andrew-cuomo-says/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/new-york-coronavirus-death-toll-obnoxiously-and-terrifyingly-high-andrew-cuomo-says/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/new-york-coronavirus-death-toll-obnoxiously-and-terrifyingly-high-andrew-cuomo-says/",
+      "publishedDateTime": "2020-05-02T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/04/30/9ee3cabc-5ec2-4412-9c0d-3b0062e7352f/thumbnail/1200x630/ec72f9839bf7dc94f60d5fc60c3920d0/cbsn-fusion-new-york-governor-cuomo-testing-tracing-coronavirus-infections-thumbnail-477691-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "New York's coronavirus death toll has remained \"obnoxiously and terrifyingly high,\" Cuomo says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-cuomo-daily-covid-19-death-toll-at-299.md",
+      "title": "Cuomo: Daily COVID-19 death toll at 299",
+      "excerpt": "Though Saturday marked the seventh straight day the daily toll was below 400 Governor Andrew M. Cuomo said the number is \"still not dropping at the rate we would",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/news/health/coronavirus/coronavirus-cuomo-cases-deaths-1.44324290",
+      "ampWebUrl": "https://www.newsday.com/amp/news/health/coronavirus/coronavirus-cuomo-cases-deaths-1.44324290",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/health/coronavirus/coronavirus-cuomo-cases-deaths-1.44324290",
+      "publishedDateTime": "2020-05-02T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.44328622.1588439128!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "Cuomo: Daily COVID-19 death toll at 299",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-first-coronavirus-death-in-huron-county.md",
+      "title": "First coronavirus death in Huron County",
+      "excerpt": "THUMB AREA — Huron County has had its first COVID-19 related death. According to a press release issued on Saturday, May 2, 2020 by Huron and Tuscola County Health Department Public Health Officer Ann Hepfer,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/First-COVID-19-death-in-Huron-County-15242296.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/70/40/19367937/4/rawImage.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "First coronavirus death in Huron County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 19
+}

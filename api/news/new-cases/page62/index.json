@@ -1,0 +1,1223 @@
+{
+  "page": 62,
+  "value": [
+    {
+      "path": "_news/2020-03-13-kenya-ethiopia-confirm-their-first-new-coronavirus-cases.md",
+      "title": "Kenya, Ethiopia confirm their first new coronavirus cases",
+      "excerpt": "Kenya and Ethiopia confirmed their first cases of the new coronavirus on Friday, a woman who had returned to Nairobi from the United States and a Japanese national in Addis Ababa. Authorities in Nairobi banned all major public events and said they would restrict foreign travel in the wake of East Africa’s first reported case,",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://af.reuters.com/article/topNews/idAFKBN2101YC-OZATP",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-bristol-hospital-prepares-drive-through-coronavirus-test-center-as-connecticut-schools-shut-down-and-large-gatherings-are-banned.md",
+      "title": "Bristol Hospital prepares drive-through coronavirus test center as Connecticut schools shut down and large gatherings are banned",
+      "excerpt": "It will have a series of temporary shed-like buildings in the parking lot where patients with test orders ... with six testing positive. Of the five state residents who tested positive, four were from Fairfield County and one lived in Litchfield County. Dozens of districts closed schools amid concerns over the coronavirus.",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courant.com/coronavirus/hc-news-connecticut-coronavirus-update-0313-20200313-y436n37xbzeg7jqi5buwynmnuy-story.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hartford Courant",
+        "domain": "courant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-american-airlines-pilot-tests-positive-for-coronavirus-carrier-says.md",
+      "title": "American Airlines pilot tests positive for coronavirus, carrier says",
+      "excerpt": "The airline did not disclose exactly when the employee tested positive or how recently they had flown. On a national level, the ongoing coronavirus outbreak continues to impact those employed in the aviation industry. Three Transportation Security Administration (TSA) officers who work at Mineta San Jose International Airport in California ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/travel/coronavirus-american-airlines-pilot-test-positive",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-washington-kansas-deaths-raise-coronavirus-toll-to-41-as-alaska-reports-first-case.md",
+      "title": "Washington, Kansas Deaths Raise Coronavirus Toll to 41 As Alaska Reports First Case",
+      "excerpt": "With another death in Washington state and the first recorded in Kansas, the U.S. death toll from the coronavirus is now at least 41. In Washington, a man in his 80s died at EvergreenHealth in Kirkland on Wednesday,",
+      "heat": 139,
+      "tags": [
+        "US",
+        "US-AK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/health-news/articles/2020-03-13/washington-kansas-deaths-raise-coronavirus-toll-to-41-as-alaska-reports-first-case",
+      "ampWebUrl": "https://www.usnews.com/news/health-news/articles/2020-03-13/washington-kansas-deaths-raise-coronavirus-toll-to-41-as-alaska-reports-first-case?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-03-13/washington-kansas-deaths-raise-coronavirus-toll-to-41-as-alaska-reports-first-case?context=amp",
+      "publishedDateTime": "2020-03-13T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-positive-coronavirus-test-closes-mutual-of-omaha-headquarters.md",
+      "title": "Positive coronavirus test closes Mutual of Omaha headquarters",
+      "excerpt": "Mutual of Omaha told employees Friday its headquarters building on Dodge and Farnam in Omaha will be closed until further notice due to a \"confirmed case of coronavirus.\" In a memo to employees, Mutual said the closure was in consultation with the Douglas County Health Department,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ketv.com/article/suspected-coronavirus-case-closes-mutual-of-omaha-headquarters/31467263",
+      "ampWebUrl": "https://www.ketv.com/amp/article/suspected-coronavirus-case-closes-mutual-of-omaha-headquarters/31467263",
+      "cdnAmpWebUrl": "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/suspected-coronavirus-case-closes-mutual-of-omaha-headquarters/31467263",
+      "publishedDateTime": "2020-03-13T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KETV Omaha",
+        "domain": "ketv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mutual-0105-1584102754.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "Positive coronavirus test closes Mutual of Omaha headquarters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-albany-county-announces-2-new-cases-of-coronavirus.md",
+      "title": "Albany County announces 2 new cases of coronavirus",
+      "excerpt": "Albany County has announced two new cases of coronavirus, bringing the total to four positive cases in the county. The county announced on Thursday that a Guilderland woman in her 30s and a UAlbany student in his 20s tested positive for the virus. County officials say the new cases are directly related to one of the cases announced on Thursday.",
+      "heat": 210,
+      "tags": [
+        "US",
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://wnyt.com/albany-county-ny-news/albany-county-announces-2-new-cases-of-coronavirus/5673311/",
+      "ampWebUrl": "https://amp.wnyt.com/articles/albany-county-announces-2-new-cases-of-coronavirus-5673311.html",
+      "cdnAmpWebUrl": "https://amp-wnyt-com.cdn.ampproject.org/c/s/amp.wnyt.com/articles/albany-county-announces-2-new-cases-of-coronavirus-5673311.html",
+      "publishedDateTime": "2020-03-13T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WNYT NewsChannel 13",
+        "domain": "wnyt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wnyt.com/wnytimages/repository/2020-03/ap-coronavirus-image.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Albany County announces 2 new cases of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-mormons-halt-worship-services-as-coronavirus-spreads.md",
+      "title": "Mormons halt worship services as coronavirus spreads",
+      "excerpt": "Five people have tested positive ... the state’s coronavirus task force. All have contracted the disease while traveling outside of Utah, said state epidemiologist Angela Dunn. She urged caution but also said people can still go to the park with their children and go to the store. The state hasn’t been able to test as many people as they ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/000affb4ffd00d8473c477741c34a231",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/apnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/ffcd30f9c474484d9a399789b73ec586/2350.jpeg",
+          "width": 2350,
+          "height": 1567,
+          "title": "Mormons halt worship services as coronavirus spreads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-iran-state-tv-says-coronavirus-has-killed-another-85-people-pushing-death-toll-to-514-amid-11364-confirmed-cases.md",
+      "title": "Iran state TV says coronavirus has killed another 85 people, pushing death toll to 514 amid 11,364 confirmed cases.",
+      "excerpt": "TEHRAN, Iran -- Iran state TV says coronavirus has killed another 85 people, pushing death toll to 514 amid 11,364 confirmed cases. Two-thirds of Americans concerned about contracting coronavirus: POLL 24/7 coverage of breaking news and live events",
+      "heat": 153,
+      "tags": [
+        "Iran",
+        "IR"
+      ],
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Health/wireStory/iran-state-tv-coronavirus-killed-85-people-pushing-69577023",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/iran-state-tv-coronavirus-killed-85-people-pushing-69577023",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/iran-state-tv-coronavirus-killed-85-people-pushing-69577023",
+      "publishedDateTime": "2020-03-13T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": "Iran state TV says coronavirus has killed another 85 people, pushing death toll to 514 amid 11,364 confirmed cases.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-more-than-100-schools-announce-closures-due-to-coronavirus.md",
+      "title": "More than 100 schools announce closures due to coronavirus",
+      "excerpt": "Wilcoxson Elementary School closed after learning a student was exposed to a confirmed case of the coronavirus. The test came back positive for the student ... moving to online-only after spring break; all employees teleworking. Capital Community College Campus closing at 10 p.m.; remaining classes will be canceled through the end of the ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfsb.com/news/more-than-schools-announce-closures-due-to-coronavirus/article_08315942-63a9-11ea-8a8d-fbf599c94a44.html",
+      "ampWebUrl": "https://www.wfsb.com/news/more-than-schools-announce-closures-due-to-coronavirus/article_08315942-63a9-11ea-8a8d-fbf599c94a44.amp.html",
+      "cdnAmpWebUrl": "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/news/more-than-schools-announce-closures-due-to-coronavirus/article_08315942-63a9-11ea-8a8d-fbf599c94a44.amp.html",
+      "publishedDateTime": "2020-03-13T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFSB",
+        "domain": "wfsb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/e/2d/e2d1fa88-63aa-11ea-9821-f7106c1f2c54/5e690022e2288.image.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "More than 100 schools announce closures due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-coronavirus-in-sport-live-efl-suspended-til-april-premier-league-to-follow-suit-arteta-and-hudson-odoi-test-positive.md",
+      "title": "Coronavirus in sport LIVE: EFL suspended til April, Premier League to follow suit, Arteta and Hudson-Odoi test positive",
+      "excerpt": "“We look forward to returning to Sri Lanka in the very near future to fulfil this important Test series ... none have tested positive for coronavirus. “The club continues to monitor the situation closely and to take suitable measures to ensure the wellbeing of its employees and supporters.” “In the light of developments due ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thesun.co.uk/sport/11129627/coronavirus-sport-live-champions-premier-europa-league-arteta-hudson-odoi-man-city-mendy-fi-australian-grand-prix/",
+      "ampWebUrl": "https://www.thesun.co.uk/sport/11129627/coronavirus-sport-live-champions-premier-europa-league-arteta-hudson-odoi-man-city-mendy-fi-australian-grand-prix/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/sport/11129627/coronavirus-sport-live-champions-premier-europa-league-arteta-hudson-odoi-man-city-mendy-fi-australian-grand-prix/amp/",
+      "publishedDateTime": "2020-03-13T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2020/03/NINTCHDBPICT000562458489.jpg?strip=all&quality=100",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus in sport LIVE: EFL suspended til April, Premier League to follow suit, Arteta and Hudson-Odoi test positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-update-2-chinas-coronavirus-epicentre-of-wuhan-sees-single-digit-new-cases-for-second-day.md",
+      "title": "UPDATE 2-China's coronavirus epicentre of Wuhan sees single-digit new cases for second day",
+      "excerpt": "BEIJING, March 13- China's Wuhan city, ground zero of the new coronavirus outbreak, reported five new cases on Friday, the second day in a row the tally has been less than 10, while no locally transmitted infections were reported in the rest of the country.",
+      "heat": 265,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/13/reuters-america-update-2-chinas-coronavirus-epicentre-of-wuhan-sees-single-digit-new-cases-for-second-day.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/13/reuters-america-update-2-chinas-coronavirus-epicentre-of-wuhan-sees-single-digit-new-cases-for-second-day.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/13/reuters-america-update-2-chinas-coronavirus-epicentre-of-wuhan-sees-single-digit-new-cases-for-second-day.html",
+      "publishedDateTime": "2020-03-13T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 2-China's coronavirus epicentre of Wuhan sees single-digit new cases for second day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-canada-prime-minister-trudeaus-wife-tests-positive-for-new-coronavirus.md",
+      "title": "Canada: Prime Minister Trudeau’s wife tests positive for new coronavirus",
+      "excerpt": "TORONTO (AP) — Canadian Prime Minister Justin Trudeau’s wife has tested positive for the new coronavirus ... Tom Hanks said he and wife Rita Wilson were taking their new coronavirus infection “one day at a time\" while Australian television hosts who had interviewed Wilson were awaiting test results Friday. Australia has stepped up ...",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wjhl.com/coronavirus/canada-prime-minister-trudeaus-wife-tests-positive-for-new-coronavirus/",
+      "ampWebUrl": "https://www.wjhl.com/coronavirus/canada-prime-minister-trudeaus-wife-tests-positive-for-new-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-wjhl-com.cdn.ampproject.org/c/s/www.wjhl.com/coronavirus/canada-prime-minister-trudeaus-wife-tests-positive-for-new-coronavirus/amp/",
+      "publishedDateTime": "2020-03-13T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJHL-TV",
+        "domain": "wjhl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wjhl.com/wp-content/uploads/sites/98/2020/03/a992570860c04c0e80cb591fd0efa8fe.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Canada: Prime Minister Trudeau’s wife tests positive for new coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-washington-state-health-department-reports-statewide-death-toll-from-coronavirus-climbs-to-31-up-one-from-wednesday.md",
+      "title": "WASHINGTON STATE HEALTH DEPARTMENT REPORTS STATEWIDE DEATH TOLL FROM CORONAVIRUS CLIMBS TO 31, UP ONE FROM WEDNESDAY",
+      "excerpt": "WASHINGTON STATE HEALTH DEPARTMENT REPORTS STATEWIDE DEATH TOLL FROM CORONAVIRUS CLIMBS TO 31, UP ONE FROM WEDNESDAY.",
+      "heat": 142,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/reuters-america-washington-state-health-department-reports-statewide-death-toll-from-coronavirus-climbs-to-31-up-one-from-wednesday.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/12/reuters-america-washington-state-health-department-reports-statewide-death-toll-from-coronavirus-climbs-to-31-up-one-from-wednesday.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/12/reuters-america-washington-state-health-department-reports-statewide-death-toll-from-coronavirus-climbs-to-31-up-one-from-wednesday.html",
+      "publishedDateTime": "2020-03-13T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "WASHINGTON STATE HEALTH DEPARTMENT REPORTS STATEWIDE DEATH TOLL FROM CORONAVIRUS CLIMBS TO 31, UP ONE FROM WEDNESDAY",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-google-india-employee-in-bengaluru-tests-positive-for-coronavirus.md",
+      "title": "Google India employee in Bengaluru tests positive for coronavirus",
+      "excerpt": "A Google India employee in Bengaluru has tested positive for novel coronavirus (COVID-19 ... it may restrict driver's and passenger's access to the platform if they test positive for coronavirus. \"Drivers and delivery people in these situations will receive compensation for a period of up to 14 days. This has already begun in some markets ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/03/google-employee-bengaluru-tests-positive-coronavirus-covid19",
+      "ampWebUrl": "https://yourstory.com/2020/03/google-employee-bengaluru-tests-positive-coronavirus-covid19/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/google-employee-bengaluru-tests-positive-coronavirus-covid19/amp",
+      "publishedDateTime": "2020-03-13T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/yourstory-symphony-google-1579154827486.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Google India employee in Bengaluru tests positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-plant-vogtle-employee-being-tested-for-coronavirus.md",
+      "title": "Plant Vogtle employee being tested for coronavirus",
+      "excerpt": "Employees who worked near that worker have been sent home as a precaution and if the test is positive, those workers will remain home for 14 days ... TAMPA (WFLA) - With the rise in coronavirus cases, Walt Disney World Resort including theme parks has announced it will temporarily ban guests beginning this Sunday and lasting through the ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wjbf.com/news/plant-vogtle-employee-being-tested-for-coronavirus/",
+      "ampWebUrl": "https://www.wjbf.com/news/plant-vogtle-employee-being-tested-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-wjbf-com.cdn.ampproject.org/c/s/www.wjbf.com/news/plant-vogtle-employee-being-tested-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-13T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJBF",
+        "domain": "wjbf.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wjbf.com/wp-content/uploads/sites/47/2018/09/Plant_Vogtle_0_56741725_ver1.0.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Plant Vogtle employee being tested for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-coronavirus-updates-testing-is-no-1-issue-for-us-as-death-toll-hits-40-wall-street-drop-spooks-world-markets.md",
+      "title": "Coronavirus updates: Testing is 'No. 1 issue' for US as death toll hits 40; Wall Street drop spooks world markets",
+      "excerpt": "because that's where most of the state's coronavirus cases are located. In Kentucky, Gov. Andy Beshear strongly recommended that all public and private schools close, but he has not issued an order yet, leaving the decision up to local districts. Several of them have already announced closures. The U.S. death toll was at 40 early Friday ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/03/13/coronavirus-updates-us-testing-death-toll-stocks-school-closures/5032550002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5032550002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5032550002",
+      "publishedDateTime": "2020-03-13T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/10/USAT/92d37820-2f92-4068-ac62-b9046826f9ba-VPC_AIRLINES_SLASH_PRICES_DUE_TO_CORONAVIRUS_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus updates: Testing is 'No. 1 issue' for US as death toll hits 40; Wall Street drop spooks world markets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-skorea-reports-110-new-coronavirus-cases-total-7979-kcdc.md",
+      "title": "S.Korea reports 110 new coronavirus cases, total 7,979 -KCDC",
+      "excerpt": "SEOUL, March 13- South Korea reported 110 new coronavirus cases on Friday, taking the country's total infections to 7,979, the Korea Centers for Disease Control and Prevention said.",
+      "heat": 175,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/reuters-america-s-korea-reports-110-new-coronavirus-cases-total-7979-kcdc.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/12/reuters-america-s-korea-reports-110-new-coronavirus-cases-total-7979-kcdc.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/12/reuters-america-s-korea-reports-110-new-coronavirus-cases-total-7979-kcdc.html",
+      "publishedDateTime": "2020-03-13T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "S.Korea reports 110 new coronavirus cases, total 7,979 -KCDC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-mcas-miramar-marine-presumed-positive-for-coronavirus.md",
+      "title": "MCAS Miramar Marine presumed positive for coronavirus",
+      "excerpt": "He is considered the 2nd confirmed Marine to test positive for coronavirus. On March 7, it was reported that a Marine based in ... Sailors, family members, civilian employees, and our local communities,\" said Lt. Gen. Joseph L. Osterman, commanding general of I MEF. \"We understand the severity of this situation and are deliberate in our actions ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbs8.com/article/news/health/coronavirus/mcas-san-diego-marine-tests-positive-for-coronavirus/509-0ba95994-0026-45e6-94d1-028888d4d102",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News 8",
+        "domain": "cbs8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.cbs8.com/assets/KFMB/images/dd5f91fb-b4f5-4a94-a498-0f0c73c5e1f0/dd5f91fb-b4f5-4a94-a498-0f0c73c5e1f0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "MCAS Miramar Marine presumed positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-jazzs-donovan-mitchell-who-tested-positive-for-coronavirus-has-mets-link.md",
+      "title": "Jazz’s Donovan Mitchell who tested positive for coronavirus has Mets link",
+      "excerpt": "PORT ST. LUCIE — Utah Jazz star Donovan Mitchell’s positive test for coronavirus brought the international crisis much closer to the ... had been regularly at work at the Mets’ spring training complex through Wednesday. No other team employees were scheduled for tests as of Thursday. “We have been in regular communication with medical ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nypost.com/2020/03/13/jazzs-donovan-mitchell-who-tested-positive-for-coronavirus-has-mets-link/",
+      "ampWebUrl": "https://nypost.com/2020/03/13/jazzs-donovan-mitchell-who-tested-positive-for-coronavirus-has-mets-link/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/03/13/jazzs-donovan-mitchell-who-tested-positive-for-coronavirus-has-mets-link/amp/",
+      "publishedDateTime": "2020-03-13T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thenypost.files.wordpress.com/2020/03/donovan-mitchell-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 899,
+          "title": "Jazz’s Donovan Mitchell who tested positive for coronavirus has Mets link",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-coronavirus-18-new-cases-identified-in-santa-clara-county.md",
+      "title": "Coronavirus: 18 new cases identified in Santa Clara County",
+      "excerpt": "SANTA CLARA COUNTY – The number of COVID-19 cases in Santa Clara County grew ... people for three weeks to slow the spread of novel coronavirus, known officially as COVID-19. Gov. Gavin Newsom on Thursday upped the ante by calling for the cancellation of gatherings over 250 people. California – and in particular, the Bay Area – has ...",
+      "heat": 150,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.eastbaytimes.com/2020/03/12/coronavirus-18-new-cases-identified-in-santa-clara-county/",
+      "ampWebUrl": "https://www.eastbaytimes.com/2020/03/12/coronavirus-18-new-cases-identified-in-santa-clara-county/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/03/12/coronavirus-18-new-cases-identified-in-santa-clara-county/amp/",
+      "publishedDateTime": "2020-03-13T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2020/03/Corona-Virus-update-01-7.jpg?w=1024&h=576",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: 18 new cases identified in Santa Clara County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-first-coronavirus-death-in-us-state-of-georgia-was-67-year-old-man-governor.md",
+      "title": "First coronavirus death in U.S. state of Georgia was 67-year-old man -governor",
+      "excerpt": "March 12- The first patient to die from the new coronavirus in the U.S. state of Georgia was a 67- year-old man with underlying medical conditions, Governor Brian Kemp said on Thursday. The patient tested positive for COVID-19 on March 7 and was hospitalized at WellStar Kennestone Hospital in Marietta,",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/reuters-america-first-coronavirus-death-in-u-s-state-of-georgia-was-67-year-old-man-governor.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-the-latest-china-says-it-wants-to-offer-virus-assistance.md",
+      "title": "The Latest: China says it wants to offer virus assistance",
+      "excerpt": "China, where the virus was first discovered, recorded just eight new infections on Friday. The Indonesian government is overseeing a campaign to clean 10,000 mosques around the country as part of its bid to prevent the spread of the coronavirus. The cleaning campaign kicked off Friday at Istiqlal mosque in Jakarta and was witnessed by President ...",
+      "heat": 170,
+      "tags": [
+        "CN",
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Health/wireStory/latest-china-offer-virus-assistance-69575540",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/latest-china-offer-virus-assistance-69575540",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-china-offer-virus-assistance-69575540",
+      "publishedDateTime": "2020-03-12T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_89aa00a9fe7f4a109bf3aae806daffc4_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "The Latest: China says it wants to offer virus assistance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-employee-with-coronavirus-symptoms-prompts-shutdown-of-denver-motor-vehicle-branch.md",
+      "title": "Employee with coronavirus symptoms prompts shutdown of Denver Motor Vehicle branch",
+      "excerpt": "The employee who showed the symptoms is being tested for the novel coronavirus ... Amesse elementary schools close Thursday after family members test positive for coronavirus Colorado Crossroads volleyball tournament halted as coronavirus spreads President Trump cancels fundraising trip to Denver Policies Report an Error Contact Us Submit ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.denverpost.com/2020/03/12/denver-dmv-coronavirus-shutdown/",
+      "ampWebUrl": "https://www.denverpost.com/2020/03/12/denver-dmv-coronavirus-shutdown/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/03/12/denver-dmv-coronavirus-shutdown/amp/",
+      "publishedDateTime": "2020-03-12T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/03/US-NEWS-CORONAGRAF-MI.jpg?w=768&h=512",
+          "width": 768,
+          "height": 512,
+          "title": "Employee with coronavirus symptoms prompts shutdown of Denver Motor Vehicle branch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-google-confirms-an-employee-in-india-tested-positive-for-coronavirus.md",
+      "title": "Google confirms an employee in India tested positive for coronavirus",
+      "excerpt": "said the infected employee had traveled abroad but passed the screening test upon returning. However, later they were screened after feeling uncomfortable, and were tested positive for coronavirus: The Googler contracted the virus after traveling overseas, and was in the RMZ office on Monday, March 9, having not displayed any symptoms and ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/in/2020/03/13/google-confirms-an-employee-in-india-tested-positive-for-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/12/Sundar-Pichai-Google-for-India-1200x600.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google confirms an employee in India tested positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-thailand-health-ministry-reports-five-new-coronavirus-cases.md",
+      "title": "Thailand health ministry reports five new coronavirus cases",
+      "excerpt": "FILE PHOTO: Women wait for costumers in a handicraft shop on Khaosan Road as tourism has decreased after the coronavirus outbreak in Bangkok, Thailand March 12, 2020. REUTERS/Jorge Silva BANGKOK (Reuters) - Thailand reported five new coronavirus cases on Friday,",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-thailand-idUSKBN2100GT",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2100GT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2100GT",
+      "publishedDateTime": "2020-03-12T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200313&t=2&i=1502506683&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2C0BL",
+          "width": 817,
+          "height": 545,
+          "title": "Thailand health ministry reports five new coronavirus cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-27-new-coronavirus-cases-in-ireland-as-schools-and-public-buildings-shut.md",
+      "title": "27 new coronavirus cases in Ireland as schools and public buildings shut",
+      "excerpt": "Some 27 new cases of Covid-19 were confirmed in Ireland last night after the government announced a range of unprecedented measures to try to contain the spread of the virus. Schools, universities, crèches and other public facilities have been closed for the next two weeks while restrictions are in place on public gatherings. Leo Varadkar said ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thetimes.co.uk/article/27-new-coronavirus-cases-in-ireland-as-schools-and-public-buildings-shut-n53cvvcg2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe5defd3e-648b-11ea-941d-5e53d1217ea3.jpg?crop=8516%2C4790%2C68%2C157&resize=685",
+          "width": 685,
+          "height": 385,
+          "title": "27 new coronavirus cases in Ireland as schools and public buildings shut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-coronavirus-first-death-confirmed-in-india.md",
+      "title": "Coronavirus: First death confirmed in India",
+      "excerpt": "India has recorded its first death linked to the coronavirus, officials have confirmed. The 76-year-old man, from the southern state of Karnataka, returned from Saudi Arabia on 29 February after a month-long visit. People who came in contact with the man, who died on Tuesday, are being traced and quarantined, the state's health minister said.",
+      "heat": 165,
+      "tags": [
+        "India",
+        "IN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-asia-india-51866903",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-asia-india-51866903",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-india-51866903",
+      "publishedDateTime": "2020-03-12T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9820/production/_111244983_mediaitem111142757.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: First death confirmed in India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-chinas-coronavirus-center-of-wuhan-sees-single-digit-new-cases-for-second-day.md",
+      "title": "China's coronavirus center of Wuhan sees single-digit new cases for second day",
+      "excerpt": "China’s Wuhan city, ground zero of the new coronavirus outbreak, reported five new cases on Friday, the second day in a row the tally has been less than 10, while no locally transmitted infections were reported in the rest of the country.",
+      "heat": 251,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-china/chinas-coronavirus-center-of-wuhan-sees-single-digit-new-cases-for-second-day-idUSKBN2100BP?feedType=RSS&feedName=businessNews",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2100BP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2100BP",
+      "publishedDateTime": "2020-03-12T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200313&t=2&i=1502722637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2C1HI",
+          "width": 817,
+          "height": 545,
+          "title": "China's coronavirus center of Wuhan sees single-digit new cases for second day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-six-new-cases-identified-at-lebanon-veterans-home.md",
+      "title": "Six new cases identified at Lebanon Veteran's home",
+      "excerpt": "There are now 30 people in Oregon who have tested positive for novel coronavirus, the Oregon Health Authority said Thursday. The latest six cases are at a veteran's home in Lebanon. This is the second outbreak at a senior-style living center in Oregon within two days. The total now at eight at the facility. The newly affected individuals ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kezi.com/content/news/Six-new-cases--568763631.html",
+      "ampWebUrl": "http://www.kezi.com/templates/AMP?contentID=568763631",
+      "cdnAmpWebUrl": "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=568763631",
+      "publishedDateTime": "2020-03-12T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KEZI",
+        "domain": "kezi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/images/corona+latest.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Six new cases identified at Lebanon Veteran's home",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-coronavirus-in-oregon-6-new-cases-announced-at-linn-county-veterans-home-officials-say.md",
+      "title": "Coronavirus in Oregon: 6 new cases announced at Linn County veterans’ home, officials say",
+      "excerpt": "The new cases bring the number of known coronavirus patients in Oregon to 30 ... An outbreak of the virus at a long-term care facility near Seattle has killed more than 20 people so far. The veterans’ home already had two presumptive positive cases — two men older than 85. Linn County Commissioner Roger Nyquist told The Oregonian/OregonLive ...",
+      "heat": 141,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.oregonlive.com/coronavirus/2020/03/coronavirus-in-oregon-6-new-cases-announced-at-linn-county-veterans-home-officials-say.html",
+      "ampWebUrl": "https://www.oregonlive.com/coronavirus/2020/03/coronavirus-in-oregon-6-new-cases-announced-at-linn-county-veterans-home-officials-say.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/coronavirus/2020/03/coronavirus-in-oregon-6-new-cases-announced-at-linn-county-veterans-home-officials-say.html?outputType=amp",
+      "publishedDateTime": "2020-03-12T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB6ZN5DFFJBNPCT5QWUFMOSPFU.JPG",
+          "width": 2592,
+          "height": 1728,
+          "title": "Coronavirus in Oregon: 6 new cases announced at Linn County veterans’ home, officials say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    }
+  ],
+  "nextPage": 63
+}

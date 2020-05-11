@@ -1,0 +1,457 @@
+{
+  "page": 12,
+  "value": [
+    {
+      "path": "_news/2020-04-07-the-uks-coronavirus-dashboard-may-be-under-reporting-deaths-significantly.md",
+      "title": "The UK's 'coronavirus dashboard' may be under-reporting deaths significantly",
+      "excerpt": "London (CNN)The UK's daily death toll updates for Covid-19 could be underreporting the true number by a significant margin, according to government numbers published Tuesday. In its daily tally of deaths, UK government counts only people who tested positive and then died of the virus in hospital. But that doesn't match the number of UK death ...",
+      "heat": null,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/04/07/uk/coronavirus-uk-deaths-intl-gbr/index.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-new-coronavirus-cases-in-italy-fall-to-25-day-low-deaths-rise-by-604.md",
+      "title": "New Coronavirus Cases in Italy Fall to 25-Day Low, Deaths Rise by 604",
+      "excerpt": "ROME — Deaths from the COVID-19 epidemic in Italy rose by 604 on Tuesday, a lower daily tally than the 636 seen the day before, while the number of new cases posted the smallest increase since March 13. The total death toll in the world's hardest-hit country since its outbreak came to light on Feb. 21 rose to 17,127, the Civil Protection ...",
+      "heat": null,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/04/07/world/europe/07reuters-health-coronavirus-italy-tally.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "New Coronavirus Cases in Italy Fall to 25-Day Low, Deaths Rise by 604",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-uk-records-highest-daily-death-toll-from-coronavirus-at-854.md",
+      "title": "UK records highest daily death toll from coronavirus at 854",
+      "excerpt": "Data likely to raise concerns as figure approaches deadliest days so far in Italy and Spain",
+      "heat": 165,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/apr/07/uk-records-highest-daily-death-toll-from-coronavirus-854",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/apr/07/uk-records-highest-daily-death-toll-from-coronavirus-854",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/apr/07/uk-records-highest-daily-death-toll-from-coronavirus-854",
+      "publishedDateTime": "2020-04-07T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b0c52a7298eea0b076ecf11091edbdc7b81f6071/0_329_4967_2982/master/4967.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c297aee26299ef2cf362be7b2a9c8424",
+          "width": 600,
+          "height": 360,
+          "title": "UK records highest daily death toll from coronavirus at 854",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-coronavirus-uk-cases-could-be-moving-in-the-right-direction.md",
+      "title": "Coronavirus: UK cases 'could be moving in the right direction'",
+      "excerpt": "It comes as the number of coronavirus hospital deaths in the UK rose to 6,159 - a record increase of 786 in a day, the Department of Health and Social Care said, compared with 439 on Monday. So far, 55,",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-52206510",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-52206510",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-52206510",
+      "publishedDateTime": "2020-04-07T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F422/production/_111689426_hi060967407.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: UK cases 'could be moving in the right direction'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-spain-wants-jobless-immigrants-to-cover-farm-shortfall.md",
+      "title": "Spain Wants Jobless, Immigrants to Cover Farm Shortfall",
+      "excerpt": "MADRID — Spain moved on Tuesday to tackle a shortfall of farm workers due to the coronavirus crisis by authorizing the temporary hiring of tens of thousands of immigrants or jobless people. Border restrictions and lockdowns have forced many foreign workers to stay at home during the peak food-harvesting season in Spain, which has the second ...",
+      "heat": null,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/04/07/world/europe/07reuters-health-coronavirus-spain-measures.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-disney-launches-in-france.md",
+      "title": "Disney+ launches in France",
+      "excerpt": "As coronavirus (COVID-19) forces countries across the globe to adopt rigorous stay ... \"We humbly hope that this service can bring some much-needed moments of respite for families during these difficult times.\" Subscribers in France can sign up at a rate of €6.99 per month, or commit to a full year for €69.99. Disney+ is supported ...",
+      "heat": null,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.app.com/story/tech/reviewedcom/2020/04/07/disney-launches-france/2960275001/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "app.com",
+        "domain": "app.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-france-reports-highest-coronavirus-death-tally-in-24-hours-health-minister-warns-pandemic-has-not-peaked.md",
+      "title": "France reports highest coronavirus death tally in 24 hours; health minister warns pandemic has not peaked",
+      "excerpt": "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here. France on Monday saw its deadliest 24 hours since the coronavirus outbreak began, reporting 833 more deaths as the country’s health minister warned the pandemic has not yet reached its peak. The record toll brought the number of COVID-19 deaths in ...",
+      "heat": 128,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/france-coronavirus-deaths-daily-high",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/france-coronavirus-medical-staff.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "France reports highest coronavirus death tally in 24 hours; health minister warns pandemic has not peaked",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-uk-prime-minister-boris-johnson-moved-to-intensive-care-for-covid-19-treatment.md",
+      "title": "UK Prime Minister Boris Johnson moved to intensive care for COVID-19 treatment",
+      "excerpt": "UK Prime Minister Boris Johnson has been moved to intensive care as his coronavirus symptoms worsen. CNBC's Steve Sedgwick reports.",
+      "heat": 116,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/video/2020/04/07/uk-prime-minister-boris-johnson-hospitalized-coronavirus-squawk-box.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106478223-borisgettyimages-1207849985.jpg?v=1586259350",
+          "width": 6605,
+          "height": 4403,
+          "title": "UK Prime Minister Boris Johnson moved to intensive care for COVID-19 treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-coronavirus-when-will-we-know-the-uk-lockdown-is-working.md",
+      "title": "Coronavirus: When will we know the UK lockdown is working?",
+      "excerpt": "It's two weeks since Boris Johnson announced the UK's lockdown, and there are signs the rate of infection is starting to slow, though not deaths. While the number of people dying in hospital with coronavirus is doubling every few days, the figures for confirmed cases and hospitalisations are slowing down. The daily death total will follow suit ...",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/health-52133054?intlink_from_url=&link_location=live-reporting-story",
+      "ampWebUrl": "https://www.bbc.com/news/amp/health-52133054",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-52133054",
+      "publishedDateTime": "2020-04-06T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5E27/production/_111630142_lockdown_uk_4_getty.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: When will we know the UK lockdown is working?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-coronavirus-new-uk-car-registrations-plunge-by-more-than-40.md",
+      "title": "Coronavirus: New UK car registrations plunge by more than 40%",
+      "excerpt": "But last month new registrations dropped by about 200,000 compared with the same period last year. They fell to the lowest level in March for more than two decades. Coronavirus: B",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52176669",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-52176669",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52176669",
+      "publishedDateTime": "2020-04-06T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12778/production/_110404657_gettyimages-500260065.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: New UK car registrations plunge by more than 40%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": null
+}

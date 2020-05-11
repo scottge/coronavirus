@@ -1,0 +1,120 @@
+{
+  "location": {
+    "long": -73.5491,
+    "countryOrRegion": "Canada",
+    "provinceOrState": "Quebec",
+    "county": null,
+    "isoCode": "CA-QC",
+    "lat": 52.9399
+  },
+  "updatedDateTime": "2020-05-10T05:45:36.3979501Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-covid-19-in-quebec-what-you-need-to-know-on-friday.md",
+      "title": "COVID-19 in Quebec: What you need to know on Friday",
+      "excerpt": "Quebec's director of public health, Dr. Horacio Arruda, offered more details on the province's testing for COVID-19, which has faced criticism from experts as the province opens up.",
+      "heat": 105,
+      "tags": [
+        "CA",
+        "CA-QC",
+        "Canada-QC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/canada/montreal/covid-19-quebec-may-8-1.5560951",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5560951",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5560951",
+      "publishedDateTime": "2020-05-09T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5560771.1588902843!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mask.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "COVID-19 in Quebec: What you need to know on Friday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-live-updates-reopening-delay-comes-as-quebec-reports-911-new-cases-121-deaths.md",
+      "title": "Coronavirus live updates: Reopening delay comes as Quebec reports 911 new cases, 121 deaths",
+      "excerpt": "This is our live coverage about the coronavirus crisis on Thursday, May 7. Questions or comments? jfeith@postmedia.com Trudeau announces wage top-up for essential workers Reopening of Montreal schools,",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-QC",
+        "Canada-QC"
+      ],
+      "type": "article",
+      "webUrl": "https://montrealgazette.com/news/local-news/coronavirus-live-updates-state-of-emergency-extended-feds-to-boost-essential-workers-pay/",
+      "ampWebUrl": "https://montrealgazette.com/news/local-news/coronavirus-live-updates-state-of-emergency-extended-feds-to-boost-essential-workers-pay/wcm/df8a760c-473c-4aa2-b1f5-93155c610902/amp/",
+      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/news/local-news/coronavirus-live-updates-state-of-emergency-extended-feds-to-boost-essential-workers-pay/wcm/df8a760c-473c-4aa2-b1f5-93155c610902/amp/",
+      "publishedDateTime": "2020-05-03T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Montreal News",
+        "domain": "montrealgazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-chantal-hebert-should-schools-reopen-during-the-pandemic-the-rest-of-canada-is-watching-as-quebec-gets-ready-to-try.md",
+      "title": "Chantal Hébert: Should schools reopen during the pandemic? The rest of Canada is watching as Quebec gets ready to try",
+      "excerpt": "Since COVID-19 caught up with Canada, no government decision has been quite as controversial as the bid by Quebec Premier François Legault to take the lead on the rest of the country by reopening",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-QC",
+        "Canada-QC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thepeterboroughexaminer.com/opinion-story/9968075-chantal-h-bert-should-schools-reopen-during-the-pandemic-the-rest-of-canada-is-watching-as-quebec-gets-ready-to-try/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Peterborough Examiner",
+        "domain": "thepeterboroughexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

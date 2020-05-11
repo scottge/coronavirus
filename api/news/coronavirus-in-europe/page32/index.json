@@ -1,0 +1,1418 @@
+{
+  "page": 32,
+  "value": [
+    {
+      "path": "_news/2020-03-11-uk-announces-five-billion-pound-emergency-response-fund-for-coronavirus.md",
+      "title": "UK announces five billion pound emergency response fund for coronavirus",
+      "excerpt": "Finance minister Rishi Sunak said on Wednesday he would set aside 5 billion pounds ($6.5 billion) to help Britain’s National Health Service and other public services tackle the coronavirus outbreak. In his first annual budget statement to parliament,",
+      "heat": 105,
+      "tags": [
+        "UK",
+        "GB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-britain-budget-coronavirus-idUSKBN20Y1YA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y1YA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y1YA",
+      "publishedDateTime": "2020-03-11T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501717384&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A19E",
+          "width": 817,
+          "height": 545,
+          "title": "UK announces five billion pound emergency response fund for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-coronavirus-death-toll-in-italys-lombardy-region-rises-to-617-sources.md",
+      "title": "Coronavirus Death Toll in Italy's Lombardy Region Rises to 617: Sources",
+      "excerpt": "The death toll from an outbreak of coronavirus in the northern Italian region of Lombardy, which has borne the brunt of a nationwide contagion, has risen over the past day to 617 from 468, two sources with access to the data said on Wednesday.",
+      "heat": 170,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/11/world/europe/11reuters-health-coronavirus-italy-lombardy.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus Death Toll in Italy's Lombardy Region Rises to 617: Sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-coronavirus-roma-will-not-travel-to-spain-for-sevilla-tie-after-plane-not-authorised.md",
+      "title": "Coronavirus: Roma 'will not travel' to Spain for Sevilla tie after plane not authorised",
+      "excerpt": "Roma say they will not be travelling to their Europa League tie with Sevilla on Thursday because their plane from Italy is not authorised to land in Spain. More soon. Share this with Limber up with Greg Jenner for a trip to The Ancient Olympics Get latest scores and headlines sent straight to your phone, sign-up to our newsletter and learn ...",
+      "heat": 102,
+      "tags": [
+        "Spain"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/sport/football/51831256",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/EA6C/production/_111221006_romafansgety.jpg",
+          "width": 624,
+          "height": 351,
+          "title": "Coronavirus: Roma 'will not travel' to Spain for Sevilla tie after plane not authorised",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-london-brexit-talks-in-doubt-because-of-coronavirus.md",
+      "title": "London Brexit talks in doubt because of coronavirus",
+      "excerpt": "About 150 delegates were due to arrive next week for three days of talks",
+      "heat": 105,
+      "tags": [
+        "UK",
+        "GB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/politics/2020/mar/11/london-brexit-talks-in-doubt-because-of-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/politics/2020/mar/11/london-brexit-talks-in-doubt-because-of-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2020/mar/11/london-brexit-talks-in-doubt-because-of-coronavirus",
+      "publishedDateTime": "2020-03-11T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/eb51bae635bdc5eac4eab984584bca045ab8bae7/0_5_1078_647/master/1078.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96adf6f3194a192a380fe416984d21dc",
+          "width": 600,
+          "height": 360,
+          "title": "London Brexit talks in doubt because of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-eu-coronavirus-aid-package-wont-fail-because-of-germany-merkel.md",
+      "title": "EU coronavirus aid package won't fail because of Germany: Merkel",
+      "excerpt": "The European Union’s fiscal monitoring framework has enough flexibility built in to cope even with extraordinary situations like the coronavirus epidemic, for Italy as well as Germany, Chancellor Angela Merkel said on Wednesday.",
+      "heat": 105,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-germany-merkel-sta/eu-coronavirus-aid-package-wont-fail-because-of-germany-merkel-idUSKBN20Y1J4",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y1J4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y1J4",
+      "publishedDateTime": "2020-03-11T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501685262&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A0XP",
+          "width": 882,
+          "height": 545,
+          "title": "EU coronavirus aid package won't fail because of Germany: Merkel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-germany-confirms-third-death-related-to-coronavirus.md",
+      "title": "Germany confirms third death related to coronavirus",
+      "excerpt": "Germany on Wednesday confirmed its third death case related to the coronavirus as another patient in the badly affected district of Heinsberg in the western state of North Rhine-Westphalia died, local authorities said.",
+      "heat": 105,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-germany-death-idUSKBN20Y1IR",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y1IR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y1IR",
+      "publishedDateTime": "2020-03-11T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501668902&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A0XE",
+          "width": 817,
+          "height": 545,
+          "title": "Germany confirms third death related to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-spains-catalonia-limits-mass-events-to-1000-people-due-to-coronavirus.md",
+      "title": "Spain's Catalonia limits mass events to 1,000 people due to coronavirus",
+      "excerpt": "The Spanish region of Catalonia imposed limits on holding large public events to stem the spread of the coronavirus epidemic, regional leader Quim Torra said on Wednesday. All events involving more than 1,",
+      "heat": 105,
+      "tags": [
+        "Spain"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-spain-catalonia-idUSKBN20Y1BK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y1BK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y1BK",
+      "publishedDateTime": "2020-03-11T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501652322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A0SG",
+          "width": 817,
+          "height": 545,
+          "title": "Spain's Catalonia limits mass events to 1,000 people due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-stores-in-milan-find-creative-ways-to-enforce-italys-strict-coronavirus-rules.md",
+      "title": "Stores in Milan find creative ways to enforce Italy’s strict coronavirus rules",
+      "excerpt": "Italy has more than 10,100 cases of coronavirus—compared to 1,400 in France and 1,200 in Spain—and 631 deaths. Its GDP had already contracted in the fourth quarter, and is expected to contract again now, placing the country in a recession. Stores need to limit the number of people inside. In Milan, many have signs indicating the maximum ...",
+      "heat": 116,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://qz.com/1816382/coronavirus-in-italy-how-stores-are-adapting-in-milan/",
+      "ampWebUrl": "https://qz.com/1816382/coronavirus-in-italy-how-stores-are-adapting-in-milan/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1816382/coronavirus-in-italy-how-stores-are-adapting-in-milan/amp/",
+      "publishedDateTime": "2020-03-11T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/03/RTS35730.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "Stores in Milan find creative ways to enforce Italy’s strict coronavirus rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-no-plans-to-shut-uk-parliament-despite-positive-coronavirus-test.md",
+      "title": "No plans to shut UK parliament despite positive coronavirus test",
+      "excerpt": "Britain’s parliament has no plans to shut over coronavirus, a spokeswoman said on Wednesday, after a minister tested positive for the virus and another lawmaker was advised to stay at home as a precaution.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-parliament-idUSKBN20Y1AB",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y1AB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y1AB",
+      "publishedDateTime": "2020-03-11T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501677418&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A110",
+          "width": 814,
+          "height": 545,
+          "title": "No plans to shut UK parliament despite positive coronavirus test",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-coronavirus-live-updates-seventh-briton-dies-second-uk-mp-enters-self-isolation-and-belgium-records-first-death.md",
+      "title": "Coronavirus live updates: seventh Briton dies, second UK MP enters self-isolation and Belgium records first death",
+      "excerpt": "York MP Rachael Maskell self-isolates, Bank of England cuts base rate, US cases pass 1,000 and deaths rise sharply again in Italy",
+      "heat": 144,
+      "tags": [
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/mar/11/coronavirus-update-live-news-uk-health-minister-italy-lockdown-australia-us-china-stock-markets-outbreak-latest-updates?page=with%3Ablock-5e68a7c88f085f0b8d9462fa",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/mar/11/coronavirus-update-live-news-uk-health-minister-italy-lockdown-australia-us-china-stock-markets-outbreak-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/mar/11/coronavirus-update-live-news-uk-health-minister-italy-lockdown-australia-us-china-stock-markets-outbreak-latest-updates",
+      "publishedDateTime": "2020-03-11T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6d286c86549459e9b745824d9525b01222f0c9cf/0_155_5725_3435/master/5725.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65543f92014eef472a7220fae8133e3d",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus live updates: seventh Briton dies, second UK MP enters self-isolation and Belgium records first death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-as-coronavirus-in-china-wanes-italy-south-korea-see-brunt-of-epidemic.md",
+      "title": "As Coronavirus In China Wanes, Italy, South Korea See Brunt Of Epidemic",
+      "excerpt": "The precipitous drop in new cases in China, where 80,778 cases have been diagnosed since the outbreak began in December, caused local officials to begin relaxing travel restrictions that were imposed in January, as the government struggled to contain the virus' spread. Chinese President Xi Jinping, who on Tuesday visited the city of Wuhan ...",
+      "heat": 175,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.npr.org/sections/goatsandsoda/2020/03/11/814343063/as-coronavirus-in-china-wanes-italy-south-korea-see-brunt-of-epidemic",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/03/11/gettyimages-1211667634_wide-89162389c3e929c63b5f455d115efd21f37deee7.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "As Coronavirus In China Wanes, Italy, South Korea See Brunt Of Epidemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-uk-interest-rates-cut-funds-freed-up-to-ease-virus-impact.md",
+      "title": "UK interest rates cut, funds freed up to ease virus impact",
+      "excerpt": "LONDON — Britain took bold steps on Wednesday to cushion the economic shock of the coronavirus outbreak, as the government announced a 30 billion-pound ($39 billion) stimulus package and the Bank of England slashed its key interest rate to a record low of 0.25%. U.K. Treasury chief Rishi Sunak said the new virus sweeping the globe ...",
+      "heat": 110,
+      "tags": [
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/business/bank-of-england-cuts-key-interest-rate-to-025percent-due-to-virus/2020/03/11/08ba704a-636a-11ea-8a8e-5c5336b32760_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/business/bank-of-england-cuts-key-interest-rate-to-025percent-due-to-virus/2020/03/11/08ba704a-636a-11ea-8a8e-5c5336b32760_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/bank-of-england-cuts-key-interest-rate-to-025percent-due-to-virus/2020/03/11/08ba704a-636a-11ea-8a8e-5c5336b32760_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-11T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T6P4WTTDZ4I6VCUOLRJTNMZHMA.jpg&w=767",
+          "width": 767,
+          "height": 524,
+          "title": "UK interest rates cut, funds freed up to ease virus impact",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-europes-central-bank-has-limited-ways-to-confront-coronavirus-fallout.md",
+      "title": "Europe’s Central Bank Has Limited Ways to Confront Coronavirus Fallout",
+      "excerpt": "Christine Lagarde, the bank’s new president, is facing her first big crisis. She doesn’t have much room to maneuver.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/11/business/lagarde-ecb-coronavirus-response.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/11/business/lagarde-ecb-coronavirus-response.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/11/business/lagarde-ecb-coronavirus-response.amp.html",
+      "publishedDateTime": "2020-03-11T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/11/business/11ecb-1/11ecb-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Europe’s Central Bank Has Limited Ways to Confront Coronavirus Fallout",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-vietnams-coronavirus-cases-up-to-35-after-new-infections-from-europe.md",
+      "title": "Vietnam's coronavirus cases up to 35 after new infections from Europe",
+      "excerpt": "Weeks after Vietnam declared that all 16 of its coronavirus cases had recovered, the number of infected patients is on the rise following the reintroduction of the virus on a flight from Britain. Vietnam’s health ministry reported on Wednesday a total of 35 coronavirus cases,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-vietnam-idUSKBN20Y0LC",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y0LC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y0LC",
+      "publishedDateTime": "2020-03-10T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501570492&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A0DU",
+          "width": 784,
+          "height": 545,
+          "title": "Vietnam's coronavirus cases up to 35 after new infections from Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-european-markets-look-to-higher-open-as-coronavirus-remains-in-focus.md",
+      "title": "European markets look to higher open as coronavirus remains in focus",
+      "excerpt": "European markets are expected to open higher Wednesday as investors continue to watch the spread of the coronavirus, oil prices and geopolitics.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/11/european-markets-focus-on-the-coronavirus.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/11/european-markets-focus-on-the-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/11/european-markets-focus-on-the-coronavirus.html",
+      "publishedDateTime": "2020-03-10T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106435660-1583881126043gettyimages-1206445709.jpeg?v=1583881762",
+          "width": 4910,
+          "height": 3616,
+          "title": "European markets look to higher open as coronavirus remains in focus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-american-in-rome-describes-italys-coronavirus-lockdown-the-message-here-is-everyone-stays-at-home.md",
+      "title": "American in Rome describes Italy's coronavirus lockdown: 'The message here is, \"Everyone stays at home\"'",
+      "excerpt": "Fox News' Courtney Walsh joined \"Tucker Carlson Tonight\" via Skype from Rome Tuesday to provide an update on the coronavirus outbreak in Italy one day after the country's government instituted a nationwide lockdown. \"There have been over 10,000 cases of Coronavirus infections...and the government is taking drastic measures now,\" said Walsh ...",
+      "heat": 103,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/media/american-italy-coronavirus-quarantine-travel-restrictions",
+      "ampWebUrl": "https://www.foxnews.com/media/american-italy-coronavirus-quarantine-travel-restrictions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/american-italy-coronavirus-quarantine-travel-restrictions.amp",
+      "publishedDateTime": "2020-03-10T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c589cf8-3664-41eb-8507-e1cfe392e968/622a6518-3cc8-4be7-b876-dbbeccafb960/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "American in Rome describes Italy's coronavirus lockdown: 'The message here is, \"Everyone stays at home\"'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-uk-health-minister-tests-positive-for-coronavirus.md",
+      "title": "UK health minister tests positive for coronavirus",
+      "excerpt": "United Kingdom Health Minister Nadine Dorries said Tuesday she has tested positive for coronavirus. The conservative politician and first member of parliament to contract the virus said she is self-isolating and took “all advised precautions” upon learning of her diagnosis. A total of 382 people have been diagnosed with the virus in the U ...",
+      "heat": 105,
+      "tags": [
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/uk-health-minister-tests-positive-coronavirus",
+      "ampWebUrl": "https://www.foxnews.com/world/uk-health-minister-tests-positive-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uk-health-minister-tests-positive-coronavirus.amp",
+      "publishedDateTime": "2020-03-10T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Nadine-Dorries-REUTERS.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "UK health minister tests positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-coronavirus-live-updates-uk-health-minister-tests-positive-as-stock-markets-wobble-again.md",
+      "title": "Coronavirus live updates: UK health minister tests positive as stock markets wobble again",
+      "excerpt": "UK death toll rises to six as Italy lockdown comes into force, Greece and Spain close schools. Follow latest news",
+      "heat": 166,
+      "tags": [
+        "UK",
+        "Iran"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/mar/11/coronavirus-update-live-news-uk-health-minister-italy-lockdown-australia-us-china-stock-markets-outbreak-latest-updates",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/mar/11/coronavirus-update-live-news-uk-health-minister-italy-lockdown-australia-us-china-stock-markets-outbreak-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/mar/11/coronavirus-update-live-news-uk-health-minister-italy-lockdown-australia-us-china-stock-markets-outbreak-latest-updates",
+      "publishedDateTime": "2020-03-10T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d145605378c2d42242c5a5d3dafc06067e9c2163/0_183_2587_1553/master/2587.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5cae30e15021d125c92baff873c693cd",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus live updates: UK health minister tests positive as stock markets wobble again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in Asia",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-uk-to-ramp-up-coronavirus-fight-in-first-budget-of-johnson-government.md",
+      "title": "UK to ramp up coronavirus fight in first budget of Johnson government",
+      "excerpt": "Britain’s new finance minister Rishi Sunak will pledge billions of pounds to fight the impact of coronavirus on Wednesday, and the Bank of England might add its firepower to the attempt to stave off the risk of a new recession.",
+      "heat": 105,
+      "tags": [
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-britain-budget-idUSKBN20Y005",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20Y005",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20Y005",
+      "publishedDateTime": "2020-03-10T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501452319&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A003",
+          "width": 785,
+          "height": 545,
+          "title": "UK to ramp up coronavirus fight in first budget of Johnson government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-european-carmakers-worry-coronavirus-outbreak-may-hurt-sales.md",
+      "title": "European Carmakers Worry Coronavirus Outbreak May Hurt Sales",
+      "excerpt": "Vehicle manufacturers say they haven’t yet had to close factories in Europe. But a decline in global sales is likely to be worse than expected. FRANKFURT — European auto manufacturers have so far defied expectations that supply chain chaos would bring their assembly lines to a standstill.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/10/business/europe-carmakers-sales-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/10/business/europe-carmakers-sales-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/10/business/europe-carmakers-sales-coronavirus.amp.html",
+      "publishedDateTime": "2020-03-10T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/10/business/10europe-cars01/10europe-cars01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "European Carmakers Worry Coronavirus Outbreak May Hurt Sales",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-uk-bed-firms-advert-banned-for-associating-migrants-with-coronavirus.md",
+      "title": "UK bed firm's advert banned for associating migrants with coronavirus",
+      "excerpt": "Watchdog rules Vic Smith Beds ad offensive for saying ‘no nasty imports’ and using surgical mask image",
+      "heat": 105,
+      "tags": [
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/media/2020/mar/11/uk-bed-firms-advert-banned-for-associating-migrants-with-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/media/2020/mar/11/uk-bed-firms-advert-banned-for-associating-migrants-with-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/mar/11/uk-bed-firms-advert-banned-for-associating-migrants-with-coronavirus",
+      "publishedDateTime": "2020-03-10T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/02df21850cee55fb1d613c39214045d105305723/0_268_2313_1387/master/2313.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8dde071658b5d97ebaa8408e1310c8f0",
+          "width": 600,
+          "height": 360,
+          "title": "UK bed firm's advert banned for associating migrants with coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-live-updates-uk-minister-tests-positive-turkey-confirms-first-case.md",
+      "title": "Coronavirus live updates: UK minister tests positive, Turkey confirms first case",
+      "excerpt": "A health minister and Conservative member of parliament, Nadine Dorries, said she tested positive for the coronavirus.",
+      "heat": 100,
+      "tags": [
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/11/coronavirus-live-updates.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/11/coronavirus-live-updates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/11/coronavirus-live-updates.html",
+      "publishedDateTime": "2020-03-10T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106432186-1583757201022gettyimages-1206126394.jpeg?v=1583757248",
+          "width": 6048,
+          "height": 4024,
+          "title": "Coronavirus live updates: UK minister tests positive, Turkey confirms first case",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-inside-italy-after-country-put-on-nationwide-lockdown.md",
+      "title": "Coronavirus: Inside Italy after country put on nationwide lockdown",
+      "excerpt": "Officials placed the entire country on lockdown Monday. As the death toll continues to rise, people have been mandated to keep at least three feet away from anyone else, or face up to three months in jail.",
+      "heat": 100,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/coronavirus-inside-italy-after-country-put-on-nationwide-lockdown-80432709987",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_mbr_coronavirus_inside_italy_200310_1583881919295.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus: Inside Italy after country put on nationwide lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-coronavirus-uk-virus-cases-reach-373-as-sixth-person-dies.md",
+      "title": "Coronavirus: UK virus cases reach 373 as sixth person dies",
+      "excerpt": "The number of coronavirus cases in the UK reached 373 on Tuesday morning, a rise of 54 since the previous day. A further nine cases were later confirmed in Wales. It comes as a man in his early 80s with underlying health conditions became the sixth person to die in the UK after contracting the virus. Meanwhile, airlines have cut thousands of ...",
+      "heat": 115,
+      "tags": [
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-51822618?intlink_from_url=&link_location=live-reporting-story",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-51822618",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-51822618",
+      "publishedDateTime": "2020-03-10T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7CBB/production/_111213913_hi060548373.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: UK virus cases reach 373 as sixth person dies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-italy-in-coronavirus-lockdown-as-deaths-soar-and-economy-fades.md",
+      "title": "Italy in coronavirus lockdown as deaths soar and economy fades",
+      "excerpt": "Shops and restaurants closed, hundreds of flights were canceled and streets emptied across Italy on Tuesday, the first day of an unprecedented, nationwide lockdown imposed to slow Europe’s worst outbreak of coronavirus.",
+      "heat": 145,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-idUSKBN20X11D",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20X11D",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20X11D",
+      "publishedDateTime": "2020-03-10T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200311&t=2&i=1501692794&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2A15F",
+          "width": 822,
+          "height": 545,
+          "title": "Italy in coronavirus lockdown as deaths soar and economy fades",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Economic Impact",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-national-gallery-postpones-landmark-exhibition-coronavirus-crisis-in-italy-delays-transportation-of-artwork.md",
+      "title": "National Gallery postpones landmark exhibition; coronavirus crisis in Italy delays transportation of artwork",
+      "excerpt": "The National Gallery of Art has postponed its much-anticipated exhibition “A Superb Baroque: Art in Genoa, 1600–1750” because of the global coronavirus crisis. Set to open May 3 ... The museum’s decision came Monday, after the Italian government announced a lockdown affecting the entire country of 60 million, including travel ...",
+      "heat": 101,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/entertainment/museums/national-gallery-postpones-landmark-exhibition-coronavirus-crisis-in-italy-delays-transportation-of-artwork/2020/03/10/cdf0d1f4-630d-11ea-845d-e35b0234b136_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/entertainment/museums/national-gallery-postpones-landmark-exhibition-coronavirus-crisis-in-italy-delays-transportation-of-artwork/2020/03/10/cdf0d1f4-630d-11ea-845d-e35b0234b136_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/museums/national-gallery-postpones-landmark-exhibition-coronavirus-crisis-in-italy-delays-transportation-of-artwork/2020/03/10/cdf0d1f4-630d-11ea-845d-e35b0234b136_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-10T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/CFPLP1VkqHAxT2m9IUO5MH06874=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SA2TAXSCDYI6VNP4535IJDG6TE.jpg",
+          "width": 1440,
+          "height": 932,
+          "title": "National Gallery postpones landmark exhibition; coronavirus crisis in Italy delays transportation of artwork",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-europe-is-new-china-cdc-director-says-as-99-percent-of-new-coronavirus-cases-reported-outside-origin-country.md",
+      "title": "Europe Is 'New China,' CDC Director Says as 99 Percent of New Coronavirus Cases Reported Outside Origin Country",
+      "excerpt": "As new cases in China are slowing down, global cases continue to rise ... Redfield said officials are trying to reinforce to hospitals that they should treat individuals exhibiting symptoms as if they have coronavirus even before a test confirms the diagnosis.",
+      "heat": 195,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/coronavirus-cdc-robert-redfield-europe-new-china-1491552",
+      "ampWebUrl": "https://www.newsweek.com/coronavirus-cdc-robert-redfield-europe-new-china-1491552?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/coronavirus-cdc-robert-redfield-europe-new-china-1491552?amp=1",
+      "publishedDateTime": "2020-03-10T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1572879/cdc-director-europe-new-china-coronavirus-outbreak.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Europe Is 'New China,' CDC Director Says as 99 Percent of New Coronavirus Cases Reported Outside Origin Country",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-city-of-london-grandees-seek-stronger-coronavirus-action.md",
+      "title": "City of London grandees seek stronger coronavirus action",
+      "excerpt": "Leading City of London financiers have called on governments around the world to step up efforts to tackle the coronavirus outbreak. Many of the FT City Network — a forum of more than 50 senior figures — also called for international co-ordination on fiscal policy to help economies bounce back from the epidemic as they warned the worst may ...",
+      "heat": 105,
+      "tags": [
+        "UK",
+        "GB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/7bedd95e-62e7-11ea-b3f3-fe4680ea68b5",
+      "ampWebUrl": "https://amp.ft.com/content/7bedd95e-62e7-11ea-b3f3-fe4680ea68b5",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7bedd95e-62e7-11ea-b3f3-fe4680ea68b5",
+      "publishedDateTime": "2020-03-10T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F195974d4-4c43-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "City of London grandees seek stronger coronavirus action",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-air-canada-suspends-flights-to-and-from-italy-due-to-coronavirus.md",
+      "title": "Air Canada suspends flights to and from Italy due to coronavirus",
+      "excerpt": "Air Canada said on Tuesday it will suspend its service to and from Italy, as the country imposed a nationwide lockdown to stem the spread of the coronavirus. “Due to Italian government regulations and ongoing health and safety concerns,",
+      "heat": 170,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus/air-canada-suspends-flights-to-and-from-italy-due-to-coronavirus-idUSKBN20X2YK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20X2YK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20X2YK",
+      "publishedDateTime": "2020-03-10T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200310&t=2&i=1501391814&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG291TX",
+          "width": 817,
+          "height": 545,
+          "title": "Air Canada suspends flights to and from Italy due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-mortgage-payments-suspended-across-italy-amid-coronavirus-outbreak.md",
+      "title": "Mortgage payments suspended across Italy amid coronavirus outbreak",
+      "excerpt": "Homeowners across Italy will get a grace period on their mortgage payments as the country is on lockdown due to the spread of coronavirus. The country expanded its quarantine to include the entire nation of 60 million people until next month, the prime minister announced Monday. Italy's Deputy Economy Minster Laura Catelli also announced ...",
+      "heat": 120,
+      "tags": [
+        "Italy"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/coronavirus-italy-mortgage-payments-suspended-as-outbreak-sparks-lockdown-quarantine-deaths-economy-travel/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/coronavirus-italy-mortgage-payments-suspended-as-outbreak-sparks-lockdown-quarantine-deaths-economy-travel/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-italy-mortgage-payments-suspended-as-outbreak-sparks-lockdown-quarantine-deaths-economy-travel/",
+      "publishedDateTime": "2020-03-10T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/10/c83fcc91-625e-47d1-a966-0a4d82124120/thumbnail/1200x630/5c6512a19c42196a99262dc70bdbb958/gettyimages-1206443562.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Mortgage payments suspended across Italy amid coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 33
+}

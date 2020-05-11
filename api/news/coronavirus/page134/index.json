@@ -1,0 +1,1260 @@
+{
+  "page": 134,
+  "value": [
+    {
+      "path": "_news/2020-03-29-trump-blasts-reporter-at-coronavirus-briefing-dont-be-threatening-be-nice.md",
+      "title": "Trump blasts reporter at coronavirus briefing: 'Don't be threatening, be nice'",
+      "excerpt": "President Trump had a contentious back-and-forth with a reporter during his Rose Garden briefing Sunday on the coronavirus, suggesting that the media's overall coverage has been too negative.",
+      "heat": 101,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/media/trump-coronavirus-briefing-threatening",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-coronavirus-briefing-threatening.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-coronavirus-briefing-threatening.amp",
+      "publishedDateTime": "2020-03-29T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Trump-media-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Trump blasts reporter at coronavirus briefing: 'Don't be threatening, be nice'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-west-virginia-reports-first-coronavirus-death.md",
+      "title": "West Virginia Reports First Coronavirus Death",
+      "excerpt": "West Virginia has reported the state’s first death linked to the new coronavirus pandemic, health officials said. The fatality involved an 88-year-old woman from Marion County, the Department of Health and Human Resources said in a news release.",
+      "heat": 145,
+      "tags": [
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/west-virginia/articles/2020-03-29/west-virginia-reports-first-coronavirus-death",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-no-farewells-no-ceremonies-chinas-hubei-cremates-coronavirus-dead.md",
+      "title": "'No farewells, no ceremonies': China's Hubei cremates coronavirus dead",
+      "excerpt": "Ten unclaimed urns sit in the crematorium city in central China’s Hubei province hard-hit by coronavirus. Not only are funerals banned across China, in places like Jingzhou bereaved relatives who are stuck in their homes must wait even to retrieve the remains of their loved ones.",
+      "heat": null,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "China-Hubei"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-china-cremation-idUSKBN21G0YT",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G0YT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G0YT",
+      "publishedDateTime": "2020-03-29T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200329&t=2&i=1509919651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2S0LJ",
+          "width": 817,
+          "height": 545,
+          "title": "'No farewells, no ceremonies': China's Hubei cremates coronavirus dead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-japan-to-expand-entry-ban-to-include-us-china-most-of-europe-asahi.md",
+      "title": "Japan to expand entry ban to include US, China, most of Europe -Asahi",
+      "excerpt": "Japan will expand its entry ban to include citizens travelling from the United States, China, South Korea and most of Europe amid a rapid spread of the coronavirus pandemic, the Asahi newspaper reported on Monday.",
+      "heat": 160,
+      "tags": [
+        "JP"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-japan-idUST9N28603U",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUST9N28603U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST9N28603U",
+      "publishedDateTime": "2020-03-29T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Japan to expand entry ban to include US, China, most of Europe -Asahi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Japan",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-us-stock-index-futures-slump-as-investors-keep-focus-on-coronavirus-numbers.md",
+      "title": "U.S. stock-index futures slump as investors keep focus on coronavirus numbers",
+      "excerpt": "Stock-index futures fell Sunday, pointing to a lower start for Wall Street on Monday, as the number of coronavirus cases and deaths continues to rise",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/us-stock-index-futures-slump-as-investors-keep-focus-on-coronavirus-numbers-2020-03-29",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/82840D46-720B-11EA-A51E-D3F790D4C0CD",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/82840D46-720B-11EA-A51E-D3F790D4C0CD",
+      "publishedDateTime": "2020-03-29T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-ID315_restau_ZH_20200329185719.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "U.S. stock-index futures slump as investors keep focus on coronavirus numbers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-slowdown-in-seattle-suggests-restrictions-are-working.md",
+      "title": "Coronavirus Slowdown in Seattle Suggests Restrictions Are Working",
+      "excerpt": "Officials in Washington State worry that their gains are precarious, but they see evidence that containment strategies have lowered the rate of virus transmission.",
+      "heat": 105,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/29/us/seattle-washington-state-coronavirus-transmission-rate.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/29/us/seattle-washington-state-coronavirus-transmission-rate.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/29/us/seattle-washington-state-coronavirus-transmission-rate.amp.html",
+      "publishedDateTime": "2020-03-29T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/29/us/29virus-seattle-1/29virus-seattle-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "Coronavirus Slowdown in Seattle Suggests Restrictions Are Working",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-two-additional-judicial-annex-employees-test-positive-for-coronavirus.md",
+      "title": "Two additional Judicial Annex employees test positive for Coronavirus",
+      "excerpt": "KANAWHA COUNTY, WV (WOWK) – Two more Kanawha Judicial Annex employees tested positive for COVID-19 today ... that one step further by putting her love for baking and cake decorating to the test. CHARLESTON, WV (WOWK) - In case you missed any important COVID-19 coverage today, here is what you need to know from the tristate area.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wowktv.com/news/west-virginia/two-additional-judicial-annex-employees-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://www.wowktv.com/news/west-virginia/two-additional-judicial-annex-employees-test-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-wowktv-com.cdn.ampproject.org/c/s/www.wowktv.com/news/west-virginia/two-additional-judicial-annex-employees-test-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-29T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWKtv",
+        "domain": "wowktv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wowktv.com/wp-content/uploads/sites/52/2020/03/Coronavirus-3-1-2-1-1-2-1-1-1-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Two additional Judicial Annex employees test positive for Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-forecast-to-cut-uk-economic-output-by-15.md",
+      "title": "Coronavirus forecast to cut UK economic output by 15%",
+      "excerpt": "Analysts say unemployment could also double in deepest recession since financial crisis",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/business/2020/mar/30/coronavirus-forecast-to-cut-uk-economic-output-by-15",
+      "ampWebUrl": "https://amp.theguardian.com/business/2020/mar/30/coronavirus-forecast-to-cut-uk-economic-output-by-15",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2020/mar/30/coronavirus-forecast-to-cut-uk-economic-output-by-15",
+      "publishedDateTime": "2020-03-29T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cd49e6695e984f2957da9e180e4cbd02f8d049ff/0_0_4387_2632/master/4387.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f575c516f0931ec46c1165920cc549d3",
+          "width": 600,
+          "height": 360,
+          "title": "Coronavirus forecast to cut UK economic output by 15%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-uk-anti-fake-news-unit-dealing-with-up-to-10-false-coronavirus-articles-a-day.md",
+      "title": "UK anti-fake news unit dealing with up to 10 false coronavirus articles a day",
+      "excerpt": "No 10’s rapid response unit targets misinformation as false articles continue to be shared",
+      "heat": 102,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/mar/30/uk-anti-fake-news-unit-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/mar/30/uk-anti-fake-news-unit-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/mar/30/uk-anti-fake-news-unit-coronavirus",
+      "publishedDateTime": "2020-03-29T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3546bbb95dd22e1b0d80853c9cb2687e3a4029dc/0_245_3600_2161/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4af7d8537a7edba92f6ee2ca274dd264",
+          "width": 600,
+          "height": 360,
+          "title": "UK anti-fake news unit dealing with up to 10 false coronavirus articles a day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-weddings-birthdays-graduations-among-the-big-events-attleboro-area-residents-postpone-or-cancel-due-to-coronavirus.md",
+      "title": "Weddings, birthdays, graduations among the big events Attleboro area residents postpone or cancel due to coronavirus",
+      "excerpt": "But, as the coronavirus threat grew more dire and drastic ... Since both venues are temporarily closed for events, and it’s unknown when they will open again, the couple decided last Friday that postponing the wedding (they haven’t decided on a new date yet) was their best bet. “It’s been tough, and it almost feels like it’s just ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thesunchronicle.com/news/coronavirus/weddings-birthdays-graduations-among-the-big-events-attleboro-area-residents-postpone-or-cancel-due-to/article_68d134c4-d4ca-555f-8842-65d1864994e3.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun Chronicle",
+        "domain": "thesunchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/d/e9/de907d10-1851-52ed-a9bf-d6c3752d4837/5e80cf8004862.image.jpg?resize=889%2C630",
+          "width": 889,
+          "height": 630,
+          "title": "Weddings, birthdays, graduations among the big events Attleboro area residents postpone or cancel due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-latest-two-rockwood-school-district-staff-members-test-positive-for-covid-19.md",
+      "title": "Coronavirus Latest: Two Rockwood School District staff members test positive for COVID-19",
+      "excerpt": "Two staff members from the Rockwood School District have tested positive for COVID-19 ... 10:42 a.m. The City of St. Louis on Friday announced the immediate closure of playgrounds amid the coronavirus outbreak. The city said the closure will be in effect as long as the stay-at-home order last. Similar orders had already been handed out in ...",
+      "heat": 191,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kmov.com/news/coronavirus-covid-latest-info-in-st-louis/article_f35c5f16-7038-11ea-9c06-f30dcb4bc9eb.html",
+      "ampWebUrl": "https://www.kmov.com/news/coronavirus-covid-latest-info-in-st-louis/article_f35c5f16-7038-11ea-9c06-f30dcb4bc9eb.amp.html",
+      "cdnAmpWebUrl": "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/coronavirus-covid-latest-info-in-st-louis/article_f35c5f16-7038-11ea-9c06-f30dcb4bc9eb.amp.html",
+      "publishedDateTime": "2020-03-29T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMOV",
+        "domain": "kmov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/b/70/b70e6df0-713d-11ea-951b-87625fe4afed/5e7fc60394453.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus Latest: Two Rockwood School District staff members test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-lancaster-prison-only-state-facility-where-multiple-inmates-test-positive-for-coronavirus.md",
+      "title": "Lancaster prison only state facility where multiple inmates test positive for coronavirus",
+      "excerpt": "A state prison in Lancaster remains the only state corrections facility across California where more than one inmate has tested positive for coronavirus. Three state prisoners ... officials said. A total of 17 employees in the Department of Corrections and Rehabilitation also tested positive, according to figures from state officials.",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://ktla.com/news/local-news/lancaster-prison-only-state-facility-where-multiple-inmates-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://ktla.com/news/local-news/lancaster-prison-only-state-facility-where-multiple-inmates-test-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/lancaster-prison-only-state-facility-where-multiple-inmates-test-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-29T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2019/06/gettyimages-679917464.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Lancaster prison only state facility where multiple inmates test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-live-blog-live-coronavirus-updates-global-death-toll-tops-30000-as-cdc-issues-travel-advisory-for-3-states.md",
+      "title": "Live Blog / Live coronavirus updates: Global death toll tops 30,000 as CDC issues travel advisory for 3 states",
+      "excerpt": "In a statement, John Prine's family said the legendary country and folk singer was hospitalized on Thursday night and intubated on Saturday.",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/live-coronavirus-updates-trump-weighs-quarantine-n-y-area-italian-n1171426/ncrd1171711",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1171426",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1171426",
+      "publishedDateTime": "2020-03-29T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_13/3288186/200329-indio-california-coronavirus-temporary-hospital-cs-525p_ea6e6fd92f48099c565516f6fd015260.jpg",
+          "width": 2500,
+          "height": 1617,
+          "title": "Live Blog / Live coronavirus updates: Global death toll tops 30,000 as CDC issues travel advisory for 3 states",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-trump-says-extending-coronavirus-guidelines-past-easter-to-april-30.md",
+      "title": "Trump says extending coronavirus guidelines past Easter to April 30",
+      "excerpt": "Trump added that deaths from the coronavirus could peak around Easter.",
+      "heat": 125,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-easter-idUSKBN21G0XV",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G0XV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G0XV",
+      "publishedDateTime": "2020-03-29T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200329&t=2&i=1509913566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2S0LB",
+          "width": 817,
+          "height": 545,
+          "title": "Trump says extending coronavirus guidelines past Easter to April 30",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-two-kraft-employees-test-positive-for-covid-19-company-closes-for-deep-cleaning.md",
+      "title": "Two Kraft employees test positive for COVID-19, company closes for deep cleaning",
+      "excerpt": "SPRINGFIELD, Mo- Two employees of Kraft Heinz in Springfield have tested positive for COVID-19. According to a statement from Michael Mullen, Senior Vice President of Corporate Affairs, the two employees worked in the warehouse of the facility. According to the statement, the two employees were last in the warehouse Thursday, March 19th ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ozarksfirst.com/local-news/two-kraft-employees-test-positive-for-covid-19-company-closes-for-deep-cleaning/",
+      "ampWebUrl": "https://www.ozarksfirst.com/local-news/two-kraft-employees-test-positive-for-covid-19-company-closes-for-deep-cleaning/amp/",
+      "cdnAmpWebUrl": "https://www-ozarksfirst-com.cdn.ampproject.org/c/s/www.ozarksfirst.com/local-news/two-kraft-employees-test-positive-for-covid-19-company-closes-for-deep-cleaning/amp/",
+      "publishedDateTime": "2020-03-29T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ozarks First",
+        "domain": "ozarksfirst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ozarksfirst.com/wp-content/uploads/sites/65/2018/04/Kraft20Foods_1522659248247.jpg_38866511_ver1.0.jpg?w=640&h=360&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Two Kraft employees test positive for COVID-19, company closes for deep cleaning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-white-house-airlifts-medical-supplies-from-china-in-coronavirus-fight.md",
+      "title": "White House Airlifts Medical Supplies From China in Coronavirus Fight",
+      "excerpt": "Officials have teamed up with medical supply companies to speed the arrival of masks, gloves, gowns and other goods.",
+      "heat": 145,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/29/business/economy/coronavirus-china-supplies.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/29/business/economy/coronavirus-china-supplies.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/29/business/economy/coronavirus-china-supplies.amp.html",
+      "publishedDateTime": "2020-03-29T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/29/business/00dc-virus-china-supplies1/00dc-virus-china-supplies1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "White House Airlifts Medical Supplies From China in Coronavirus Fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-two-chicago-cubs-employees-test-positive-for-covid-19-report.md",
+      "title": "Coronavirus: Two Chicago Cubs employees test positive for COVID-19 (report)",
+      "excerpt": "Getty Images Two seasonal gameday Cubs employees, who attended a March 8 training session at Wrigley Field, have tested positive for coronavirus according to the Chicago Sun Times which reported: “One is recovering at home;",
+      "heat": 198,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.masslive.com/redsox/2020/03/coronavirus-two-chicago-cubs-employees-test-positive-for-covid-19-report.html",
+      "ampWebUrl": "https://www.masslive.com/redsox/2020/03/coronavirus-two-chicago-cubs-employees-test-positive-for-covid-19-report.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/redsox/2020/03/coronavirus-two-chicago-cubs-employees-test-positive-for-covid-19-report.html?outputType=amp",
+      "publishedDateTime": "2020-03-29T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/6GVHFKWQLZENBG5HYQD56JMGKA.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Coronavirus: Two Chicago Cubs employees test positive for COVID-19 (report)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-in-colorado-live-updates-nearly-250-new-cases-3-additional-deaths-reported-sunday.md",
+      "title": "Coronavirus in Colorado: Live updates - Nearly 250 new cases, 3 additional deaths reported Sunday",
+      "excerpt": "This article is updated multiple times a day with coronavirus news from Colorado Springs, the Pikes Peak region and elsewhere in Colorado.",
+      "heat": 117,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://gazette.com/news/coronavirus-in-colorado-live-updates---nearly-new-cases/article_d2ad0ce6-71bb-11ea-9665-dfccab53ff59.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/7/85/785bb0e7-d3b3-5771-82fc-7ffcaaedcbbb/5e7cce5e5d329.image.jpg?resize=963%2C630",
+          "width": 963,
+          "height": 630,
+          "title": "Coronavirus in Colorado: Live updates - Nearly 250 new cases, 3 additional deaths reported Sunday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-lockdowns-give-europes-cities-cleaner-air.md",
+      "title": "Coronavirus lockdowns give Europe's cities cleaner air",
+      "excerpt": "Air pollution has decreased in urban areas across Europe during lockdowns to combat, new satellite images showed on Monday, but campaigners warned city-dwellers were still more vulnerable to the epidemic.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-air-pollution-idUSKBN21G0XA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21G0XA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21G0XA",
+      "publishedDateTime": "2020-03-29T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200329&t=2&i=1509899840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2S0KT",
+          "width": 832,
+          "height": 545,
+          "title": "Coronavirus lockdowns give Europe's cities cleaner air",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-henrico-county-reports-18-new-cases-of-coronavirus-at-rehabilitation-healthcare-center.md",
+      "title": "Henrico County reports 18 new cases of coronavirus at rehabilitation & healthcare center",
+      "excerpt": "There are 18 new cases of coronavirus at Canterbury Rehabilitation & Healthcare Center as of Saturday, bringing the total number of confirmed cases to 37. There",
+      "heat": 141,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wavy.com/news/henrico-county-reports-18-new-cases-of-coronavirus-at-rehabilitation-healthcare-center/",
+      "ampWebUrl": "https://www.wavy.com/news/henrico-county-reports-18-new-cases-of-coronavirus-at-rehabilitation-healthcare-center/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/henrico-county-reports-18-new-cases-of-coronavirus-at-rehabilitation-healthcare-center/amp/",
+      "publishedDateTime": "2020-03-29T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/03/thumbnail_Coronavirus-Update-1-2-2-2-3.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Henrico County reports 18 new cases of coronavirus at rehabilitation & healthcare center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-coronavirus-deaths-louisiana-reports-first-death-of-inmate-in-federal-prison-system.md",
+      "title": "Coronavirus Deaths: Louisiana Reports First Death Of Inmate In Federal Prison System",
+      "excerpt": "A Louisiana man serving time for drug charges has reportedly become the first federal prisoner to die from COVID-19.",
+      "heat": 128,
+      "tags": [
+        "US-LA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/coronavirus-deaths-louisiana-reports-first-death-inmate-federal-prison-system-2949021",
+      "ampWebUrl": "https://www.ibtimes.com/coronavirus-deaths-louisiana-reports-first-death-inmate-federal-prison-system-2949021?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/coronavirus-deaths-louisiana-reports-first-death-inmate-federal-prison-system-2949021?amp=1",
+      "publishedDateTime": "2020-03-29T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/28/coronavirus-new-symptom-us-hospital.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Coronavirus Deaths: Louisiana Reports First Death Of Inmate In Federal Prison System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-4-new-coronavirus-cases-at-seattle-area-homeless-shelters.md",
+      "title": "4 new coronavirus cases at Seattle-area homeless shelters",
+      "excerpt": "That news has some shelters in the area on lockdown, and others on edge. The Union Gospel Mission locked down all five of its shelters because a resident of one of them tested positive last week. Staff members move back and forth among the organization’s shelters,",
+      "heat": null,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://kuow.org/stories/4-new-coronavirus-cases-at-seattle-area-homeless-shelters",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUOW",
+        "domain": "kuow.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kuow-prod.imgix.net/store/0485545f857c65883ca9703b88a5b616.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
+          "width": 941,
+          "height": 628,
+          "title": "4 new coronavirus cases at Seattle-area homeless shelters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-gov-abbott-to-give-update-on-states-coronavirus-response.md",
+      "title": "Gov. Abbott to Give Update on State’s Coronavirus Response",
+      "excerpt": "Gov. Greg Abbott will give an update Sunday afternoon on the state's response to COVID-19. The news conference will be given at the Texas Capitol at 2 p.m. and will be streamed live on this page. Abbott will be joined by Dr. John Hellerstedt, the Texas ...",
+      "heat": null,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/gov-abbott-to-give-update-on-states-coronavirus-response/2341325/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/gov-abbott-to-give-update-on-states-coronavirus-response/2341325/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/gov-abbott-to-give-update-on-states-coronavirus-response/2341325/?amp",
+      "publishedDateTime": "2020-03-29T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/abbott-coronavirus-kay-bailey.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Gov. Abbott to Give Update on State’s Coronavirus Response",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-nevada-has-15th-death-from-coronavirus-1st-in-washoe-county.md",
+      "title": "Nevada Has 15th Death From Coronavirus; 1st in Washoe County",
+      "excerpt": "Nevada has reported its 15th death from the coronavirus virus, authorities said Sunday. The Washoe County man in his 40s is the first COVID-19 patient to die in northern Nevada. The previous 14 deaths all were in Clark County,",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/nevada/articles/2020-03-29/nevada-has-738-positive-covid-19-cases-at-least-14-deaths",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-wake-reports-12-new-coronavirus-cases-with-officials-calling-for-more-testing-supplies.md",
+      "title": "Wake reports 12 new coronavirus cases, with officials calling for more testing supplies",
+      "excerpt": "Here’s the latest update on coronavirus cases for Wake County, and what Commissioner Matt Calabria and Rep. Sydney Batch said at a virtual town hall on Sunday.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsobserver.com/news/coronavirus/article241592476.html",
+      "ampWebUrl": "https://amp.newsobserver.com/news/coronavirus/article241592476.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/coronavirus/article241592476.html",
+      "publishedDateTime": "2020-03-29T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/298f42f5-2677-4ad8-91ea-43aa4dff80cc/0336047a-5c1a-440b-ab53-ab6536e251f1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Wake reports 12 new coronavirus cases, with officials calling for more testing supplies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-the-coronavirus-gives-russia-and-china-another-opportunity-to-spread-their-disinformation.md",
+      "title": "The coronavirus gives Russia and China another opportunity to spread their disinformation",
+      "excerpt": "To our adversaries, it makes little apparent difference whether an election or a pandemic provides leverage to subvert trust.",
+      "heat": 136,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/opinions/the-coronavirus-gives-russia-and-china-another-opportunity-to-spread-their-disinformation/2020/03/29/8423a0f8-6d4c-11ea-a3ec-70d7479d83f0_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/the-coronavirus-gives-russia-and-china-another-opportunity-to-spread-their-disinformation/2020/03/29/8423a0f8-6d4c-11ea-a3ec-70d7479d83f0_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-coronavirus-gives-russia-and-china-another-opportunity-to-spread-their-disinformation/2020/03/29/8423a0f8-6d4c-11ea-a3ec-70d7479d83f0_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-29T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/wJBz78H-XhmPotPCA8xX9lWfg9I=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VN5NBLDQRQI6VI7MODLUPHMD6A.jpg",
+          "width": 1440,
+          "height": 927,
+          "title": "The coronavirus gives Russia and China another opportunity to spread their disinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-the-real-cure-for-coronavirus.md",
+      "title": "The Real Cure for Coronavirus",
+      "excerpt": "Private research and innovation offer promising new leads.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/the-real-cure-for-coronavirus-11585516011",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-real-cure-for-coronavirus-11585516011",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-real-cure-for-coronavirus-11585516011",
+      "publishedDateTime": "2020-03-29T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-168163/social",
+          "width": 1280,
+          "height": 640,
+          "title": "The Real Cure for Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-for-these-baton-rouge-seniors-high-school-was-bookended-by-2016-flood-coronavirus-closure.md",
+      "title": "For these Baton Rouge seniors, high school was bookended by 2016 flood, coronavirus closure",
+      "excerpt": "Not every high school student can celebrate the the end of their senior year with commemorative T-shirts that read \"We are survivors.\"",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theadvocate.com/baton_rouge/news/coronavirus/article_996f3996-6adf-11ea-a403-c7d2d9d0025a.html",
+      "ampWebUrl": "https://www.theadvocate.com/baton_rouge/news/coronavirus/article_996f3996-6adf-11ea-a403-c7d2d9d0025a.amp.html",
+      "cdnAmpWebUrl": "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/coronavirus/article_996f3996-6adf-11ea-a403-c7d2d9d0025a.amp.html",
+      "publishedDateTime": "2020-03-29T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Advocate",
+        "domain": "theadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/e/dc/edc4845f-cde9-54d7-b079-579e401283eb/5e75546790e55.image.jpg?resize=1024%2C768",
+          "width": 1024,
+          "height": 768,
+          "title": "For these Baton Rouge seniors, high school was bookended by 2016 flood, coronavirus closure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-biggest-jump-yet-in-illinois-covid-19-cases-as-more-testing-kicks-in.md",
+      "title": "Biggest jump yet in Illinois COVID-19 cases as more testing kicks in",
+      "excerpt": "The number of newly reported COVID-19 cases in the state had the biggest single-day increase so far in the ... officials for slowing things up. In one step, Pritzker said he’s spoken with top leaders of Illinois-based Abbott Labs to ask them to ...",
+      "heat": null,
+      "tags": [
+        "US-IL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-03-20-intl/h_3c36f1244a827ea4ddc7d7e0dc95d685",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-03-20-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-03-20-intl/index.html",
+      "publishedDateTime": "2020-03-29T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crain's Chicago Business",
+        "domain": "chicagobusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/fef7b120-ae8c-43ba-b23a-cb8efe4f7ac8.jpg",
+          "width": 900,
+          "height": 600,
+          "title": "Biggest jump yet in Illinois COVID-19 cases as more testing kicks in",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-with-2-new-cases-montgomery-countys-coronavirus-total-is-65.md",
+      "title": "With 2 new cases, Montgomery County’s coronavirus total is 65",
+      "excerpt": "Sunday confirmed two new cases of COVID-19 in the county. With the two new cases, both in the city of Montgomery, the county is up to a total of 65 confirmed cases.",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chron.com/neighborhood/moco/news/article/With-2-new-cases-Montgomery-County-s-15165049.php?cmpid=hpctp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/25/13/19223268/13/rawImage.jpg",
+          "width": 2048,
+          "height": 1402,
+          "title": "With 2 new cases, Montgomery County’s coronavirus total is 65",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 135
+}

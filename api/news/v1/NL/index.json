@@ -1,0 +1,53 @@
+{
+  "location": {
+    "long": 5.2913,
+    "countryOrRegion": "Netherlands",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "NL",
+    "lat": 52.1326
+  },
+  "updatedDateTime": "2020-05-10T05:45:40.247553Z",
+  "news": [
+    {
+      "path": "_news/2020-05-05-israel-and-netherlands-studies-claim-progress-in-covid-19-antibody-trials.md",
+      "title": "Israel and Netherlands studies claim progress in Covid-19 antibody trials",
+      "excerpt": "Scientists welcome ‘initial step’ towards developing antibody to treat or prevent coronavirus",
+      "heat": 104,
+      "tags": [
+        "Netherlands",
+        "NL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/05/israel-netherlands-studies-claim-progress-in-covid-19-antibody-trials",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/05/israel-netherlands-studies-claim-progress-in-covid-19-antibody-trials",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/05/israel-netherlands-studies-claim-progress-in-covid-19-antibody-trials",
+      "publishedDateTime": "2020-05-05T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/adad54ba6a8b6fcc52628f7fb864a8010b70108f/0_162_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=864d86c39f5e0713080d382270e21938",
+          "width": 600,
+          "height": 360,
+          "title": "Israel and Netherlands studies claim progress in Covid-19 antibody trials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: coronavirus-in-asia
+name: Coronavirus in Asia
+shortname: Asia
+parent: Coronavirus
+keywords:
+  - asia
+  - china
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-asia.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/coronavirus-in-asia/
+  stats: https://insideout.app/coronavirus/api/stats/coronavirus-in-asia/

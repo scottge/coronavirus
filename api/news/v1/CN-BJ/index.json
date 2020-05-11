@@ -1,0 +1,1280 @@
+{
+  "location": {
+    "long": 116.4142,
+    "countryOrRegion": "China",
+    "provinceOrState": "Beijing Shi",
+    "county": null,
+    "isoCode": "CN-BJ",
+    "lat": 40.1824
+  },
+  "updatedDateTime": "2020-05-10T05:45:36.4707562Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-beijing-gym-goers-welcome-partial-re-open.md",
+      "title": "Beijing gym-goers welcome partial re-open",
+      "excerpt": "World Beijing gym-goers welcome partial re-open. Posted . The grunts, groans and the sound of pulsing music and crashing weights has returned to some of Beijing's gyms after being",
+      "heat": 100,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/video/watch/beijing-gym-goers-welcome-partial-re-ope-id712758043",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20200509&i=OVCD7SINF&r=OVCD7SINF&t=2",
+          "width": 960,
+          "height": 540,
+          "title": "Beijing gym-goers welcome partial re-open",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-as-us-china-rivalry-heightens-the-pandemic-could-tilt-global-power-in-beijings-favor.md",
+      "title": "As US-China rivalry heightens, the pandemic could tilt global power in Beijing's favor",
+      "excerpt": "China is likely to use the crisis as an opportunity to raise its profile and expand its influence particularly over countries hard-hit by the pandemic, analysts say.",
+      "heat": 122,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/08/coronavirus-us-china-tensions-increase-beijing-seeks-more-influence.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/08/coronavirus-us-china-tensions-increase-beijing-seeks-more-influence.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/coronavirus-us-china-tensions-increase-beijing-seeks-more-influence.html",
+      "publishedDateTime": "2020-05-07T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105280924-GettyImages-871867102.jpg?v=1576263103",
+          "width": 4500,
+          "height": 2995,
+          "title": "As US-China rivalry heightens, the pandemic could tilt global power in Beijing's favor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-eu-bowed-to-pressure-from-beijing-to-censor-letter-saying-coronavirus-originated-in-china.md",
+      "title": "EU 'bowed to pressure from Beijing to censor letter saying coronavirus originated in China'",
+      "excerpt": "The European Union has excised reference in a public letter that the coronavirus pandemic originated in China, after receiving pressure to do so from the Chinese foreign ministry.",
+      "heat": 125,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/news/article-8299237/EU-bowed-pressure-Beijing-censor-letter-saying-coronavirus-originated-China.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8299237/amp/EU-bowed-pressure-Beijing-censor-letter-saying-coronavirus-originated-China.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8299237/amp/EU-bowed-pressure-Beijing-censor-letter-saying-coronavirus-originated-China.html",
+      "publishedDateTime": "2020-05-07T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/05/08/02/28141238-0-image-a-107_1588900606517.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "EU 'bowed to pressure from Beijing to censor letter saying coronavirus originated in China'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-eu-defends-handling-of-china-relations-after-beijing-censors-op-ed-by-blocs-ambassadors.md",
+      "title": "E.U. defends handling of China relations after Beijing censors op-ed by bloc’s ambassadors",
+      "excerpt": "European Union officials on Thursday defended their handling of relations with China during the coronavirus pandemic, a day after the E.U. ambassador to China allowed an opinion article about E.U.-Chinese relations that he co-wrote to be censored before publication in a state-run newspaper.",
+      "heat": 120,
+      "tags": [
+        "CN",
+        "China-Beijing",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/europe/eu-defends-handling-of-china-relations-after-beijing-censors-op-ed-by-blocs-ambassadors/2020/05/07/fd2ac638-9066-11ea-9322-a29e75effc93_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/europe/eu-defends-handling-of-china-relations-after-beijing-censors-op-ed-by-blocs-ambassadors/2020/05/07/fd2ac638-9066-11ea-9322-a29e75effc93_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/eu-defends-handling-of-china-relations-after-beijing-censors-op-ed-by-blocs-ambassadors/2020/05/07/fd2ac638-9066-11ea-9322-a29e75effc93_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-07T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/kLgPsdfqRahC90YIHIyjkZxwZN8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BDOJ6MEQPEI6VHRDNEKO4QIKL4.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "E.U. defends handling of China relations after Beijing censors op-ed by bloc’s ambassadors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-eus-pivot-to-china-falls-foul-of-beijings-censors.md",
+      "title": "EU’s pivot to China falls foul of Beijing’s censors",
+      "excerpt": "Europe's diplomatic push to pivot to China amid the coronavirus epidemic has backfired, after an open letter calling for warmer ties with Beijing fell foul of Chinese censors. China Daily, the mouthpiece of the country's ruling Communist Party,",
+      "heat": 110,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/05/06/china-censors-european-union-241900",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/9e/7f/34c1186143a3bdcc114e3bd4f953/webp.net-resizeimage%20(12).jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "EU’s pivot to China falls foul of Beijing’s censors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-are-beijings-bold-moves-in-the-south-china-sea-mere-opportunism-amid-covid-19-or-the-new-normal.md",
+      "title": "Are Beijing’s bold moves in the South China Sea mere opportunism amid Covid-19 or the new normal?",
+      "excerpt": "China’s renewed assertiveness may be driven by both domestic and external factors as Beijing seeks to bolster support at home for its tough security stance, while showing rival claimants and the US that maritime and sovereignty issues will not be sidelined amid the pandemic.",
+      "heat": 102,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3082931/are-beijings-bold-moves-south-china-sea-mere-opportunism-amid-covid",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3082931/are-beijings-bold-moves-south-china-sea-mere-opportunism-amid-covid",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3082931/are-beijings-bold-moves-south-china-sea-mere-opportunism-amid-covid",
+      "publishedDateTime": "2020-05-06T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_opinion/public/d8/images/methode/2020/05/07/c393cac4-8ea8-11ea-a674-527cfdef49ee_image_hires_093835.JPG?itok=oo1IkGV3&v=1588815522",
+          "width": 1200,
+          "height": 630,
+          "title": "Are Beijing’s bold moves in the South China Sea mere opportunism amid Covid-19 or the new normal?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-china-coronavirus-outrage-how-beijing-claimed-italy-started-pandemic.md",
+      "title": "China coronavirus outrage: How Beijing claimed 'Italy started pandemic'",
+      "excerpt": "CHINA's government has come under fire for its cloak-and-dagger approach to the coronavirus pandemic, and this includes its outrageous claims that the disease started in Italy.",
+      "heat": 115,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/world/1278572/china-news-beijing-lie-italy-started-coronavirus-xi-jinping-spt",
+      "ampWebUrl": "https://www.express.co.uk/news/world/1278572/china-news-beijing-lie-italy-started-coronavirus-xi-jinping-spt/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1278572/china-news-beijing-lie-italy-started-coronavirus-xi-jinping-spt/amp",
+      "publishedDateTime": "2020-05-06T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/1278572_1.jpg?r=1588766213526",
+          "width": 590,
+          "height": 350,
+          "title": "China coronavirus outrage: How Beijing claimed 'Italy started pandemic'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-china-warns-the-uk-against-a-new-cold-war-as-it-accuses-british-politicians-of-poisoning-relations-with-beijing.md",
+      "title": "China warns the UK against a new 'cold war' as it accuses British politicians of poisoning relations with Beijing",
+      "excerpt": "Liu Xiaoming said that UK MPs who were critical of China were not in step with Boris Johnson or the UK Parliament.",
+      "heat": 109,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/coronavirus-china-accuses-uk-of-cold-war-mentality-towards-beijing-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/coronavirus-china-accuses-uk-of-cold-war-mentality-towards-beijing-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-china-accuses-uk-of-cold-war-mentality-towards-beijing-2020-5?amp",
+      "publishedDateTime": "2020-05-06T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eb29176e3c3fb56fd7dd825?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "China warns the UK against a new 'cold war' as it accuses British politicians of poisoning relations with Beijing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-a-china-bashing-coronavirus-jester-beijing-tears-into-pompeos-clown-show.md",
+      "title": "A China-bashing coronavirus jester? Beijing tears into Pompeo’s ‘clown show’",
+      "excerpt": "China has fired back at Mike Pompeo’s allegations that Beijing is somehow behind the origin and spread of Covid-19, describing his “comedy routine” as deeply cynical and damaging to the United States.",
+      "heat": 112,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.rt.com/news/487878-pompeo-china-clown-show-coronavirus/",
+      "ampWebUrl": "https://www.rt.com/news/487878-pompeo-china-clown-show-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/487878-pompeo-china-clown-show-coronavirus/amp/",
+      "publishedDateTime": "2020-05-06T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RT",
+        "domain": "rt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdni.rt.com/files/2020.01/xxl/5e2d7bd385f540524e3394c4.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": "A China-bashing coronavirus jester? Beijing tears into Pompeo’s ‘clown show’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-ingraham-hits-western-elites-who-are-in-the-tank-for-china-says-biden-win-would-be-gift-to-beijing.md",
+      "title": "Ingraham hits Western 'elites' who are 'in the tank' for China, says Biden win would be 'gift' to Beijing",
+      "excerpt": "\"Ingraham Angle\" host Laura Ingraham said Tuesday that while many Americans are becoming wise to China and the Chinese Communist Party's malignant actions amid the coronavirus pandemic, many members of the U.",
+      "heat": 113,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/media/ingraham-western-elites-in-tank-china-biden",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-western-elites-in-tank-china-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-western-elites-in-tank-china-biden.amp",
+      "publishedDateTime": "2020-05-05T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3ab20f7-7d90-4095-a99b-31b7d5bd9b97/91b4aedf-b06b-4a24-ae0c-b19ebf83bf60/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Ingraham hits Western 'elites' who are 'in the tank' for China, says Biden win would be 'gift' to Beijing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-internal-chinese-report-warns-beijing-faces-global-backlash-over-virus.md",
+      "title": "Internal Chinese report warns Beijing faces global backlash over virus",
+      "excerpt": "World Internal Chinese report warns Beijing faces global backlash over virus. Posted . An internal Chinese report warns that Beijing faces a rising wave of hostility in the wake o",
+      "heat": 110,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/video/watch/idOVCCIU0KR",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20200504&i=OVCCIU0KR&r=OVCCIU0KR&t=2",
+          "width": 960,
+          "height": 540,
+          "title": "Internal Chinese report warns Beijing faces global backlash over virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-exclusive-internal-chinese-report-warns-beijing-faces-tiananmen-like-global-backlash-over-virus.md",
+      "title": "Exclusive: Internal Chinese report warns Beijing faces Tiananmen-like global backlash over virus",
+      "excerpt": "An internal Chinese report warns that Beijing faces a rising wave of hostility in the wake of the coronavirus outbreak that could tip relations with the United States into confrontation, people familiar with the paper told Reuters.",
+      "heat": 177,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-china-sentiment-ex-idUSKBN22G19C",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22G19C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22G19C",
+      "publishedDateTime": "2020-05-04T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200504&t=2&i=1517389790&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG430X0",
+          "width": 817,
+          "height": 545,
+          "title": "Exclusive: Internal Chinese report warns Beijing faces Tiananmen-like global backlash over virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-china-coronavirus-cover-up-beijing-intentionally-concealed-severity-of-covid-19-us-intel-reveals.md",
+      "title": "China Coronavirus Cover Up: Beijing 'Intentionally Concealed Severity' Of COVID-19, US Intel Reveals",
+      "excerpt": "U.S. intel report claims the Chinese government “intentionally concealed the severity” of the pandemic China reportedly hoarded medical supplies before informing WHO of the contagion China's imports of face masks and surgical gowns and gloves rose sharply during the early weeks of the crisis The Trump administration continues to enflame tensions with China over the COVID-19 pandemic's origins.",
+      "heat": 115,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/china-coronavirus-cover-beijing-intentionally-concealed-severity-covid-19-us-intel-2969597",
+      "ampWebUrl": "https://www.ibtimes.com/china-coronavirus-cover-beijing-intentionally-concealed-severity-covid-19-us-intel-2969597?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/china-coronavirus-cover-beijing-intentionally-concealed-severity-covid-19-us-intel-2969597?amp=1",
+      "publishedDateTime": "2020-05-03T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/03/donald-trumps-attacks-on-china-for-its-handling.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "China Coronavirus Cover Up: Beijing 'Intentionally Concealed Severity' Of COVID-19, US Intel Reveals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-sierens-china-after-coronavirus-beijing-wont-be-economic-savior.md",
+      "title": "Sieren's China: After coronavirus, Beijing won't be economic savior",
+      "excerpt": "Consumption in China is only picking up slowly, not least because of highly indebted private households. Beijing still has some stimulus leeway, but Western economies are unlikely to benefit, says Frank Sieren.",
+      "heat": 125,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dw.com/en/sierens-china-after-coronavirus-beijing-wont-be-economic-savior/a-53316650",
+      "ampWebUrl": "https://amp.dw.com/en/sierens-china-after-coronavirus-beijing-wont-be-economic-savior/a-53316650",
+      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/sierens-china-after-coronavirus-beijing-wont-be-economic-savior/a-53316650",
+      "publishedDateTime": "2020-05-03T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deutsche Welle",
+        "domain": "dw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dw.com/static/stills/images/vdt/2020/beng200421_001_wuttkeweb_01i.jpg",
+          "width": 512,
+          "height": 288,
+          "title": "Sieren's China: After coronavirus, Beijing won't be economic savior",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-from-creators-of-saddams-wmds-west-compiled-dossier-targets-china-covid-19-cover-up.md",
+      "title": "From creators of ‘Saddam’s WMDs’? West-compiled dossier ‘targets China Covid-19 cover-up’",
+      "excerpt": "The West’s wish to pin the blame on China (and probably the bill too) for the Covid-19 pandemic has been reportedly incarnated in a 15-page dossier carefully compiled by ‘concerned’ governments.",
+      "heat": 106,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.rt.com/news/487661-china-covid-dossier-leaked/",
+      "ampWebUrl": "https://www.rt.com/news/487661-china-covid-dossier-leaked/amp/",
+      "cdnAmpWebUrl": "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/487661-china-covid-dossier-leaked/amp/",
+      "publishedDateTime": "2020-05-03T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RT",
+        "domain": "rt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdni.rt.com/files/2020.01/xxl/5e16f6cf85f5405a1518d6ca.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": "From creators of ‘Saddam’s WMDs’? West-compiled dossier ‘targets China Covid-19 cover-up’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in China"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-can-the-unmasking-of-chinas-covid-19-mask-diplomacy-stem-beijings-global-power-grab.md",
+      "title": "Can the unmasking of China’s Covid-19 ‘mask diplomacy’ stem Beijing’s global power grab?",
+      "excerpt": "The Covid-19 outbreak found China uniquely positioned for a global soft power grab with its “mask diplomacy” supply of medical equipment. But then a drip of anti-Beijing headlines followed by an aggressive diplomatic onslaught unravelled the gains.",
+      "heat": 106,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.rawstory.com/2020/05/can-the-unmasking-of-chinas-covid-19-mask-diplomacy-stem-beijings-global-power-grab/",
+      "ampWebUrl": "https://www.rawstory.com/2020/05/can-the-unmasking-of-chinas-covid-19-mask-diplomacy-stem-beijings-global-power-grab/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/05/can-the-unmasking-of-chinas-covid-19-mask-diplomacy-stem-beijings-global-power-grab/amp/",
+      "publishedDateTime": "2020-05-01T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/04/Coronavirus-Bejing-.AFPFile-NICOLAS-ASFOURI-jpg.jpeg",
+          "width": 640,
+          "height": 422,
+          "title": "Can the unmasking of China’s Covid-19 ‘mask diplomacy’ stem Beijing’s global power grab?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-beijings-parks-museums-reopen-after-months-of-closure-due-to-covid-19.md",
+      "title": "Beijing's parks, museums reopen after months of closure due to Covid-19",
+      "excerpt": "Beijing's parks and museums, including the ancient Forbidden City, reopened to the public Friday after being closed for months by the coronavirus pandemic. The Forbidden City, past home to China's emperors,",
+      "heat": 105,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/video/2020/05/01/coronavirus-beijings-parks-and-museums-reopen-to-after-months-of-closure.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106506115-1587864022440gettyimages-1210865648.jpeg?v=1587864008",
+          "width": 1024,
+          "height": 705,
+          "title": "Beijing's parks, museums reopen after months of closure due to Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-china-threatened-australia-with-a-boycott-if-it-pushed-a-coronavirus-investigation-reigniting-a-debate-over-economic-ties.md",
+      "title": "China threatened Australia with a boycott if it pushed a coronavirus investigation, reigniting a debate over economic ties",
+      "excerpt": "The week vividly illustrated the limits of China’s economic leverage in a politically charged time of covid-19 — and the hardening public attitudes it faces around the world.",
+      "heat": 119,
+      "tags": [
+        "Australia",
+        "AU",
+        "CN",
+        "CN-HB",
+        "China-Beijing",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/asia_pacific/china-threatened-australia-with-a-boycott-if-it-pushed-ahead-with-an-investigation-reigniting-a-debate-over-economic-ties/2020/05/01/6388c512-893f-11ea-80df-d24b35a568ae_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/asia_pacific/china-threatened-australia-with-a-boycott-if-it-pushed-ahead-with-an-investigation-reigniting-a-debate-over-economic-ties/2020/05/01/6388c512-893f-11ea-80df-d24b35a568ae_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/china-threatened-australia-with-a-boycott-if-it-pushed-ahead-with-an-investigation-reigniting-a-debate-over-economic-ties/2020/05/01/6388c512-893f-11ea-80df-d24b35a568ae_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-01T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/1IUgO4uUyBBvRj-kFdqN-xCzjOE=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F4BHD7ELUII6VCWBX6ZFBB3LPI.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "China threatened Australia with a boycott if it pushed a coronavirus investigation, reigniting a debate over economic ties",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-pay-up-china-boris-should-seek-coronavirus-compensation-from-beijing-expresscouk-poll.md",
+      "title": "Pay up, China! Boris should seek coronavirus compensation from Beijing -Express.co.uk poll",
+      "excerpt": "The coronavirus pandemic is thought to have originated from a wet market in the Chinese province of Wuhan late last year and Beijing has been accused of suppressing early information about the outbreak. The COVID-19 crisis has now claimed the lives of more than 26,000 people in the UK and the extended lockdown has seen Government debt soar and ...",
+      "heat": 105,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/uk/1276363/Coronavirus-uk-news-boris-Johnson-china-economy-compensation-wuhan-COVID19",
+      "ampWebUrl": "https://www.express.co.uk/news/uk/1276363/Coronavirus-uk-news-boris-Johnson-china-economy-compensation-wuhan-COVID19/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1276363/Coronavirus-uk-news-boris-Johnson-china-economy-compensation-wuhan-COVID19/amp",
+      "publishedDateTime": "2020-05-01T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/Coronavirus-1276363.jpg?r=1588318074513",
+          "width": 590,
+          "height": 350,
+          "title": "Pay up, China! Boris should seek coronavirus compensation from Beijing -Express.co.uk poll",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-alert-beijings-parks-and-museums-including-the-ancient.md",
+      "title": "Alert: Beijing’s parks and museums including the ancient...",
+      "excerpt": "Beijing's parks and museums including the ancient Forbidden City reopen to the public after being closed by coronavirus.",
+      "heat": 110,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nhregister.com/news/article/Alert-Beijing-s-parks-and-museums-including-15239106.php",
+      "ampWebUrl": "https://www.nhregister.com/news/amp/Alert-Beijing-s-parks-and-museums-including-15239106.php",
+      "cdnAmpWebUrl": "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Alert-Beijing-s-parks-and-museums-including-15239106.php",
+      "publishedDateTime": "2020-04-30T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Haven Register",
+        "domain": "nhregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Alert: Beijing’s parks and museums including the ancient...",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-trump-might-impose-tariff-on-china-for-coronavirus-damages-likens-who-to-beijings-pr-agency.md",
+      "title": "Trump might impose tariff on China for coronavirus damages, likens WHO to Beijing's PR agency",
+      "excerpt": "United States President Donald Trump has hinted at imposing tariff on China as a punishment for the coronavirus outbreak. He, however, ruled out considering cancelling US debt obligations to the country.",
+      "heat": 104,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wionews.com/world/trump-might-impose-tariff-on-china-for-coronavirus-damages-likens-who-to-beijings-pr-agency-295948",
+      "ampWebUrl": "https://www.wionews.com/world/trump-might-impose-tariff-on-china-for-coronavirus-damages-likens-who-to-beijings-pr-agency-295948/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/trump-might-impose-tariff-on-china-for-coronavirus-damages-likens-who-to-beijings-pr-agency-295948/amp",
+      "publishedDateTime": "2020-04-30T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/04/27/138252-usa-afpp.jpg?itok=aFH40es2",
+          "width": 918,
+          "height": 506,
+          "title": "Trump might impose tariff on China for coronavirus damages, likens WHO to Beijing's PR agency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-ms-du-door-sensors-and-me-life-with-a-beijing-covid-19-quarantine-handler.md",
+      "title": "Ms Du, door sensors and me: life with a Beijing Covid-19 quarantine handler",
+      "excerpt": "China’s coronavirus measures are often seen as tough and effective - but how well do they really work?",
+      "heat": 113,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/01/life-with-a-beijing-covid-19-quarantine-handler-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/01/life-with-a-beijing-covid-19-quarantine-handler-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/01/life-with-a-beijing-covid-19-quarantine-handler-coronavirus",
+      "publishedDateTime": "2020-04-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8ea4f7cdf92398cfa865cedb00f70e17061dfef1/0_96_8033_4821/master/8033.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e8e3f9f8f3172118c24fc8e57bf45599",
+          "width": 600,
+          "height": 360,
+          "title": "Ms Du, door sensors and me: life with a Beijing Covid-19 quarantine handler",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-china-urges-trump-to-focus-on-battling-coronavirus-as-us-draws-up-plans-to-punish-beijing-for-pandemic.md",
+      "title": "China Urges Trump to Focus on Battling Coronavirus as U.S. Draws Up Plans to Punish Beijing for Pandemic",
+      "excerpt": "\"The U.S. should know this: the enemy is the virus, not China,\" Chinese foreign ministry spokesperson Geng Shuang said.",
+      "heat": 128,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "China-Beijing",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/china-urges-trump-focus-battling-coronavirus-us-draws-plans-punish-beijing-pandemic-1501326",
+      "ampWebUrl": "https://www.newsweek.com/china-urges-trump-focus-battling-coronavirus-us-draws-plans-punish-beijing-pandemic-1501326?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-urges-trump-focus-battling-coronavirus-us-draws-plans-punish-beijing-pandemic-1501326?amp=1",
+      "publishedDateTime": "2020-04-30T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1586410/donald-trump.jpg",
+          "width": 2500,
+          "height": 1161,
+          "title": "China Urges Trump to Focus on Battling Coronavirus as U.S. Draws Up Plans to Punish Beijing for Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-beijing-denies-trump-claim-china-wants-him-to-lose-re-election.md",
+      "title": "Beijing denies Trump claim China wants him to lose re-election",
+      "excerpt": "Top News Beijing denies Trump claim China wants him to lose re-election. Posted . Beijing has no interest in interfering in the U.S. election, China's foreign ministry said, after",
+      "heat": 110,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/video/watch/idRCV0085WA",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20200430&i=RCV0085WA&r=RCV0085WA&t=2",
+          "width": 1200,
+          "height": 675,
+          "title": "Beijing denies Trump claim China wants him to lose re-election",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-trump-china-wants-me-to-lose-re-election-as-president-attacks-beijings-handling-of-coronavirus.md",
+      "title": "Trump: ‘China Wants Me To Lose Re-Election’ As President Attacks Beijing’s Handling Of Coronavirus",
+      "excerpt": "Trump’s latest blow inflames flickering tensions between China and the U.S., that have most recently flared up over the coronavirus pandemic.",
+      "heat": 131,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/isabeltogoh/2020/04/30/trump-china-wants-me-to-lose-re-election-as-president-attacks-beijings-handling-of-coronavirus/",
+      "ampWebUrl": "https://www.forbes.com/sites/isabeltogoh/2020/04/30/trump-china-wants-me-to-lose-re-election-as-president-attacks-beijings-handling-of-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/04/30/trump-china-wants-me-to-lose-re-election-as-president-attacks-beijings-handling-of-coronavirus/amp/",
+      "publishedDateTime": "2020-04-30T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaab4c5165a170006a6032b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Trump: ‘China Wants Me To Lose Re-Election’ As President Attacks Beijing’s Handling Of Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-trump-says-chinas-handling-of-coronavirus-is-proof-beijing-wants-him-to-lose-re-election.md",
+      "title": "Trump says China’s handling of coronavirus is proof Beijing wants him to lose re-election",
+      "excerpt": "President Donald Trump said on Wednesday that he believes China’s handling of the coronavirus is proof that Beijing “will do anything they can” to make him lose his re-election bid in November. In an interview with Reuters in the Oval Office,",
+      "heat": 106,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dawn.com/news/1553418",
+      "ampWebUrl": "https://www.dawn.com/news/amp/1553418",
+      "cdnAmpWebUrl": "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1553418",
+      "publishedDateTime": "2020-04-29T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dawn",
+        "domain": "dawn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dawn.com/large/2020/04/5eaa64e905854.png",
+          "width": 800,
+          "height": 480,
+          "title": "Trump says China’s handling of coronavirus is proof Beijing wants him to lose re-election",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-chinas-global-growth-in-jeopardy-as-beijing-blasts-allies-amid-coronavirus-crisis.md",
+      "title": "China's global growth in jeopardy as Beijing blasts allies amid coronavirus crisis",
+      "excerpt": "China's extraordinary, five decades-long run of global growth and financial dominance is being put to the test following its very public bungling of the coronavirus crisis.",
+      "heat": 139,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "China-Beijing",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/china-global-growth-in-jeopardy-beijing-blasts-allies-amid-coronavirus-crisis",
+      "ampWebUrl": "https://www.foxnews.com/world/china-global-growth-in-jeopardy-beijing-blasts-allies-amid-coronavirus-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-global-growth-in-jeopardy-beijing-blasts-allies-amid-coronavirus-crisis.amp",
+      "publishedDateTime": "2020-04-29T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e71f86a-2ffc-4b9c-bb91-954ef2e73648/fd162669-076e-4958-ad62-e3277a8cb03e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "China's global growth in jeopardy as Beijing blasts allies amid coronavirus crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-beijing-city-government-to-lower-covid-19-emergency-response-level.md",
+      "title": "Beijing city government to lower COVID-19 emergency response level",
+      "excerpt": "Beijing's municipal government said on Wednesday it will lower its COVID-19 emergency response level effective as of 0000 hours on Thursday, removing quarantine requirements for some people arriving from other low-risk parts of the country.",
+      "heat": 155,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-idUKKCN22B11D",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKCN22B11D",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN22B11D",
+      "publishedDateTime": "2020-04-29T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516838220&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3S0IG",
+          "width": 816,
+          "height": 545,
+          "title": "Beijing city government to lower COVID-19 emergency response level",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-coronavirus-china-may-ease-beijings-quarantine-rules-as-early-as-thursday-sources-say.md",
+      "title": "Coronavirus: China may ease Beijing's quarantine rules as early as Thursday, sources say",
+      "excerpt": "The city of Beijing plans to ease quarantine rules for some domestic travellers from low-risk areas in China as soon as Thursday (April 30), according to two sources familiar with the situation, as the Chinese capital prepares for",
+      "heat": 116,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.asiaone.com/china/coronavirus-china-may-ease-beijings-quarantine-rules-early-thursday-sources-say",
+      "ampWebUrl": "https://www.asiaone.com/china/coronavirus-china-may-ease-beijings-quarantine-rules-early-thursday-sources-say?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/china/coronavirus-china-may-ease-beijings-quarantine-rules-early-thursday-sources-say?amp",
+      "publishedDateTime": "2020-04-29T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2020/20200429_chinacovid_r.jpg?itok=5962z6RT",
+          "width": 763,
+          "height": 509,
+          "title": "Coronavirus: China may ease Beijing's quarantine rules as early as Thursday, sources say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-trump-says-china-could-have-stopped-coronavirus-beijing-decries-shifting-of-blame.md",
+      "title": "Trump Says China Could Have Stopped Coronavirus, Beijing Decries Shifting of Blame",
+      "excerpt": "U.S. President Donald Trump said on Monday that China could have stopped the coronavirus before it swept the globe and that his administration was conducting \"serious investigations\" into what happened.",
+      "heat": 129,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "China-Beijing",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/04/28/world/asia/28reuters-health-coronavirus-usa-china-trump.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Trump Says China Could Have Stopped Coronavirus, Beijing Decries Shifting of Blame",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

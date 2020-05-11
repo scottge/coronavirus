@@ -1,0 +1,287 @@
+{
+  "location": {
+    "long": -77.0369,
+    "countryOrRegion": "United States",
+    "provinceOrState": "District of Columbia",
+    "county": null,
+    "isoCode": "US-DC",
+    "lat": 38.9072
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.881691Z",
+  "news": [
+    {
+      "path": "_news/2020-05-07-coronavirus-live-updates-white-house-blocks-cdc-guidance-over-economic-and-religious-concerns.md",
+      "title": "Coronavirus Live Updates: White House Blocks C.D.C. Guidance Over Economic and Religious Concerns",
+      "excerpt": "Another 3.2 million people filed for unemployment benefits. A new study found that nearly everyone who gets the disease eventually makes antibodies to the virus. The governor of Texas said people would not be jailed for defiantly reopening businesses.",
+      "heat": 102,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/07/us/coronavirus-updates-cases-deaths.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/07/us/coronavirus-updates-cases-deaths.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/us/coronavirus-updates-cases-deaths.amp.html",
+      "publishedDateTime": "2020-05-07T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nytimes.com/newsgraphics/2020/04/09/corona-virus-social-images-by-section/assets/US_promo.jpg?u=1588880289804",
+          "width": 1050,
+          "height": 549,
+          "title": "Coronavirus Live Updates: White House Blocks C.D.C. Guidance Over Economic and Religious Concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-dc-area-leaders-go-their-own-ways-on-coronavirus-lockdowns.md",
+      "title": "D.C.-area leaders go their own ways on coronavirus lockdowns",
+      "excerpt": "Washington, D.C.’s leaders are fighting keep the nation’s capital locked down, even as neighboring states begin lifting restrictions, members of Congress return to Capitol Hill and the city’s most prominent resident,",
+      "heat": 105,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/05/06/dmv-coronavirus-opening-240574",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/05/06/dmv-coronavirus-opening-240574",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/05/06/dmv-coronavirus-opening-240574",
+      "publishedDateTime": "2020-05-06T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/91/c9/ad91a33b4c55b20ce4dc7785c27c/200506-bowser-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "D.C.-area leaders go their own ways on coronavirus lockdowns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-trump-senators-eschew-masks-as-dc-coronavirus-cases-continue-to-rise.md",
+      "title": "Trump, Senators Eschew Masks As D.C. Coronavirus Cases Continue To Rise",
+      "excerpt": "This comes days after Vice President Mike Pence apologized for not wearing a mask at a recent visit to the Mayo Clinic.",
+      "heat": 105,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/05/06/trump-senators-eschew-masks-as-dc-coronavirus-cases-continue-to-rise/",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/05/06/trump-senators-eschew-masks-as-dc-coronavirus-cases-continue-to-rise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/05/06/trump-senators-eschew-masks-as-dc-coronavirus-cases-continue-to-rise/amp/",
+      "publishedDateTime": "2020-05-06T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211995037%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4857%26cropY1%3D0%26cropY2%3D2487",
+          "width": 1200,
+          "height": 615,
+          "title": "Trump, Senators Eschew Masks As D.C. Coronavirus Cases Continue To Rise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-trump-says-republicans-would-never-allow-liberal-dc-to-become-a-state.md",
+      "title": "Trump says Republicans would never allow liberal D.C. to become a state",
+      "excerpt": "Republicans in Congress would have to be “very, very stupid” to allow D.C. statehood because the city’s overwhelmingly Democratic population would likely elect two Democratic senators, swelling the party’s ranks.",
+      "heat": 100,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/dc-politics/trump-says-republicans-would-never-allow-liberal-dc-to-become-a-state/2020/05/05/2418181a-8efd-11ea-a0bc-4e9ad4866d21_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/dc-politics/trump-says-republicans-would-never-allow-liberal-dc-to-become-a-state/2020/05/05/2418181a-8efd-11ea-a0bc-4e9ad4866d21_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/dc-politics/trump-says-republicans-would-never-allow-liberal-dc-to-become-a-state/2020/05/05/2418181a-8efd-11ea-a0bc-4e9ad4866d21_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-05T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/Qb7dUuAX49DX-UCfb9aJO5NzvIc=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FQWRKAQIBYI6NMUD46OYDRR4DM.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Trump says Republicans would never allow liberal D.C. to become a state",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-the-senate-reconvenes-following-a-coronavirus-recess-in-washington-dc.md",
+      "title": "The Senate reconvenes following a Coronavirus Recess in Washington, D.C.",
+      "excerpt": "NY, talks to reporters as they social-distance after the Senate reconvened following an extended recess due to the Coronavirus pandemic, on Capitol Hill in Washington, D.C. on Monday, May 4, 2020. Pho",
+      "heat": null,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.upi.com/News_Photos/view/upi/cc494175b76d89b931ebc6545697d13a/The-Senate-reconvenes-following-a-Coronavirus-Recess-in-Washington-DC/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T17:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/pv/upi/cc494175b76d89b931ebc6545697d13a/SENATE-CORONAVIRUS.jpg",
+          "width": 650,
+          "height": 432,
+          "title": "The Senate reconvenes following a Coronavirus Recess in Washington, D.C.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-speaker-pelosi-holds-a-coronavirus-press-conference-in-washington-dc.md",
+      "title": "Speaker Pelosi holds a Coronavirus Press Conference in Washington, D.C.",
+      "excerpt": "Calif., and House Majority Whip James Clyburn, R-S.C., holds a press conference to announce members of the House Select Committee on the Coronavirus, on Capitol Hill in Washington, D.C. on Wednesday,",
+      "heat": null,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.upi.com/News_Photos/view/upi/9134de59d6caed4bfedc6df448021cec/Speaker-Pelosi-holds-a-Coronavirus-Press-Conference-in-Washington-DC/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/pv/upi/9134de59d6caed4bfedc6df448021cec/PELOSI-CORONAVIRUS.jpg",
+          "width": 650,
+          "height": 405,
+          "title": "Speaker Pelosi holds a Coronavirus Press Conference in Washington, D.C.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-mayor-bowser-breaks-with-trump-on-dcs-coronavirus-outlook.md",
+      "title": "Mayor Bowser breaks with Trump on D.C.'s coronavirus outlook",
+      "excerpt": "Washington Mayor Muriel Bowser said Tuesday her city has yet to experience its “peak” of coronavirus infections, contradicting President Donald Trump’s description of the outbreak’s threat to the nation’s capital.",
+      "heat": 105,
+      "tags": [
+        "US-DC",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/04/28/mayor-bowser-dc-coronavirus-outlook-214310",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/04/28/mayor-bowser-dc-coronavirus-outlook-214310",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/04/28/mayor-bowser-dc-coronavirus-outlook-214310",
+      "publishedDateTime": "2020-04-28T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/67/a9/1b22f3dc411caa29dc549b821750/190703-muriel-bowser-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Mayor Bowser breaks with Trump on D.C.'s coronavirus outlook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

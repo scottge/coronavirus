@@ -1,0 +1,51 @@
+{
+  "page": 3,
+  "value": [
+    {
+      "path": "_news/2020-04-28-will-small-tour-operators-survive-the-economic-impact-of-covid-19.md",
+      "title": "Will Small Tour Operators Survive The Economic Impact Of COVID-19?",
+      "excerpt": "Like many independent tour operators around the globe, Jon Galdos, owner of Basque Tours, found himself suddenly out of work, waiting for the public health crisis to resolve and the economy to rebound,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/irenelevine/2020/04/28/will-small-tour-operators-survive-the-economic-impact-of-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/irenelevine/2020/04/28/will-small-tour-operators-survive-the-economic-impact-of-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenelevine/2020/04/28/will-small-tour-operators-survive-the-economic-impact-of-covid-19/amp/",
+      "publishedDateTime": "2020-04-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea82c1d228117000681b9a1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D640%26cropY1%3D35%26cropY2%3D395",
+          "width": 640,
+          "height": 361,
+          "title": "Will Small Tour Operators Survive The Economic Impact Of COVID-19?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Economic Impact",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": null
+}

@@ -1,0 +1,845 @@
+{
+  "location": {
+    "long": 121.4491,
+    "countryOrRegion": "China",
+    "provinceOrState": "Shanghai Shi",
+    "county": null,
+    "isoCode": "CN-SH",
+    "lat": 31.202
+  },
+  "updatedDateTime": "2020-05-10T05:45:36.7010817Z",
+  "news": [
+    {
+      "path": "_news/2020-05-08-tesla-secures-565-million-loan-for-shanghai-factory.md",
+      "title": "Tesla secures $565 million loan for Shanghai factory",
+      "excerpt": "Electric carmaker Tesla has entered into an agreement for a working capital loan of up to 4 billion yuan ($565.51 million) with a lender from China for its Shanghai car plant, according to a regulatory filing on Friday.",
+      "heat": 110,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/08/tesla-secures-565-million-loan-for-shanghai-factory.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/08/tesla-secures-565-million-loan-for-shanghai-factory.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/tesla-secures-565-million-loan-for-shanghai-factory.html",
+      "publishedDateTime": "2020-05-08T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106434195-1583836562190gettyimages-1096056696.jpeg?v=1588955619",
+          "width": 5229,
+          "height": 3313,
+          "title": "Tesla secures $565 million loan for Shanghai factory",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-tickets-for-disneys-shanghai-theme-park-sell-out-in-minutes.md",
+      "title": "Tickets for Disney’s Shanghai Theme Park Sell Out in Minutes",
+      "excerpt": "Th Walt Disney Company (NYSE:DIS) took a major hit when it reported second-quarter earnings the other day, noting the coronavirus pandemic had crushed its theme park segment, but with its Shanghai Disneyland park set to open on Monday,",
+      "heat": 110,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/08/tickets-for-disneys-shanghai-theme-park-sell-out-i.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/08/tickets-for-disneys-shanghai-theme-park-sell-out-i.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/08/tickets-for-disneys-shanghai-theme-park-sell-out-i.aspx",
+      "publishedDateTime": "2020-05-08T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F572972%2Fgettyimages-ferriswheel.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Tickets for Disney’s Shanghai Theme Park Sell Out in Minutes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-tickets-for-shanghai-disneylands-reopening-dates-sell-out-immediately.md",
+      "title": "Tickets for Shanghai Disneyland's reopening dates sell out immediately",
+      "excerpt": "Tickets to Shanghai Disneyland's reopening dates — both May 11 and May 12 — sold out immediately after going on sale on Friday morning. The park's website said the reopening w",
+      "heat": 140,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/travel/tickets-disneyland-shanghai-sell-out-immediately",
+      "ampWebUrl": "https://www.foxnews.com/travel/tickets-disneyland-shanghai-sell-out-immediately.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/tickets-disneyland-shanghai-sell-out-immediately.amp",
+      "publishedDateTime": "2020-05-08T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/ShanghaiDisneytownHECTOR-RETAMALAFP-via-Getty-Images.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Tickets for Shanghai Disneyland's reopening dates sell out immediately",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-shanghai-disneyland-tickets-sell-out-as-park-prepares-to-re-open.md",
+      "title": "Shanghai Disneyland tickets sell out as park prepares to re-open",
+      "excerpt": "Tickets for the earliest days of Shanghai Disneyland's re-opening in China sold out rapidly on Friday, according to the park's website, as it prepares to next week end a three-month shutdown because of the coronavirus outbreak.",
+      "heat": 160,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-disney-shanghai-idUSKBN22K0N6",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22K0N6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K0N6",
+      "publishedDateTime": "2020-05-07T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517907501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG470D2",
+          "width": 818,
+          "height": 545,
+          "title": "Shanghai Disneyland tickets sell out as park prepares to re-open",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-shanghai-disneyland-to-reopen-amid-drop-in-new-covid-19-cases-in-china.md",
+      "title": "Shanghai Disneyland to Reopen Amid Drop in New COVID-19 Cases in China",
+      "excerpt": "Shanghai Disneyland will reopen to guests next week after closing for more than three months due to COVID-19, according to news reports.",
+      "heat": 115,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.irrawaddy.com/news/asia/shanghai-disneyland-reopen-amid-drop-new-covid-19-cases-china.html",
+      "ampWebUrl": "https://www.irrawaddy.com/news/asia/shanghai-disneyland-reopen-amid-drop-new-covid-19-cases-china.html/amp",
+      "cdnAmpWebUrl": "https://www-irrawaddy-com.cdn.ampproject.org/c/s/www.irrawaddy.com/news/asia/shanghai-disneyland-reopen-amid-drop-new-covid-19-cases-china.html/amp",
+      "publishedDateTime": "2020-05-06T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irrawaddy",
+        "domain": "irrawaddy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.irrawaddy.com/wp-content/uploads/2020/05/cropped_image_l-copy.jpg",
+          "width": 900,
+          "height": 420,
+          "title": "Shanghai Disneyland to Reopen Amid Drop in New COVID-19 Cases in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-shanghai-disneyland-will-offer-disney-a-blueprint-for-how-to-reopen-its-other-theme-parks.md",
+      "title": "Shanghai Disneyland will offer Disney a blueprint for how to reopen its other theme parks",
+      "excerpt": "Disney will reopen its Shanghai theme park, offering up a glimpse to rest of the theme park industry of what operations will look like in the time of the coronavirus.",
+      "heat": 101,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/06/shanghai-disneyland-will-offer-a-blueprint-for-reopening-other-parks.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/06/shanghai-disneyland-will-offer-a-blueprint-for-reopening-other-parks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/06/shanghai-disneyland-will-offer-a-blueprint-for-reopening-other-parks.html",
+      "publishedDateTime": "2020-05-06T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106232490-1573165463951gettyimages-696735840.jpeg?v=1588780477",
+          "width": 4928,
+          "height": 3280,
+          "title": "Shanghai Disneyland will offer Disney a blueprint for how to reopen its other theme parks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-shanghai-disneyland-reopening-15-weeks-after-it-was-closed-in-january-due-to-coronavirus-pandemic.md",
+      "title": "Shanghai Disneyland Reopening 15 Weeks After It Was Closed in January Due to Coronavirus Pandemic",
+      "excerpt": "Guest interaction and photos with Disney characters as well as parades and night time shows will be suspended during the initial phase of the reopening.",
+      "heat": 102,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/shanghai-disneyland-reopening-15-weeks-after-it-was-closed-january-due-coronavirus-pandemic-1502356",
+      "ampWebUrl": "https://www.newsweek.com/shanghai-disneyland-reopening-15-weeks-after-it-was-closed-january-due-coronavirus-pandemic-1502356?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/shanghai-disneyland-reopening-15-weeks-after-it-was-closed-january-due-coronavirus-pandemic-1502356?amp=1",
+      "publishedDateTime": "2020-05-06T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1587785/shanghai-disneyland-china-june-16-2017.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": "Shanghai Disneyland Reopening 15 Weeks After It Was Closed in January Due to Coronavirus Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-disney-takes-coronavirus-hit-will-reopen-shanghai-park.md",
+      "title": "Disney takes coronavirus hit, will reopen Shanghai park",
+      "excerpt": "Disney estimated a huge slash in profits on Tuesday of $1.4 billion, largely thanks to stay-at-home measures which have shuttered its theme parks around the world and brought film and",
+      "heat": null,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://madison.com/news/national/disney-takes-coronavirus-hit-will-reopen-shanghai-park/video_30fe40ba-50de-5df9-953e-64afa5c0abbe.html",
+      "ampWebUrl": "https://madison.com/news/national/disney-takes-coronavirus-hit-will-reopen-shanghai-park/video_30fe40ba-50de-5df9-953e-64afa5c0abbe.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/disney-takes-coronavirus-hit-will-reopen-shanghai-park/video_30fe40ba-50de-5df9-953e-64afa5c0abbe.amp.html",
+      "publishedDateTime": "2020-05-06T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-disneyland-in-shanghai-set-to-reopen-may-11.md",
+      "title": "Disneyland in Shanghai set to reopen May 11",
+      "excerpt": "Disneyland in Shanghai, China, is set to reopen May 11 with limited capacity and advanced reservations, the company announced Tuesday. “As the park reopens with significantly enhanced health and safety measures,",
+      "heat": 130,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-06-coronavirus-news-n1200996/ncrd1201001",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1200996",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1200996",
+      "publishedDateTime": "2020-05-06T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages-bento/og-nbcnews1200x630.png",
+          "width": 1200,
+          "height": 600,
+          "title": "Disneyland in Shanghai set to reopen May 11",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-disney-takes-14b-coronavirus-hit-sets-date-to-reopen-shanghai-park.md",
+      "title": "Disney takes $1.4B coronavirus hit, sets date to reopen Shanghai park",
+      "excerpt": "Walt Disney Co estimated on Tuesday that global measures to contain the coronavirus pandemic cut profits by $1.4 billion, mostly from its shuttered theme parks, but said it would reopen Shanghai",
+      "heat": 105,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://canoe.com/business/money-news/disney-takes-us1-4b-hit-from-coronavirus-as-theme-parks-movie-theatres-close",
+      "ampWebUrl": "https://canoe.com/business/money-news/disney-takes-us1-4b-hit-from-coronavirus-as-theme-parks-movie-theatres-close/amp",
+      "cdnAmpWebUrl": "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/business/money-news/disney-takes-us1-4b-hit-from-coronavirus-as-theme-parks-movie-theatres-close/amp",
+      "publishedDateTime": "2020-05-05T20:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canoe.com",
+        "domain": "canoe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://postmediacanoe.files.wordpress.com/2020/05/shanghaidisney1000.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": "Disney takes $1.4B coronavirus hit, sets date to reopen Shanghai park",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-disney-rolls-out-post-covid-19-plan-for-reopening-shanghai-disneyland-theme-park.md",
+      "title": "Disney rolls out post-COVID-19 plan for reopening Shanghai Disneyland theme park",
+      "excerpt": "Disney laid out a health and safety plan for the reopening of the Shanghai Disneyland theme park on Monday, May 11, following a three-month closure of the park due to the COVID-19 pandemic.",
+      "heat": 110,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ocregister.com/2020/05/05/disney-rolls-out-post-covid-19-plan-for-reopening-shanghai-disneyland-theme-park/",
+      "ampWebUrl": "https://www.ocregister.com/2020/05/05/disney-rolls-out-post-covid-19-plan-for-reopening-shanghai-disneyland-theme-park/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/05/05/disney-rolls-out-post-covid-19-plan-for-reopening-shanghai-disneyland-theme-park/amp/",
+      "publishedDateTime": "2020-05-05T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2020/05/OCR-L-DISNEY-CORONAVIRUS-0124-FEATURED-1.jpg?w=1024&h=576",
+          "width": 1024,
+          "height": 576,
+          "title": "Disney rolls out post-COVID-19 plan for reopening Shanghai Disneyland theme park",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-shanghai-disneyland-to-reopen-after-shutting-down-for-coronavirus.md",
+      "title": "Shanghai Disneyland to reopen after shutting down for coronavirus",
+      "excerpt": "As parts of the world start to reopen amid the coronavirus pandemic, many people are looking to see how businesses will return after closing down. It’s likely that theme park lovers will be interested to see how the Disney parks alter their practices in response to the outbreak.",
+      "heat": 125,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/travel/shanghai-disneyland-reopen-may-11-coronavirus",
+      "ampWebUrl": "https://www.foxnews.com/travel/shanghai-disneyland-reopen-may-11-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/shanghai-disneyland-reopen-may-11-coronavirus.amp",
+      "publishedDateTime": "2020-05-05T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Shanghai-Disneyland.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Shanghai Disneyland to reopen after shutting down for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-disney-takes-14-billion-coronavirus-hit-sets-date-to-reopen-shanghai-park.md",
+      "title": "Disney takes $1.4 billion coronavirus hit, sets date to reopen Shanghai park",
+      "excerpt": "Walt Disney Co estimated global coronavirus lockdowns cut profits by $1.4 billion, mostly from its shuttered theme parks, but said it would reopen Shanghai Disneyland next week.",
+      "heat": 182,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-walt-disney-results-idUSKBN22H2U2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H2U2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H2U2",
+      "publishedDateTime": "2020-05-05T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517573678&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG441UK",
+          "width": 817,
+          "height": 545,
+          "title": "Disney takes $1.4 billion coronavirus hit, sets date to reopen Shanghai park",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ears-and-masks-shanghai-disneyland-will-reopen-next-week.md",
+      "title": "Ears and Masks: Shanghai Disneyland Will Reopen Next Week",
+      "excerpt": "Shanghai Disneyland was among the first of Disney's parks to shut down as the coronavirus pandemic swept Asia in January. Now it will be the first to open its gates again. Disney CEO Bob Chapek announced Monday that the park will re-open on May 11 — but capacity will be limited,",
+      "heat": 100,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.vanityfair.com/culture/2020/05/disneyland-shanghai-reopen-coronavirus",
+      "ampWebUrl": "https://www.vanityfair.com/culture/2020/05/disneyland-shanghai-reopen-coronavirus/amp",
+      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/culture/2020/05/disneyland-shanghai-reopen-coronavirus/amp",
+      "publishedDateTime": "2020-05-05T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanity Fair",
+        "domain": "vanityfair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/5eb1d69b7256bc70f8876695/master/pass/Shanghai-Disneyland-Reopens.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "Ears and Masks: Shanghai Disneyland Will Reopen Next Week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-disneys-shanghai-theme-park-will-reopen-monday.md",
+      "title": "Disney's Shanghai theme park will reopen Monday",
+      "excerpt": "Theme parks are crucial to Disney's health, and the coronavirus closures cost the company $1 billion in lost income in the first three months of the year.",
+      "heat": 110,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/disney-shanghai-theme-parks-reopen-date-monday-may-11/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/disney-shanghai-theme-parks-reopen-date-monday-may-11/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/disney-shanghai-theme-parks-reopen-date-monday-may-11/",
+      "publishedDateTime": "2020-05-05T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/oiWW__PV9ruVB8zw0Shh9e5__bw=/756x567/2020/05/05/de4803ce-ebcf-4c2c-a251-52e6e1a20b69/gettyimages-1222931146.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Disney's Shanghai theme park will reopen Monday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-shanghai-disneyland-to-reopen-on-may-11.md",
+      "title": "Shanghai Disneyland to reopen on May 11",
+      "excerpt": "Shanghai Disneyland will reopen to the public in less than a week, the company said during an earnings conference call on Tuesday.",
+      "heat": 170,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/05/shanghai-disneyland-to-reopen-on-may-11.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/05/shanghai-disneyland-to-reopen-on-may-11.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/05/shanghai-disneyland-to-reopen-on-may-11.html",
+      "publishedDateTime": "2020-05-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106403568-1582316423970gettyimages-1153721579.jpeg?v=1586445554",
+          "width": 5123,
+          "height": 3415,
+          "title": "Shanghai Disneyland to reopen on May 11",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-coronavirus-shanghai-professor-helped-world-next-day-china-shut-his-lab-says-white-house.md",
+      "title": "Coronavirus: Shanghai Professor Helped World, \"Next Day China Shut His Lab\", Says White House",
+      "excerpt": "The White House on Friday said China \"mishandled the situation\" after the coronavirus outbreak in its Wuhan city, but refrained from giving a definitive answer on retaliatory measures against the Asian giant.",
+      "heat": 104,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ndtv.com/world-news/coronavirus-shanghai-professor-helped-world-next-day-china-shut-his-lab-says-white-house-2221967",
+      "ampWebUrl": "https://www.ndtv.com/world-news/coronavirus-shanghai-professor-helped-world-next-day-china-shut-his-lab-says-white-house-2221967?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/coronavirus-shanghai-professor-helped-world-next-day-china-shut-his-lab-says-white-house-2221967?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-05-02T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-03/ld5mb62o_xi-jinping-_625x300_15_March_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": "Coronavirus: Shanghai Professor Helped World, \"Next Day China Shut His Lab\", Says White House",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-shanghai-professor-let-out-info-on-covid-19-next-day-china-shut-his-lab-say-white-house.md",
+      "title": "‘Shanghai professor let out info on COVID-19, next day China shut his lab,’ say White House",
+      "excerpt": "President Donald Trump had hinted at using tariff as a tool to punish China for mishandling the virus outbreak.",
+      "heat": 115,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thestatesman.com/world/shanghai-professor-let-info-covid-19-next-day-china-shut-lab-say-white-house-1502883084.html",
+      "ampWebUrl": "https://www.thestatesman.com/world/shanghai-professor-let-info-covid-19-next-day-china-shut-lab-say-white-house-1502883084.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/world/shanghai-professor-let-info-covid-19-next-day-china-shut-lab-say-white-house-1502883084.html/amp",
+      "publishedDateTime": "2020-05-01T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2020/05/Trump-new.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "‘Shanghai professor let out info on COVID-19, next day China shut his lab,’ say White House",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-metals-shanghai-zinc-jumps-to-2-month-high-on-supply-tightness.md",
+      "title": "METALS-Shanghai zinc jumps to 2-month high on supply tightness",
+      "excerpt": "Zinc prices advanced on Wednesday due to supply disruptions caused by the coronavirus pandemic and as improving demand in China added support.",
+      "heat": 110,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/global-metals-idUSL3N2CH16J",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2CH16J",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2CH16J",
+      "publishedDateTime": "2020-04-28T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "METALS-Shanghai zinc jumps to 2-month high on supply tightness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-shanghai-gold-boss-wants-super-sovereign-currency-for-post-crisis-times.md",
+      "title": "Shanghai gold boss wants super-sovereign currency for post-crisis times",
+      "excerpt": "The president of the Shanghai Gold Exchange (SGE) called for a new super-sovereign currency to offset the global dominance of the U.S. dollar, which he predicted would decline long term, while gold prices rally.",
+      "heat": 100,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-china-gold-currency-idUSKCN22A1FY",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22A1FY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22A1FY",
+      "publishedDateTime": "2020-04-28T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200428&t=2&i=1516711030&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3R0TY",
+          "width": 801,
+          "height": 545,
+          "title": "Shanghai gold boss wants super-sovereign currency for post-crisis times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

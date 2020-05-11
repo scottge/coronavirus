@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: education-impact
+name: Education Impact
+shortname: Education Impact
+parent: Coronavirus
+keywords:
+  - education
+  - school closure
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/education-impact.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/education-impact/

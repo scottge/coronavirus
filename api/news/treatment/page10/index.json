@@ -1,0 +1,1279 @@
+{
+  "page": 10,
+  "value": [
+    {
+      "path": "_news/2020-03-13-cramers-week-ahead-key-metrics-for-the-market-are-new-coronavirus-infections.md",
+      "title": "Cramer's week ahead: Key metrics for the market are new coronavirus infections",
+      "excerpt": "CNBC's Jim Cramer recommended investors start buying stocks with safe dividends, \"although the key is to buy them gradually on the way down.\"",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/13/cramer-week-ahead-key-metrics-for-the-market-are-new-coronavirus-infections.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/13/cramer-week-ahead-key-metrics-for-the-market-are-new-coronavirus-infections.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/13/cramer-week-ahead-key-metrics-for-the-market-are-new-coronavirus-infections.html",
+      "publishedDateTime": "2020-03-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106424102-1583327714458gettyimages-1205046594.jpeg?v=1583327746",
+          "width": 5312,
+          "height": 3542,
+          "title": "Cramer's week ahead: Key metrics for the market are new coronavirus infections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-doctors-push-for-treatment-of-coronavirus-with-blood-from-recovered-patients.md",
+      "title": "Doctors push for treatment of coronavirus with blood from recovered patients",
+      "excerpt": "BREAKING: House Democrats, White House reach deal on coronavirus aid package, Pelosi says In the absence of vaccines or antiviral drugs, researchers at Johns Hopkins University in Baltimore say the key to slowing and treating the coronavirus might be hidden in the blood of those who’ve already recovered from the disease.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-care/doctors-push-treatment-coronavirus-blood-recovered-patients-n1158476",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1158476",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1158476",
+      "publishedDateTime": "2020-03-13T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_11/3269031/200313-coronavirus-sample-san-francisco-ew-1245p_bd218a2863e2e06100ca48b9fc08d509.jpg",
+          "width": 2500,
+          "height": 1608,
+          "title": "Doctors push for treatment of coronavirus with blood from recovered patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-coronavirus-a-5-point-plan-for-pharmaceutical-companies.md",
+      "title": "Coronavirus: A 5-point plan for pharmaceutical companies",
+      "excerpt": "The novel coronavirus is now a pandemic, and like any global problem, it’s going to take the partnership of many to solve. “Morning Joe” co-host and Know Your Value founder Mika Brzezinski sat down with Pfizer CEO Albert Bourla to discuss the current situation: how companies and government can work together,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/know-your-value/feature/coronavirus-5-point-plan-pharmaceutical-companies-ncna1158001",
+      "ampWebUrl": "https://www.nbcnews.com/know-your-value/amp/ncna1158001",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1158001",
+      "publishedDateTime": "2020-03-13T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_11/3268811/pfizerceo-2x1_403c23001f986d8f50a49648c2ee2c1b.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": "Coronavirus: A 5-point plan for pharmaceutical companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-brief-enanta-pharmaceuticals-announces-efforts-to-discover-a-treatment-for-the-novel-coronavirus-disease-covid-19.md",
+      "title": "BRIEF-Enanta Pharmaceuticals Announces Efforts To Discover A Treatment For The Novel Coronavirus Disease Covid-19",
+      "excerpt": "* ENANTA PHARMACEUTICALS - PLANS TO INITIATE PHASE 2 DOSE RANGING STUDY IN PEDIATRIC RESPIRATORY SYNCYTIAL VIRUS PATIENTS Source text for Eikon: Further company coverage: Our Standards:The Thomson Reuters Trust Principles.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-enanta-pharmaceuticals-announces-e/brief-enanta-pharmaceuticals-announces-efforts-to-discover-a-treatment-for-the-novel-coronavirus-disease-covid-19-idUSFWN2B60CI",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2B60CI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2B60CI",
+      "publishedDateTime": "2020-03-13T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-Enanta Pharmaceuticals Announces Efforts To Discover A Treatment For The Novel Coronavirus Disease Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-eli-lilly-joins-the-hunt-for-a-coronavirus-treatment.md",
+      "title": "Eli Lilly Joins the Hunt for a Coronavirus Treatment",
+      "excerpt": "That's the largest known pool of potential antibodies against the novel coronavirus. The company will now try to identify which of these ... of two phase 3 studies to investigate the efficacy of its antiviral drug remdesivir as a potential treatment for COVID-19.",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/13/eli-lilly-joins-the-hunt-for-coronavirus-treatment.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/13/eli-lilly-joins-the-hunt-for-coronavirus-treatment.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/13/eli-lilly-joins-the-hunt-for-coronavirus-treatment.aspx",
+      "publishedDateTime": "2020-03-13T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F563268%2Fgettyimages-1201170570.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Eli Lilly Joins the Hunt for a Coronavirus Treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-biotech-sector-in-focus-as-coronavirus-spreads-panic.md",
+      "title": "Biotech Sector in Focus as Coronavirus Spreads Panic",
+      "excerpt": "The World Health Organization has now declared the outbreak of COVID-19 as a pandemic, given the alarming levels of spread and severity. COVID-19, a new strain of coronavirus, first appeared in late 2019 in China and causes severe pneumonia-like symptoms in infected patients.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/biotech-sector-in-focus-as-coronavirus-spreads-panic-2020-03-13",
+      "ampWebUrl": "https://www.nasdaq.com/articles/biotech-sector-in-focus-as-coronavirus-spreads-panic-2020-03-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/biotech-sector-in-focus-as-coronavirus-spreads-panic-2020-03-13?amp",
+      "publishedDateTime": "2020-03-13T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Biotech Sector in Focus as Coronavirus Spreads Panic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-why-inovio-pharmaceuticals-is-a-top-stock-to-watch-amid-the-coronavirus-pandemic.md",
+      "title": "Why Inovio Pharmaceuticals Is a Top Stock to Watch Amid the Coronavirus Pandemic",
+      "excerpt": "And, oh yes, the stock market crashed, sending stocks plunging. But not every stock is performing dismally. Shares of Inovio Pharmaceuticals (NASDAQ:INO) have soared nearly 170% higher so far this year based on the promise of the biotech's coronavirus program. Here are three reasons why Inovio remains a top coronavirus stock to watch.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/13/why-inovio-pharmaceuticals-is-a-top-stock-to-watch.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/13/why-inovio-pharmaceuticals-is-a-top-stock-to-watch.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/13/why-inovio-pharmaceuticals-is-a-top-stock-to-watch.aspx",
+      "publishedDateTime": "2020-03-13T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F563126%2Fnurse-holding-vial-with-coronavirus-label.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Why Inovio Pharmaceuticals Is a Top Stock to Watch Amid the Coronavirus Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-ocala-based-companys-drug-to-be-tested-as-possible-coronavirus-treatment.md",
+      "title": "Ocala-based company’s drug to be tested as possible coronavirus treatment",
+      "excerpt": "The National Institute of Infectious Diseases in Japan will begin testing for a possible treatment of the coronavirus, which will include a drug made by a company headquartered in Marion County.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news4jax.com/health/2020/03/13/ocala-based-companys-drug-to-be-tested-as-possible-coronavirus-treatment/",
+      "ampWebUrl": "https://www.news4jax.com/health/2020/03/13/ocala-based-companys-drug-to-be-tested-as-possible-coronavirus-treatment/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/health/2020/03/13/ocala-based-companys-drug-to-be-tested-as-possible-coronavirus-treatment/?outputType=amp",
+      "publishedDateTime": "2020-03-13T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News4Jax",
+        "domain": "news4jax.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news4jax.com/resizer/ckfLmlmPKbanmBOlzsc7wZC5q94=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/03-12-2020/t_cfdf2e44db8247b2be2da01fd199273b_name_image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Ocala-based company’s drug to be tested as possible coronavirus treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-experimental-drug-helps-some-americans-ride-out-coronavirus-nih-doctor-says.md",
+      "title": "Experimental Drug Helps Some Americans Ride Out Coronavirus, NIH Doctor Says",
+      "excerpt": "The antiviral drug remdesivir appeared to have an effect in American cruise passengers treated for the novel coronavirus in Japan, although data are limited, according to a doctor sent to Tokyo by the U.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/experimental-drug-helps-some-americans-ride-out-coronavirus-nih-doctor-says-11584094955",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/experimental-drug-helps-some-americans-ride-out-coronavirus-nih-doctor-says-11584094955",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/experimental-drug-helps-some-americans-ride-out-coronavirus-nih-doctor-says-11584094955",
+      "publishedDateTime": "2020-03-13T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-164053/social",
+          "width": 1279,
+          "height": 640,
+          "title": "Experimental Drug Helps Some Americans Ride Out Coronavirus, NIH Doctor Says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-update-1-eli-lilly-abcellera-biologics-to-co-develop-coronavirus-therapies.md",
+      "title": "UPDATE 1-Eli Lilly, AbCellera Biologics to co-develop coronavirus therapies",
+      "excerpt": "March 12- Eli Lilly Co and privately-held AbCellera Biologics Inc on Thursday announced they would co-develop antibody products for the treatment and prevention of COVID-19, a flu-like disease caused by the fast-spreading coronavirus.",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/reuters-america-update-1-eli-lilly-abcellera-biologics-to-co-develop-coronavirus-therapies.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/12/reuters-america-update-1-eli-lilly-abcellera-biologics-to-co-develop-coronavirus-therapies.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/12/reuters-america-update-1-eli-lilly-abcellera-biologics-to-co-develop-coronavirus-therapies.html",
+      "publishedDateTime": "2020-03-13T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 1-Eli Lilly, AbCellera Biologics to co-develop coronavirus therapies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ny-attorney-general-orders-infowars-alex-jones-to-stop-selling-coronavirus-treatment-products.md",
+      "title": "NY attorney general orders InfoWar's Alex Jones to stop selling coronavirus 'treatment' products",
+      "excerpt": "New York's attorney general said Thursday that her office has ordered InfoWar's Alex Jones to immediately stop selling and marketing products as a \"cure\" or \"treatment\" for the coronavirus.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/ny-attorney-general-orders-alex-jones-to-stop-selling-coronavirus-cures.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/12/ny-attorney-general-orders-alex-jones-to-stop-selling-coronavirus-cures.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/12/ny-attorney-general-orders-alex-jones-to-stop-selling-coronavirus-cures.html",
+      "publishedDateTime": "2020-03-12T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106087956-1566309029384gettyimages-1149313065.jpeg?v=1579194874",
+          "width": 5178,
+          "height": 3452,
+          "title": "NY attorney general orders InfoWar's Alex Jones to stop selling coronavirus 'treatment' products",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-fact-check-trump-incorrectly-suggests-insurers-will-make-coronavirus-treatment-free.md",
+      "title": "Fact check: Trump incorrectly suggests insurers will make coronavirus treatment free",
+      "excerpt": "President Donald Trump sowed more confusion over coronavirus testing and treatment in his Wednesday night Oval Office address, when he indicated that coronavirus patients could have treatment -- which could run into thousands of dollars for those seriously ill -- at no charge.",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/03/12/politics/fact-check-copays-coronavirus-testing-treatment/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/03/12/politics/fact-check-copays-coronavirus-testing-treatment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/03/12/politics/fact-check-copays-coronavirus-testing-treatment/index.html",
+      "publishedDateTime": "2020-03-12T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200311235508-01-coronavirus-outbreak-0311-new-york-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Fact check: Trump incorrectly suggests insurers will make coronavirus treatment free",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-human-trials-for-a-coronavirus-vaccine-could-begin-within-a-few-weeks-top-us-health-official-says.md",
+      "title": "Human trials for a coronavirus vaccine could begin 'within a few weeks,' top US health official says",
+      "excerpt": "\"I would hope within a few weeks we may be able to make an announcement to you all that we've given the first shot to the first person,\" Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases,",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/12/human-trials-testing-coronavirus-vaccine-could-begin-within-a-few-weeks.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/12/human-trials-testing-coronavirus-vaccine-could-begin-within-a-few-weeks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/12/human-trials-testing-coronavirus-vaccine-could-begin-within-a-few-weeks.html",
+      "publishedDateTime": "2020-03-12T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106389433-1581604340667gettyimages-1200228833.jpeg?v=1581604422",
+          "width": 4000,
+          "height": 2666,
+          "title": "Human trials for a coronavirus vaccine could begin 'within a few weeks,' top US health official says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-missouri-attorney-general-files-suit-against-jim-bakker-show-over-coronavirus-cure.md",
+      "title": "Missouri attorney general files suit against Jim Bakker Show over coronavirus 'cure'",
+      "excerpt": "Spokesman Chris Nuelle said in an email that the goal of the suit was “to stop (Bakker) from selling that coronavirus ‘cure,’” a product known as \"silver solution\" that was priced at $80 or more on Bakker's show. Documents were filed Monday in Stone County, Nuelle said, with televangelist Jim Bakker and his Morningside Church ...",
+      "heat": 118,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/money/2020/03/12/jim-bakker-coronavirus-cure-claim-missouri-attorney-general-files-suit/5032998002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5032998002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5032998002",
+      "publishedDateTime": "2020-03-12T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/03aa5b9053ee521d2525cb5239349ebc3ac838cf/c=0-92-1608-1001/local/-/media/2018/05/10/Springfield/Springfield/636615612094229022-snldc5-58wrup770gj17p18qca9-original.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": "Missouri attorney general files suit against Jim Bakker Show over coronavirus 'cure'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-nys-james-orders-end-to-bakker-show-coronavirus-treatment-marketing.md",
+      "title": "NY's James Orders End to Bakker Show Coronavirus Treatment Marketing",
+      "excerpt": "New York State Attorney General Letitia James this week has ordered Dr. Sherrill Sellman to stop marketing colloidal silver products as a coronavirus cure, both on her Web site and on the Jim Bakker Show. The state last week issued a cease and desist letter to televangelist Jim Bakker telling him not to suggest the Silver Solution was a cure ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.multichannel.com/news/nys-james-orders-end-to-bakker-show-coronavirus-treatment-marketing",
+      "ampWebUrl": "https://www.multichannel.com/.amp/news/nys-james-orders-end-to-bakker-show-coronavirus-treatment-marketing",
+      "cdnAmpWebUrl": "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/nys-james-orders-end-to-bakker-show-coronavirus-treatment-marketing",
+      "publishedDateTime": "2020-03-12T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multichannel News",
+        "domain": "multichannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.multichannel.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcwOTcxOTQ4NzUzMzY0MTM0/bakker.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "NY's James Orders End to Bakker Show Coronavirus Treatment Marketing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-coronavirus-fake-news-fact-checking-covid-19-pandemic-hoaxes-and-misinformation-online.md",
+      "title": "Coronavirus Fake News: Fact Checking COVID-19 Pandemic Hoaxes and Misinformation Online",
+      "excerpt": "Fake news stories have been circulating around the Internet pointing people to \"cures\" for the new coronavirus, sharing advice and faking government announcements. The COVID-19 disease is caused by a virus named SARS-CoV-2 which is part of the broad coronavirus family of pathogens.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/coronavirus-fake-news-fact-checking-covid-19-pandemic-hoaxes-misinformation-1491906",
+      "ampWebUrl": "https://www.newsweek.com/coronavirus-fake-news-fact-checking-covid-19-pandemic-hoaxes-misinformation-1491906?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/coronavirus-fake-news-fact-checking-covid-19-pandemic-hoaxes-misinformation-1491906?amp=1",
+      "publishedDateTime": "2020-03-12T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1573334/istock-fake-news.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": "Coronavirus Fake News: Fact Checking COVID-19 Pandemic Hoaxes and Misinformation Online",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-televangelist-jim-bakker-sued-for-selling-fake-coronavirus-cure.md",
+      "title": "Televangelist Jim Bakker sued for selling fake coronavirus cure",
+      "excerpt": "Televangelist Jim Bakker is being sued by the state of Missouri for selling fake coronavirus cures on his website. On Monday, the Jim Bakker Show and six other companies were warned by the the U.S. Federal Trade Commission and the U.S. Food and Drug Administration to stop selling unapproved products and treatments. Bakker's website offered ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/jim-bakker-coronavirus-covid-19-fake-cure-televangelist-sued-by-missouri-symptoms-selling-treatment/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/jim-bakker-coronavirus-covid-19-fake-cure-televangelist-sued-by-missouri-symptoms-selling-treatment/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jim-bakker-coronavirus-covid-19-fake-cure-televangelist-sued-by-missouri-symptoms-selling-treatment/",
+      "publishedDateTime": "2020-03-12T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/09/c45f2e8f-e723-4e01-8d44-4f837afdda51/thumbnail/1200x630g2/8601b185ddc668e709efed47a038efe6/ap-18061681803595.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Televangelist Jim Bakker sued for selling fake coronavirus cure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-coronavirus-update-has-israeli-scientists-have-developed-covid-19-vaccine.md",
+      "title": "Coronavirus update: Has Israeli scientists have developed COVID-19 vaccine?",
+      "excerpt": "Around a month and a half after the genetic sequence was published, biotechnology company Moderna, Inc., based in Boston, Massachussets, announced it had completed the development of a possible coronavirus vaccine, Ha'aretz reported. The vaccine was sent to the US National Institute of Allergy and Infectious Diseases, with clinical trials ...",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/news/world/coronavirus-update-has-israeli-scientists-have-developed-covid-19-vaccine-11584008237876.html",
+      "ampWebUrl": "https://www.livemint.com/news/world/coronavirus-update-has-israeli-scientists-have-developed-covid-19-vaccine/amp-11584008237876.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/coronavirus-update-has-israeli-scientists-have-developed-covid-19-vaccine/amp-11584008237876.html",
+      "publishedDateTime": "2020-03-12T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/03/12/600x338/d7f154a7cd4d4504b5e253f48949b9b0-d7f154a7cd4d4504b5e253f48949b9b0-0_1583911862704_1584008845439.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "Coronavirus update: Has Israeli scientists have developed COVID-19 vaccine?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-21-stocks-to-buy-for-a-coronavirus-economy-according-to-analysts.md",
+      "title": "21 Stocks to Buy for a Coronavirus Economy, According to Analysts",
+      "excerpt": "But the stocks on its list stand to benefit after the acute phase of the outbreak passes, Bespoke contends, due to the “potential long-term impact this experience will have on ... company risks, or a widespread economic disruption caused by the spreading coronavirus, which the World Health Organization classified as a pandemic on Wednesday.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.barrons.com/articles/21-stocks-to-buy-for-a-coronavirus-economy-according-to-analysts-51583963052",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/21-stocks-to-buy-for-a-coronavirus-economy-according-to-analysts-51583963052",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/21-stocks-to-buy-for-a-coronavirus-economy-according-to-analysts-51583963052",
+      "publishedDateTime": "2020-03-12T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-150580/social",
+          "width": 1280,
+          "height": 640,
+          "title": "21 Stocks to Buy for a Coronavirus Economy, According to Analysts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Economic Impact",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-beijing-says-chinese-citizens-abroad-with-coronavirus-symptoms-should-get-treatment-locally.md",
+      "title": "Beijing says Chinese citizens abroad with coronavirus symptoms should get treatment locally",
+      "excerpt": "BEIJING (Reuters) - Chinese citizens overseas with coronavirus-related symptoms should seek treatment locally, a Beijing city government official said on Wednesday as the capital seeks to ward off a resurgence in infections. Pang Xinghuo, deputy director of Beijing’s Center for Diseases Prevention and Control, told a news briefing that ...",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://ca.reuters.com/article/topNews/idCAKBN20Y109",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/ca/idCAKBN20Y109",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/ca/idCAKBN20Y109",
+      "publishedDateTime": "2020-03-11T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Beijing says Chinese citizens abroad with coronavirus symptoms should get treatment locally",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-trump-says-insurance-companies-will-waive-coronavirus-treatment-copays.md",
+      "title": "Trump says insurance companies will waive coronavirus treatment copays",
+      "excerpt": "President Trump says insurance companies will waive any copays for treatment for coronavirus as well as “extend insurance coverage to these treatments.”March 12, 2020 © 2020 NBC UNIVERSAL",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/video/trump-says-insurance-companies-will-waive-coronavirus-treatment-copays-80516165538",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/nbc_brk_trump_health_200311_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Trump says insurance companies will waive coronavirus treatment copays",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-cdc-gilead-sciences-remdesivir-is-being-used-to-treat-coronavirus-patients.md",
+      "title": "CDC: Gilead Sciences' Remdesivir Is Being Used to Treat Coronavirus Patients",
+      "excerpt": "Several drugmakers are currently trying to find a vaccine or a treatment for the rapidly spreading disease, and arguably the leader in this race is Gilead Sciences (NASDAQ:GILD). Gilead Sciences' remdesivir -- a drug that was originally developed to treat Ebola but with little success -- is currently being investigated as a treatment for COVID-19.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/11/cdc-gilead-sciences-remdesivir-is-being-used-to-tr.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/11/cdc-gilead-sciences-remdesivir-is-being-used-to-tr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/11/cdc-gilead-sciences-remdesivir-is-being-used-to-tr.aspx",
+      "publishedDateTime": "2020-03-11T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F562901%2Fgettyimages-1201549319.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "CDC: Gilead Sciences' Remdesivir Is Being Used to Treat Coronavirus Patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-brief-xlife-sciences-says-tests-new-therapy-for-treatment-of-pneumonia-caused-by-coronavirus.md",
+      "title": "BRIEF-Xlife Sciences Says Tests New Therapy For Treatment Of Pneumonia Caused By Coronavirus",
+      "excerpt": "* XLIFE SCIENCES AG - TESTS NEW THERAPY FOR TREATMENT OF PNEUMONIA CAUSED BY CORONAVIRUS WITH INSTITUTE OF VIROLOGY & IMMUNOLOGY OF UNIVERSITY OF BERN Source text for Eikon: Further company coverage: [ ] Our Standards:The Thomson Reuters Trust Principles.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-xlife-sciences-says-tests-new-ther/brief-xlife-sciences-says-tests-new-therapy-for-treatment-of-pneumonia-caused-by-coronavirus-idUSFWN2B408X",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2B408X",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2B408X",
+      "publishedDateTime": "2020-03-11T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-Xlife Sciences Says Tests New Therapy For Treatment Of Pneumonia Caused By Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-aim-immunotech-shares-soar-as-japans-niid-tests-ampligen-as-potential-coronavirus-treatment.md",
+      "title": "AIM ImmunoTech Shares Soar as Japan's NIID Tests Ampligen® as Potential Coronavirus Treatment",
+      "excerpt": "Shares of AIM ImmunoTech traded more than 150% higher after the company reported that Japan's National Institute of Infectious Diseases will test its Ampligen® drug as a potential treatment for the coronavirus. Immuno-pharmaceutical company AIM ImmunoTech Inc. (AIM:NYSE.American), which focuses on research and development of therapeutics to ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.investorideas.com/news/2020/biotech/03113AIMImmunoTech.asp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investor ideas",
+        "domain": "investorideas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.streetwisereports.com/images/coronavirus-pixabay2-25-20-900.jpg",
+          "width": 900,
+          "height": 425,
+          "title": "AIM ImmunoTech Shares Soar as Japan's NIID Tests Ampligen® as Potential Coronavirus Treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus",
+        "Coronavirus in Japan",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-the-best-hope-for-coronavirus-treatment-is-an-experimental-drug-that-fizzled-against-ebola.md",
+      "title": "The best hope for coronavirus treatment is an experimental drug that fizzled against Ebola",
+      "excerpt": "Now the drug, created by pharmaceutical giant Gilead Sciences, is being tested in new clinical trials, and global health authorities deem it the most promising of possible treatments for people who are severely ill with the novel coronavirus, which causes the covid-19 disease. Because it is a “broad spectrum’’ drug that has been effective ...",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/business/economy/the-best-hope-for-coronavirus-treatment-is-an-experimental-drug-that-fizzled-against-ebola/2020/03/10/8a9e8cd4-5fe8-11ea-b29b-9db42f7803a7_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/business/economy/the-best-hope-for-coronavirus-treatment-is-an-experimental-drug-that-fizzled-against-ebola/2020/03/10/8a9e8cd4-5fe8-11ea-b29b-9db42f7803a7_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/the-best-hope-for-coronavirus-treatment-is-an-experimental-drug-that-fizzled-against-ebola/2020/03/10/8a9e8cd4-5fe8-11ea-b29b-9db42f7803a7_story.html?outputType=amp",
+      "publishedDateTime": "2020-03-11T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/AMBJEWJQU02Mum7s12Q0dpvuO_Q=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T6OAWODCL4I6VCUOLRJTNMZHMA.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "The best hope for coronavirus treatment is an experimental drug that fizzled against Ebola",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-new-york-biotech-company-works-on-antibody-treatment-for-coronavirus.md",
+      "title": "New York biotech company works on antibody treatment for coronavirus",
+      "excerpt": "The United States now has more than 1,000 people infected with coronavirus. Meanwhile, the governor of New York has questioned the number of people who have been tested for the virus in the U.S. “When they do the retrospective on this one,",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-cases-top-1-000-spread-n1155241/ncrd1155301",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1155241",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1155241",
+      "publishedDateTime": "2020-03-11T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_11/3264941/200311-coronavirus-blog-mc-726_3a4a977eec7b4e1a161d8547efc09757.JPG",
+          "width": 2250,
+          "height": 1500,
+          "title": "New York biotech company works on antibody treatment for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-stock-alert-tiziana-speeds-up-coronavirus-treatment-stock-up-31188.md",
+      "title": "Stock Alert: Tiziana Speeds Up Coronavirus Treatment; Stock Up 311.88%",
+      "excerpt": "(RTTNews) - Shares of Tiziana Life Sciences Plc (TLSA) are climbing above 300% in pre-market today, after the company announced that it is expediting development of TZLS-501, a novel, fully human anti-interleukin-6 receptor (anti-IL6R) monoclonal antibody (mAb) for treatment of patients infected with coronavirus COVID-19 (SARS-CoV-2).",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stock-alert-tiziana-speeds-up-coronavirus-treatment-stock-up-311-88-1028984855",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Stock-Alert-Tiziana-Speeds-Up-Coronavirus-Treatment-Stock-Up-311-88-1028984855",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Stock-Alert-Tiziana-Speeds-Up-Coronavirus-Treatment-Stock-Up-311-88-1028984855",
+      "publishedDateTime": "2020-03-11T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-a-disgraced-televangelist-promoted-an-alleged-cure-to-coronavirus-missouri-is-now-suing-him.md",
+      "title": "A disgraced televangelist promoted an alleged cure to coronavirus. Missouri is now suing him.",
+      "excerpt": "After suggesting on his show that colloidal silver could cure the novel coronavirus, the Missouri Attorney General’s Office announced Tuesday that it is suing televangelist Jim Bakker as part of a larger effort among law enforcement to crack down on fake treatments for the viral illness. Bakker, a disgraced TV preacher in Branson, Mo.,",
+      "heat": 114,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/nation/2020/03/11/jim-bakker-coronavirus-cure/",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/03/11/jim-bakker-coronavirus-cure/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/03/11/jim-bakker-coronavirus-cure/?outputType=amp",
+      "publishedDateTime": "2020-03-11T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/FNAUZoE1iaW5QafV6c8NRlgu7xg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I34KK2LNH5DXJJ62XOLLZ5PQNU.png",
+          "width": 1440,
+          "height": 891,
+          "title": "A disgraced televangelist promoted an alleged cure to coronavirus. Missouri is now suing him.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Treatment"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-fda-postpones-all-foreign-inspections-over-coronavirus.md",
+      "title": "FDA Postpones All Foreign Inspections Over Coronavirus",
+      "excerpt": "other countries, such as Italy, Iran, and Korea, have all seen an alarming explosion of cases over the past couple of weeks. There are a number of biotech companies working on a treatment, including Gilead Sciences (NASDAQ:GILD) with its antiviral drug remdesivir and Moderna's mRNA-based vaccine.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/10/fda-postpones-all-foreign-inspections-over-coronav.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/10/fda-postpones-all-foreign-inspections-over-coronav.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/10/fda-postpones-all-foreign-inspections-over-coronav.aspx",
+      "publishedDateTime": "2020-03-10T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F562672%2Fgettyimages-1209218227.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 768,
+          "title": "FDA Postpones All Foreign Inspections Over Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-psa-cocaine-does-not-cure-coronavirus.md",
+      "title": "PSA: Cocaine Does NOT Cure Coronavirus",
+      "excerpt": "As coronavirus continues to spread around the world, the French government has been forced to clarify that \"cocaine does NOT protect against COVID-19. It is an addictive drug that causes serious side effects and is harmful to people's health.\" Reason being: a couple of Twitter accounts with large followings tweeted mocked up screenshots of news ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/epgqw4/coronavirus-cure-cocaine",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/epgqw4/coronavirus-cure-cocaine",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/epgqw4/coronavirus-cure-cocaine",
+      "publishedDateTime": "2020-03-10T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e67609bdc51400356098bbc/lede/1583833884394-IMG-5527.jpeg?crop=1xw%3A0.7493xh%3B0xw%2C0.0929xh&resize=2000%3A*",
+          "width": 2000,
+          "height": 1123,
+          "title": "PSA: Cocaine Does NOT Cure Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 11
+}

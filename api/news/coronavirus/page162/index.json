@@ -1,0 +1,1271 @@
+{
+  "page": 162,
+  "value": [
+    {
+      "path": "_news/2020-03-26-jobless-claims-spike-in-virginia-after-coronavirus-outbreak.md",
+      "title": "Jobless claims spike in Virginia after coronavirus outbreak",
+      "excerpt": "A federal report shows jobless claims in Virginia spiked by nearly a factor of 20 as parts of the economy slowed or shuttered in the face of the",
+      "heat": null,
+      "tags": [
+        "US-VA"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/995bab6ac1a948fe7efd4e9943a586df",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/apnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-boston-area-hospitals-see-more-than-100-workers-test-positive-for-coronavirus.md",
+      "title": "Boston-area hospitals see more than 100 workers test positive for coronavirus",
+      "excerpt": "More than 100 employees at Boston-area hospitals have tested positive for the coronavirus, Fox News has learned.",
+      "heat": 162,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/health/boston-area-hospitals-see-more-than-100-workers-test-positive-for-coronavirus",
+      "ampWebUrl": "https://www.foxnews.com/health/boston-area-hospitals-see-more-than-100-workers-test-positive-for-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/boston-area-hospitals-see-more-than-100-workers-test-positive-for-coronavirus.amp",
+      "publishedDateTime": "2020-03-26T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/696d651a-cfc9-4fad-ba39-4f01f4837ebb/84728b7f-9dd7-4cfb-ae7c-33916e7e714c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Boston-area hospitals see more than 100 workers test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-a-new-type-of-vaccine-using-rna-could-help-defeat-covid-19.md",
+      "title": "Coronavirus: a new type of vaccine using RNA could help defeat COVID-19",
+      "excerpt": "SARS-CoV-2, like other coronaviruses, is named for the crown-like spikes on its surface ... An mRNA vaccine for COVID-19 to undergo trial Using this strategy, biotechnology firm Moderna Inc. announced on Feb. 24 that it had rapidly developed an experimental COVID-19 mRNA vaccine called mRNA-1273, ready for clinical trials in humans.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rawstory.com/2020/03/coronavirus-a-new-type-of-vaccine-using-rna-could-help-defeat-covid-19/",
+      "ampWebUrl": "https://www.rawstory.com/2020/03/coronavirus-a-new-type-of-vaccine-using-rna-could-help-defeat-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/03/coronavirus-a-new-type-of-vaccine-using-rna-could-help-defeat-covid-19/amp/",
+      "publishedDateTime": "2020-03-26T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/03/This-scanning-electron-microscope-image-shows-SARS-CoV-2-round-blue-objects-emerging-from-the-surface-of-cells-cultured-in-the-lab.-NIAID-RML.jpeg",
+          "width": 640,
+          "height": 314,
+          "title": "Coronavirus: a new type of vaccine using RNA could help defeat COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-kemp-extends-school-closures-as-georgia-virus-deaths-near-50.md",
+      "title": "Kemp extends school closures as Georgia virus deaths near 50",
+      "excerpt": "Georgia’s governor on Thursday extended an order to keep the state’s public schools closed because of the new coronavirus, as the death toll in the state rose to 48. As",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/0b7c98e74753e5bd95ce50ce5075307f",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/apnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-update-1-boxing-six-contract-coronavirus-after-london-olympic-qualifiers.md",
+      "title": "UPDATE 1-Boxing-Six contract coronavirus after London Olympic qualifiers",
+      "excerpt": "Organisers of a suspended Olympic boxing qualifying tournament in London hit back at accusations of irresponsibility on Thursday as the number of competitors and coaches testing positive for coronavirus grew to six.",
+      "heat": 114,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-olympics-boxing/update-1-boxing-six-contract-coronavirus-after-london-olympic-qualifiers-idUSL8N2BJ969",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21D3G5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21D3G5",
+      "publishedDateTime": "2020-03-26T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 1-Boxing-Six contract coronavirus after London Olympic qualifiers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-why-us-and-china-cant-team-up-to-defeat-the-coronavirus-outbreak.md",
+      "title": "Why U.S. and China Can't Team Up to Defeat the Coronavirus Outbreak",
+      "excerpt": "While the United States and the Soviet Union banded together in World War II, experts say the U.S. and China's economic superpower rivalry runs too deep for them to cooperate against the new coronavirus.",
+      "heat": 145,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/world-powers-us-china-defeat-coronavirus-1494074",
+      "ampWebUrl": "https://www.newsweek.com/world-powers-us-china-defeat-coronavirus-1494074?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/world-powers-us-china-defeat-coronavirus-1494074?amp=1",
+      "publishedDateTime": "2020-03-26T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1576593/china-united-states-flag-beijing.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Why U.S. and China Can't Team Up to Defeat the Coronavirus Outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-covid-19-in-60-secs-chroloquine-fit-fight-coronavirus.md",
+      "title": "Covid-19 in 60 Secs: Chroloquine fit fight coronavirus?",
+      "excerpt": "Wetin we know na say to overdose on chloroquine fit make you seriously sick, e even fit kill you. Doctors say make you no take chloroquine do self-medication for coronavirus.",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/pidgin/tori-52057281",
+      "ampWebUrl": "https://www.bbc.com/pidgin/tori-52057281.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-52057281.amp",
+      "publishedDateTime": "2020-03-26T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://ichef.bbci.co.uk/news/1024/branded_pidgin/879A/production/_111441743_p087tg3g.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Covid-19 in 60 Secs: Chroloquine fit fight coronavirus?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-china-temporarily-bans-foreign-nationals-to-curb-the-spread-and-return-of-coronavirus.md",
+      "title": "China temporarily bans foreign nationals to curb the spread – and return – of coronavirus",
+      "excerpt": "As it begins to get control of its coronavirus cases, China is temporarily restricting entry to help curb the spread or return of COVID-19.",
+      "heat": 136,
+      "tags": [
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/travel/destinations/2020/03/26/china-temporarily-bans-foreign-nationals-due-coronavirus/2918901001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/2918901001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2918901001",
+      "publishedDateTime": "2020-03-26T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/26/USAT/581aeecf-af8f-49c5-921c-3222971042be-AFP_AFP_1Q59H7.JPG?auto=webp&crop=3942,2218,x0,y230&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "China temporarily bans foreign nationals to curb the spread – and return – of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-trump-tells-governors-to-expect-new-coronavirus-guidelines-on-social-distancing.md",
+      "title": "Trump tells governors to expect new coronavirus guidelines on social distancing",
+      "excerpt": "States are making their own decisions as the president says he'll release guidelines on how to relax, increase or maintain social distancing measures.",
+      "heat": 111,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/coronvirus-social-distancing-guidelines-trump-letter-governors/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/coronvirus-social-distancing-guidelines-trump-letter-governors/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronvirus-social-distancing-guidelines-trump-letter-governors/",
+      "publishedDateTime": "2020-03-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/04/12/a4a5d909-3a45-4622-a9b5-d895f85f307e/thumbnail/1200x630/a9f22d34e2bfac0aa3dfc99ba813b289/rtx5nbol.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Trump tells governors to expect new coronavirus guidelines on social distancing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-australia-news-national-death-toll-climbs-to-13-live-updates.md",
+      "title": "Coronavirus Australia news: national death toll climbs to 13 - live updates",
+      "excerpt": "Scott Morrison reports back from the virtual G20 meeting, after four die on Australia’s worst single-day toll of the Covid-19 crisis so far. Follow the latest news",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/australia-news/live/2020/mar/27/coronavirus-news-australia-update-live-stage-2-3-lockdown-nsw-victoria-qld-scott-morrison-restrictions-cases-death-toll-covid-19-latest-updates",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/live/2020/mar/27/coronavirus-news-australia-update-live-stage-2-3-lockdown-nsw-victoria-qld-scott-morrison-restrictions-cases-death-toll-covid-19-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/mar/27/coronavirus-news-australia-update-live-stage-2-3-lockdown-nsw-victoria-qld-scott-morrison-restrictions-cases-death-toll-covid-19-latest-updates",
+      "publishedDateTime": "2020-03-26T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-amazon-closes-kentucky-warehouse-after-workers-test-positive.md",
+      "title": "Amazon Closes Kentucky Warehouse After Workers Test Positive",
+      "excerpt": "until April 1, after several workers there tested positive for the coronavirus — the first prolonged ... Amazon has promised two weeks of paid leave for workers who test positive for COVID-19 or who are asked by health or corporate officials to quarantine at home. However, Amazon's employees — speaking on social media and in press ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.npr.org/sections/coronavirus-live-updates/2020/03/26/822045229/amazon-closes-kentucky-warehouse-after-workers-test-positive",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-italys-latest-coronavirus-deaths-data-omits-50-from-piedmont.md",
+      "title": "Italy's Latest Coronavirus Deaths Data Omits 50 From Piedmont",
+      "excerpt": "Italy's northern Piedmont region said on Thursday that 50 people had died there from coronavirus in the last 24 hours, numbers which were omitted from the national tally released by the Civil Protection Agency.",
+      "heat": 100,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/26/world/europe/26reuters-health-coronavirus-italy-piedmont.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Italy's Latest Coronavirus Deaths Data Omits 50 From Piedmont",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-capistrano-unified-extends-school-closure-through-may-1-because-of-coronavirus.md",
+      "title": "Capistrano Unified extends school closure through May 1 because of coronavirus",
+      "excerpt": "Capistrano Unified School District has joined districts throughout Orange County by extending its school closures three weeks into early May because of the coronavirus crisis, a move that casts doubt to whether high school sports will resume this spring. The district’s Board of Trustees met Wednesday and extended its shutdown through May 1.",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ocregister.com/2020/03/26/capistrano-unified-extends-school-closure-through-may-1-because-of-coronavirus/",
+      "ampWebUrl": "https://www.ocregister.com/2020/03/26/capistrano-unified-extends-school-closure-through-may-1-because-of-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/03/26/capistrano-unified-extends-school-closure-through-may-1-because-of-coronavirus/amp/",
+      "publishedDateTime": "2020-03-26T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2020/03/ocvarsity.coronavirus-1.jpg?w=1020&h=573",
+          "width": 1020,
+          "height": 573,
+          "title": "Capistrano Unified extends school closure through May 1 because of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-corrected-armenia-reports-first-death-related-to-coronavirus.md",
+      "title": "CORRECTED-Armenia reports first death related to coronavirus",
+      "excerpt": "YEREVAN, March 26 (Reuters) - A 72-year-old woman diagnosed with the coronavirus died in Armenia on Thursday, the Health Ministry’s spokeswoman said, reporting the country’s first death related to the virus.",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-armenia-idUSR4N2B506B",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSR4N2B506B",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSR4N2B506B",
+      "publishedDateTime": "2020-03-26T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "CORRECTED-Armenia reports first death related to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-stock-market-news-micron-keeps-chipping-away-nordstrom-extends-closures.md",
+      "title": "Stock Market News: Micron Keeps Chipping Away; Nordstrom Extends Closures",
+      "excerpt": "The stock market has finally bounced off the bottom it set earlier this week, and early gains suggested that some key market benchmarks could enjoy a three-day winning streak for the first time since before the coronavirus-inspired bear market ... As of 11 a.m. EDT, the Dow Jones Industrial Average (DJINDICES:^DJI) was up 859 points to 22,060.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/26/stock-market-news-micron-keeps-chipping-away-nords.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/26/stock-market-news-micron-keeps-chipping-away-nords.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/26/stock-market-news-micron-keeps-chipping-away-nords.aspx",
+      "publishedDateTime": "2020-03-26T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565383%2Fsemiconductor-gettyimages-179653150.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Stock Market News: Micron Keeps Chipping Away; Nordstrom Extends Closures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-in-japan-new-york-hospitals-maduro-indictment-your-friday-briefing.md",
+      "title": "Coronavirus in Japan, New York Hospitals, Maduro Indictment: Your Friday Briefing",
+      "excerpt": "Since the first coronavirus case was confirmed in Japan in mid-January, health officials have reassured the public that their early containment measures have prevented the virus from raging out of control.",
+      "heat": 125,
+      "tags": [
+        "JP"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/26/briefing/coronavirus-japan-new-york-hospitals-maduro.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/26/briefing/coronavirus-japan-new-york-hospitals-maduro.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/26/briefing/coronavirus-japan-new-york-hospitals-maduro.amp.html",
+      "publishedDateTime": "2020-03-26T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/26/briefing/27Briefing-Asia-slide-ULRC/27Briefing-Asia-slide-ULRC-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Coronavirus in Japan, New York Hospitals, Maduro Indictment: Your Friday Briefing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Japan",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-germany-takes-in-47-coronavirus-patients-from-italy.md",
+      "title": "Germany Takes in 47 Coronavirus Patients From Italy",
+      "excerpt": "Ahead of an expected larger wave of domestic infections that German authorities are preparing for, a first group of six Italian patients arrived at Leipzig airport in the eastern state of Saxony on Tuesday.",
+      "heat": 100,
+      "tags": [
+        "Germany",
+        "DE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-03-26/germany-takes-in-47-coronavirus-patients-from-italy",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-china-temporarily-bars-entry-from-foreign-visitors-amid-coronavirus-pandemic.md",
+      "title": "China temporarily bars entry from foreign visitors amid coronavirus pandemic",
+      "excerpt": "China will temporarily close its borders to foreign nationals, effective midnight Saturday, in the midst of the coronavirus outbreak.",
+      "heat": 102,
+      "tags": [
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/china-temporarily-bars-entry-from-foreign-visitors-amid-coronavirus-pandemic",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-trump-administration-urges-un-security-council-to-state-coronavirus-originated-in-china.md",
+      "title": "Trump administration urges UN Security Council to state coronavirus originated in China",
+      "excerpt": "The Trump administration is pushing to add language to a coronavirus resolution at the U.N. Security Council that would say explicitly that the virus originated in China -- part of the administration’s efforts to keep the focus on the communist regime.",
+      "heat": 147,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/us-un-security-council-coronavirus-china",
+      "ampWebUrl": "https://www.foxnews.com/politics/us-un-security-council-coronavirus-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-un-security-council-coronavirus-china.amp",
+      "publishedDateTime": "2020-03-26T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ca2d541-af20-4a4a-8e52-4e9109df147d/3a89e8d4-4d34-469a-90c6-145e094f94d5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Trump administration urges UN Security Council to state coronavirus originated in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-you-want-to-give-up-on-the-stock-market-heres-why-you-shouldnt.md",
+      "title": "You want to give up on the stock market. Here's why you shouldn't",
+      "excerpt": "After weeks of steep market declines, you may feel you've had enough, that you want your hard-earned money during these uncertain times with you, under quarantine. And who could blame you? Headlines warn us that we're careening toward a global financial crisis uglier than 2008,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/26/thinking-of-leaving-the-stock-market-amid-covid-19-youll-regret-it.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/26/thinking-of-leaving-the-stock-market-amid-covid-19-youll-regret-it.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/26/thinking-of-leaving-the-stock-market-amid-covid-19-youll-regret-it.html",
+      "publishedDateTime": "2020-03-26T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106462294-1585242203996gettyimages-668711398.jpeg?v=1585245393",
+          "width": 6000,
+          "height": 4000,
+          "title": "You want to give up on the stock market. Here's why you shouldn't",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-us-china-trade-blame-for-coronavirus-hampering-global-economy-rescue.md",
+      "title": "U.S., China Trade Blame for Coronavirus, Hampering Global Economy Rescue",
+      "excerpt": "The frayed relationship between the two governments contrasts with the way Washington and Beijing cooperated during the financial crisis.",
+      "heat": 144,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/u-s-china-trade-blame-for-coronavirus-hampering-global-economy-rescue-11585248616",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-china-trade-blame-for-coronavirus-hampering-global-economy-rescue-11585248616",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-china-trade-blame-for-coronavirus-hampering-global-economy-rescue-11585248616",
+      "publishedDateTime": "2020-03-26T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-169307/social",
+          "width": 1280,
+          "height": 640,
+          "title": "U.S., China Trade Blame for Coronavirus, Hampering Global Economy Rescue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-california-man-charged-with-coronavirus-linked-fraud.md",
+      "title": "California Man Charged With Coronavirus-Linked Fraud",
+      "excerpt": "The U.S. Justice Department brought its first criminal case connected to the coronavirus pandemic on Wednesday against a Southern California man who tried to solicit investment in a company he claimed had developed a COVID-19 cure.",
+      "heat": 105,
+      "tags": [
+        "US-CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/26/world/europe/26reuters-health-coronavirus-usa-arrest.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "California Man Charged With Coronavirus-Linked Fraud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-with-us-hit-by-virus-china-courts-latin-america-with-medical-diplomacy.md",
+      "title": "With U.S. Hit by Virus, China Courts Latin America With Medical Diplomacy",
+      "excerpt": "As Argentina was scrambling to introduce emergency measures to insulate its ailing economy from the coronavirus last week, the Chinese ambassador paid a visit to the home of President Alberto Fernandez to discuss an offer.",
+      "heat": 109,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/26/world/americas/26reuters-health-coronavirus-latam-china-feature.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "With U.S. Hit by Virus, China Courts Latin America With Medical Diplomacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-how-to-cancel-or-postpone-a-wedding-during-the-coronavirus-outbreak.md",
+      "title": "How to Cancel or Postpone a Wedding During the Coronavirus Outbreak",
+      "excerpt": "Even if an event is rescheduled, couples could face additional ... so anyone currently with cancellation insurance should try to get written confirmation from their insurance company as to whether they have coverage for coronavirus,” Weinberg says. Meanwhile, Lauren Schaefer, founder of Your Wedding by Lauren, a month-of wedding coordination ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-cancel-or-postpone-a-wedding",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-death-toll-in-uk-jumps-to-578-up-115.md",
+      "title": "Coronavirus death toll in UK jumps to 578, up 115",
+      "excerpt": "A further 115 people have died in the United Kingdom after testing positive for coronavirus, bringing the total number of deaths to 578, the government said on Thursday. The number of confirmed cases rose to 11,",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-britain-casualties-idUSL4N2BI58J",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-update-2-tesla-workers-test-positive-for-covid-19.md",
+      "title": "Coronavirus Update: 2 Tesla Workers Test Positive For COVID-19",
+      "excerpt": "Two employees at the electric car company, Tesla, have reportedly tested positive for the coronavirus. In an internal memo, obtained by Bloomberg, Tesla said the two employees were working from home for almost two weeks and were showing no symptoms when they were last in the office.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/coronavirus-update-2-tesla-workers-test-positive-covid-19-2947414",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-coronavirus-denton-school-districts-extend-closure-through-april-19.md",
+      "title": "Coronavirus: Denton School Districts Extend Closure Through April 19",
+      "excerpt": "the following school districts in Denton County announced they have extended districtwide closure through Sunday, April 19. • Aubrey ISD • Argyle ISD • Denton ISD • Krum ISD • Lake ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://dfw.cbslocal.com/2020/03/26/coronavirus-denton-school-districts-extend-closure-through-april-19/",
+      "ampWebUrl": "https://dfw.cbslocal.com/2020/03/26/coronavirus-denton-school-districts-extend-closure-through-april-19/amp/",
+      "cdnAmpWebUrl": "https://dfw-cbslocal-com.cdn.ampproject.org/c/s/dfw.cbslocal.com/2020/03/26/coronavirus-denton-school-districts-extend-closure-through-april-19/amp/",
+      "publishedDateTime": "2020-03-26T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-factbox-highlights-of-canadas-stimulus-measures-to-fight-coronavirus-outbreak.md",
+      "title": "Factbox: Highlights of Canada's stimulus measures to fight coronavirus outbreak",
+      "excerpt": "(Reuters) - Key financial and economic measures announced by Canada to support the economy. - Canadian Mortgage and Housing Corp on Thursday bolstered the insured mortgage purchase program to C$150 billion ($107 billion) from previously announced C$50 billion. - The Canadian parliament on Wednesday approved C$52 billion financial package.",
+      "heat": 136,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://ca.reuters.com/article/topNews/idCAKBN21D33L",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/ca/idCAKBN21D33L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/ca/idCAKBN21D33L",
+      "publishedDateTime": "2020-03-26T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200326&t=2&i=1508551161&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2P1UL",
+          "width": 817,
+          "height": 545,
+          "title": "Factbox: Highlights of Canada's stimulus measures to fight coronavirus outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-nashville-fire-department-employee-test-positive-for-covid-19.md",
+      "title": "Nashville Fire Department employee test positive for COVID-19",
+      "excerpt": "Nashville Fire department spokesman Joseph Pleasant said the department was made aware an employee in the Logistics Division tested positive for the coronavirus.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tennessean.com/story/news/local/2020/03/26/nashvinashville-fire-department-employee-test-poslle-fire-department-employee-test-positive-covid-19/2918261001/",
+      "ampWebUrl": "https://amp.tennessean.com/amp/2918261001",
+      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/2918261001",
+      "publishedDateTime": "2020-03-26T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tennessean",
+        "domain": "tennessean.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/11/25/PNAS/57b6d51a-828d-497f-84f3-73f5f18b39a9-IMG_0413.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Nashville Fire Department employee test positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-23-employees-at-port-authority-including-the-boss-test-positive-for-coronavirus.md",
+      "title": "23 employees at Port Authority, including the boss, test positive for coronavirus",
+      "excerpt": "Port Authority of New York and New Jersey officials said that 23 agency employees have tested positive for the coronavirus and more than 300 are waiting for test results. Besides the 23 who tested positive, 331 workers are awaiting tests and another 31 self-quarantined and 164 had previously self-quarantined, got medical attention and returned ...",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nj.com/coronavirus/2020/03/23-employees-at-port-authority-including-the-boss-test-positive-for-coronavirus.html",
+      "ampWebUrl": "https://www.nj.com/coronavirus/2020/03/23-employees-at-port-authority-including-the-boss-test-positive-for-coronavirus.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/coronavirus/2020/03/23-employees-at-port-authority-including-the-boss-test-positive-for-coronavirus.html?outputType=amp",
+      "publishedDateTime": "2020-03-26T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/UQWNKL5PN5BFZETAIJ5MOSRV34.jpeg",
+          "width": 2432,
+          "height": 1886,
+          "title": "23 employees at Port Authority, including the boss, test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 163
+}

@@ -1,0 +1,1184 @@
+{
+  "page": 57,
+  "value": [
+    {
+      "path": "_news/2020-03-15-alaska-airlines-employee-at-sfo-tests-positive-for-covid-19.md",
+      "title": "Alaska Airlines Employee at SFO Tests Positive for COVID-19",
+      "excerpt": "... works at San Francisco International Airport has tested positive for the coronavirus, the airline announced Saturday. The employee went home sick on Tuesday and recently received their test results. Alaska Airline said in a statement that it is not ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcbayarea.com/news/coronavirus/alaska-airlines-employee-at-sfo-tests-positive-for-covid-19/2254757/",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/coronavirus/alaska-airlines-employee-at-sfo-tests-positive-for-covid-19/2254757/?amp",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/coronavirus/alaska-airlines-employee-at-sfo-tests-positive-for-covid-19/2254757/?amp",
+      "publishedDateTime": "2020-03-15T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2019/09/sfo-strike.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Alaska Airlines Employee at SFO Tests Positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-new-york-state-has-first-coronavirus-deaths.md",
+      "title": "New York State Has First Coronavirus Deaths",
+      "excerpt": "New York reported its first two coronavirus deaths, as the state faced a growing crisis that has left hospitals worried about a lack of beds, partially closed the State Capitol, put dozens of city firefighters in quarantine,",
+      "heat": 125,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/new-york-state-has-first-coronavirus-death-11584198758",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-washington-state-coronavirus-death-toll-hits-40.md",
+      "title": "Washington State Coronavirus Death Toll Hits 40",
+      "excerpt": "The death toll from the new coronavirus in Washington state jumped to 40 on Saturday when King County health officials reported three new fatalities. Workers from a Servpro disaster recovery team wearing protective suits and respirators enter the Life Care Center in Kirkland,",
+      "heat": 155,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/washington/articles/2020-03-14/washington-health-officials-short-on-supplies-to-fight-virus",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/washington/articles/2020-03-14/washington-health-officials-short-on-supplies-to-fight-virus?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/washington/articles/2020-03-14/washington-health-officials-short-on-supplies-to-fight-virus?context=amp",
+      "publishedDateTime": "2020-03-15T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-3-new-cases-of-virus-in-vermont-1-involves-new-york-man.md",
+      "title": "3 new cases of virus in Vermont; 1 involves New York man",
+      "excerpt": "WHITE RIVER JUNCTION, Vt. (AP) — Vermont is home to three new presumptive cases of the coronavirus, health authorities said Saturday. There are now four presumptive positive cases and one confirmed case of COVID-19,",
+      "heat": 135,
+      "tags": [
+        "US-NY",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.houstonchronicle.com/news/article/3-new-cases-of-virus-in-Vermont-1-involves-New-15131567.php",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/3-new-cases-of-virus-in-Vermont-1-involves-New-15131567.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/3-new-cases-of-virus-in-Vermont-1-involves-New-15131567.php",
+      "publishedDateTime": "2020-03-14T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/07/46/19167640/27/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": "3 new cases of virus in Vermont; 1 involves New York man",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-north-county-fire-employee-has-coronavirus-officials-say.md",
+      "title": "North County Fire employee has coronavirus, officials say",
+      "excerpt": "Even so, fire officials said they would be in touch with all of the patients and coworkers who were in contact with the employee to notify them of the positive test result. CHULA VISTA, Calif. -- Steve Padilla, a member of the Chula Vista City Council, announced Saturday he has tested positive for coronavirus. The councilman, who represents ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fox5sandiego.com/news/local-news/north-county-fire-employee-has-coronavirus-officials-say/",
+      "ampWebUrl": "https://fox5sandiego.com/news/local-news/north-county-fire-employee-has-coronavirus-officials-say/amp/",
+      "cdnAmpWebUrl": "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/local-news/north-county-fire-employee-has-coronavirus-officials-say/amp/",
+      "publishedDateTime": "2020-03-14T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5 San Diego",
+        "domain": "fox5sandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/03/generic-coronavirus-cdc-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "North County Fire employee has coronavirus, officials say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-mps-employee-tests-positive-for-coronavirus-district-says.md",
+      "title": "MPS employee tests positive for coronavirus, district says",
+      "excerpt": "A Milwaukee Public Schools employee has tested positive for coronavirus, district officials said Saturday. The employee works at Hopkins-Lloyd Community School at Hopkins St. and Locust St. in Milwaukee.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wisn.com/article/mps-employee-tests-positive-for-coronavirus-district-says/31576147",
+      "ampWebUrl": "https://www.wisn.com/amp/article/mps-employee-tests-positive-for-coronavirus-district-says/31576147",
+      "cdnAmpWebUrl": "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/mps-employee-tests-positive-for-coronavirus-district-says/31576147",
+      "publishedDateTime": "2020-03-14T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WISN 12 NEWS",
+        "domain": "wisn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-impact-1583867979.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "MPS employee tests positive for coronavirus, district says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-two-middle-tennessee-ymca-locations-close-amid-employee-testing-positive-for-coronavirus.md",
+      "title": "Two Middle Tennessee YMCA locations close amid employee testing positive for coronavirus",
+      "excerpt": "(WKRN) – The Brentwood YMCA is closed due to an employee testing positive for coronavirus (COVID-19 ... The White House released the test results Saturday night after Trump told reporters hours earlier that he had taken the coronavirus test, following days of resisting being screened despite the fact that he had been in recent contact ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wkrn.com/news/two-middle-tennessee-ymca-locations-close-amid-employee-testing-positive-for-coronavirus/",
+      "ampWebUrl": "https://www.wkrn.com/news/two-middle-tennessee-ymca-locations-close-amid-employee-testing-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/two-middle-tennessee-ymca-locations-close-amid-employee-testing-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-14T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2015/07/ymca_38689099_ver1.0.jpg?w=640&h=363&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Two Middle Tennessee YMCA locations close amid employee testing positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-coronavirus-latest-updates-trump-tests-negative-as-spain-orders-nationwide-lockdown.md",
+      "title": "Coronavirus latest updates: Trump tests negative as Spain orders nationwide lockdown",
+      "excerpt": "Spanish PM’s wife tests positive; France and Israel announce partial closure of country; scientists condemn UK ‘herd immunity’ strategy. Follow live news",
+      "heat": 118,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/mar/15/coronavirus-latest-updates-trump-tests-negative-as-spain-orders-nationwide-lockdown-uk-us-australia-italy-europe-global-economy",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-virginia-reports-states-first-death-from-coronavirus.md",
+      "title": "Virginia reports state’s first death from coronavirus",
+      "excerpt": "RICHMOND, Va. — Virginia health officials on Saturday reported the state’s first death from the coronavirus, a man in his 70s who died of respiratory failure after acquiring the virus through an unknown source. In a news release, the Virginia Department of Health and the Peninsula Health District reported the death of the man, who had been ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/virginia-reports-states-first-death-from-coronavirus/2020/03/14/bc6cde38-6659-11ea-8a8e-5c5336b32760_story.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-third-coronavirus-related-death-reported-in-florida.md",
+      "title": "Third coronavirus-related death reported in Florida",
+      "excerpt": "WFLA reported the 77-year-old man previously tested positive for the illness, according to officials. It was not travel-related. This is the second coronavirus-related death in Lee County. Earlier this month, another Lee County resident, a 77-year-old woman, and a Santa Rosa County resident, a 71-year-old man also died. Both of those cases were ...",
+      "heat": 135,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ajc.com/news/national/third-coronavirus-related-death-reported-florida/y2PiV1rtPHcOhsvsOpB9sI/",
+      "ampWebUrl": "https://www.ajc.com/news/national/third-coronavirus-related-death-reported-florida/y2PiV1rtPHcOhsvsOpB9sI/amp.html",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/national/third-coronavirus-related-death-reported-florida/y2PiV1rtPHcOhsvsOpB9sI/amp.html",
+      "publishedDateTime": "2020-03-14T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ajc.com/rf/image_medium/Pub/p11/AJC/2020/03/13/Videos/4858128.vpx",
+          "width": 750,
+          "height": 422,
+          "title": "Third coronavirus-related death reported in Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-breaking-second-coronavirus-death-reported-in-new-york.md",
+      "title": "BREAKING: Second coronavirus death reported in New York",
+      "excerpt": "A second New York state resident has died as a result of COVID-19, the disease caused by the novel coronavirus. Rockland County Chief Medical Examiner Dr. Laura Carbone said a 65-year-old resident of the county \"had other significant health problems which were likely contributory to death,\" she said in a statement, the Mount Pleasant Daily ...",
+      "heat": 185,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ajc.com/news/breaking-first-coronavirus-death-reported-new-york/MvNG3yl15drHKXDF7FxM3I/",
+      "ampWebUrl": "https://www.ajc.com/news/breaking-first-coronavirus-death-reported-new-york/MvNG3yl15drHKXDF7FxM3I/amp.html",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/breaking-first-coronavirus-death-reported-new-york/MvNG3yl15drHKXDF7FxM3I/amp.html",
+      "publishedDateTime": "2020-03-14T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ajc.com/rf/image_medium/Pub/p11/WSBTV/2020/03/12/Videos/4857402.vpx",
+          "width": 750,
+          "height": 422,
+          "title": "BREAKING: Second coronavirus death reported in New York",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-report-detroit-pistons-big-man-christian-wood-tests-positive-for-coronavirus.md",
+      "title": "Report: Detroit Pistons big man Christian Wood tests positive for coronavirus",
+      "excerpt": "Detroit Pistons big man Christian Wood has tested positive for coronavirus, according to The Athletic's Shams Charania. This marks the third positive test for coronavirus in the NBA — and the first franchise besides Gobert’s and Donovan Mitchell’s in Utah.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sportingnews.com/au/nba/news/report-detroit-pistons-big-man-christian-wood-tests-positive-for-coronaviru/j7nd4jkg6hz81m0347x6pelw4",
+      "ampWebUrl": "https://www.sportingnews.com/au/amp/nba/news/report-detroit-pistons-big-man-christian-wood-tests-positive-for-coronaviru/j7nd4jkg6hz81m0347x6pelw4",
+      "cdnAmpWebUrl": "https://www-sportingnews-com.cdn.ampproject.org/c/s/www.sportingnews.com/au/amp/nba/news/report-detroit-pistons-big-man-christian-wood-tests-positive-for-coronaviru/j7nd4jkg6hz81m0347x6pelw4",
+      "publishedDateTime": "2020-03-14T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sporting News",
+        "domain": "sportingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-virginia-reports-first-death-from-coronavirus-dc-officials-weigh-emergency-legislation.md",
+      "title": "Virginia reports first death from coronavirus; D.C. officials weigh emergency legislation",
+      "excerpt": "Virginia reported its first death from the coronavirus on Saturday. A man in his 70s from James City County died Saturday of respiratory failure, officials said. The man became infected through an unknown source. The man died shortly before noon, said James Icenhour, chairman of the county’s Board of Supervisors, adding that he did not know ...",
+      "heat": 166,
+      "tags": [
+        "US-DC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/dc-md-va/2020/03/14/coronavirus-dc-maryland-virginia-updates/",
+      "ampWebUrl": "https://www.washingtonpost.com/dc-md-va/2020/03/14/coronavirus-dc-maryland-virginia-updates/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/03/14/coronavirus-dc-maryland-virginia-updates/?outputType=amp",
+      "publishedDateTime": "2020-03-14T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/7g5nnHAryqz9CY2Mok6oMepK4_M=/1440x0/smart/d1i4t8bqe7zgj6.cloudfront.net/03-14-2020/t_7363c58262d54f6ea468e60cfe542374_name_Corona1.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": "Virginia reports first death from coronavirus; D.C. officials weigh emergency legislation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-long-beach-announces-first-case-of-community-transmission-of-coronavirus.md",
+      "title": "Long Beach Announces First Case of `Community Transmission’ of Coronavirus",
+      "excerpt": "City officials announced a new case of coronavirus in Long Beach Saturday ... The Long Beach Water Department is joining Southern California Edison in temporarily suspending shutoffs for people who can’t pay their bill. The city has established a coronavirus-related hotline for businesses, workers and employers at 562-570-4249.",
+      "heat": 113,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://mynewsla.com/business/2020/03/14/long-beach-announces-first-case-of-community-transmission-of-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNewsLA",
+        "domain": "mynewsla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png",
+          "width": 583,
+          "height": 300,
+          "title": "Long Beach Announces First Case of `Community Transmission’ of Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-california-sees-dozens-of-new-coronavirus-cases-here-is-what-you-need-to-know.md",
+      "title": "California sees dozens of new coronavirus cases. Here is what you need to know",
+      "excerpt": "Coronavirus continued its spread across California, with many counties including Los Angeles reporting new cases. The numbers reflect more people getting tested but also what officials say is the certainty that the virus is spreading into communities. Santa Clara County so far has been hardest hit, with 91 cases and two deaths. Officials have ...",
+      "heat": 131,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.latimes.com/california/story/2020-03-14/california-sees-dozens-of-new-coronavirus-cases-here-is-what-you-need-to-know",
+      "ampWebUrl": "https://www.latimes.com/california/story/2020-03-14/california-sees-dozens-of-new-coronavirus-cases-here-is-what-you-need-to-know?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-03-14/california-sees-dozens-of-new-coronavirus-cases-here-is-what-you-need-to-know?_amp=true",
+      "publishedDateTime": "2020-03-14T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/2398b17/2147483647/strip/true/crop/4032x2633+0+195/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2F56%2F0aeeaa454ec1915664431ffe9aae%2Fimg-2935.jpg",
+          "width": 320,
+          "height": 209,
+          "title": "California sees dozens of new coronavirus cases. Here is what you need to know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-2-new-coronavirus-cases-confirmed-in-marin-county.md",
+      "title": "2 New Coronavirus Cases Confirmed In Marin County",
+      "excerpt": "Health officials confirmed two new cases of COVID-19 in Marin County on Saturday, both apparently caused by community spread.",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://patch.com/california/sanrafael/2-new-coronavirus-cases-confirmed-marin-county",
+      "ampWebUrl": "https://patch.com/california/sanrafael/amp/28637200/2-new-coronavirus-cases-confirmed-marin-county",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/sanrafael/amp/28637200/2-new-coronavirus-cases-confirmed-marin-county",
+      "publishedDateTime": "2020-03-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/23562214/20200314/073041/styles/patch_image/public/coronavirus-patch-3___14192134753.jpg?width=984",
+          "width": 711,
+          "height": 533,
+          "title": "2 New Coronavirus Cases Confirmed In Marin County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-coronavirus-live-updates-house-approves-economic-relief-bill-trump-mostly-likely-to-get-tested.md",
+      "title": "Coronavirus live updates: House approves economic relief bill, Trump 'mostly likely' to get tested",
+      "excerpt": "A White House doctor issued a statement late Friday saying the president didn't need to get tested or self-quarantined for coronavirus because he had not exhibited any symptoms. Read more here. An 82-year-old woman with emphysema died Saturday in Manhattan, marking New York state's first death linked to the coronavirus, according to Gov.",
+      "heat": 161,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/03/14/coronavirus-updates-trump-may-get-tested-house-passes-relief-bill/5032571002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5032571002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5032571002",
+      "publishedDateTime": "2020-03-14T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/14/USAT/52490eff-4d5d-4203-9c87-aba0972c96fe-GTY_1212392001.JPG?auto=webp&crop=4654,2618,x0,y237&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus live updates: House approves economic relief bill, Trump 'mostly likely' to get tested",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Political Impact",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-nopd-breaks-up-crowd-outside-new-orleans-bar-hours-after-first-coronavirus-death.md",
+      "title": "NOPD breaks up crowd outside New Orleans bar hours after first coronavirus death",
+      "excerpt": "Despite state officials urging against large gatherings amid the coronavirus, a sea of green clumped together in front of an Irish Channel bar Saturday anyway. Mayor LaToya Cantrell tweeted a screenshot of a live video that showed New Orleans police riding near the crowded Tracey's,",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nola.com/news/coronavirus/article_5d49f3a0-664a-11ea-8189-2749ff3ed612.html",
+      "ampWebUrl": "https://www.nola.com/news/coronavirus/article_5d49f3a0-664a-11ea-8189-2749ff3ed612.amp.html",
+      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/coronavirus/article_5d49f3a0-664a-11ea-8189-2749ff3ed612.amp.html",
+      "publishedDateTime": "2020-03-14T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NOLA.com",
+        "domain": "nola.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/0/e2/0e252e6c-664e-11ea-976b-6b0380e563ae/5e6d6cfad2485.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": "NOPD breaks up crowd outside New Orleans bar hours after first coronavirus death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-two-new-cases-of-covid-19-emerge-in-deschutes-county.md",
+      "title": "Two new cases of COVID-19 emerge in Deschutes County",
+      "excerpt": "The Deschutes County health department announced two new COVID-19 infections Friday, bringing the county's number of presumptive positive cases of the disease caused by the novel coronavirus to three ... Deschutes County is coordinating with the Oregon Health Authority. “Now that laboratory capacity has expanded in Oregon, test results ...",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bendbulletin.com/coronavirus/two-new-cases-of-covid--emerge-in-deschutes-county/article_551157e6-658c-11ea-9072-ef36f1c8dc54.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bulletin",
+        "domain": "bendbulletin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/c/cc/ccc24d9c-9411-5f38-8906-f7f9a7784499/5e6c169d2e3f5.image.jpg?resize=945%2C630",
+          "width": 945,
+          "height": 630,
+          "title": "Two new cases of COVID-19 emerge in Deschutes County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-new-york-gov-cuomo-announces-first-death-from-coronavirus-in-the-state.md",
+      "title": "New York Gov. Cuomo announces first death from coronavirus in the state",
+      "excerpt": "New York saw its first coronavirus-related death this weekend, after a 82-year-old woman who tested positive for the virus died.",
+      "heat": 135,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://thehill.com/blogs/blog-briefing-room/news/487612-new-york-gov-cuomo-announces-first-death-from-coronavirus-in",
+      "ampWebUrl": "https://thehill.com/blogs/blog-briefing-room/news/487612-new-york-gov-cuomo-announces-first-death-from-coronavirus-in?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/487612-new-york-gov-cuomo-announces-first-death-from-coronavirus-in?amp",
+      "publishedDateTime": "2020-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/andrewcuomo_09142018.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "New York Gov. Cuomo announces first death from coronavirus in the state",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-yonkers-mayor-says-city-hall-is-safe-after-positive-coronavirus-test.md",
+      "title": "Yonkers mayor says City Hall is safe after positive coronavirus test",
+      "excerpt": "Yonkers mayor says City Hall is safe after positive coronavirus test The employee is recovering well at home. Check out this story on lohud.com: https://www.lohud.com/story/news/local/westchester/yonkers/2020/03/14/yonkers-mayor-city-hall-safe-after-positive-coronavirus-test/5052244002/",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.lohud.com/story/news/local/westchester/yonkers/2020/03/14/yonkers-mayor-city-hall-safe-after-positive-coronavirus-test/5052244002/",
+      "ampWebUrl": "https://amp.lohud.com/amp/5052244002",
+      "cdnAmpWebUrl": "https://amp-lohud-com.cdn.ampproject.org/c/s/amp.lohud.com/amp/5052244002",
+      "publishedDateTime": "2020-03-14T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal News",
+        "domain": "lohud.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/23/PWES/8da07036-2581-40de-86b3-1560f3e0811f-mv012320mikespano11.JPG?auto=webp&crop=4475,2518,x0,y1985&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Yonkers mayor says City Hall is safe after positive coronavirus test",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-equinox-bethesda-member-tests-positive-for-coronavirus-gym-stays-open.md",
+      "title": "Equinox Bethesda member tests positive for coronavirus, gym stays open",
+      "excerpt": "BETHESDA, Md. — A gym in Bethesda recently had a member test positive for the coronavirus who was at that club on Monday. The gym company, Equinox, said in a statement it won't be closing due to the possible exposure. An email sent to members and employees said a member who visited the club on March 9 tested positive for COVID-19. The gym is ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wusa9.com/article/news/health/coronavirus/equinox-bethesda-member-tests-positive-for-coronavirus-gym-stays-open/65-9ce1c2b4-cd0f-4301-9b60-48f75b476445",
+      "ampWebUrl": "https://www.wusa9.com/amp/article/news/health/coronavirus/equinox-bethesda-member-tests-positive-for-coronavirus-gym-stays-open/65-9ce1c2b4-cd0f-4301-9b60-48f75b476445",
+      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/health/coronavirus/equinox-bethesda-member-tests-positive-for-coronavirus-gym-stays-open/65-9ce1c2b4-cd0f-4301-9b60-48f75b476445",
+      "publishedDateTime": "2020-03-14T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA9",
+        "domain": "wusa9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WUSA/images/283229808/283229808_360x203.jpg",
+          "width": 361,
+          "height": 203,
+          "title": "Equinox Bethesda member tests positive for coronavirus, gym stays open",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-updated-covid-19-updates-uw-employee-tests-positive-for-coronavirus-6-confirmed-cases-in-dane-county.md",
+      "title": "UPDATED: COVID-19 Updates: UW employee tests positive for coronavirus, 6 confirmed cases in Dane County",
+      "excerpt": "Wisconsin has had 27 people test positive for coronavirus, with 26 active cases ... The employee works in the School of Veterinary Medicine. The employee recently traveled to a country with widespread coronavirus transmission. They are now isolated at their home. Public Health Madison & Dane County said they’re identifying close contacts ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://badgerherald.com/news/2020/03/13/covid-19-updates-uw-employee-tests-positive-for-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Badger Herald",
+        "domain": "badgerherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://badgerherald.com/wordpress/wp-content/uploads/2019/11/IMG_3764_50.jpg",
+          "width": 3012,
+          "height": 2011,
+          "title": "UPDATED: COVID-19 Updates: UW employee tests positive for coronavirus, 6 confirmed cases in Dane County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-6-new-coronavirus-cases-in-oregon-1-more-in-lebanon-veterans-home.md",
+      "title": "6 new coronavirus cases in Oregon, 1 more in Lebanon veteran's home",
+      "excerpt": "LEBANON, Ore.-- Oregon health officials announced 6 more identified presumptive positive cases of coronavirus Saturday, bringing the total to 36 identified cases statewide. This includes 3 new cases in Washington County, 2 cases in Deschutes County and 1 additional case in the Oregon Veterans' Home in Lebanon. This is the ninth resident of the ...",
+      "heat": 135,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kezi.com/content/news/6-new-coronavirus-cases-in-Oregon-1-more-in-Lebanon-veterans-home-568804731.html",
+      "ampWebUrl": "http://www.kezi.com/templates/AMP?contentID=568804731",
+      "cdnAmpWebUrl": "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=568804731",
+      "publishedDateTime": "2020-03-14T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KEZI",
+        "domain": "kezi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/images/Coronavirus17.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "6 new coronavirus cases in Oregon, 1 more in Lebanon veteran's home",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-2-uc-san-diego-health-workers-test-positive-for-coronavirus.md",
+      "title": "2 UC San Diego Health workers test positive for coronavirus",
+      "excerpt": "SAN DIEGO — Two workers at UC San Diego Health tested positive for coronavirus and are now in home isolation, health officials said Saturday. Both individuals are health care workers at UC San Diego Health, though their positions were not specified. Officials said both patients tested positive “due to exposure and infection in the community ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fox5sandiego.com/news/local-news/2-uc-san-diego-health-workers-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://fox5sandiego.com/news/local-news/2-uc-san-diego-health-workers-test-positive-for-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/local-news/2-uc-san-diego-health-workers-test-positive-for-coronavirus/amp/",
+      "publishedDateTime": "2020-03-14T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5 San Diego",
+        "domain": "fox5sandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://fox5sandiego.com/wp-content/uploads/sites/15/2019/08/ucsd-health.jpeg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "2 UC San Diego Health workers test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-3rd-death-confirmed-in-florida-as-coronavirus-spreads.md",
+      "title": "3rd Death Confirmed in Florida as Coronavirus Spreads",
+      "excerpt": "Florida Gov. Ron DeSantis speaks to reporters at the state emergency operations center in Tallahassee, Fla., Saturday, March 14, 2020. The governor on Saturday banned most visits to nursing homes statewide as he acknowledged the coronavirus has likely spread into the general population.",
+      "heat": 135,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/florida/articles/2020-03-14/florida-to-still-provide-children-meals-as-schools-close",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-virginia-governor-announces-states-first-death-from-coronavirus.md",
+      "title": "Virginia governor announces state's first death from coronavirus",
+      "excerpt": "Gov. Ralph Northam on Saturday announced Virginia’s first death from the coronavirus. “Pam and I were deeply saddened to learn that a Virginian has died from COVID-19, and we grieve for everyone this virus has touched around the world.” Northam said in a statement. The patient was a male in his 70s who acquired the virus from an unknown ...",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/03/14/virginia-first-coronavirus-death-129597",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/03/14/virginia-first-coronavirus-death-129597",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/03/14/virginia-first-coronavirus-death-129597",
+      "publishedDateTime": "2020-03-14T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/99/2e/c72c6a9c43d9a31902e17bd3b752/190607-northam-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Virginia governor announces state's first death from coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-woman-82-recorded-as-new-yorks-first-coronavirus-death.md",
+      "title": "Woman, 82, Recorded as New York's First Coronavirus Death",
+      "excerpt": "New York officials say the state has reported its first death in the coronavirus pandemic, an 82-year-old woman who had advanced emphysema.",
+      "heat": 125,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/new-york/articles/2020-03-14/new-york-reports-first-death-from-new-coronavirus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-3rd-positive-virus-test-in-maine-where-schools-closing.md",
+      "title": "3rd Positive Virus Test in Maine, Where Schools Closing",
+      "excerpt": "Maine health officials say the third person to test presumptively positive for the new coronavirus in the state is a woman in her 40s from Cumberland County who was in close household contact of another person who received a positive test.",
+      "heat": 120,
+      "tags": [
+        "US-ME"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/maine/articles/2020-03-14/some-maine-schools-enact-closures-more-could-follow",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-jazzs-rudy-gobert-donates-500000-to-arena-employees-coronavirus-related-services.md",
+      "title": "Jazz's Rudy Gobert donates $500,000 to arena employees, coronavirus-related services",
+      "excerpt": "Utah Jazz forward Rudy Gobert has donated $500,000 to support health services in the U.S. and France and employees of the team impacted by the coronavirus.",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.houstonchronicle.com/sports/rockets/article/Jazz-Rudy-Gobert-donate-500-000-coronavirus-15131767.php",
+      "ampWebUrl": "https://www.houstonchronicle.com/sports/rockets/amp/Jazz-Rudy-Gobert-donate-500-000-coronavirus-15131767.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/sports/rockets/amp/Jazz-Rudy-Gobert-donate-500-000-coronavirus-15131767.php",
+      "publishedDateTime": "2020-03-14T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/07/64/19168573/75/rawImage.jpg",
+          "width": 2048,
+          "height": 1366,
+          "title": "Jazz's Rudy Gobert donates $500,000 to arena employees, coronavirus-related services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 58
+}

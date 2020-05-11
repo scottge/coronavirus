@@ -1,0 +1,155 @@
+{
+  "page": 13,
+  "value": [
+    {
+      "path": "_news/2020-04-28-sen-loeffler-calls-to-shift-supply-chains-from-china-with-plan-to-boost-economy.md",
+      "title": "Sen. Loeffler calls to shift supply chains from China with plan to boost economy",
+      "excerpt": "Loeffler's plan is called the USA Restoring & Igniting the Strength of our Economy (USA RISE), and addresses American reliance on Chinese supplies, and says that the \" U.S. must break its dependency on China and reinvest in our domestic manufacturing capacity.",
+      "heat": 125,
+      "tags": [
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/loeffler-supply-chains-china",
+      "ampWebUrl": "https://www.foxnews.com/politics/loeffler-supply-chains-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/loeffler-supply-chains-china.amp",
+      "publishedDateTime": "2020-04-28T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/Kelly-Loeffler-getty-images.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Sen. Loeffler calls to shift supply chains from China with plan to boost economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-shanghai-gold-boss-wants-super-sovereign-currency-for-post-crisis-times.md",
+      "title": "Shanghai gold boss wants super-sovereign currency for post-crisis times",
+      "excerpt": "The president of the Shanghai Gold Exchange (SGE) called for a new super-sovereign currency to offset the global dominance of the U.S. dollar, which he predicted would decline long term, while gold prices rally.",
+      "heat": 100,
+      "tags": [
+        "China-Shanghai",
+        "CN",
+        "CN-SH"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-china-gold-currency-idUSKCN22A1FY",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22A1FY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22A1FY",
+      "publishedDateTime": "2020-04-28T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200428&t=2&i=1516711030&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3R0TY",
+          "width": 801,
+          "height": 545,
+          "title": "Shanghai gold boss wants super-sovereign currency for post-crisis times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-trump-says-china-could-have-stopped-coronavirus-beijing-decries-shifting-of-blame.md",
+      "title": "Trump Says China Could Have Stopped Coronavirus, Beijing Decries Shifting of Blame",
+      "excerpt": "U.S. President Donald Trump said on Monday that China could have stopped the coronavirus before it swept the globe and that his administration was conducting \"serious investigations\" into what happened.",
+      "heat": 129,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "China-Beijing",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/04/28/world/asia/28reuters-health-coronavirus-usa-china-trump.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Trump Says China Could Have Stopped Coronavirus, Beijing Decries Shifting of Blame",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": null
+}

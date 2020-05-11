@@ -1,0 +1,25 @@
+taxonomy: tag
+_id: virology
+definition: "Virology is the study of viral – submicroscopic, parasitic particles of genetic material contained in a protein coat – and virus-like agents. It focuses on the following aspects of viruses: their structure, classification and evolution, their ways to infect and exploit host cells for reproduction, their interaction with host organism physiology and immunity, the diseases they cause, the techniques to isolate and culture them, and their use in research and therapy. Virology is considered to be a subfield of microbiology or of medicine."
+parents:
+  - artificial-intelligence
+  - machine-learning
+  - deep-learning
+description: PyTorch is a deep learning framework that implements a dynamic computational graph, which allows you to change the way your neural network behaves on the fly and capable of performing backward automatic differentiation.
+regex:
+services:
+  news: 
+    url: https://insideout.app/ai/api/news/pytorch/
+    volume: 
+  learning: 
+    url: https://insideout.app/ai/api/learning/pytorch/
+    volume: 
+  projects: 
+    url: https://insideout.app/ai/api/projects/pytorch/
+    volume: 
+  people:
+    url: https://insideout.app/ai/api/people/pytorch/
+    volume: 
+  companies: 
+    url: https://insideout.app/ai/api/companies/pytorch/
+    volume: 

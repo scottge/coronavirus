@@ -1,0 +1,991 @@
+{
+  "page": 60,
+  "value": [
+    {
+      "path": "_news/2020-05-04-japans-health-system-exposed-as-empty-hospitals-reject-covid-19-patients.md",
+      "title": "Japan’s health system exposed as empty hospitals reject Covid-19 patients",
+      "excerpt": "In some cases, patients have been turned away from dozens of hospitals, even though Japan, with fewer than 15,000 cases, has relatively few Covid-19 patients. It also has more hospital beds a head than any other country in the world: twice as many as France and almost five times as many as the US.",
+      "heat": 129,
+      "tags": [
+        "JP"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/b0245aa6-871d-4acf-bce0-80a5aac163d6",
+      "ampWebUrl": "https://amp.ft.com/content/b0245aa6-871d-4acf-bce0-80a5aac163d6",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b0245aa6-871d-4acf-bce0-80a5aac163d6",
+      "publishedDateTime": "2020-05-04T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F44a0def4-bb5a-4166-94cc-8d60ff4805e4.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "Japan’s health system exposed as empty hospitals reject Covid-19 patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Japan",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-priorities-usa-challenges-florida-voting-in-light-of-coronavirus.md",
+      "title": "Priorities USA challenges Florida voting in light of coronavirus",
+      "excerpt": "A Democratic super PAC sued Florida Gov. Ron DeSantis and other state officials on Monday, challenging voting laws it argues could limit turnout in the nation’s biggest swing state this fall. The lawsuit joins a persistent and ongoing legal battle over voting in a state that will be key to President Donald Trump’s reelection.",
+      "heat": 130,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/05/04/priorities-usa-florida-voting-coronavirus-234384",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/05/04/priorities-usa-florida-voting-coronavirus-234384",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/05/04/priorities-usa-florida-voting-coronavirus-234384",
+      "publishedDateTime": "2020-05-04T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/8a/de/8fad340547ffbedb81e075495097/200504-desantis-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Priorities USA challenges Florida voting in light of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-democrats-aim-to-squeeze-republicans-on-next-coronavirus-relief-package.md",
+      "title": "Democrats aim to squeeze Republicans on next coronavirus relief package",
+      "excerpt": "Top House Democrats on Monday signaled they are forging ahead with the next sweeping coronavirus relief package, aiming to up the pressure on GOP leaders who have rejected Democratic priorities in previous aid bills.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.com/news/2020/05/04/democrats-house-coronavirus-relief-234688",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/05/04/democrats-house-coronavirus-relief-234688",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/05/04/democrats-house-coronavirus-relief-234688",
+      "publishedDateTime": "2020-05-04T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.politico.com/ba/c7/e0677b1b49b4bdc799c2e09f2d87/200504-pelosi-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": "Democrats aim to squeeze Republicans on next coronavirus relief package",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Political Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-floridas-covid-19-testing-policy-an-unmitigated-disaster-for-residents-of-elder-homes.md",
+      "title": "Florida’s COVID-19 testing policy an ‘unmitigated disaster’ for residents of elder homes",
+      "excerpt": "Gil Schwartz, the former longtime CBS corporate communications maven who moonlighted as a successful humor columnist and author, died Saturday at his home in Santa Monica, Calif. He was 68.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/national/florida-s-covid-19-testing-policy-an-unmitigated-disaster-for-residents-of-elder-homes/article_3b96f7d4-2db8-524d-ad1b-b676209fc08a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Janesville Gazette",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Florida’s COVID-19 testing policy an ‘unmitigated disaster’ for residents of elder homes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-at-least-116-oklahoma-meat-plant-workers-positive-for-virus.md",
+      "title": "At least 116 Oklahoma meat plant workers positive for virus",
+      "excerpt": "At least 116 employees at an Oklahoma pork processing plant have tested positive for coronavirus, Seaboard Foods spokesman David Eahart said in a statement Monday. The plant in Guymon has about 2,700 employees who are advised to stay home if sick,",
+      "heat": null,
+      "tags": [
+        "US-OK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/At-least-116-Oklahoma-meat-plant-workers-positive-15246277.php",
+      "ampWebUrl": "https://www.chron.com/news/amp/At-least-116-Oklahoma-meat-plant-workers-positive-15246277.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/At-least-116-Oklahoma-meat-plant-workers-positive-15246277.php",
+      "publishedDateTime": "2020-05-04T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "At least 116 Oklahoma meat plant workers positive for virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-italy-china-your-monday-briefing.md",
+      "title": "Coronavirus, Italy, China: Your Monday Briefing",
+      "excerpt": "Good morning. We’re covering Italy starting to reopen, China facing a backlash and why some places fare better with outbreaks than others. Italy, which has had the deadliest outbreak in Europe, will enter a reopening phase today,",
+      "heat": 170,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/03/briefing/coronavirus-italy-china.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/03/briefing/coronavirus-italy-china.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/03/briefing/coronavirus-italy-china.amp.html",
+      "publishedDateTime": "2020-05-04T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/04/world/04ambriefing-europe-promo/04ambriefing-europe-pix1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "Coronavirus, Italy, China: Your Monday Briefing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-denton-co-reports-3-new-cases-of-covid-19-expects-drive-thru-testing-results-soon.md",
+      "title": "Denton Co. Reports 3 New Cases of COVID-19, Expects Drive-Thru Testing Results Soon",
+      "excerpt": "Denton County officials reported just three additional of the new coronavirus Monday, it’s smallest increase since April 19.",
+      "heat": 144,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcdfw.com/news/coronavirus/denton-co-reports-3-new-cases-of-covid-19-expects-drive-thru-testing-results-soon/2363187/",
+      "ampWebUrl": "https://www.nbcdfw.com/news/coronavirus/denton-co-reports-3-new-cases-of-covid-19-expects-drive-thru-testing-results-soon/2363187/?amp",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/coronavirus/denton-co-reports-3-new-cases-of-covid-19-expects-drive-thru-testing-results-soon/2363187/?amp",
+      "publishedDateTime": "2020-05-04T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2019/09/Denton-County-public-health.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Denton Co. Reports 3 New Cases of COVID-19, Expects Drive-Thru Testing Results Soon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-nj-high-school-sports-spring-season-canceled-as-schools-will-stay-closed.md",
+      "title": "Coronavirus: NJ high school sports spring season canceled as schools will stay closed",
+      "excerpt": "The announcement by Gov. Murphy that schools are closed for the rest of the academic year ends hope for a spring sports season.",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.app.com/story/sports/high-school/2020/05/04/coronavirus-nj-high-school-sports-apparently-canceled/2985638001/",
+      "ampWebUrl": "https://amp.app.com/amp/2985638001",
+      "cdnAmpWebUrl": "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/2985638001",
+      "publishedDateTime": "2020-05-04T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "app.com",
+        "domain": "app.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/5941b32339e08ee3ab5c5a30aabf8df6c06f2e50/c=0-236-4500-2767/local/-/media/2015/07/12/AsburyPark/B9318038471Z.1_20150712215631_000_GL1BADAA9.3-0.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus: NJ high school sports spring season canceled as schools will stay closed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-california-eases-covid-19-restrictions-allowing-some-businesses-to-reopen.md",
+      "title": "California eases Covid-19 restrictions, allowing some businesses to reopen",
+      "excerpt": "Shops selling anything that a customer can purchase through curbside pickup will be able operate again, with modifications",
+      "heat": 113,
+      "tags": [
+        "US-CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/us-news/2020/may/04/california-lockdown-business-reopen-coronavirus",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/may/04/california-lockdown-business-reopen-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/may/04/california-lockdown-business-reopen-coronavirus",
+      "publishedDateTime": "2020-05-04T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c66cce41e5feecf65f3fabbcdd7f78d9ff3178c3/119_0_4561_2737/master/4561.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9612b88b2a887baebbd690366bcb44be",
+          "width": 600,
+          "height": 360,
+          "title": "California eases Covid-19 restrictions, allowing some businesses to reopen",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-weighing-swedens-coronavirus-model.md",
+      "title": "Weighing Sweden’s Coronavirus Model",
+      "excerpt": "The left rushes to condemn an experiment that’s far from over.",
+      "heat": 105,
+      "tags": [
+        "Sweden",
+        "SE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/weighing-swedens-coronavirus-model-11588631127",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/weighing-swedens-coronavirus-model-11588631127",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/weighing-swedens-coronavirus-model-11588631127",
+      "publishedDateTime": "2020-05-04T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183489/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Weighing Sweden’s Coronavirus Model",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-in-florida-25-more-deaths-in-miami-dade-with-numbers-predicted-to-rise.md",
+      "title": "Coronavirus in Florida: 25 more deaths in Miami-Dade, with numbers predicted to rise",
+      "excerpt": "Coronavirus projections from the IHME and the Trump administration expect COVID-19 numbers to rise amid relaxed social distancing rules.",
+      "heat": null,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.local10.com/news/local/2020/05/04/coronavirus-in-florida-latest-numbers-as-state-begins-reopening/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPLG",
+        "domain": "local10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-at-least-13-workers-test-positive-for-covid-19-at-astoria-seafood-processing-plant.md",
+      "title": "At least 13 workers test positive for COVID-19 at Astoria seafood processing plant",
+      "excerpt": "Now, Bornstein Seafood’s entire workforce is being tested for the virus while its Astoria facilities are shut down.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kgw.com/article/news/health/coronavirus/workers-test-positive-for-covid-19-at-astoria-seafood-processing-plant/283-0001d0ba-9fa4-443a-9de1-9123784984fb",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KGW8",
+        "domain": "kgw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.kgw.com/assets/KGW/images/33380208-3270-47da-b154-765cfb0e8a85/33380208-3270-47da-b154-765cfb0e8a85_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "At least 13 workers test positive for COVID-19 at Astoria seafood processing plant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-judge-questions-massachusetts-closure-of-gun-stores-due-to-covid-19.md",
+      "title": "Judge questions Massachusetts closure of gun stores due to COVID-19",
+      "excerpt": "A federal judge on Monday suggested that orders by Massachusetts' governor requiring gun shops and shooting ranges to close to slow the spread of the coronavirus had harmed the constitutional rights of citizens seeking to possess firearms.",
+      "heat": 105,
+      "tags": [
+        "US-MA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-guns/judge-questions-massachusetts-closure-of-gun-stores-due-to-covid-19-idUSL1N2CM2C2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2CM2C2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2CM2C2",
+      "publishedDateTime": "2020-05-04T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Judge questions Massachusetts closure of gun stores due to COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-worker-at-quincy-walmart-dies-from-coronavirus-10-others-also-test-positive.md",
+      "title": "Worker at Quincy Walmart Dies From Coronavirus; 10 Others Also Test Positive",
+      "excerpt": "Eleven employees of a Walmart in Quincy, Massachusetts, have tested positive for coronavirus, and one of those workers has died. Ruth Jones, Quincy’s commissioner of health, confirmed the cases Monday afternoon.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.necn.com/news/coronavirus/worker-at-quincy-walmart-dies-from-coronavirus-10-others-also-test-positive/2267835/",
+      "ampWebUrl": "https://www.necn.com/news/coronavirus/worker-at-quincy-walmart-dies-from-coronavirus-10-others-also-test-positive/2267835/?amp",
+      "cdnAmpWebUrl": "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/coronavirus/worker-at-quincy-walmart-dies-from-coronavirus-10-others-also-test-positive/2267835/?amp",
+      "publishedDateTime": "2020-05-04T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NECN",
+        "domain": "necn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.necn.com/2019/09/Quincy-Walmart-050420.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Worker at Quincy Walmart Dies From Coronavirus; 10 Others Also Test Positive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-updates-beaumont-reports-8-new-cases-67-patients-recovered.md",
+      "title": "Coronavirus updates: Beaumont reports 8 new cases, 67 patients recovered",
+      "excerpt": "World leaders -- but not the US or Russia -- have pledged billions of dollars to help fund research into a coronavirus vaccine. Carnival Cruise Line on Monday announced plans to phase a few North American services this summer,",
+      "heat": 129,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.12newsnow.com/article/news/health/coronavirus/beaumont-port-arthur-texas-coronavirus-covid-19-updates-may-4/502-0cbe69f9-86d5-490d-8f1a-3f10d8c389fc",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "12 NEWS",
+        "domain": "12newsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.12newsnow.com/assets/WTSP/images/b7f77002-7366-4d94-b7a9-4daf8c610ce7/b7f77002-7366-4d94-b7a9-4daf8c610ce7_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Coronavirus updates: Beaumont reports 8 new cases, 67 patients recovered",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-live-blog-san-diego-county-reports-93-new-coronavirus-cases-5-deaths.md",
+      "title": "Live Blog: San Diego County Reports 93 New Coronavirus Cases, 5 Deaths",
+      "excerpt": "This is a breaking news blog for all of the latest updates about t he coronavirus pandemic. Get our complete coronavirus coverage here →",
+      "heat": 115,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kpbs.org/news/2020/may/04/coronavirus-san-diego-live-updates-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPBS",
+        "domain": "kpbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-update-nj-schools-to-remain-closed-april-deaths-soar-142.md",
+      "title": "Coronavirus update: N.J. schools to remain closed, April deaths soar 142%",
+      "excerpt": "Gov. Phil Murphy said residents passed an “important test” by complying with social distancing rules as parks reopened.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://whyy.org/articles/coronavirus-update-n-j-schools-to-remain-closed-through-june/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHYY",
+        "domain": "whyy.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://whyy.org/wp-content/uploads/2020/04/2020-04-08-pool-m-mancuso-phil-murphy-trenton-war-memorial-governors-coronavirus-briefing-3-e1588608791605.jpg",
+          "width": 2100,
+          "height": 1475,
+          "title": "Coronavirus update: N.J. schools to remain closed, April deaths soar 142%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-covid-19-live-updates-dallas-county-reports-237-new-cases-its-highest-daily-total.md",
+      "title": "COVID-19 Live Updates: Dallas County Reports 237 New Cases, Its Highest Daily Total",
+      "excerpt": "Get live updates throughout the day on how COVID-19 , the illness caused by the novel coronavirus, is affecting North Texas.",
+      "heat": 104,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.keranews.org/post/covid-19-live-updates-dallas-county-reports-237-new-cases-its-highest-daily-total",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KERA News",
+        "domain": "keranews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-trader-joes-store-workers-test-positive-in-san-francisco.md",
+      "title": "Coronavirus: Trader Joe’s store workers test positive in San Francisco",
+      "excerpt": "At least two employees tested positive for COVID-19, including one who worked at the SoMa store on Friday, the Chronicle has learned.",
+      "heat": 125,
+      "tags": [
+        "US-CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.sfchronicle.com/business/article/Coronavirus-Trader-Joe-s-store-workers-test-15246193.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/71/61/19373170/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1316,
+          "title": "Coronavirus: Trader Joe’s store workers test positive in San Francisco",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-model-nearly-doubles-us-death-projection-to-134000-fatalities.md",
+      "title": "Coronavirus Model Nearly Doubles U.S. Death Projection to 134,000 Fatalities",
+      "excerpt": "New York, New Jersey, Pennsylvania, Massachusetts and Michigan are projected to have the five highest increases in death tolls through August, according to the model.",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/national-news/articles/2020-05-04/coronavirus-model-nearly-doubles-us-death-projection-to-134-000-fatalities",
+      "ampWebUrl": "https://www.usnews.com/news/national-news/articles/2020-05-04/coronavirus-model-nearly-doubles-us-death-projection-to-134-000-fatalities?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/national-news/articles/2020-05-04/coronavirus-model-nearly-doubles-us-death-projection-to-134-000-fatalities?context=amp",
+      "publishedDateTime": "2020-05-04T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-trump-steps-up-effort-to-blame-china-for-coronavirus.md",
+      "title": "Trump steps-up effort to blame China for coronavirus",
+      "excerpt": "The Trump administration is escalating an effort to blame China for the novel coronavirus pandemic as global pressure grows on Beijing to cooperate with an investigation into the origins of the outbreak.",
+      "heat": 125,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://thehill.com/homenews/administration/496047-trump-steps-up-effort-to-blame-china-for-coronavirus",
+      "ampWebUrl": "https://thehill.com/homenews/administration/496047-trump-steps-up-effort-to-blame-china-for-coronavirus?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/496047-trump-steps-up-effort-to-blame-china-for-coronavirus?amp",
+      "publishedDateTime": "2020-05-04T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_jinpingxi_050420getty_split_china.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Trump steps-up effort to blame China for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-illinois-may-reopen-region-by-region-but-not-in-a-typical-way.md",
+      "title": "Illinois May Reopen Region-by-Region, But Not in a Typical Way",
+      "excerpt": "Illinois Gov. J.B. Pritzker said Monday that he’s considering reopening the state region-by-region, but not by using a typical approach. At his daily coronavirus news conference, Pritzker said it’s important to think of regions not in the normal sense of the word,",
+      "heat": 110,
+      "tags": [
+        "US-IL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcchicago.com/news/local/illinois-may-reopen-region-by-region-but-not-in-a-typical-way/2266348/",
+      "ampWebUrl": "https://www.nbcchicago.com/news/local/illinois-may-reopen-region-by-region-but-not-in-a-typical-way/2266348/?amp",
+      "cdnAmpWebUrl": "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/news/local/illinois-may-reopen-region-by-region-but-not-in-a-typical-way/2266348/?amp",
+      "publishedDateTime": "2020-05-04T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Chicago",
+        "domain": "nbcchicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcchicago.com/2019/09/pritzker-newser-monday.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Illinois May Reopen Region-by-Region, But Not in a Typical Way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-insurance-in-canada-coronavirus-covid-19-sector-impact.md",
+      "title": "Insurance in Canada: Coronavirus (COVID-19) Sector Impact",
+      "excerpt": "Sector Impact Summary Read the full report:  'Insurance in Canada: Coronavirus (COVID-19) Sector Impact' report provides brief review of the key trends and evolving developments that shape the impact of the COVID-19 outbreak in the Canadian insurance industry.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insurance-in-canada-coronavirus-covid-19-sector-impact-1029162376",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Economic Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-the-daily-coronavirus-update-571-new-cases-walz-bars-debt-collectors-from-taking-covid-19-relief-funds.md",
+      "title": "The daily coronavirus update: 571 new cases; Walz bars debt collectors from taking COVID-19 relief funds",
+      "excerpt": "For the foreseeable future, MinnPost will be providing daily updates on coronavirus in Minnesota, published following the press phone call conducted by the Minnesota Department of Health (MDH) with Gov.",
+      "heat": 108,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.minnpost.com/health/2020/05/the-daily-coronavirus-update-571-new-cases-walz-bars-debt-collectors-from-taking-covid-19-relief-funds/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MinnPost",
+        "domain": "minnpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-three-new-covid-19-cases-in-genesee-and-orleans-counties-one-new-case-in-wyoming-county.md",
+      "title": "Three new COVID-19 cases in Genesee and Orleans counties; one new case in Wyoming County",
+      "excerpt": "Orleans County received two new positive cases of COVID-19 for a total of 102 positive cases. One was from Ridgeway and the other is from The Villages of Orleans Health and Rehabi",
+      "heat": null,
+      "tags": [
+        "US-WY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thelcn.com/news/local/three-new-covid-19-cases-in-genesee-and-orleans-counties-one-new-case-in-wyoming/article_453e7771-49e9-54e2-be35-3708a0cb5043.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Livingston County News",
+        "domain": "thelcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/thelcn.com/content/tncms/assets/v3/editorial/1/b0/1b0fe629-a76b-5e8e-a5a1-97697e698d63/5e6a247aa0590.image.jpg?crop=1488%2C837%2C0%2C111&resize=1120%2C630&order=crop%2Cresize",
+          "width": 1120,
+          "height": 630,
+          "title": "Three new COVID-19 cases in Genesee and Orleans counties; one new case in Wyoming County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 61
+}

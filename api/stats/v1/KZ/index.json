@@ -1,0 +1,693 @@
+{
+  "location": {
+    "long": 66.923684,
+    "countryOrRegion": "Kazakhstan",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "KZ",
+    "lat": 48.019573
+  },
+  "updatedDateTime": "2020-05-10T05:45:39.9541964Z",
+  "stats": {
+    "totalConfirmedCases": 4975,
+    "newlyConfirmedCases": 141,
+    "totalDeaths": 31,
+    "newDeaths": 0,
+    "totalRecoveredCases": 1776,
+    "newlyRecoveredCases": 145,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 35,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 37,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 49,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 52,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 54,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 60,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 62,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 79,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 97,
+        "deaths": 3,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 124,
+        "deaths": 3,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 150,
+        "deaths": 1,
+        "recovered": 3
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 228,
+        "deaths": 1,
+        "recovered": 16
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 284,
+        "deaths": 1,
+        "recovered": 20
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 325,
+        "deaths": 2,
+        "recovered": 22
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 369,
+        "deaths": 3,
+        "recovered": 24
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 402,
+        "deaths": 3,
+        "recovered": 26
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 448,
+        "deaths": 3,
+        "recovered": 28
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 464,
+        "deaths": 6,
+        "recovered": 29
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 531,
+        "deaths": 5,
+        "recovered": 36
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 584,
+        "deaths": 6,
+        "recovered": 42
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 670,
+        "deaths": 6,
+        "recovered": 46
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 704,
+        "deaths": 6,
+        "recovered": 51
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 727,
+        "deaths": 7,
+        "recovered": 54
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 802,
+        "deaths": 9,
+        "recovered": 60
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 840,
+        "deaths": 10,
+        "recovered": 64
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 865,
+        "deaths": 10,
+        "recovered": 81
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 961,
+        "deaths": 11,
+        "recovered": 99
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 1179,
+        "deaths": 14,
+        "recovered": 138
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 1267,
+        "deaths": 14,
+        "recovered": 203
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 1295,
+        "deaths": 16,
+        "recovered": 240
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 1470,
+        "deaths": 17,
+        "recovered": 285
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 1591,
+        "deaths": 17,
+        "recovered": 347
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 1615,
+        "deaths": 17,
+        "recovered": 377
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 1735,
+        "deaths": 19,
+        "recovered": 401
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 1949,
+        "deaths": 19,
+        "recovered": 447
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 2025,
+        "deaths": 19,
+        "recovered": 489
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 2191,
+        "deaths": 19,
+        "recovered": 515
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 2334,
+        "deaths": 22,
+        "recovered": 560
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 2482,
+        "deaths": 25,
+        "recovered": 604
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 2601,
+        "deaths": 25,
+        "recovered": 646
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 2780,
+        "deaths": 26,
+        "recovered": 682
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 2950,
+        "deaths": 26,
+        "recovered": 725
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 3027,
+        "deaths": 26,
+        "recovered": 774
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 3205,
+        "deaths": 26,
+        "recovered": 819
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 3504,
+        "deaths": 26,
+        "recovered": 866
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 3680,
+        "deaths": 26,
+        "recovered": 925
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 3857,
+        "deaths": 26,
+        "recovered": 995
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 3964,
+        "deaths": 27,
+        "recovered": 1084
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 4121,
+        "deaths": 29,
+        "recovered": 1173
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 4277,
+        "deaths": 29,
+        "recovered": 1279
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 4502,
+        "deaths": 30,
+        "recovered": 1408
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 4578,
+        "deaths": 30,
+        "recovered": 1518
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 4834,
+        "deaths": 31,
+        "recovered": 1631
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 4975,
+        "deaths": 31,
+        "recovered": 1776
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": 66.923684,
+          "countryOrRegion": "Kazakhstan",
+          "provinceOrState": null,
+          "county": null,
+          "isoCode": "KZ",
+          "lat": 48.019573
+        },
+        "totalConfirmedCases": 4975,
+        "newlyConfirmedCases": 141,
+        "totalDeaths": 31,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1776,
+        "newlyRecoveredCases": 145
+      }
+    ]
+  }
+}

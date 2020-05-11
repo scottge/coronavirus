@@ -1,0 +1,996 @@
+{
+  "page": 117,
+  "value": [
+    {
+      "path": "_news/2020-04-29-the-us-coronavirus-death-toll-surpasses-american-deaths-from-the-vietnam-war.md",
+      "title": "The US coronavirus death toll surpasses American deaths from the Vietnam War",
+      "excerpt": "\"We're in war,\" President Donald Trump proclaimed at a White House news conference last week. \"I call it the 'invisible enemy.' That's the war, and it's a dangerous war.\"",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/28/the-us-coronavirus-death-toll-surpasses-american-casualties-from-the-vietnam-war.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-china-mounts-aggressive-defense-to-calls-for-coronavirus-compensation.md",
+      "title": "China Mounts Aggressive Defense to Calls for Coronavirus Compensation",
+      "excerpt": "Beijing has adopted a “no-holds barred” diplomatic push to quash criticism of its handling of the outbreak and to fend off efforts, including by President Trump, to hold it financially accountable.",
+      "heat": 105,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/04/28/world/asia/coronavirus-china-compensation.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-north-carolina-pug-becomes-first-us-dog-diagnosed-with-coronavirus.md",
+      "title": "North Carolina pug becomes first U.S. dog diagnosed with coronavirus",
+      "excerpt": "A pug living in a North Carolina home with three people who have tested positive for coronavirus became the first U.S. dog diagnosed with the COVID-19 respiratory illness, the American Humane Society said on Tuesday.",
+      "heat": 105,
+      "tags": [
+        "US-NC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-dog-idUSKCN22B001",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22B001",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22B001",
+      "publishedDateTime": "2020-04-28T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516801968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3S001",
+          "width": 408,
+          "height": 545,
+          "title": "North Carolina pug becomes first U.S. dog diagnosed with coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-indiana-reports-1st-death-of-prison-guard-with-coronavirus.md",
+      "title": "Indiana Reports 1st Death of Prison Guard With Coronavirus",
+      "excerpt": "The plant will temporarily close its meatpacking plant in north-central Indiana after several employees tested positive for COVID-19. (AP Photo/Darron Cummings) The Associated Press INDIANAPOLIS (AP) — Indiana ’s prison system has reported the first death of a guard after contracting the coronavirus.",
+      "heat": 125,
+      "tags": [
+        "US-IN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/indiana/articles/2020-04-27/indiana-reports-1st-death-of-prison-guard-with-coronavirus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-oregon-reports-7-new-covid-19-death-31-new-cases.md",
+      "title": "Oregon reports 7 new COVID-19 death, 31 new cases",
+      "excerpt": "PORTLAND — COVID-19 has claimed seven more lives in Oregon, raising the state’s death toll from 92 to 99, the Oregon Health Authority reported at 8 a.m. Tuesday.",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://theworldlink.com/news/local/oregon-reports-7-new-covid-19-death-31-new-cases/article_24f4c41c-899f-11ea-a834-5f00590bb027.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The World",
+        "domain": "theworldlink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-summer-olympics-in-2021-exceedingly-difficult-without-a-coronavirus-vaccine.md",
+      "title": "Summer Olympics in 2021? ‘Exceedingly Difficult’ Without a Coronavirus Vaccine",
+      "excerpt": "A Japanese medical authority has raised doubt about staging the Games, even a year later than originally planned, unless an effective vaccine has been developed.",
+      "heat": 131,
+      "tags": [
+        "JP"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/04/28/sports/olympics/coronavirus-olympics-vaccine-tokyo.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/04/28/sports/olympics/coronavirus-olympics-vaccine-tokyo.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/28/sports/olympics/coronavirus-olympics-vaccine-tokyo.amp.html",
+      "publishedDateTime": "2020-04-28T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/28/sports/28virus-olympics1/merlin_171987339_f69d7586-0195-4f7d-97e7-0d6dfca40b3b-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Summer Olympics in 2021? ‘Exceedingly Difficult’ Without a Coronavirus Vaccine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Japan",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-spain-aims-for-end-june-return-to-normality-to-phase-out-coronavirus-lockdown.md",
+      "title": "Spain aims for end-June return to normality, to phase out coronavirus lockdown",
+      "excerpt": "Spanish Prime Minister Pedro Sanchez announced on Tuesday a four-phase plan to lift the lockdown enforced on the nation to control one of the world's worst outbreaks of the coronavirus with an aim to return to normality by the end of June.",
+      "heat": 111,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-spain-sanchez-idUSKCN22A2RX",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22A2RX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22A2RX",
+      "publishedDateTime": "2020-04-28T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200428&t=2&i=1516757022&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3R1V3",
+          "width": 784,
+          "height": 545,
+          "title": "Spain aims for end-June return to normality, to phase out coronavirus lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-dallas-meat-plant-workers-say-company-refused-to-close-despite-covid-19-outbreak.md",
+      "title": "Dallas meat plant workers say company refused to close despite COVID-19 outbreak",
+      "excerpt": "A community activist representing workers at a Dallas meat processing plant says the company “accelerated production” even after a COVID-19",
+      "heat": null,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.dallasnews.com/business/local-companies/2020/04/28/dallas-meat-plant-workers-say-company-refused-to-close-despite-covid-19-outbreak/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-lincoln-rivian-cancel-electric-suv-plans-citing-covid-19-impact.md",
+      "title": "Lincoln, Rivian Cancel Electric SUV Plans, Citing COVID-19 Impact",
+      "excerpt": "Given the current environment, Lincoln and Rivian have decided not to pursue development of a fully electric vehicle based on Rivian’s skateboard platform,” according to a statement issued by a Lincoln spokesperson.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/greggardner/2020/04/28/lincoln-rivian-cancel-electric-suv-plans-citing-covid-19-impact/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-oklahoma-to-test-all-nursing-home-residents-staffers-for-coronavirus.md",
+      "title": "Oklahoma to test all nursing home residents, staffers for coronavirus",
+      "excerpt": "The state also plans to distribute five to seven days of personal protective equipment to all nursing homes this week.",
+      "heat": 105,
+      "tags": [
+        "US-OK"
+      ],
+      "type": "article",
+      "webUrl": "https://oklahoman.com/article/5661179/oklahoma-to-test-all-nursing-home-residents-staffers-for-coronavirus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oklahoman",
+        "domain": "oklahoman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-ups-will-start-delivering-cvs-prescriptions-by-drone-in-florida-heres-how-it-works.md",
+      "title": "UPS will start delivering CVS prescriptions by drone in Florida — here's how it works",
+      "excerpt": "This is the latest installment in the competition between UPS, FedEx, Amazon, and Alphabet to launch regular drone deliveries.",
+      "heat": null,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/27/coronavirus-cvs-ups-delivering-prescriptions-with-drones.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/27/coronavirus-cvs-ups-delivering-prescriptions-with-drones.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/27/coronavirus-cvs-ups-delivering-prescriptions-with-drones.html",
+      "publishedDateTime": "2020-04-28T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106507698-1587997110217screenshot2020-04-27at10.18.11am.png?v=1587997157",
+          "width": 1192,
+          "height": 622,
+          "title": "UPS will start delivering CVS prescriptions by drone in Florida — here's how it works",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-were-saving-money-by-not-driving-but-its-costing-nj-23m-in-lost-toll-revenue.md",
+      "title": "We’re saving money by not driving, but it’s costing N.J. $23M in lost toll revenue",
+      "excerpt": "New Jersey’s two biggest toll roads took a multi-million hit in lost revenue last month due to ... said the agency will need federal bailout money to offset losses at airports and the PATH ...",
+      "heat": null,
+      "tags": [
+        "US-NJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nj.com/coronavirus/2020/04/were-saving-money-by-not-driving-but-its-costing-nj-23m-in-lost-toll-revenue.html",
+      "ampWebUrl": "https://www.nj.com/coronavirus/2020/04/were-saving-money-by-not-driving-but-its-costing-nj-23m-in-lost-toll-revenue.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/coronavirus/2020/04/were-saving-money-by-not-driving-but-its-costing-nj-23m-in-lost-toll-revenue.html?outputType=amp",
+      "publishedDateTime": "2020-04-28T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/77JSOHDMQZGIPLSCYVXCEY7L64.JPG",
+          "width": 1400,
+          "height": 932,
+          "title": "We’re saving money by not driving, but it’s costing N.J. $23M in lost toll revenue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-stocks-turn-negative-as-dow-ends-4-day-winning-streak.md",
+      "title": "Stocks Turn Negative As Dow Ends 4-Day Winning Streak",
+      "excerpt": "The Dow Jones Industrial Average was down 0.1% on Tuesday, while the S&P 500 fell 0.5% and the Nasdaq Composite lost 1.4%. The market was up to 1.5% higher after the open, but pared back gains later in the day as large-cap tech stocks lagged: Shares of Google parent Alphabet were down nearly 2.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sergeiklebnikov/2020/04/28/stocks-turn-negative-as-dow-ends-4-day-winning-streak/?ss=banking-insurance",
+      "ampWebUrl": "https://www.forbes.com/sites/sergeiklebnikov/2020/04/28/stocks-turn-negative-as-dow-ends-4-day-winning-streak/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2020/04/28/stocks-turn-negative-as-dow-ends-4-day-winning-streak/amp/",
+      "publishedDateTime": "2020-04-28T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-what-antibody-studies-can-tell-you-and-more-importantly-what-they-cant.md",
+      "title": "What Antibody Studies Can Tell You — and More Importantly, What They Can’t",
+      "excerpt": "Coronavirus antibody studies and what they allegedly show have triggered fierce debates, further confusing public understanding. ProPublica’s health reporter Caroline Chen is here to offer some clarity around these crucial surveys.",
+      "heat": 108,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-25-20-intl/h_4a53d1bb3f4986994484916d39a8e504",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-25-20-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-25-20-intl/index.html",
+      "publishedDateTime": "2020-04-28T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPublica",
+        "domain": "propublica.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200130165125-corona-virus-cdc-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "What Antibody Studies Can Tell You — and More Importantly, What They Can’t",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-la-schools-wont-reopen-without-widespread-testing-beutner.md",
+      "title": "LA Schools Won't Reopen Without Widespread Testing: Beutner",
+      "excerpt": "LA schools will need widespread coronavirus testing and contact tracing before classes resume, said the superintendent.",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/california/northhollywood/la-schools-wont-reopen-without-widespread-testing-beutner",
+      "ampWebUrl": "https://patch.com/california/northhollywood/amp/28717216/la-schools-wont-reopen-without-widespread-testing-beutner",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/northhollywood/amp/28717216/la-schools-wont-reopen-without-widespread-testing-beutner",
+      "publishedDateTime": "2020-04-28T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/73734/20200428/035317/styles/patch_image/public/gettyimages-98618962___28155240605.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": "LA Schools Won't Reopen Without Widespread Testing: Beutner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-trump-to-order-meat-processing-plants-to-stay-open-amid-coronavirus-pandemic.md",
+      "title": "Trump to order meat processing plants to stay open amid coronavirus pandemic",
+      "excerpt": "\"We're going to sign an executive order today I believe and that will solve any liability problems,\" Trump said Tuesday.",
+      "heat": 152,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-04-28-coronavirus-news-n1194006/ncrd1194611",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1194006",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1194006",
+      "publishedDateTime": "2020-04-28T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages-bento/og-nbcnews1200x630.png",
+          "width": 1200,
+          "height": 600,
+          "title": "Trump to order meat processing plants to stay open amid coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-texas-am-researchers-to-test-tuberculosis-vaccine-in-fight-against-coronavirus.md",
+      "title": "Texas A&M researchers to test tuberculosis vaccine in fight against coronavirus",
+      "excerpt": "Researchers at Texas A&M University are hopeful a vaccine used to fight tuberculosis and bladder cancer will prove effective in mitigating the effects of",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.statesman.com/news/20200428/texas-am-researchers-to-test-tuberculosis-vaccine-in-fight-against-coronavirus",
+      "ampWebUrl": "https://www.statesman.com/news/20200428/texas-am-researchers-to-test-tuberculosis-vaccine-in-fight-against-coronavirus?template=ampart",
+      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20200428/texas-am-researchers-to-test-tuberculosis-vaccine-in-fight-against-coronavirus?template=ampart",
+      "publishedDateTime": "2020-04-28T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200428&Category=NEWS&ArtNo=200428914&Ref=AR",
+          "width": 6631,
+          "height": 4399,
+          "title": "Texas A&M researchers to test tuberculosis vaccine in fight against coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-joseph-dsouza-coronavirus-shows-how-chinas-disregard-for-human-rights-threatens-the-world.md",
+      "title": "Joseph D’Souza: Coronavirus shows how China's disregard for human rights threatens the world",
+      "excerpt": "Going forward, no major global economy should be allowed to be integrated with the rest of the world while it continues to violate the fundamental rights of its citizens.",
+      "heat": 134,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/opinion/coronavirus-china-human-rights-hurts-world-joseph-dsouza",
+      "ampWebUrl": "https://www.foxnews.com/opinion/coronavirus-china-human-rights-hurts-world-joseph-dsouza.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/coronavirus-china-human-rights-hurts-world-joseph-dsouza.amp",
+      "publishedDateTime": "2020-04-28T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202004/2713/854081161001_6151960483001_6151963118001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Joseph D’Souza: Coronavirus shows how China's disregard for human rights threatens the world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-watch-live-missouri-gov-mike-parson-giving-daily-coronavirus-briefing.md",
+      "title": "Watch Live: Missouri Gov. Mike Parson giving daily coronavirus briefing",
+      "excerpt": "Gov. Mike Parson and other state officials are giving a briefing on the state's response to COVID-19. There are 7,303 confirmed cases of the coronavirus in the state and 314 deaths, as of April 28. Also joining Parson at the briefing are Department of Health and Senior Services Director Dr.",
+      "heat": 115,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ksdk.com/article/news/local/missouri-gov-mike-parson-covid19-briefing-april-28/63-98add8eb-d12b-4505-8b68-d16a3615c987",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/missouri-gov-mike-parson-covid19-briefing-april-28/63-98add8eb-d12b-4505-8b68-d16a3615c987",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/missouri-gov-mike-parson-covid19-briefing-april-28/63-98add8eb-d12b-4505-8b68-d16a3615c987",
+      "publishedDateTime": "2020-04-28T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/0b8bef19-6f78-46a0-8e8b-87b4d65b8bda/0b8bef19-6f78-46a0-8e8b-87b4d65b8bda_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Watch Live: Missouri Gov. Mike Parson giving daily coronavirus briefing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-some-school-districts-are-planning-to-end-the-year-early-amid-coronavirus-pandemic.md",
+      "title": "Some school districts are planning to end the year early amid coronavirus pandemic",
+      "excerpt": "Remote learning has been a challenge for many students and teachers to adapt to.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/changing-america/enrichment/education/495090-some-school-districts-are-planning-to-end-the-year",
+      "ampWebUrl": "https://thehill.com/changing-america/enrichment/education/495090-some-school-districts-are-planning-to-end-the-year?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/495090-some-school-districts-are-planning-to-end-the-year?amp",
+      "publishedDateTime": "2020-04-28T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_schoolhallway_41420istock.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": "Some school districts are planning to end the year early amid coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-midland-county-records-fourth-coronavirus-death.md",
+      "title": "Midland County records fourth coronavirus death",
+      "excerpt": "Midland County recorded its fourth death Tuesday in the coronavirus pandemic, but it did not add any new cases, according to the daily afternoon state report. The county has 56 cases and four deaths.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/Midland-County-records-fourth-coronavirus-15232024.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/64/12/19350152/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1363,
+          "title": "Midland County records fourth coronavirus death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-the-grim-task-of-processing-death-certificates-during-the-coronavirus-pandemic.md",
+      "title": "The grim task of processing death certificates during the coronavirus pandemic",
+      "excerpt": "A city hall clerk in Connecticut on what it's like to process death certificates during the coronavirus pandemic",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/US/grim-task-processing-death-certificates-coronavirus-pandemic/story?id=70363303",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/grim-task-processing-death-certificates-coronavirus-pandemic/story?id=70363303",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/grim-task-processing-death-certificates-coronavirus-pandemic/story?id=70363303",
+      "publishedDateTime": "2020-04-28T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/stamford-hospital-gty-jc-200427_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "The grim task of processing death certificates during the coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-us-passes-1-million-coronavirus-cases-as-floridas-governor-meets-trump.md",
+      "title": "U.S. passes 1 million coronavirus cases as Florida's governor meets Trump",
+      "excerpt": "The number of confirmed U.S. coronavirus cases topped 1 million on Tuesday while Florida's governor met with President Donald Trump to discuss joining other states that have moved to ease restrictions in the face of an economy battered by the pandemic.",
+      "heat": 154,
+      "tags": [
+        "US-NJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-08-20/h_0b3788a135274918c98f841ea0af63a6",
+      "ampWebUrl": "https://amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-08-20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/world/live-news/coronavirus-pandemic-04-08-20/index.html",
+      "publishedDateTime": "2020-04-28T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200308142028-01-coronavirus-microscope-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "U.S. passes 1 million coronavirus cases as Florida's governor meets Trump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-some-california-businesses-could-reopen-within-weeks-as-state-fights-coronavirus-newsom-says.md",
+      "title": "Some California businesses could reopen within weeks as state fights coronavirus, Newsom says",
+      "excerpt": "The first loosening of coronavirus restrictions would be for 'lower risk' businesses, including some manufacturing and small companies.",
+      "heat": 124,
+      "tags": [
+        "US-WA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.latimes.com/california/story/2020-04-13/coronavirus-restrictions-gavin-newsom-california-washington-oregon-western-state-pact",
+      "ampWebUrl": "https://www.latimes.com/california/story/2020-04-13/coronavirus-restrictions-gavin-newsom-california-washington-oregon-western-state-pact?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-04-13/coronavirus-restrictions-gavin-newsom-california-washington-oregon-western-state-pact?_amp=true",
+      "publishedDateTime": "2020-04-28T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/3cf2f66/2147483647/strip/true/crop/4800x3135+0+32/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F56%2Fea67b0284c899c91e5fc31201cc7%2Fla-photos-1staff-after-dark-luis-sinco02.JPG",
+          "width": 320,
+          "height": 209,
+          "title": "Some California businesses could reopen within weeks as state fights coronavirus, Newsom says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-us-coronavirus-cases-top-1-million-as-nation-grapples-with-when-to-reopen-schools.md",
+      "title": "US coronavirus cases top 1 million as nation grapples with when to reopen schools",
+      "excerpt": "The question of when to reopen schools looms large as European countries and U.S. states draw up plans to restart their battered economies.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wistv.com/2020/04/28/coronavirus-tamed-new-zealand-while-brazil-emerges-hot-spot/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIS TV",
+        "domain": "wistv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wistv.com/resizer/aJPOrVvk6sFJewW24XkTnrOKeMo=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/6V7LDYOO5FG6RNLJYB2Z7VYK54.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "US coronavirus cases top 1 million as nation grapples with when to reopen schools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 118
+}

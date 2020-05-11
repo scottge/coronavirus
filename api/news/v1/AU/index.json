@@ -1,0 +1,850 @@
+{
+  "location": {
+    "long": 133.775136,
+    "countryOrRegion": "Australia",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "AU",
+    "lat": -25.274398
+  },
+  "updatedDateTime": "2020-05-10T05:45:39.2362341Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-australias-biggest-states-hold-off-relaxing-covid-19-lockdowns.md",
+      "title": "Australia's biggest states hold off relaxing COVID-19 lockdowns",
+      "excerpt": "Australia's most populous states held back from easing COVID-19 restrictions on Saturday even as some states allowed small gatherings and got ready to open restaurants in line with the federal government's three-stage plan for reopening businesses.",
+      "heat": 105,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-australia-idUSL4N2CR023",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2CR023",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2CR023",
+      "publishedDateTime": "2020-05-09T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Australia's biggest states hold off relaxing COVID-19 lockdowns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-australia-to-end-most-covid-19-restrictions-by-july.md",
+      "title": "Australia to end most COVID-19 restrictions by July",
+      "excerpt": "World Australia to end most COVID-19 restrictions by July. Posted . Australia will ease social distancing restrictions implemented to slow the spread of the coronavirus in a three",
+      "heat": 105,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/video/watch/idOVCD2SSBV",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20200508&i=OVCD2SSBV&r=OVCD2SSBV&t=2",
+          "width": 960,
+          "height": 540,
+          "title": "Australia to end most COVID-19 restrictions by July",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-live-updates-australia-plans-reopening-in-3-stages-germany-reports-over-1200-cases.md",
+      "title": "Coronavirus live updates: Australia plans reopening in 3 stages; Germany reports over 1,200 cases",
+      "excerpt": "Australia will ease nationwide restrictions in a process comprising three stages, its Prime Minister Scott Morrison said on Friday.",
+      "heat": 182,
+      "tags": [
+        "Australia",
+        "AU",
+        "US",
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/08/coronavirus-live-updates-asia-europe.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/08/coronavirus-live-updates-asia-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/coronavirus-live-updates-asia-europe.html",
+      "publishedDateTime": "2020-05-07T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106524968-1588838965779gettyimages-1208218734.jpeg?v=1588924424",
+          "width": 5370,
+          "height": 3444,
+          "title": "Coronavirus live updates: Australia plans reopening in 3 stages; Germany reports over 1,200 cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in US",
+        "New Cases",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-covidsafe-app-how-australias-coronavirus-contact-tracing-app-works-what-it-does-downloads-and-problems.md",
+      "title": "Covidsafe app: how Australia’s coronavirus contact tracing app works, what it does, downloads and problems",
+      "excerpt": "The app will ask for your name (or pseudonym), age range, postcode and phone number. Scott Morrison says the Australian government’s covid safe tracking app won’t be mandatory to download and install,",
+      "heat": 102,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/australia-news/2020/may/07/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-issues-battery-australia-coronavirus-contact-tracing",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2020/may/07/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-issues-battery-australia-coronavirus-contact-tracing",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/may/07/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-issues-battery-australia-coronavirus-contact-tracing",
+      "publishedDateTime": "2020-05-06T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/06456110e64b3cbbfcc1af6235942f45117c3e0e/439_307_3561_2138/master/3561.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0558f7ce36467a094a7739bc830adbaf",
+          "width": 600,
+          "height": 360,
+          "title": "Covidsafe app: how Australia’s coronavirus contact tracing app works, what it does, downloads and problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-australian-healing-church-defends-bleach-sales-after-us-coronavirus-cure-claims.md",
+      "title": "Australian 'healing church' defends bleach sales after US coronavirus cure claims",
+      "excerpt": "Group claims it should be allowed to promote its Miracle Mineral Solution on freedom of religion grounds",
+      "heat": 100,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/australia-news/2020/may/06/australian-healing-church-defends-bleach-sales-after-us-coronavirus-cure-claims",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2020/may/06/australian-healing-church-defends-bleach-sales-after-us-coronavirus-cure-claims",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/may/06/australian-healing-church-defends-bleach-sales-after-us-coronavirus-cure-claims",
+      "publishedDateTime": "2020-05-05T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d438e6e875763d6cb87dcea0e421c0e109e28a92/0_0_1398_643/master/1398.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=08a2d907a588a8c376878899d574c19b",
+          "width": 600,
+          "height": 276,
+          "title": "Australian 'healing church' defends bleach sales after US coronavirus cure claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-australian-governments-reopen-schools-despite-studies-warning-of-covid-19-danger.md",
+      "title": "Australian governments reopen schools despite studies warning of COVID-19 danger",
+      "excerpt": "The federal government’s attack on the Victorian state premier was aimed at suppressing opposition by teachers and parents.",
+      "heat": 100,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsws.org/en/articles/2020/05/05/teac-m05.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "World Socialist Web Site",
+        "domain": "wsws.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wsws.org/asset/7bd7f11a-bd09-4e89-a7d6-a3fec6cdc463/image.jpg",
+          "width": 1280,
+          "height": 855,
+          "title": "Australian governments reopen schools despite studies warning of COVID-19 danger",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-covidsafe-app-how-australias-coronavirus-contact-tracing-app-works-what-it-does-downloads-and-problems.md",
+      "title": "Covidsafe app: how Australia’s coronavirus contact tracing app works, what it does, downloads and problems",
+      "excerpt": "The app will ask for your name (or pseudonym), age range, postcode and phone number. Scott Morrison says the Australian government’s covid safe tracking app won’t be mandatory to download and install,",
+      "heat": 102,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/australia-news/2020/may/05/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-australia-coronavirus-contact-tracing",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2020/may/05/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-australia-coronavirus-contact-tracing",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/may/05/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-australia-coronavirus-contact-tracing",
+      "publishedDateTime": "2020-05-04T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/06456110e64b3cbbfcc1af6235942f45117c3e0e/439_307_3561_2138/master/3561.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0558f7ce36467a094a7739bc830adbaf",
+          "width": 600,
+          "height": 360,
+          "title": "Covidsafe app: how Australia’s coronavirus contact tracing app works, what it does, downloads and problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-australia-live-news-15th-death-reported-at-newmarch-house-aged-care-home-latest-updates.md",
+      "title": "Coronavirus Australia live news: 15th death reported at Newmarch House aged care home – latest updates",
+      "excerpt": "NSW transport minister Andrew Constance expected to nominate for Eden-Monaro byelection; 19 people test positive at Victorian meat processing plant; and Westpac reports 70% drop in cash profit. Follow all the latest news,",
+      "heat": 119,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/may/04/australia-coronavirus-live-updates-nsw-victoria-qld-schools-morrison-latest-news-update",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/may/04/australia-coronavirus-live-updates-nsw-victoria-qld-schools-morrison-latest-news-update",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/may/04/australia-coronavirus-live-updates-nsw-victoria-qld-schools-morrison-latest-news-update",
+      "publishedDateTime": "2020-05-04T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-australias-coronavirus-victims-remembering-those-lost-to-covid-19.md",
+      "title": "Australia’s coronavirus victims: remembering those lost to Covid-19",
+      "excerpt": "As the death toll rises, families of those who have died around the country share stories of their loved ones",
+      "heat": 110,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/australia-news/2020/may/04/australia-coronavirus-victims-tributes-friends-family-stories-age-names-covid-19-death-toll-australian",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2020/may/04/australia-coronavirus-victims-tributes-friends-family-stories-age-names-covid-19-death-toll-australian",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/may/04/australia-coronavirus-victims-tributes-friends-family-stories-age-names-covid-19-death-toll-australian",
+      "publishedDateTime": "2020-05-04T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b1bd1cf71000ac80a1b3afc6195488e859ccbabb/0_0_2500_1500/master/2500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f841bbd7d67ad48f32f3f045b64caf41",
+          "width": 600,
+          "height": 360,
+          "title": "Australia’s coronavirus victims: remembering those lost to Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-map-of-australia-how-many-new-cases-are-there-covid-19-numbers-statistics-and-graphs.md",
+      "title": "Coronavirus map of Australia: how many new cases are there? Covid-19 numbers, statistics and graphs",
+      "excerpt": "Is Australia flattening the curve? Look at the graph. We bring together all the Covid-19 confirmed cases, maps, stats and graphs from NSW, Victoria, Queensland, SA, WA, Tasmania, ACT and NT to get a broad picture of the Australian outbreak and track the impact of government response.",
+      "heat": 151,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/australia-news/datablog/ng-interactive/2020/may/04/coronavirus-map-australia-numbers-how-many-new-cases-today-maps-deaths-death-toll-covid-19-stats-statistics-graph-heatmap-by-postcode",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aada1b794bcc3a370de539510a88f01e2e7e35a9/0_0_1000_600/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df4bc43557fae83de7f10dedb80a1217",
+          "width": 1200,
+          "height": 630,
+          "title": "Coronavirus map of Australia: how many new cases are there? Covid-19 numbers, statistics and graphs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-a-travel-bubble-between-new-zealand-and-australia-could-be-a-model-for-the-future.md",
+      "title": "A 'travel bubble' between New Zealand and Australia could be a model for the future",
+      "excerpt": "Tourism is still worth billions to Australia, although it is only the country's fourth biggest export industry. In both countries, tourism industries have taken a massive hit from the coronavirus outbreak -- so it's no surprise that industry representatives are welcoming the prospect of a travel bubble. \"The message from the industry side is ...",
+      "heat": 129,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/travel/article/new-zealand-australia-travel-bubble-intl-hnk/index.html?ref=hvper.com",
+      "ampWebUrl": "https://www.cnn.com/travel/amp/new-zealand-australia-travel-bubble-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/new-zealand-australia-travel-bubble-intl-hnk/index.html",
+      "publishedDateTime": "2020-05-03T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170901105318-australia-kakadu-nawurlandja-lookout-nourlangie-rock-122327-3-super-tease.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "A 'travel bubble' between New Zealand and Australia could be a model for the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-australia-coronavirus-live-sydney-school-closed-after-student-tests-positive-as-death-toll-hits-95-latest-updates.md",
+      "title": "Australia coronavirus live: Sydney school closed after student tests positive as death toll hits 95 – latest updates",
+      "excerpt": "Warragamba public school closed for intensive cleaning and contact tracing after a student tested positive to Covid-19.",
+      "heat": 192,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/may/04/australia-coronavirus-live-updates-nsw-victoria-qld-schools-morrison-latest-news-update",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/may/04/australia-coronavirus-live-updates-nsw-victoria-qld-schools-morrison-latest-news-update",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/may/04/australia-coronavirus-live-updates-nsw-victoria-qld-schools-morrison-latest-news-update",
+      "publishedDateTime": "2020-05-03T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f973b9f4e4bc0a70f713682179b0dff681c0cdb3/0_0_5100_3400/master/5100.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=76a203710af3e4f9cfcbdf0a63725e58",
+          "width": 600,
+          "height": 400,
+          "title": "Australia coronavirus live: Sydney school closed after student tests positive as death toll hits 95 – latest updates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-australia-coronavirus-live-update-people-enjoy-eased-restrictions-as-four-states-record-new-cases-latest-news.md",
+      "title": "Australia coronavirus live update: people enjoy eased restrictions as four states record new cases – latest news",
+      "excerpt": "Newmarch House considers extracting residents and new Covid-19 cluster emerges at Victorian meat processing facility. Follow the latest updates live",
+      "heat": 149,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/may/03/australia-coronavirus-live-update-new-cases-politics-nsw-victoria-queensland",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/may/03/australia-coronavirus-live-update-new-cases-politics-nsw-victoria-queensland",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/may/03/australia-coronavirus-live-update-new-cases-politics-nsw-victoria-queensland",
+      "publishedDateTime": "2020-05-02T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8a40b3d1ac01e8186f98f6780561d972a0fa163a/0_303_3481_2088/master/3481.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bd91954690cfe97f52b802d5ac0dafdc",
+          "width": 600,
+          "height": 360,
+          "title": "Australia coronavirus live update: people enjoy eased restrictions as four states record new cases – latest news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-china-threatened-australia-with-a-boycott-if-it-pushed-a-coronavirus-investigation-reigniting-a-debate-over-economic-ties.md",
+      "title": "China threatened Australia with a boycott if it pushed a coronavirus investigation, reigniting a debate over economic ties",
+      "excerpt": "The week vividly illustrated the limits of China’s economic leverage in a politically charged time of covid-19 — and the hardening public attitudes it faces around the world.",
+      "heat": 119,
+      "tags": [
+        "Australia",
+        "AU",
+        "CN",
+        "CN-HB",
+        "China-Beijing",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/asia_pacific/china-threatened-australia-with-a-boycott-if-it-pushed-ahead-with-an-investigation-reigniting-a-debate-over-economic-ties/2020/05/01/6388c512-893f-11ea-80df-d24b35a568ae_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/asia_pacific/china-threatened-australia-with-a-boycott-if-it-pushed-ahead-with-an-investigation-reigniting-a-debate-over-economic-ties/2020/05/01/6388c512-893f-11ea-80df-d24b35a568ae_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/china-threatened-australia-with-a-boycott-if-it-pushed-ahead-with-an-investigation-reigniting-a-debate-over-economic-ties/2020/05/01/6388c512-893f-11ea-80df-d24b35a568ae_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-01T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/1IUgO4uUyBBvRj-kFdqN-xCzjOE=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F4BHD7ELUII6VCWBX6ZFBB3LPI.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "China threatened Australia with a boycott if it pushed a coronavirus investigation, reigniting a debate over economic ties",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-australian-pm-says-no-evidence-coronavirus-originated-in-china-laboratory-urges-inquiry.md",
+      "title": "Australian PM says no evidence coronavirus originated in China laboratory, urges inquiry",
+      "excerpt": "Australian Prime Minister Scott Morrison, who has angered Beijing by calling for a global inquiry into the coronavirus outbreak, said he had no evidence to suggest the disease originated in a laboratory in the Chinese city of Wuhan.",
+      "heat": 156,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-australia-curbs-idUSKBN22D41F",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22D41F",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22D41F",
+      "publishedDateTime": "2020-05-01T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200501&t=2&i=1517137461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG402VE",
+          "width": 817,
+          "height": 545,
+          "title": "Australian PM says no evidence coronavirus originated in China laboratory, urges inquiry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-coronavirus-australia-update-latest-another-death-at-sydney-aged-care-home-brings-national-toll-to-93-live-news.md",
+      "title": "Coronavirus Australia update latest: another death at Sydney aged care home brings national toll to 93 – live news",
+      "excerpt": "It’s the facility’s thirteenth Covid-19 related death as three more Newmarch House residents test positive for coronavirus. Follow live",
+      "heat": 103,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/australia-news/live/2020/may/01/coronavirus-australia-update-newmarch-house-scott-morrison-nsw-vic-qld-live-news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-coronavirus-updates-australia-links-outbreak-to-cruise-ship-us-cases-top-1-million.md",
+      "title": "Coronavirus updates: Australia links outbreak to cruise ship; US cases top 1 million",
+      "excerpt": "Australia said a coronavirus outbreak in the state of Tasmania likely originated from the Ruby Princess cruise ship.",
+      "heat": 128,
+      "tags": [
+        "Australia",
+        "AU",
+        "KR",
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/30/coronavirus-latest-updates-asia-europe.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/30/coronavirus-latest-updates-asia-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/30/coronavirus-latest-updates-asia-europe.html",
+      "publishedDateTime": "2020-04-29T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106510955-1588130420715gettyimages-1219816306.jpeg?v=1588206531",
+          "width": 3600,
+          "height": 2400,
+          "title": "Coronavirus updates: Australia links outbreak to cruise ship; US cases top 1 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Economic Impact",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-china-embassy-accuses-australia-of-petty-tricks-in-coronavirus-dispute.md",
+      "title": "China embassy accuses Australia of 'petty tricks' in coronavirus dispute",
+      "excerpt": "China accused Australia of \"petty tricks\" on Wednesday in an intensifying dispute over Canberra's push for an international inquiry into the coronavirus outbreak that could affect diplomatic and economic ties between the countries.",
+      "heat": 164,
+      "tags": [
+        "Australia",
+        "AU",
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-australia-china-idUSKCN22B0BB",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN22B0BB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN22B0BB",
+      "publishedDateTime": "2020-04-29T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516839329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3S09W",
+          "width": 817,
+          "height": 545,
+          "title": "China embassy accuses Australia of 'petty tricks' in coronavirus dispute",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-australia-pushes-for-independent-inquiry-over-covid-19-origins-in-china.md",
+      "title": "Australia pushes for independent inquiry over COVID-19 origins in China",
+      "excerpt": "Australian Prime Minister Scott Morrison told reporters his government will continue pushing for an independent review of the virus' origins and China's early handling of the outbreak.",
+      "heat": 145,
+      "tags": [
+        "CN",
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/04/29/Australia-pushes-for-independent-inquiry-over-COVID-19-origins-in-China/4631588147072/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/04/29/Australia-pushes-for-independent-inquiry-over-COVID-19-origins-in-China/4631588147072/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/04/29/Australia-pushes-for-independent-inquiry-over-COVID-19-origins-in-China/4631588147072/",
+      "publishedDateTime": "2020-04-29T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/ph/st/th/4631588147072/2020/upi/e52a84c7edabb20e7acf3b4d505e6447/v1.5/Australia-pushes-for-independent-inquiry-over-COVID-19-origins-in-China.jpg?lg=2",
+          "width": 800,
+          "height": 534,
+          "title": "Australia pushes for independent inquiry over COVID-19 origins in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-china-lashes-out-at-us-claims-country-is-lying-through-their-teeth-on-coronavirus-threatens-australia.md",
+      "title": "China lashes out at US, claims country is 'lying through their teeth' on coronavirus; threatens Australia",
+      "excerpt": "China's foreign ministry on Tuesday accused the United States of \"lying through their teeth\" and suggested the country mind its own business as the war of words between the world's two biggest economic powers escalated.",
+      "heat": 128,
+      "tags": [
+        "Australia",
+        "AU",
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/china-lashes-out-us-australia-coronavirus",
+      "ampWebUrl": "https://www.foxnews.com/world/china-lashes-out-us-australia-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-lashes-out-us-australia-coronavirus.amp",
+      "publishedDateTime": "2020-04-29T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/barnini-chakraborty.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": "China lashes out at US, claims country is 'lying through their teeth' on coronavirus; threatens Australia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-australia-coronavirus-live-push-for-private-schools-to-reopen-as-death-toll-rises-to-89-latest-updates.md",
+      "title": "Australia coronavirus live: push for private schools to reopen as death toll rises to 89 – latest updates",
+      "excerpt": "Federal government offers to bring forward private school funding if benchmarks to return to face-to-face teaching by June are met. Nursing home in western Sydney records more ‘tragic’ deaths. Follow all the latest news,",
+      "heat": 128,
+      "tags": [
+        "Australia",
+        "AU"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/live/2020/apr/29/australia-coronavirus-live-updates-nsw-victoria-qld-schools-newmarch-latest-news-update",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/apr/29/australia-coronavirus-live-updates-nsw-victoria-qld-schools-newmarch-latest-news-update",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/apr/29/australia-coronavirus-live-updates-nsw-victoria-qld-schools-newmarch-latest-news-update",
+      "publishedDateTime": "2020-04-28T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    }
+  ]
+}

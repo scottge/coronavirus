@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: fake
+name: Fake
+shortname: Fake
+parent: Coronavirus
+keywords:
+  - economy
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/fake.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/fake/

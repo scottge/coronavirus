@@ -1,0 +1,458 @@
+{
+  "page": 13,
+  "value": [
+    {
+      "path": "_news/2020-03-05-airlines-feel-deepening-impact-as-coronavirus-upends-travel.md",
+      "title": "Airlines Feel Deepening Impact as Coronavirus Upends Travel",
+      "excerpt": "United will curtail service on domestic and global routes as companies restrict trips, testing a long stretch of airline industry profitability. Since the financial crisis a decade ago, airlines in the United States have consolidated and tightened operations,",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/04/business/united-airlines-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/04/business/united-airlines-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/04/business/united-airlines-coronavirus.amp.html",
+      "publishedDateTime": "2020-03-04T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/04/business/04virus-airlines1/04virus-airlines1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Airlines Feel Deepening Impact as Coronavirus Upends Travel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-another-bad-sign-for-the-economy-travel-stocks-are-plunging.md",
+      "title": "Another bad sign for the economy: Travel stocks are plunging",
+      "excerpt": "Travel plans are the first thing that people are canceling,\" said Richard Steinberg, chief market strategist with The Colony Group. With that in mind, President Trump and Vice President Mike Pence were meeting with airline CEOs Wednesday to talk about the impact of the coronavirus outbreak on air travel. Companies cutting back on business trips.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/03/04/investing/transportation-stocks-coronavirus-economy/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/03/04/investing/transportation-stocks-coronavirus-economy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/03/04/investing/transportation-stocks-coronavirus-economy/index.html",
+      "publishedDateTime": "2020-03-04T11:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200304104726-delta-plane-tarmac-0301-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Another bad sign for the economy: Travel stocks are plunging",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-us-travel-association-expects-steep-drop-in-international-visitors-due-to-coronavirus.md",
+      "title": "U.S. Travel Association expects steep drop in international visitors due to coronavirus",
+      "excerpt": "A major travel industry advocacy group in the United States is predicting a plunge in the number of visitors from around the world over the next few months as the country imposes restrictions on travelers amid coronavirus fears. In its latest projection, the U.S. Travel Association said on Tuesday that it anticipates international inbound ...",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/travel/2020/03/03/us-travel-association-expects-steep-drop-international-visitors-due-coronavirus/",
+      "ampWebUrl": "https://www.washingtonpost.com/travel/2020/03/03/us-travel-association-expects-steep-drop-international-visitors-due-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/travel/2020/03/03/us-travel-association-expects-steep-drop-international-visitors-due-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-03-04T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/bdDFBj0iSr1k3p7NxXxGdHITMHo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K3JUG5ACC5FN7NT3ZLQHKGNH2M.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "U.S. Travel Association expects steep drop in international visitors due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-new-travel-protocols-to-combat-coronavirus.md",
+      "title": "New travel protocols to combat coronavirus",
+      "excerpt": "Watch \"New travel protocols in-place to combat the coronavirus\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/live/video/20200304101046-new-travel-protocols-in-place-to-combat-the-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/03/04/story_04235039_1583316668.jpg",
+          "width": 480,
+          "height": 270,
+          "title": "New travel protocols to combat coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-airport-shops-suffer-crisis-as-coronavirus-upends-travel.md",
+      "title": "Airport Shops Suffer ‘Crisis’ as Coronavirus Upends Travel",
+      "excerpt": "Airport retail outlets have been a rare success story in the slumping bricks-and-mortar world. Now, duty-free and other airport shops are under siege from the coronavirus.",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/airport-shops-suffer-crisis-as-coronavirus-upends-travel-11583236801",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/airport-shops-suffer-crisis-as-coronavirus-upends-travel-11583236801",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/airport-shops-suffer-crisis-as-coronavirus-upends-travel-11583236801",
+      "publishedDateTime": "2020-03-03T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-158578/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Airport Shops Suffer ‘Crisis’ as Coronavirus Upends Travel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-state-funds-ban-staff-travel-over-coronavirus-threat.md",
+      "title": "State Funds Ban Staff Travel Over Coronavirus Threat",
+      "excerpt": "At least two institutional investors have banned international business travel by their investment teams to rein in the threat posed by the Covid-19 coronavirus.",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/state-funds-ban-staff-travel-over-coronavirus-threat-11583272346",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/state-funds-ban-staff-travel-over-coronavirus-threat-11583272346",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/state-funds-ban-staff-travel-over-coronavirus-threat-11583272346",
+      "publishedDateTime": "2020-03-03T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-160217/social",
+          "width": 1280,
+          "height": 640,
+          "title": "State Funds Ban Staff Travel Over Coronavirus Threat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-is-cfar-travel-insurance-worth-it-if-youre-planning-a-trip-during-this-outbreak-of-coronavirus.md",
+      "title": "Is CFAR Travel Insurance Worth It If You’re Planning A Trip During This Outbreak Of Coronavirus?",
+      "excerpt": "If you’re planning a trip you may be understandably worried about COVID-19. Knowing about insurance options may help you decide whether to proceed with your travel plans. In this time of uncertainty,",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lealane/2020/03/03/is-cfar-travel-insurance-worth-it-if-youre-planning-a-trip-during-this-outbreak-of-coronavirus/",
+      "ampWebUrl": "https://www.forbes.com/sites/lealane/2020/03/03/is-cfar-travel-insurance-worth-it-if-youre-planning-a-trip-during-this-outbreak-of-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lealane/2020/03/03/is-cfar-travel-insurance-worth-it-if-youre-planning-a-trip-during-this-outbreak-of-coronavirus/amp/",
+      "publishedDateTime": "2020-03-03T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1035632150%2F0x0.jpg",
+          "width": 1200,
+          "height": 463,
+          "title": "Is CFAR Travel Insurance Worth It If You’re Planning A Trip During This Outbreak Of Coronavirus?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-tajikistan-scales-down-coronavirus-related-travel-ban.md",
+      "title": "Tajikistan Scales Down Coronavirus-Related Travel Ban",
+      "excerpt": "Tajikistan on Tuesday scaled down a wide-ranging travel ban introduced just days ago to prevent the spread of coronavirus, reducing the number of targeted countries to five from 35 without explaining the reasons for the move.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/03/world/asia/03reuters-health-corononavirus-tajikistan-travel.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Tajikistan Scales Down Coronavirus-Related Travel Ban",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-february-20-coronavirus-news.md",
+      "title": "February 20 coronavirus news",
+      "excerpt": "The global number of confirmed coronavirus cases now exceeds 76,154 ... 13% full-year loss of passenger demand for carriers in the Asia-Pacific region. “The sharp downturn in demand as ...",
+      "heat": 185,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-20-20-intl-hnk/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/asia/live-news/coronavirus-outbreak-02-20-20-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/asia/live-news/coronavirus-outbreak-02-20-20-intl-hnk/index.html",
+      "publishedDateTime": "2020-02-19T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200219143145-coronavirus-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "February 20 coronavirus news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Travel Impact",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-travel-cruises-and-coronavirus-your-questions-answered.md",
+      "title": "Travel, cruises and coronavirus: Your questions answered",
+      "excerpt": "USA TODAY reporters covering coronavirus, including travel reporters Morgan Hines and Curtis Tate, took to Reddit Tuesday to answer some questions. Questions and answers have been edited for clarity.",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/travel/news/2020/02/19/coronavirus-travel-cruise-ship-questions-answered-diamond-princess-westerdam/4805853002/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4805853002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4805853002",
+      "publishedDateTime": "2020-02-19T11:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/19/USAT/641b7da2-423a-4402-a811-d2a6c169e090-AFP_AFP_1P4083.JPG?auto=webp&crop=5291,2977,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Travel, cruises and coronavirus: Your questions answered",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": null
+}

@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: coronavirus
+name: Coronavirus
+keywords:
+  - coronavirus
+  - COVID19
+  - COVID
+images:
+  - https://insideout.app/coronavirus/assets/images/topics/coronavirus-in-us.jpg
+services:
+  news: https://insideout.app/coronavirus/api/news/
+  stats: https://insideout.app/coronavirus/api/stats/
+  learning: https://insideout.app/coronavirus/api/learning/
+  newsletters: https://insideout.app/coronavirus/api/newsletters/

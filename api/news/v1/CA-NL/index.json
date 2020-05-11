@@ -1,0 +1,93 @@
+{
+  "location": {
+    "long": -57.6604,
+    "countryOrRegion": "Canada",
+    "provinceOrState": "Newfoundland and Labrador",
+    "county": null,
+    "isoCode": "CA-NL",
+    "lat": 53.1355
+  },
+  "updatedDateTime": "2020-05-10T05:45:36.4144477Z",
+  "news": [
+    {
+      "path": "_news/2020-05-03-trades-newfoundland-and-labrador-slams-government-for-allowing-out-of-province-workers-during-pandemic.md",
+      "title": "Trades Newfoundland and Labrador slams government for allowing out-of-province workers during pandemic",
+      "excerpt": "Some local contractors and tradespeople continue to raise concerns about workers from outside the province being exempted from self-quarantine rules applied to other travellers. Specifically, construction workers who arrive from other parts of Canada are required to self-isolate on off-hours for 14 days but can work on site.",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-NL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.thetelegram.com/business/local-business/trades-newfoundland-and-labrador-slams-government-for-allowing-out-of-province-workers-during-pandemic-445181/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegram",
+        "domain": "thetelegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetelegram.com/media/photologue/photos/cache/trades-newfoundland-and-labrador-slams-government-for-allowing-out-of-_4KDCza5_medium.jpg",
+          "width": 458,
+          "height": 305,
+          "title": "Trades Newfoundland and Labrador slams government for allowing out-of-province workers during pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-live-monday-may-4-newfoundland-and-labrador-covid-19-update.md",
+      "title": "LIVE: Monday, May 4 Newfoundland and Labrador COVID-19 update",
+      "excerpt": "Daily news briefing at 2 p.m. for the Newfoundland and Labrador Thursday, April 30, 2020 COVID-19 update. SORENSEN, Pamela Jane (Buell) Our beloved Pamela passed away peacefully at home, on March 22,",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-NL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.journalpioneer.com/news/canada/live-monday-may-4-newfoundland-and-labrador-covid-19-update-445453/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journal Pioneer",
+        "domain": "journalpioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.journalpioneer.com/media/photologue/photos/cache/no-new-cases-in-newfoundland-and-labrador-as-governments-attention-tur_VuNfNpM_medium.jpg",
+          "width": 458,
+          "height": 305,
+          "title": "LIVE: Monday, May 4 Newfoundland and Labrador COVID-19 update",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1781 @@
+{
+  "location": {
+    "long": -88.787868,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Wisconsin",
+    "county": null,
+    "isoCode": "US-WI",
+    "lat": 43.78444
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.8831534Z",
+  "stats": {
+    "totalConfirmedCases": 9941,
+    "newlyConfirmedCases": 348,
+    "totalDeaths": 398,
+    "newDeaths": 14,
+    "totalRecoveredCases": 4348,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 8,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 29,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 37,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 34,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 48,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 90,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 114,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 160,
+        "deaths": 2,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 219,
+        "deaths": 3,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 282,
+        "deaths": 4,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 383,
+        "deaths": 4,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 425,
+        "deaths": 5,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 481,
+        "deaths": 5,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 638,
+        "deaths": 7,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 728,
+        "deaths": 10,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 926,
+        "deaths": 14,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 1055,
+        "deaths": 17,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 1164,
+        "deaths": 18,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 1285,
+        "deaths": 24,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 1412,
+        "deaths": 25,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 1568,
+        "deaths": 28,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 1741,
+        "deaths": 38,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 1998,
+        "deaths": 51,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 2128,
+        "deaths": 60,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 2320,
+        "deaths": 75,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-06T00:00:00",
+        "confirmed": 2511,
+        "deaths": 85,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-07T00:00:00",
+        "confirmed": 2578,
+        "deaths": 93,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-08T00:00:00",
+        "confirmed": 2812,
+        "deaths": 103,
+        "recovered": 65
+      },
+      {
+        "date": "2020-04-09T00:00:00",
+        "confirmed": 2890,
+        "deaths": 111,
+        "recovered": 84
+      },
+      {
+        "date": "2020-04-10T00:00:00",
+        "confirmed": 3068,
+        "deaths": 128,
+        "recovered": 84
+      },
+      {
+        "date": "2020-04-11T00:00:00",
+        "confirmed": 3213,
+        "deaths": 137,
+        "recovered": 84
+      },
+      {
+        "date": "2020-04-12T00:00:00",
+        "confirmed": 3341,
+        "deaths": 144,
+        "recovered": 84
+      },
+      {
+        "date": "2020-04-13T00:00:00",
+        "confirmed": 3428,
+        "deaths": 155,
+        "recovered": 87
+      },
+      {
+        "date": "2020-04-14T00:00:00",
+        "confirmed": 3555,
+        "deaths": 170,
+        "recovered": 87
+      },
+      {
+        "date": "2020-04-15T00:00:00",
+        "confirmed": 3721,
+        "deaths": 183,
+        "recovered": 87
+      },
+      {
+        "date": "2020-04-16T00:00:00",
+        "confirmed": 3876,
+        "deaths": 197,
+        "recovered": 93
+      },
+      {
+        "date": "2020-04-17T00:00:00",
+        "confirmed": 4053,
+        "deaths": 206,
+        "recovered": 135
+      },
+      {
+        "date": "2020-04-18T00:00:00",
+        "confirmed": 4199,
+        "deaths": 212,
+        "recovered": 194
+      },
+      {
+        "date": "2020-04-19T00:00:00",
+        "confirmed": 4346,
+        "deaths": 220,
+        "recovered": 196
+      },
+      {
+        "date": "2020-04-20T00:00:00",
+        "confirmed": 4541,
+        "deaths": 234,
+        "recovered": 196
+      },
+      {
+        "date": "2020-04-21T00:00:00",
+        "confirmed": 4625,
+        "deaths": 244,
+        "recovered": 196
+      },
+      {
+        "date": "2020-04-22T00:00:00",
+        "confirmed": 4845,
+        "deaths": 248,
+        "recovered": 196
+      },
+      {
+        "date": "2020-04-23T00:00:00",
+        "confirmed": 5052,
+        "deaths": 258,
+        "recovered": 196
+      },
+      {
+        "date": "2020-04-24T00:00:00",
+        "confirmed": 5356,
+        "deaths": 263,
+        "recovered": 196
+      },
+      {
+        "date": "2020-04-25T00:00:00",
+        "confirmed": 5689,
+        "deaths": 267,
+        "recovered": 2313
+      },
+      {
+        "date": "2020-04-26T00:00:00",
+        "confirmed": 5913,
+        "deaths": 273,
+        "recovered": 2313
+      },
+      {
+        "date": "2020-04-27T00:00:00",
+        "confirmed": 6083,
+        "deaths": 282,
+        "recovered": 2313
+      },
+      {
+        "date": "2020-04-28T00:00:00",
+        "confirmed": 6291,
+        "deaths": 300,
+        "recovered": 2313
+      },
+      {
+        "date": "2020-04-29T00:00:00",
+        "confirmed": 6522,
+        "deaths": 308,
+        "recovered": 3210
+      },
+      {
+        "date": "2020-04-30T00:00:00",
+        "confirmed": 6854,
+        "deaths": 316,
+        "recovered": 3210
+      },
+      {
+        "date": "2020-05-01T00:00:00",
+        "confirmed": 7250,
+        "deaths": 322,
+        "recovered": 3210
+      },
+      {
+        "date": "2020-05-02T00:00:00",
+        "confirmed": 7661,
+        "deaths": 335,
+        "recovered": 3210
+      },
+      {
+        "date": "2020-05-03T00:00:00",
+        "confirmed": 7965,
+        "deaths": 340,
+        "recovered": 3723
+      },
+      {
+        "date": "2020-05-04T00:00:00",
+        "confirmed": 8237,
+        "deaths": 341,
+        "recovered": 3973
+      },
+      {
+        "date": "2020-05-05T00:00:00",
+        "confirmed": 8567,
+        "deaths": 354,
+        "recovered": 4131
+      },
+      {
+        "date": "2020-05-06T00:00:00",
+        "confirmed": 8902,
+        "deaths": 363,
+        "recovered": 4348
+      },
+      {
+        "date": "2020-05-07T00:00:00",
+        "confirmed": 9218,
+        "deaths": 375,
+        "recovered": 4348
+      },
+      {
+        "date": "2020-05-08T00:00:00",
+        "confirmed": 9593,
+        "deaths": 384,
+        "recovered": 4348
+      },
+      {
+        "date": "2020-05-09T00:00:00",
+        "confirmed": 9941,
+        "deaths": 398,
+        "recovered": 4348
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -91.06,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Bayfield",
+          "isoCode": "US-WI",
+          "lat": 46.4354
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.0972,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Brown",
+          "isoCode": "US-WI",
+          "lat": 44.317
+        },
+        "totalConfirmedCases": 1834,
+        "newlyConfirmedCases": 57,
+        "totalDeaths": 18,
+        "newDeaths": 5,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.0942,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Calumet",
+          "isoCode": "US-WI",
+          "lat": 43.9491
+        },
+        "totalConfirmedCases": 35,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5666,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Chippewa",
+          "isoCode": "US-WI",
+          "lat": 45.1988
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5905,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Clark",
+          "isoCode": "US-WI",
+          "lat": 44.5605
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.5367,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Columbia",
+          "isoCode": "US-WI",
+          "lat": 43.3154
+        },
+        "totalConfirmedCases": 32,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.5498,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Dane",
+          "isoCode": "US-WI",
+          "lat": 43.0186
+        },
+        "totalConfirmedCases": 465,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 23,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5615,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Dodge",
+          "isoCode": "US-WI",
+          "lat": 43.5271
+        },
+        "totalConfirmedCases": 55,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.7995,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Douglas",
+          "isoCode": "US-WI",
+          "lat": 46.2409
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.9084,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Dunn",
+          "isoCode": "US-WI",
+          "lat": 44.8893
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.4387,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Eau Claire",
+          "isoCode": "US-WI",
+          "lat": 44.803
+        },
+        "totalConfirmedCases": 54,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3465,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Fond du Lac",
+          "isoCode": "US-WI",
+          "lat": 43.8377
+        },
+        "totalConfirmedCases": 86,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.6491,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Grant",
+          "isoCode": "US-WI",
+          "lat": 42.9793
+        },
+        "totalConfirmedCases": 67,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 7,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3756,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Green",
+          "isoCode": "US-WI",
+          "lat": 42.6168
+        },
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.3961,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Iowa",
+          "isoCode": "US-WI",
+          "lat": 42.8419
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2695,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Iron",
+          "isoCode": "US-WI",
+          "lat": 46.4104
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8419,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Jackson",
+          "isoCode": "US-WI",
+          "lat": 44.2981
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6999,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Jefferson",
+          "isoCode": "US-WI",
+          "lat": 43.0165
+        },
+        "totalConfirmedCases": 50,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2239,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Juneau",
+          "isoCode": "US-WI",
+          "lat": 43.6531
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.1044,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Kenosha",
+          "isoCode": "US-WI",
+          "lat": 42.5707
+        },
+        "totalConfirmedCases": 651,
+        "newlyConfirmedCases": 24,
+        "totalDeaths": 15,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.9165,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "La Crosse",
+          "isoCode": "US-WI",
+          "lat": 43.9075
+        },
+        "totalConfirmedCases": 32,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 23,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.6457,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Marathon",
+          "isoCode": "US-WI",
+          "lat": 44.9615
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.7476,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Marinette",
+          "isoCode": "US-WI",
+          "lat": 45.0556
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4599,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Marquette",
+          "isoCode": "US-WI",
+          "lat": 43.7653
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.0018,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Milwaukee",
+          "isoCode": "US-WI",
+          "lat": 42.937
+        },
+        "totalConfirmedCases": 3854,
+        "newlyConfirmedCases": 132,
+        "totalDeaths": 224,
+        "newDeaths": 5,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5268,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Monroe",
+          "isoCode": "US-WI",
+          "lat": 43.8132
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 7,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.1708,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Oneida",
+          "isoCode": "US-WI",
+          "lat": 45.8047
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5768,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Outagamie",
+          "isoCode": "US-WI",
+          "lat": 44.4449
+        },
+        "totalConfirmedCases": 111,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.9439,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Ozaukee",
+          "isoCode": "US-WI",
+          "lat": 43.3847
+        },
+        "totalConfirmedCases": 104,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.3814,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Pierce",
+          "isoCode": "US-WI",
+          "lat": 44.7509
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4087,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Portage",
+          "isoCode": "US-WI",
+          "lat": 44.2607
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.215,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Racine",
+          "isoCode": "US-WI",
+          "lat": 42.8088
+        },
+        "totalConfirmedCases": 680,
+        "newlyConfirmedCases": 46,
+        "totalDeaths": 16,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2012,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Richland",
+          "isoCode": "US-WI",
+          "lat": 43.1857
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0698,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Rock",
+          "isoCode": "US-WI",
+          "lat": 42.8386
+        },
+        "totalConfirmedCases": 347,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 13,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.7719,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Sauk",
+          "isoCode": "US-WI",
+          "lat": 43.4814
+        },
+        "totalConfirmedCases": 71,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.9478,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Sheboygan",
+          "isoCode": "US-WI",
+          "lat": 43.6766
+        },
+        "totalConfirmedCases": 65,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 27,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.4381,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "St. Croix",
+          "isoCode": "US-WI",
+          "lat": 44.9691
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.5332,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Vilas",
+          "isoCode": "US-WI",
+          "lat": 45.991
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.734,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Walworth",
+          "isoCode": "US-WI",
+          "lat": 42.8372
+        },
+        "totalConfirmedCases": 229,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 10,
+        "newDeaths": 1,
+        "totalRecoveredCases": 18,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3443,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Washington",
+          "isoCode": "US-WI",
+          "lat": 43.4204
+        },
+        "totalConfirmedCases": 116,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.3838,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Waukesha",
+          "isoCode": "US-WI",
+          "lat": 43.1229
+        },
+        "totalConfirmedCases": 396,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 23,
+        "newDeaths": 1,
+        "totalRecoveredCases": 120,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.7394,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Waupaca",
+          "isoCode": "US-WI",
+          "lat": 44.395
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.7378,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Winnebago",
+          "isoCode": "US-WI",
+          "lat": 44.0391
+        },
+        "totalConfirmedCases": 98,
+        "newlyConfirmedCases": 7,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.8549,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Wood",
+          "isoCode": "US-WI",
+          "lat": 44.6057
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.6618,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Ashland",
+          "isoCode": "US-WI",
+          "lat": 46.5986
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.0044,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Buffalo",
+          "isoCode": "US-WI",
+          "lat": 44.4214
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.133,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Door",
+          "isoCode": "US-WI",
+          "lat": 45.0659
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5146,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Oconto",
+          "isoCode": "US-WI",
+          "lat": 45.3006
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.0935,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Crawford",
+          "isoCode": "US-WI",
+          "lat": 43.3516
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.8861,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Adams",
+          "isoCode": "US-WI",
+          "lat": 44.0253
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.7334,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Menominee",
+          "isoCode": "US-WI",
+          "lat": 44.9347
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.3476,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Trempealeau",
+          "isoCode": "US-WI",
+          "lat": 44.3705
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.2633,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Pepin",
+          "isoCode": "US-WI",
+          "lat": 44.4852
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.0269,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Barron",
+          "isoCode": "US-WI",
+          "lat": 45.5353
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.2734,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Rusk",
+          "isoCode": "US-WI",
+          "lat": 45.459
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.9517,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Manitowoc",
+          "isoCode": "US-WI",
+          "lat": 44.1525
+        },
+        "totalConfirmedCases": 19,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0411,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Shawano",
+          "isoCode": "US-WI",
+          "lat": 45.0046
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6673,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Florence",
+          "isoCode": "US-WI",
+          "lat": 45.8431
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.2442,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Waushara",
+          "isoCode": "US-WI",
+          "lat": 44.1788
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.5133,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Kewaunee",
+          "isoCode": "US-WI",
+          "lat": 44.4607
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.0235,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Lafayette",
+          "isoCode": "US-WI",
+          "lat": 42.5801
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.3005,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Sawyer",
+          "isoCode": "US-WI",
+          "lat": 45.7976
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.3965,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Polk",
+          "isoCode": "US-WI",
+          "lat": 45.7159
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5868,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Price",
+          "isoCode": "US-WI",
+          "lat": 45.5301
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.9505,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Green Lake",
+          "isoCode": "US-WI",
+          "lat": 43.9704
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5502,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Washburn",
+          "isoCode": "US-WI",
+          "lat": 45.8445
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8294002,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Vernon",
+          "isoCode": "US-WI",
+          "lat": 43.5576968
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.7725799,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Lincoln",
+          "isoCode": "US-WI",
+          "lat": 45.3743102
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8375807,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Wisconsin",
+          "county": "Forest",
+          "isoCode": "US-WI",
+          "lat": 45.6704497
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "page": 27,
+  "value": [
+    {
+      "path": "_news/2020-04-06-south-korea-reports-fewer-than-50-new-coronavirus-cases.md",
+      "title": "South Korea Reports Fewer Than 50 New Coronavirus Cases",
+      "excerpt": "South Korea reported fewer than 50 new coronavirus cases for the first time since its peak at the end of February as daily infections in Asia's largest outbreak outside China continued to trend downward.",
+      "heat": 120,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/04/06/world/asia/06reuters-health-coronavirus-southkorea-toll.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-05T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "South Korea Reports Fewer Than 50 New Coronavirus Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-coronavirus-singapore-quarantines-20000-migrant-workers.md",
+      "title": "Coronavirus: Singapore quarantines 20,000 migrant workers",
+      "excerpt": "Singapore has told 20,000 foreign workers to stay in their dormitories for 14 days as coronavirus cases increase in the city state. Two dormitories have been isolated: one with 13,000 workers and 63 cases, and one with 6,800 workers and 28 cases. They are typically home to men from South Asia who work in construction. The workers will be paid ...",
+      "heat": null,
+      "tags": [
+        "Singapore",
+        "SG"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.co.uk/news/world-asia-52178510",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/world-asia-52178510",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-asia-52178510",
+      "publishedDateTime": "2020-04-05T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/764A/production/_111628203_mediaitem111628202.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Singapore quarantines 20,000 migrant workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": null
+}

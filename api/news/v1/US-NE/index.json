@@ -1,0 +1,164 @@
+{
+  "location": {
+    "long": -99.901813,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Nebraska",
+    "county": null,
+    "isoCode": "US-NE",
+    "lat": 41.492537
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.6313051Z",
+  "news": [
+    {
+      "path": "_news/2020-05-05-another-nebraska-prisons-staffer-tests-positive-for-covid-19.md",
+      "title": "Another Nebraska prisons staffer tests positive for COVID-19",
+      "excerpt": "Another staffer at Lincoln’s Nebraska State Penitentiary has tested positive for the new coronavirus, state prisons officials said Tuesday. The Nebraska Department",
+      "heat": null,
+      "tags": [
+        "US-NE"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/44536be6032fc220a0857b82c714073c",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": "Another Nebraska prisons staffer tests positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-nebraska-will-open-voting-sites-for-primary-despite-covid-19-concerns.md",
+      "title": "Nebraska will open voting sites for primary despite COVID-19 concerns",
+      "excerpt": "LINCOLN, Neb. >> Nebraska is forging ahead with plans to hold the nation’s first in-person election in more than a month, despite health concerns about the coronavirus pandemic and allegations that political motivations are fueling opposition to an all-mail approach.",
+      "heat": 105,
+      "tags": [
+        "US-NE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.staradvertiser.com/2020/05/03/breaking-news/nebraska-will-open-voting-sites-for-primary-despite-covid-19-concerns/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2020/05/web1_9939906-0c620346df17434c8575db27b21cda97.jpg",
+          "width": 760,
+          "height": 507,
+          "title": "Nebraska will open voting sites for primary despite COVID-19 concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "Political Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-fourth-nebraska-prison-worker-tests-positive-for-coronavirus.md",
+      "title": "Fourth Nebraska prison worker tests positive for coronavirus",
+      "excerpt": "This is the third worker at the State Penitentiary to test positive. The fourth employee worked at the Diagnostic & Evaluation Center in Lincoln.",
+      "heat": 115,
+      "tags": [
+        "US-NE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.omaha.com/livewellnebraska/fourth-nebraska-prison-worker-tests-positive-for-coronavirus/article_d043dd03-8636-526a-afa3-596143d3cee5.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/04/d043dd03-8636-526a-afa3-596143d3cee5/5eaaec5b001a4.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+          "width": 1120,
+          "height": 630,
+          "title": "Fourth Nebraska prison worker tests positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-nebraska-sees-continued-surge-in-new-coronavirus-cases.md",
+      "title": "Nebraska Sees Continued Surge in New Coronavirus Cases",
+      "excerpt": "Nebraska is continuing to see a surge in coronavirus infections, including new confirmed cases in two counties.",
+      "heat": 125,
+      "tags": [
+        "US-NE"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/nebraska/articles/2020-04-28/nebraska-sees-continued-surge-in-new-coronavirus-cases",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    }
+  ]
+}

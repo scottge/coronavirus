@@ -1,0 +1,436 @@
+{
+  "location": {
+    "long": -85.602364,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Michigan",
+    "county": null,
+    "isoCode": "US-MI",
+    "lat": 44.314844
+  },
+  "updatedDateTime": "2020-05-10T05:45:38.9195281Z",
+  "news": [
+    {
+      "path": "_news/2020-05-09-michigan-ranks-highest-in-nation-for-prisoner-deaths-from-coronavirus.md",
+      "title": "Michigan ranks highest in nation for prisoner deaths from coronavirus",
+      "excerpt": "The Michigan Department of Corrections has logged more coronavirus deaths than any other state prison system and ranks second nationwide behind New Jersey for prisoner deaths per capita, according to The Marshall Project,",
+      "heat": 105,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/local/michigan/2020/05/09/prisoner-coronavirus-covid-19-deaths/3090182001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3090182001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3090182001",
+      "publishedDateTime": "2020-05-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/12/PDTF/82645b79-67ca-4e33-831f-566e9862324c-prison_stock_photo_1_1_O2C6H457_L689516010.JPG?auto=webp&crop=533,300,x0,y89&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Michigan ranks highest in nation for prisoner deaths from coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-coronavirus-helps-turn-michigan-into-2020-elections-ground-zero.md",
+      "title": "Coronavirus Helps Turn Michigan Into 2020 Election’s Ground Zero",
+      "excerpt": "Among the handful of true electoral battleground states for the 2020 election, Michigan stands out.",
+      "heat": 105,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/coronavirus-helps-turn-michigan-into-2020-elections-ground-zero-11588996860",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/coronavirus-helps-turn-michigan-into-2020-elections-ground-zero-11588996860",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/coronavirus-helps-turn-michigan-into-2020-elections-ground-zero-11588996860",
+      "publishedDateTime": "2020-05-08T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-185156/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Coronavirus Helps Turn Michigan Into 2020 Election’s Ground Zero",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-michigan-governor-allows-coronavirus-hit-manufacturers-to-reopen-on-may-11.md",
+      "title": "Michigan governor allows coronavirus-hit manufacturers to reopen on May 11",
+      "excerpt": "Michigan Governor Gretchen Whitmer on Thursday said the state's factories can reopen on May 11, removing one of the last major obstacles to North American automakers bringing thousands of laid-off employees back to work amid the coronavirus pandemic.",
+      "heat": 103,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronarivus-usa-michigan-exclu-idUSKBN22J2OG",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22J2OG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22J2OG",
+      "publishedDateTime": "2020-05-07T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517880722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG461MK",
+          "width": 761,
+          "height": 545,
+          "title": "Michigan governor allows coronavirus-hit manufacturers to reopen on May 11",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-church-leaders-sue-michigan-governor-whitmer-over-coronavirus-stay-at-home-order.md",
+      "title": "Church Leaders Sue Michigan Governor Whitmer Over Coronavirus Stay-At-Home Order",
+      "excerpt": "A group of church leaders in Michigan filed a lawsuit Wednesday against Governor Gretchen Whitmer, alleging her recent executive orders violated their First Amendment rights.",
+      "heat": 100,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/church-leaders-sue-michigan-governor-whitmer-over-coronavirus-stay-home-order-1502695",
+      "ampWebUrl": "https://www.newsweek.com/church-leaders-sue-michigan-governor-whitmer-over-coronavirus-stay-home-order-1502695?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/church-leaders-sue-michigan-governor-whitmer-over-coronavirus-stay-home-order-1502695?amp=1",
+      "publishedDateTime": "2020-05-07T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1588254/michigan-governor-gretchen-whitmer.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Church Leaders Sue Michigan Governor Whitmer Over Coronavirus Stay-At-Home Order",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-michigan-gop-congressman-sues-governor-whitmer-over-coronavirus-lockdown-as-state-reports-highest-domestic-death-rate.md",
+      "title": "Michigan GOP Congressman Sues Governor Whitmer Over Coronavirus Lockdown As State Reports Highest Domestic Death Rate",
+      "excerpt": "In the lawsuit, Republican Congressman Paul Mitchell claims that Whitmer's handling of the coronavirus pandemic violated both the state and national constitutions.",
+      "heat": 142,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/michigan-gop-congressman-sues-governor-whitmer-over-coronavirus-lockdown-state-reports-highest-1501913",
+      "ampWebUrl": "https://www.newsweek.com/michigan-gop-congressman-sues-governor-whitmer-over-coronavirus-lockdown-state-reports-highest-1501913?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-gop-congressman-sues-governor-whitmer-over-coronavirus-lockdown-state-reports-highest-1501913?amp=1",
+      "publishedDateTime": "2020-05-04T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1587251/michigan-governor-gretchen-whitmer.jpg",
+          "width": 2500,
+          "height": 1687,
+          "title": "Michigan GOP Congressman Sues Governor Whitmer Over Coronavirus Lockdown As State Reports Highest Domestic Death Rate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-michigan-tops-4000-coronavirus-related-deaths.md",
+      "title": "Michigan Tops 4,000 Coronavirus-Related Deaths",
+      "excerpt": "The state of Michigan has surpassed 4,000 deaths due to complications from the COVID-19 virus. Michigan’s Department of Health and Human Services listed the state’s death total Saturday at 4,020. It says there are 43,",
+      "heat": null,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/michigan/articles/2020-05-02/michigan-tops-4-000-coronavirus-related-deaths",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-coronavirus-armed-protesters-enter-michigan-statehouse.md",
+      "title": "Coronavirus: Armed protesters enter Michigan statehouse",
+      "excerpt": "Gun-toting protesters against Michigan's coronavirus lockdown have rallied in the state capitol building. Hundreds of demonstrators, a few of them armed, gathered in Lansing and many did not wear masks or socially distance.",
+      "heat": 105,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-us-canada-52496514",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-us-canada-52496514",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-52496514",
+      "publishedDateTime": "2020-04-30T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/DE67/production/_112053965_gettyimages-1211398264.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Armed protesters enter Michigan statehouse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-michigan-gov-whitmer-gets-court-win-in-fight-over-coronavirus-stay-home-order.md",
+      "title": "Michigan Gov. Whitmer gets court win in fight over coronavirus stay-home order",
+      "excerpt": "Get all the latest news on coronavirus and more delivered daily to your inbox ... Many residents said Whitmer overstepped her authority by banning most travel between homes and by temporarily prohibiting sales of items such as garden supplies and activities such as some forms of fishing. “Quarantine is when you restrict movement of sick ...",
+      "heat": 111,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/michigan-gov-whitmer-gets-court-win-in-fight-over-coronavirus-stay-home-order",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-gov-whitmer-gets-court-win-in-fight-over-coronavirus-stay-home-order.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-whitmer-gets-court-win-in-fight-over-coronavirus-stay-home-order.amp",
+      "publishedDateTime": "2020-04-30T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ade324ab-d991-4798-a857-e48fd46572f6/f343810d-857a-4e8f-81e1-afc1b4a4c12b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Michigan Gov. Whitmer gets court win in fight over coronavirus stay-home order",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-armed-protesters-demonstrate-against-covid-19-lockdown-at-michigan-capitol.md",
+      "title": "Armed protesters demonstrate against Covid-19 lockdown at Michigan capitol",
+      "excerpt": "Police and capitol staff held back protesters – some armed with rifles – attempting to enter floor of legislative chamber",
+      "heat": 103,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/us-news/2020/apr/30/michigan-protests-coronavirus-lockdown-armed-capitol",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/apr/30/michigan-protests-coronavirus-lockdown-armed-capitol",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/apr/30/michigan-protests-coronavirus-lockdown-armed-capitol",
+      "publishedDateTime": "2020-04-30T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ccfd25d3aeb52516bc3048b9b0b0a73150a6c52c/0_518_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b9170981f54a75a5dec6c606f68feebf",
+          "width": 600,
+          "height": 360,
+          "title": "Armed protesters demonstrate against Covid-19 lockdown at Michigan capitol",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-why-coronavirus-hit-michigans-economy-harder-longer.md",
+      "title": "Why Coronavirus Hit Michigan’s Economy Harder, Longer",
+      "excerpt": "The growing economic crisis triggered by the pandemic is expected to last longer and hit harder in Michigan than in most places, as the state deals with the fallout of a severe coronavirus outbreak and ongoing dependence on manufacturing.",
+      "heat": 105,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/why-coronavirus-hit-michigans-economy-harder-longer-11588248001",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/why-coronavirus-hit-michigans-economy-harder-longer-11588248001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-coronavirus-hit-michigans-economy-harder-longer-11588248001",
+      "publishedDateTime": "2020-04-30T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-181795/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Why Coronavirus Hit Michigan’s Economy Harder, Longer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-michigan-businesses-invoke-dormant-commerce-clause-in-coronavirus-lawsuit.md",
+      "title": "Michigan businesses invoke dormant Commerce Clause in coronavirus lawsuit",
+      "excerpt": "Michigan Governor Gretchen Whitmer, already facing litigation challenging her decision to shut most businesses to combat the coronavirus outbreak, now faces a lawsuit claiming that her executive order should be struck down because it violates their right to conduct interstate commerce.",
+      "heat": 104,
+      "tags": [
+        "US-MI"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/michigan-coronavirus/michigan-businesses-invoke-dormant-commerce-clause-in-coronavirus-lawsuit-idUSL1N2CH36N",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2CH36N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2CH36N",
+      "publishedDateTime": "2020-04-29T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Michigan businesses invoke dormant Commerce Clause in coronavirus lawsuit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

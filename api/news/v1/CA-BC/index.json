@@ -1,0 +1,136 @@
+{
+  "location": {
+    "long": -123.1207,
+    "countryOrRegion": "Canada",
+    "provinceOrState": "British Columbia",
+    "county": null,
+    "isoCode": "CA-BC",
+    "lat": 49.2827
+  },
+  "updatedDateTime": "2020-05-10T05:45:36.3712373Z",
+  "news": [
+    {
+      "path": "_news/2020-05-07-canadas-british-columbia-the-latest-province-to-unveil-restart-plan.md",
+      "title": "Canada's British Columbia the latest province to unveil restart plan",
+      "excerpt": "The Canadian province of British Columbia will begin reopening its economy as early as mid-May, the premier said on Wednesday, as new coronavirus cases dwindle and other parts of the country, including Quebec and Manitoba,",
+      "heat": 105,
+      "tags": [
+        "CA",
+        "CA-BC",
+        "Canada-BC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-canada-idUSKBN22I2C2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I2C2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I2C2",
+      "publishedDateTime": "2020-05-06T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517677509&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG451H7",
+          "width": 817,
+          "height": 545,
+          "title": "Canada's British Columbia the latest province to unveil restart plan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-the-latest-nhl-offered-place-to-play-in-british-columbia.md",
+      "title": "The Latest: NHL offered place to play in British Columbia",
+      "excerpt": "British Columbia Premier John Horgan has offered the NHL a place to play if the league can find a way to resume the season. TOP STORIES Texas governor demands release of salon owner jailed for violating his executive order Coronavirus hype biggest political hoax in history Donald Trump Jr.",
+      "heat": null,
+      "tags": [
+        "CA",
+        "CA-BC",
+        "Canada-BC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtontimes.com/news/2020/may/6/the-latest-german-soccer-could-be-cleared-to-resum/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/04/20/virus_outbreak_sports_poll_10233_c0-140-3359-2099_s1200x700.jpg?c9ed18d226ea968fb467046bcea6f29c38ba16e5",
+          "width": 1200,
+          "height": 700,
+          "title": "The Latest: NHL offered place to play in British Columbia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-feds-investing-175-million-in-vancouver-company-studying-covid-19.md",
+      "title": "Feds investing $175 million in Vancouver company studying COVID 19",
+      "excerpt": "The federal government is investing millions to boost online access to health services and to support a Vancouver biological company's research into treatment and prevention of COVID-19.",
+      "heat": 105,
+      "tags": [
+        "CA",
+        "CA-BC",
+        "Canada-BC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/canada/british-columbia/feds-investing-175-million-in-vancouver-company-studying-covid-19-1.5553950",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5553950",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5553950",
+      "publishedDateTime": "2020-05-03T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5496573.1584110462!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-19-abcellera.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Feds investing $175 million in Vancouver company studying COVID 19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    }
+  ]
+}

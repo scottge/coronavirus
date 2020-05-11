@@ -1,0 +1,1225 @@
+{
+  "location": {
+    "long": 12.0,
+    "countryOrRegion": "Italy",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "IT",
+    "lat": 43.0
+  },
+  "updatedDateTime": "2020-05-10T05:45:39.8631313Z",
+  "news": [
+    {
+      "path": "_news/2020-05-10-coronavirus-deepens-north-south-divide-in-italy-and-spain.md",
+      "title": "Coronavirus deepens north-south divide in Italy and Spain",
+      "excerpt": "While the rest of Italy started returning to work this week as restrictions aimed at stopping the spread of coronavirus were lifted, employees at the Rummo pasta plant could be forgiven for wanting a holiday.",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/6c2ad256-9452-4480-9d98-2444b07675d4",
+      "ampWebUrl": "https://amp.ft.com/content/6c2ad256-9452-4480-9d98-2444b07675d4",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6c2ad256-9452-4480-9d98-2444b07675d4",
+      "publishedDateTime": "2020-05-09T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8e4ceb41-68fe-4f0b-b74b-87500afd027b.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "Coronavirus deepens north-south divide in Italy and Spain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-italy-gives-go-ahead-for-roman-catholic-masses-to-resume-may-18.md",
+      "title": "Italy gives go-ahead for Roman Catholic Masses to resume May 18",
+      "excerpt": "Italy is set to lift its ban on religious services due to COVID-19, weeks earlier than expected, following a Thursday meeting between the nation's bishops and Prime Minister Giuseppe Conte.",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/italy-to-resume-church-services-earlier-than-expected-after-bishops-sitdown-with-government",
+      "ampWebUrl": "https://www.foxnews.com/world/italy-to-resume-church-services-earlier-than-expected-after-bishops-sitdown-with-government.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/italy-to-resume-church-services-earlier-than-expected-after-bishops-sitdown-with-government.amp",
+      "publishedDateTime": "2020-05-09T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/596938e4-c35c-4df2-bf37-f143c7f1b7b8/dd68ea5d-8089-4c94-8ee9-8559b9d96f09/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Italy gives go-ahead for Roman Catholic Masses to resume May 18",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-reopenings-bring-new-cases-in-s-korea-virus-fears-in-italy.md",
+      "title": "Reopenings bring new cases in S. Korea, virus fears in Italy",
+      "excerpt": "South Korea's capital closed down more than 2,100 bars and other nightspots Saturday because of a new cluster of coronavirus infections, Germany scrambled to contain fresh outbreaks",
+      "heat": 200,
+      "tags": [
+        "US",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://apnews.com/fce9ea63c7c4199e4ff39ddd54d3944e",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/8544eabdc5b0428da95282955d2c6aae/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Reopenings bring new cases in S. Korea, virus fears in Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-italys-la-scala-opera-house-unveils-virtual-tours-amid-coronavirus-pandemic.md",
+      "title": "Italy's La Scala opera house unveils virtual tours amid coronavirus pandemic",
+      "excerpt": "La Scala has been closed since Feb. 23, within days of the first positive case of domestically transmitted coronavirus in Italy.",
+      "heat": 117,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/travel/news/2020/05/09/coronavirus-italys-la-scala-opera-house-unveils-virtual-tours/3103172001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3103172001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3103172001",
+      "publishedDateTime": "2020-05-09T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/09/USAT/96c4c7c8-26cd-47a6-846d-8961d6df9507-AP_Virus_Outbreak_Italy_La_Scala.JPG?auto=webp&crop=4791,2695,x0,y332&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Italy's La Scala opera house unveils virtual tours amid coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-italys-daily-coronavirus-death-toll-and-new-cases-fall.md",
+      "title": "Italy's daily coronavirus death toll and new cases fall",
+      "excerpt": "Deaths from the COVID-19 epidemic in Italy climbed by 194 on Saturday, against 243 the day before, the Civil Protection Agency said, while the daily tally of new cases fell to 1,083 from 1,327 on Friday.",
+      "heat": 130,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-tally-idUSKBN22L0Q4",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22L0Q4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22L0Q4",
+      "publishedDateTime": "2020-05-09T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200509&t=2&i=1518047864&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG480LN",
+          "width": 819,
+          "height": 545,
+          "title": "Italy's daily coronavirus death toll and new cases fall",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-italy-has-long-been-europes-wild-card-the-coronavirus-has-upped-the-risk.md",
+      "title": "Italy has long been Europe’s wild card. The coronavirus has upped the risk.",
+      "excerpt": "The novel coronavirus death toll has surpassed 30,000. The country is hurtling into its steepest recession in modern times. Tourism has gone bust. Many restaurants and shops lack the cash to ever reopen.",
+      "heat": 118,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/europe/coronavirus-italy-deaths-recession-euroskepticism/2020/05/08/c28c496e-8a5a-11ea-80df-d24b35a568ae_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/europe/coronavirus-italy-deaths-recession-euroskepticism/2020/05/08/c28c496e-8a5a-11ea-80df-d24b35a568ae_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/coronavirus-italy-deaths-recession-euroskepticism/2020/05/08/c28c496e-8a5a-11ea-80df-d24b35a568ae_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-09T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/9HcJLrARuLBeNKta7hkdfXMyHpk=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BJCEPXUQVII6VKOAOO4TIIWWSE.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Italy has long been Europe’s wild card. The coronavirus has upped the risk.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-italy-death-toll-tops-30000-highest-in-eu.md",
+      "title": "Coronavirus: Italy death toll tops 30,000, highest in EU",
+      "excerpt": "Italy has the third highest number of officially recorded coronavirus deaths in the world, after the United States and the UK - which is no longer a member of the EU. Britain passed the 30,000 mark on Wednesday.",
+      "heat": 150,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.co.uk/news/world-europe-52594570",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/world-europe-52594570",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-europe-52594570",
+      "publishedDateTime": "2020-05-08T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F92E/production/_112209736_061392753.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Italy death toll tops 30,000, highest in EU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-global-report-spain-and-italy-grapple-with-how-to-end-covid-19-lockdown.md",
+      "title": "Global report: Spain and Italy grapple with how to end Covid-19 lockdown",
+      "excerpt": "Spanish government refuses permission for Madrid region to loosen physical distancing rules",
+      "heat": 119,
+      "tags": [
+        "Spain",
+        "ES",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/08/global-report-spain-and-italy-grapple-with-how-to-end-covid-19-lockdown",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/08/global-report-spain-and-italy-grapple-with-how-to-end-covid-19-lockdown",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/08/global-report-spain-and-italy-grapple-with-how-to-end-covid-19-lockdown",
+      "publishedDateTime": "2020-05-08T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/bbfcace64208b917f64ba608224aa88dd03bd0eb/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ec92ffada431751f8593ad2eda732d57",
+          "width": 600,
+          "height": 360,
+          "title": "Global report: Spain and Italy grapple with how to end Covid-19 lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-italy-tops-30000-coronavirus-deaths-new-cases-edge-down.md",
+      "title": "Italy Tops 30,000 Coronavirus Deaths, New Cases Edge Down",
+      "excerpt": "The daily number of new infections fell slightly to 1,327 from 1,401 on Thursday, taking the total of confirmed cases since the epidemic began to 217,185, the third highest global tally behind those of the United States and Spain.",
+      "heat": 175,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-08/italy-tops-30-000-coronavirus-deaths-new-cases-edge-down",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-08/italy-tops-30-000-coronavirus-deaths-new-cases-edge-down?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-08/italy-tops-30-000-coronavirus-deaths-new-cases-edge-down?context=amp",
+      "publishedDateTime": "2020-05-08T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-coronavirus-live-updates-who-calls-for-research-into-wuhan-market-indonesia-eases-travel-restrictions.md",
+      "title": "Coronavirus live updates: WHO calls for research into Wuhan market, Indonesia eases travel restrictions",
+      "excerpt": "Covid-19 has infected more than 3,862,174 people around the world as of Friday, killing at least 269,881 people.",
+      "heat": 139,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/08/coronavirus-latest-updates.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/08/coronavirus-latest-updates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/coronavirus-latest-updates.html",
+      "publishedDateTime": "2020-05-08T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106490962-1587013284970gettyimages-1210084517.jpeg?v=1587886531",
+          "width": 6048,
+          "height": 4024,
+          "title": "Coronavirus live updates: WHO calls for research into Wuhan market, Indonesia eases travel restrictions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "Treatment",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-house-probe-finds-us-efforts-to-screen-travelers-from-italy-and-south-korea-were-lax.md",
+      "title": "House probe finds U.S. efforts to screen travelers from Italy and South Korea were lax",
+      "excerpt": "As of Thursday evening, the death toll in the U.S. is over 76,000 and there are more than 1.2 million confirmed cases, according to NBC News' count. Here's what to know about the coronavirus, plus a timeline of the most critical moments: Reopening America: See what states across the U.",
+      "heat": 132,
+      "tags": [
+        "Italy",
+        "IT",
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-07-coronavirus-news-n1201801/ncrd1202511",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1201801",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1201801",
+      "publishedDateTime": "2020-05-07T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages-bento/og-nbcnews1200x630.png",
+          "width": 1200,
+          "height": 600,
+          "title": "House probe finds U.S. efforts to screen travelers from Italy and South Korea were lax",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-parents-nervously-return-to-work-in-italy-children-are-still-at-home.md",
+      "title": "Parents Nervously Return to Work in Italy. Children Are Still at Home.",
+      "excerpt": "Millions of Italians went back to the office this week. But with schools and day care closed and grandparents at risk, many feel the coronavirus has upended their futures as working parents.",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/06/world/europe/italy-coronavirus-reopening-parents.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/06/world/europe/italy-coronavirus-reopening-parents.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/06/world/europe/italy-coronavirus-reopening-parents.amp.html",
+      "publishedDateTime": "2020-05-07T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/06/world/00virus-italy-parents-1/merlin_172212789_db1b8813-a39b-4081-b11e-d643c4c3e696-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Parents Nervously Return to Work in Italy. Children Are Still at Home.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-italys-snam-sees-limited-impact-from-coronavirus-on-targets.md",
+      "title": "Italy's Snam sees limited impact from coronavirus on targets",
+      "excerpt": "Italian gas company Snam can't reliably calculate the effects of the coronavirus pandemic on its business outlook but doesn't see any major impact, it said on Thursday.",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-snam-results-idUSKBN22J1DK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22J1DK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22J1DK",
+      "publishedDateTime": "2020-05-07T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Italy's Snam sees limited impact from coronavirus on targets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-coronavirus-live-updates-italy-returns-to-work-but-not-to-school.md",
+      "title": "Coronavirus Live Updates: Italy Returns to Work but Not to School",
+      "excerpt": "Italy, the first country in Europe to impose a nationwide lockdown, has become a global test case for the challenges of reopening businesses and schools.",
+      "heat": 180,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/07/world/coronavirus-news.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/07/world/coronavirus-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/world/coronavirus-news.amp.html",
+      "publishedDateTime": "2020-05-06T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nytimes.com/newsgraphics/2020/04/09/corona-virus-social-images-by-section/assets/World_promo.jpg?u=1588830706704",
+          "width": 1050,
+          "height": 549,
+          "title": "Coronavirus Live Updates: Italy Returns to Work but Not to School",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Education Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-italy-moves-to-stop-mafia-leaders-from-leaving-prison-over-coronavirus.md",
+      "title": "Italy moves to stop Mafia leaders from leaving prison over coronavirus",
+      "excerpt": "Italy’s top prosecutor on Wednesday said mafia leaders released from prisons over the novel coronavirus will likely soon be back behind bars.",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/italy-mafia-leaders-leaving-prison-coronavirus",
+      "ampWebUrl": "https://www.foxnews.com/world/italy-mafia-leaders-leaving-prison-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/italy-mafia-leaders-leaving-prison-coronavirus.amp",
+      "publishedDateTime": "2020-05-06T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/AP20127690836536.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Italy moves to stop Mafia leaders from leaving prison over coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-italys-bper-posts-sharp-profit-drop-on-more-virus-provisions.md",
+      "title": "Italy's BPER posts sharp profit drop on more virus provisions",
+      "excerpt": "Italy's sixth-largest lender BPER Banca posted an 87% drop in first-quarter profit on Wednesday after further loan writedowns to offset the early impact of the COVID-19 pandemic.",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-italy-bper-banca-results-idUSKBN22I2YM",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I2YM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I2YM",
+      "publishedDateTime": "2020-05-06T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Italy's BPER posts sharp profit drop on more virus provisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-burger-king-to-allow-reservations-for-in-restaurant-dining-at-locations-in-italy.md",
+      "title": "Burger King to allow reservations for in-restaurant dining at locations in Italy",
+      "excerpt": "Burger King will seat you now. A Burger King in Italy is testing a reservation option for its tables as part of its commitment to social distancing. The international burger chain is reportedly trialing an app that would allow people order food,",
+      "heat": 100,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/food-drink/burger-king-reservations-restaurant-dining-italy",
+      "ampWebUrl": "https://www.foxnews.com/food-drink/burger-king-reservations-restaurant-dining-italy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/food-drink/burger-king-reservations-restaurant-dining-italy.amp",
+      "publishedDateTime": "2020-05-06T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/06/640/320/Burger-King-top-of-page.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Burger King to allow reservations for in-restaurant dining at locations in Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-italy-eases-europes-longest-coronavirus-lockdown.md",
+      "title": "Italy eases Europe's longest coronavirus lockdown",
+      "excerpt": "Italy started to unwind Europe's longest coronavirus lockdown on May 4, letting some 4.5 million people return to work after nearly two months at home.",
+      "heat": 100,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/video/world/italy-eases-europes-longest-coronavirus-lockdown/2020/05/04/56187709-3d3b-4faf-8ca7-7df316f357fe_video.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/05-04-2020/t_dfe20bedc0094500be0f928fd96990d0_name_5fb1f84e_8dfb_11ea_9322_a29e75effc93_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": "Italy eases Europe's longest coronavirus lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-italys-enel-feels-limited-crisis-impact-as-earnings-exceed-estimates.md",
+      "title": "Italy's Enel feels limited crisis impact as earnings exceed estimates",
+      "excerpt": "Italy's biggest utility Enel suffered no significant impact from the coronavirus crisis in the first quarter, adding on Wednesday that its core earnings had risen by more than forecast.",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-enel-results-idUSKBN22I2FB",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I2FB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I2FB",
+      "publishedDateTime": "2020-05-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517692253&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG451PC",
+          "width": 818,
+          "height": 545,
+          "title": "Italy's Enel feels limited crisis impact as earnings exceed estimates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-coronavirus-russia-brings-army-doctors-home-from-italy.md",
+      "title": "Coronavirus: Russia brings army doctors home from Italy",
+      "excerpt": "Italy had been struggling to procure medical equipment and aid from neighbouring nations as deaths and new cases soared in March. What does ‘from Russia with love’ really mean",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-europe-52557426",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/world-europe-52557426",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-europe-52557426",
+      "publishedDateTime": "2020-05-06T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/157D1/production/_112171088_tv060757500.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: Russia brings army doctors home from Italy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-italys-daily-coronavirus-death-toll-and-new-cases-tally-both-rise.md",
+      "title": "Italy's daily coronavirus death toll and new cases' tally both rise",
+      "excerpt": "Deaths from the COVID-19 epidemic in Italy climbed by 369 on Wednesday, against just 236 the day before, the Civil Protection Agency said, while the daily tally of new infections also rose, increasing by 1,",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-tally/italys-daily-coronavirus-death-toll-and-new-cases-tally-both-rise-idUSKBN22I2FP",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I2FP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I2FP",
+      "publishedDateTime": "2020-05-06T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517682829&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG451L5",
+          "width": 859,
+          "height": 545,
+          "title": "Italy's daily coronavirus death toll and new cases' tally both rise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-italy-considers-ways-for-museums-beach-clubs-to-reopen-official-says.md",
+      "title": "Italy considers ways for museums, beach clubs to reopen, official says",
+      "excerpt": "Italian Culture Minister Dario Franceschini asked the government’s scientific committee Tuesday to develop a protocol to ensure proper safety guidelines for the reopening of theaters, museums, hotels and beach clubs.",
+      "heat": 105,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-06-coronavirus-news-n1200996/ncrd1201011",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1200996",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1200996",
+      "publishedDateTime": "2020-05-06T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages-bento/og-nbcnews1200x630.png",
+          "width": 1200,
+          "height": 600,
+          "title": "Italy considers ways for museums, beach clubs to reopen, official says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-uk-surpasses-italy-to-lead-europe-in-recorded-coronavirus-deaths.md",
+      "title": "U.K. Surpasses Italy To Lead Europe In Recorded Coronavirus Deaths",
+      "excerpt": "The United Kingdom has now surpassed Italy to lead Europe on the most lives lost to the coronavirus outbreak.",
+      "heat": 100,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.npr.org/2020/05/06/851173907/u-k-surpasses-italy-to-lead-europe-in-recorded-coronavirus-deaths",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "U.K. Surpasses Italy To Lead Europe In Recorded Coronavirus Deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-rpt-italy-service-sector-shrinks-at-steepest-rate-on-record-in-april-pmi.md",
+      "title": "RPT-Italy service sector shrinks at steepest rate on record in April -PMI",
+      "excerpt": "Italy’s service sector shrank at the fastest rate in more than 22 years in April, a survey showed on Wednesday, as a lockdown imposed to try to contain the coronavirus pandemic shuttered most businesses.",
+      "heat": 104,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/italy-economy-pmi-idUSZRN000FHP",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSZRN000FHP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSZRN000FHP",
+      "publishedDateTime": "2020-05-06T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "RPT-Italy service sector shrinks at steepest rate on record in April -PMI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-britains-death-toll-from-the-coronavirus-rivals-italys.md",
+      "title": "Britain's death toll from the coronavirus rivals Italy's",
+      "excerpt": "Britain has become the first country in Europe to confirm more than 30,000 coronavirus deaths, and infections are rising sharply again in Russia",
+      "heat": 160,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Health/wireStory/cases-south-korea-china-show-work-containment-70505775",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/cases-south-korea-china-show-work-containment-70505775",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/cases-south-korea-china-show-work-containment-70505775",
+      "publishedDateTime": "2020-05-05T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_7ceabb794aeb4876a9aee7511c1724f8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "Britain's death toll from the coronavirus rivals Italy's",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-britain-surpasses-italy-with-most-reported-coronavirus-deaths-in-europe.md",
+      "title": "Britain surpasses Italy with most reported coronavirus deaths in Europe",
+      "excerpt": "More than 29,400 people have died of the coronavirus in the U.K., according government figures released Tuesday.",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/europe/britain-surpasses-italy-with-most-reported-coronavirus-deaths-in-europe/2020/05/05/499fc088-8ed0-11ea-9322-a29e75effc93_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/europe/britain-surpasses-italy-with-most-reported-coronavirus-deaths-in-europe/2020/05/05/499fc088-8ed0-11ea-9322-a29e75effc93_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/britain-surpasses-italy-with-most-reported-coronavirus-deaths-in-europe/2020/05/05/499fc088-8ed0-11ea-9322-a29e75effc93_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-05T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2363al1D00Um9KosoFWW-474Abw=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INFT7ZEO24I6VHRDNEKO4QIKL4.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Britain surpasses Italy with most reported coronavirus deaths in Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-uk-overtakes-italy-to-record-highest-coronavirus-death-toll-anywhere-in-europe.md",
+      "title": "UK overtakes Italy to record highest coronavirus death toll anywhere in Europe",
+      "excerpt": "The UK has suffered more deaths from coronavirus than any other country in Europe, reaching a grim milestone that piles further scrutiny on the response to the pandemic by Prime Minister Boris Johnson's government.",
+      "heat": 116,
+      "tags": [
+        "Italy",
+        "IT",
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/05/uk/uk-coronavirus-death-toll-europe-scli-gbr-intl/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/05/uk/uk-coronavirus-death-toll-europe-scli-gbr-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/uk/uk-coronavirus-death-toll-europe-scli-gbr-intl/index.html",
+      "publishedDateTime": "2020-05-05T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200414114642-01-uk-health-worker-0324-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UK overtakes Italy to record highest coronavirus death toll anywhere in Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-italy-expects-at-least-100-billion-euros-from-eu-recovery-fund.md",
+      "title": "Italy expects at least 100 billion euros from EU recovery fund",
+      "excerpt": "Economy Minister Roberto Gualtieri said on Tuesday he was confident the new European Recovery Fund will make available at least 100 billion euros ($109 billion) for Italy to help its economy bounce back from the coronavirus crisis.",
+      "heat": 115,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-eu-idUSKBN22H2CH",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H2CH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H2CH",
+      "publishedDateTime": "2020-05-05T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517551792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG441F8",
+          "width": 844,
+          "height": 545,
+          "title": "Italy expects at least 100 billion euros from EU recovery fund",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-italy-to-offer-permits-to-illegal-migrants-for-farm-work-in-covid-crisis.md",
+      "title": "Italy to offer permits to illegal migrants for farm work in Covid crisis",
+      "excerpt": "Italy plans to give work permits to thousands of irregular migrants to help farms deal with the Covid-19 epidemic that has cut the flow of cheap labour from abroad, a political source said on Tuesday.",
+      "heat": 119,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-italy-migrants-idUSKBN22H1NF",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22H1NF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H1NF",
+      "publishedDateTime": "2020-05-05T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517524013&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440YM",
+          "width": 801,
+          "height": 545,
+          "title": "Italy to offer permits to illegal migrants for farm work in Covid crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-coronavirus-italy-china-your-monday-briefing.md",
+      "title": "Coronavirus, Italy, China: Your Monday Briefing",
+      "excerpt": "Good morning. We’re covering Italy starting to reopen, China facing a backlash and why some places fare better with outbreaks than others. Italy, which has had the deadliest outbreak in Europe, will enter a reopening phase today,",
+      "heat": 170,
+      "tags": [
+        "CN",
+        "CN-HB",
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/03/briefing/coronavirus-italy-china.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/03/briefing/coronavirus-italy-china.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/03/briefing/coronavirus-italy-china.amp.html",
+      "publishedDateTime": "2020-05-04T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/04/world/04ambriefing-europe-promo/04ambriefing-europe-pix1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "Coronavirus, Italy, China: Your Monday Briefing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    }
+  ]
+}

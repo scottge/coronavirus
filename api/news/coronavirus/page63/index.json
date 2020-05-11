@@ -1,0 +1,1293 @@
+{
+  "page": 63,
+  "value": [
+    {
+      "path": "_news/2020-05-03-no-new-cases-of-covid-19-reported-in-brazos-county-on-sunday.md",
+      "title": "No new cases of COVID-19 reported in Brazos County on Sunday",
+      "excerpt": "Texas Governor Greg Abbott also announced on Sunday that the number of Texans who have recovered from the virus now exceeds the number of active COVID-19 cases for the past two days.",
+      "heat": 130,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kbtx.com/content/news/Brazos-County-health-officials-release-new-COVID-19-numbers-for-Sunday-May-3-570158031.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KBTX",
+        "domain": "kbtx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.graytvinc.com/images/MGN_1280x720_00318P00-JPCPZ.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "No new cases of COVID-19 reported in Brazos County on Sunday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-after-strict-lockdown-spain-has-lowest-coronavirus-death-toll-in-6-weeks.md",
+      "title": "After Strict Lockdown, Spain Has Lowest Coronavirus Death Toll In 6 Weeks",
+      "excerpt": "Spain reported its lowest daily increase in coronavirus deaths in six weeks on Sunday, with 164 new deaths, as it eases stay-at-home restrictions after weeks under one of the strictest lockdowns in the world.",
+      "heat": 104,
+      "tags": [
+        "Spain",
+        "ES"
+      ],
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alexandrasternlicht/2020/05/03/after-strict-lockdown-spain-has-lowest-coronavirus-death-toll-in-6-weeks/",
+      "ampWebUrl": "https://www.forbes.com/sites/alexandrasternlicht/2020/05/03/after-strict-lockdown-spain-has-lowest-coronavirus-death-toll-in-6-weeks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexandrasternlicht/2020/05/03/after-strict-lockdown-spain-has-lowest-coronavirus-death-toll-in-6-weeks/amp/",
+      "publishedDateTime": "2020-05-03T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1222463414%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "After Strict Lockdown, Spain Has Lowest Coronavirus Death Toll In 6 Weeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-researchers-explore-using-common-blood-plasma-treatment-to-fight-coronavirus.md",
+      "title": "Researchers Explore Using Common Blood-Plasma Treatment to Fight Coronavirus",
+      "excerpt": "Researchers are investigating whether a common blood-plasma product used in treating immune-system disorders could also be effective in coronavirus patients.",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/researchers-explore-using-common-blood-plasma-treatment-to-fight-coronavirus-11588525200",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-explore-using-common-blood-plasma-treatment-to-fight-coronavirus-11588525200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-explore-using-common-blood-plasma-treatment-to-fight-coronavirus-11588525200",
+      "publishedDateTime": "2020-05-03T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-182115/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Researchers Explore Using Common Blood-Plasma Treatment to Fight Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-treatment-drug-remdesivir-to-arrive-in-hospitals-this-week-gilead-ceo-says.md",
+      "title": "Coronavirus treatment drug remdesivir to arrive in hospitals this week, Gilead CEO says",
+      "excerpt": "The CEO of Gilead Sciences says U.S. hospitals should get enough of its drug to fight COVID-19 to treat as many as 200,000 patients this week.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/money/business/2020/05/03/coronavirus-treatment-drug-remdesivir-coming-hospitals-week/3074612001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3074612001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3074612001",
+      "publishedDateTime": "2020-05-03T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/04/06/USAT/188d41bb-751f-44a3-8842-22554bab1ce0-AP_Virus_Outbreak_Antiviral_Drug.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus treatment drug remdesivir to arrive in hospitals this week, Gilead CEO says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-murfreesboro-mcdonalds-employee-tests-positive-for-covid-19.md",
+      "title": "Murfreesboro McDonald’s employee tests positive for COVID-19",
+      "excerpt": "An employee at a McDonald’s in Murfreesboro has tested positive for COVID-19. According to the owner of the restaurant on New Salem Road, the worker had not been at the restaurant for several days and learned of the test results Saturday.",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wkrn.com/community/health/coronavirus/murfreesboro-mcdonalds-employee-tests-positive-for-covid-19/",
+      "ampWebUrl": "https://www.wkrn.com/community/health/coronavirus/murfreesboro-mcdonalds-employee-tests-positive-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/community/health/coronavirus/murfreesboro-mcdonalds-employee-tests-positive-for-covid-19/amp/",
+      "publishedDateTime": "2020-05-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2020/03/McDonalds_1530131339229_46946271_ver1.0_640_360_1530998502106_47945908_ver1.0_640_360_1531001410337_47945054_ver1.0_640_360_1533207653893_50437300_ver1.0_640_360_1533269164805_50543630_ver1.0-1.jpg?w=640&h=360&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Murfreesboro McDonald’s employee tests positive for COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-death-row-inmates-sue-texas-prison-system-over-health-conditions-during-covid-19-pandemic.md",
+      "title": "Death row inmates sue Texas prison system over health conditions during COVID-19 pandemic",
+      "excerpt": "Death row inmates at a Livingston-area prison have sued the state prison system, claiming health and safety concerns that put them at risk of contracting COVID-19.",
+      "heat": 116,
+      "tags": [
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.houstonchronicle.com/coronavirus/article/Death-row-inmates-sue-Texas-prison-system-over-15243478.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/07/52/52/18786988/9/rawImage.jpg",
+          "width": 2048,
+          "height": 1387,
+          "title": "Death row inmates sue Texas prison system over health conditions during COVID-19 pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-no-touching-sharing-or-borrowing-pencils-in-israel-families-wonder-if-back-to-school-means-back-to-normal.md",
+      "title": "No touching, sharing or borrowing pencils. In Israel, families wonder if back to school means back to normal.",
+      "excerpt": "At the Michel household, the first normal school morning in six weeks felt anything but. Clil and Alma, identical twin 7-year-olds, were by turns giddy and apprehensive as Israel, after days of on-again,",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/world/no-touching-sharing-or-borrowing-pencils-in-israel-families-wonder-if-back-to-school-means-back-to-normal/2020/05/03/640c276e-8bb4-11ea-80df-d24b35a568ae_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/world/no-touching-sharing-or-borrowing-pencils-in-israel-families-wonder-if-back-to-school-means-back-to-normal/2020/05/03/640c276e-8bb4-11ea-80df-d24b35a568ae_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/no-touching-sharing-or-borrowing-pencils-in-israel-families-wonder-if-back-to-school-means-back-to-normal/2020/05/03/640c276e-8bb4-11ea-80df-d24b35a568ae_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-03T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/woCyK6ugQAe3Z3Zq99WUZYMeUnU=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6SCXULENHAI6VEZCUKPHL374SM.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "No touching, sharing or borrowing pencils. In Israel, families wonder if back to school means back to normal.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Education Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-city-reports-8th-coronavirus-related-death.md",
+      "title": "City reports 8th coronavirus-related death",
+      "excerpt": "The patient, a male in his 70s, died Saturday at Midland Memorial Hospital. He was a resident at Midland Medical Lodge.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/City-reports-8th-coronavirus-related-death-15243486.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/51/20/19305494/8/rawImage.jpg",
+          "width": 2048,
+          "height": 1223,
+          "title": "City reports 8th coronavirus-related death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-shutdowns-could-contribute-to-overly-busy-holiday-travel-season.md",
+      "title": "Coronavirus shutdowns could contribute to overly busy holiday travel season",
+      "excerpt": "The coronavirus pandemic has significantly impacted the travel industry, with fewer Americans traveling than normal. According to a new survey, this might cause more people to travel during the holidays,",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/travel/holiday-travel-impacted-coronavirus-shutdowns",
+      "ampWebUrl": "https://www.foxnews.com/travel/holiday-travel-impacted-coronavirus-shutdowns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/holiday-travel-impacted-coronavirus-shutdowns.amp",
+      "publishedDateTime": "2020-05-03T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/crowded-airport.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Coronavirus shutdowns could contribute to overly busy holiday travel season",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-italy-reaches-lowest-coronavirus-death-toll-since-march-10.md",
+      "title": "Italy reaches lowest coronavirus death toll since March 10",
+      "excerpt": "Deaths from the COVID-19 epidemic in Italy climbed by 174 on Sunday, from 474 the day before, the Civil Protection Agency said, posting the smallest daily toll of fatalities since March 10.",
+      "heat": 120,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-03-coronavirus-news-n1198861/ncrd1199021",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1198861",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1198861",
+      "publishedDateTime": "2020-05-03T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_18/3334831/200503-huntington-beach-pier-california-cs-924a_9507b09cdfd97f6b083e311827c5bb08.jpg",
+          "width": 2500,
+          "height": 1403,
+          "title": "Italy reaches lowest coronavirus death toll since March 10",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-in-louisiana-40-new-cases-4-deaths-in-new-orleans-area-see-latest-data.md",
+      "title": "Coronavirus in Louisiana: 40 new cases, 4 deaths in New Orleans area; see latest data",
+      "excerpt": "Nineteen new deaths have been reported in connection to the the novel coronavirus in Louisiana over the past 24 hours, according to the latest Louisiana Department of Health data released",
+      "heat": 143,
+      "tags": [
+        "US-LA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nola.com/news/coronavirus/article_4fc2f816-8d51-11ea-878a-afab88e5e725.html",
+      "ampWebUrl": "https://www.nola.com/news/coronavirus/article_4fc2f816-8d51-11ea-878a-afab88e5e725.amp.html",
+      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/coronavirus/article_4fc2f816-8d51-11ea-878a-afab88e5e725.amp.html",
+      "publishedDateTime": "2020-05-03T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NOLA.com",
+        "domain": "nola.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/47/c4715ae4-8898-11ea-9e03-ff4bc45c3475/5ea6f51e14bd6.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": "Coronavirus in Louisiana: 40 new cases, 4 deaths in New Orleans area; see latest data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-mike-pompeo-confirms-china-sought-to-cover-up-covid-19-severity-enormous-evidence-virus-originated-in-wuhan-lab.md",
+      "title": "Mike Pompeo Confirms China Sought to Cover Up COVID-19 Severity, 'Enormous Evidence' Virus Originated in Wuhan Lab",
+      "excerpt": "The U.S. secretary of state Mike Pompeo said there's \"enormous evidence\" that COVID-19 originated in China's Wuhan Institute of Virology and the Chinese government went to great lengths to intentionally conceal the severity of the outbreak.",
+      "heat": 138,
+      "tags": [
+        "CN",
+        "CN-HB"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/mike-pompeo-confirms-china-sought-cover-covid-19-severity-enormous-evidence-virus-originated-1501661",
+      "ampWebUrl": "https://www.newsweek.com/mike-pompeo-confirms-china-sought-cover-covid-19-severity-enormous-evidence-virus-originated-1501661?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pompeo-confirms-china-sought-cover-covid-19-severity-enormous-evidence-virus-originated-1501661?amp=1",
+      "publishedDateTime": "2020-05-03T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1586924/mike-pompeo-china-coronavirus-origin.jpg",
+          "width": 692,
+          "height": 393,
+          "title": "Mike Pompeo Confirms China Sought to Cover Up COVID-19 Severity, 'Enormous Evidence' Virus Originated in Wuhan Lab",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in China",
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-feds-investing-175-million-in-vancouver-company-studying-covid-19.md",
+      "title": "Feds investing $175 million in Vancouver company studying COVID 19",
+      "excerpt": "The federal government is investing millions to boost online access to health services and to support a Vancouver biological company's research into treatment and prevention of COVID-19.",
+      "heat": 105,
+      "tags": [
+        "CA",
+        "CA-BC",
+        "Canada-BC"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/news/canada/british-columbia/feds-investing-175-million-in-vancouver-company-studying-covid-19-1.5553950",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5553950",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5553950",
+      "publishedDateTime": "2020-05-03T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5496573.1584110462!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-19-abcellera.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Feds investing $175 million in Vancouver company studying COVID 19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-28602-covid-19-cases-in-georgia-death-toll-rises-to-1174.md",
+      "title": "28,602 COVID-19 cases in Georgia; death toll rises to 1,174",
+      "excerpt": "COMPLETE COVERAGE: Coronavirus in Georgia The increase in the number of cases and deaths comes as Georgia emerges from a monthlong shelter-in-place order. Friday was the first day for lessened restrictions on travel, business and other activities for most Georgians. On the same day, The health department reported more than 1,000 new cases of ...",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ajc.com/news/breaking-news/602-covid-cases-georgia-death-toll-rises-174/RCKnG6SCcwxlvLRX4fWO3M/",
+      "ampWebUrl": "https://www.ajc.com/news/breaking-news/602-covid-cases-georgia-death-toll-rises-174/RCKnG6SCcwxlvLRX4fWO3M/amp.html",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/breaking-news/602-covid-cases-georgia-death-toll-rises-174/RCKnG6SCcwxlvLRX4fWO3M/amp.html",
+      "publishedDateTime": "2020-05-03T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ajc.com/rf/image_md/Pub/p11/AJC/2020/05/01/Videos/4896901.vpx",
+          "width": 400,
+          "height": 271,
+          "title": "28,602 COVID-19 cases in Georgia; death toll rises to 1,174",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Travel Impact",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-9-more-covid-19-deaths-528-new-cases-in-iowa.md",
+      "title": "9 More COVID-19 Deaths, 528 New Cases in Iowa",
+      "excerpt": "IOWA — Nine more Iowans have died from COVID-19 and 528 new cases have been confirmed in the state, according to the Iowa Department of Public Health. The nine deaths were reported in the",
+      "heat": 180,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://whotv.com/news/coronavirus/9-more-covid-19-deaths-528-new-cases-in-iowa/",
+      "ampWebUrl": "https://whotv.com/news/coronavirus/9-more-covid-19-deaths-528-new-cases-in-iowa/amp/",
+      "cdnAmpWebUrl": "https://whotv-com.cdn.ampproject.org/c/s/whotv.com/news/coronavirus/9-more-covid-19-deaths-528-new-cases-in-iowa/amp/",
+      "publishedDateTime": "2020-05-03T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHOTV",
+        "domain": "whotv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://whotv.com/wp-content/uploads/sites/19/2020/04/MGN_1280x960_00313C00-JYBFW.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "9 More COVID-19 Deaths, 528 New Cases in Iowa",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-uk-covid-19-death-toll-rises-to-28446-up-315.md",
+      "title": "UK COVID-19 death toll rises to 28,446, up 315",
+      "excerpt": "The United Kingdom's death toll from COVID-19 rose to 28,446, an increase of 315, according to figures announced on Sunday that include deaths in hospital and in other settings like nursing homes. (Reporting by Estelle Shirbon,",
+      "heat": 175,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-britain-toll-idUSL9N2AV00B",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL9N2AV00B",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL9N2AV00B",
+      "publishedDateTime": "2020-05-03T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UK COVID-19 death toll rises to 28,446, up 315",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Europe"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-indian-bank-bad-debt-could-double-in-coronavirus-crisis-sources.md",
+      "title": "Indian bank bad debt could double in coronavirus crisis: sources",
+      "excerpt": "India expects bad debts at its banks could double after the coronavirus crisis brought the economy to a sudden halt, a senior government official and four top bankers told Reuters.",
+      "heat": 115,
+      "tags": [
+        "India",
+        "IN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-npa/indian-bank-bad-debt-could-double-in-coronavirus-crisis-sources-idUSKBN22F0N0",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22F0N0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22F0N0",
+      "publishedDateTime": "2020-05-03T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200503&t=2&i=1517314401&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG420H7",
+          "width": 772,
+          "height": 545,
+          "title": "Indian bank bad debt could double in coronavirus crisis: sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-canadas-daily-coronavirus-death-toll-rises-by-less-than-5-official-data.md",
+      "title": "Canada's Daily Coronavirus Death Toll Rises by Less Than 5%: Official Data",
+      "excerpt": "The total number of people killed by the coronavirus in Canada rose by 4.6% to 3,606 on Sunday, official data posted by the public health agency showed. The figure for those diagnosed with the coronavirus rose to 57,",
+      "heat": 168,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-03/canadas-daily-coronavirus-death-toll-rises-by-less-than-5-official-data",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-03/canadas-daily-coronavirus-death-toll-rises-by-less-than-5-official-data?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-03/canadas-daily-coronavirus-death-toll-rises-by-less-than-5-official-data?context=amp",
+      "publishedDateTime": "2020-05-03T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in Canada"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-alabama-reports-270-new-coronavirus-cases-7615-overall-6-counties-have-double-digit-growth.md",
+      "title": "Alabama reports 270 new coronavirus cases; 7,615 overall; 6 counties have double-digit growth",
+      "excerpt": "Alabama reported 280 new coronavirus cases in the last day with 6 counties posting double-digit growth. The May 3, 2020 10 a.m. data from the Alabama Department of Public Health shows the state has 7,",
+      "heat": 124,
+      "tags": [
+        "US-AL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.al.com/news/2020/05/alabama-reports-270-new-coronavirus-cases-7615-overall-6-counties-have-double-digit-growth.html",
+      "ampWebUrl": "https://www.al.com/news/2020/05/alabama-reports-270-new-coronavirus-cases-7615-overall-6-counties-have-double-digit-growth.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/05/alabama-reports-270-new-coronavirus-cases-7615-overall-6-counties-have-double-digit-growth.html?outputType=amp",
+      "publishedDateTime": "2020-05-03T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QV53B2FYO5AHFCRVAWOHKSG6Y4.JPG",
+          "width": 640,
+          "height": 428,
+          "title": "Alabama reports 270 new coronavirus cases; 7,615 overall; 6 counties have double-digit growth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-gilead-ceo-says-coronavirus-drug-remdesivir-could-reach-patients-within-days.md",
+      "title": "Gilead CEO says coronavirus drug remdesivir could reach patients within days",
+      "excerpt": "Daniel O'Day said on \"Face the Nation\" that Gilead has donated its entire supply of remdesivir to be administered to hospitalized COVID-19 patients.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/gilead-remdesivir-coronavirus-covid-19-drug-ceo-daniel-oday-face-the-nation/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/gilead-remdesivir-coronavirus-covid-19-drug-ceo-daniel-oday-face-the-nation/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gilead-remdesivir-coronavirus-covid-19-drug-ceo-daniel-oday-face-the-nation/",
+      "publishedDateTime": "2020-05-03T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/05/03/b4c95f5a-dfa2-418b-8516-74f2321c81f4/thumbnail/1200x630/472047152ac85566dc288c7fd95bb176/screen-shot-2020-05-03-at-10-54-30-am.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Gilead CEO says coronavirus drug remdesivir could reach patients within days",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-france-proposes-coronavirus-quarantine-for-visitors-from-abroad.md",
+      "title": "France proposes coronavirus quarantine for visitors from abroad",
+      "excerpt": "If passed, law would mean anyone arriving would be confined even if asymptomatic",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/world/2020/may/03/france-proposes-coronavirus-quarantine-for-visitors-from-abroad",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/may/03/france-proposes-coronavirus-quarantine-for-visitors-from-abroad",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/03/france-proposes-coronavirus-quarantine-for-visitors-from-abroad",
+      "publishedDateTime": "2020-05-03T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dfeaf95a4ee65ca23fba2f41c6e6b23024ca5752/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b5bc23e9315fdfc6971c2c80025b6564",
+          "width": 600,
+          "height": 360,
+          "title": "France proposes coronavirus quarantine for visitors from abroad",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-lobbyists-press-congress-for-last-chance-at-coronavirus-stimulus-funds.md",
+      "title": "Lobbyists Press Congress for Last Chance at Coronavirus Stimulus Funds",
+      "excerpt": "Lobbyists for business groups, labor unions and nonprofit associations are shifting into high gear as Congress considers what could be a final round of aid to combat the economic fallout of the pandemic.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/lobbyists-press-congress-for-last-chance-at-coronavirus-stimulus-funds-11588517956",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/lobbyists-press-congress-for-last-chance-at-coronavirus-stimulus-funds-11588517956",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lobbyists-press-congress-for-last-chance-at-coronavirus-stimulus-funds-11588517956",
+      "publishedDateTime": "2020-05-03T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-182927/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Lobbyists Press Congress for Last Chance at Coronavirus Stimulus Funds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Political Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-from-creators-of-saddams-wmds-west-compiled-dossier-targets-china-covid-19-cover-up.md",
+      "title": "From creators of ‘Saddam’s WMDs’? West-compiled dossier ‘targets China Covid-19 cover-up’",
+      "excerpt": "The West’s wish to pin the blame on China (and probably the bill too) for the Covid-19 pandemic has been reportedly incarnated in a 15-page dossier carefully compiled by ‘concerned’ governments.",
+      "heat": 106,
+      "tags": [
+        "China-Beijing",
+        "CN",
+        "CN-BJ"
+      ],
+      "type": "article",
+      "webUrl": "https://www.rt.com/news/487661-china-covid-dossier-leaked/",
+      "ampWebUrl": "https://www.rt.com/news/487661-china-covid-dossier-leaked/amp/",
+      "cdnAmpWebUrl": "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/487661-china-covid-dossier-leaked/amp/",
+      "publishedDateTime": "2020-05-03T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RT",
+        "domain": "rt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdni.rt.com/files/2020.01/xxl/5e16f6cf85f5405a1518d6ca.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": "From creators of ‘Saddam’s WMDs’? West-compiled dossier ‘targets China Covid-19 cover-up’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in China"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-walmart-store-closes-after-81-workers-test-positive-for-coronavirus-ma-city-says.md",
+      "title": "Walmart store closes after 81 workers test positive for coronavirus, MA city says",
+      "excerpt": "A Walmart store in Massachusetts is temporarily closed after 81 employees tested positive for coronavirus, officials said in a news release. On Tuesday, the Worcester Division of Public Health inspected a Walmart store in the city after reports that 23 workers had tested positive for COVID-19,",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.miamiherald.com/news/coronavirus/article242468711.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-mississippi-governor-reconsiders-reopening-state-after-new-spike-in-coronavirus-cases-deaths.md",
+      "title": "Mississippi governor reconsiders reopening state after new spike in coronavirus cases, deaths",
+      "excerpt": "Mississippi Gov. Tate Reeves announced Friday he would hold off on further measures to gradually reopen the state after the number of confirmed coronavirus cases, and deaths, surged overnight.",
+      "heat": 104,
+      "tags": [
+        "US-MS"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/mississippi-reeves-coronavirus-reopening-spike-cases-deaths",
+      "ampWebUrl": "https://www.foxnews.com/us/mississippi-reeves-coronavirus-reopening-spike-cases-deaths.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/mississippi-reeves-coronavirus-reopening-spike-cases-deaths.amp",
+      "publishedDateTime": "2020-05-03T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/715ae451-334f-485c-bf16-62c09868f6ba/1190d916-c4fb-448e-80ae-277662ba1f52/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Mississippi governor reconsiders reopening state after new spike in coronavirus cases, deaths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-in-colorado-may-3-a-look-at-the-latest-updates-on-covid-19.md",
+      "title": "Coronavirus in Colorado, May 3: A look at the latest updates on COVID-19",
+      "excerpt": "Throughout the day, we will share the latest coverage from Denver Post journalists on the coronavirus outbreak on this page.",
+      "heat": 109,
+      "tags": [
+        "US-CO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.denverpost.com/2020/05/03/coronavirus-colorado-updates-may-3-covid-19/",
+      "ampWebUrl": "https://www.denverpost.com/2020/05/03/coronavirus-colorado-updates-may-3-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/05/03/coronavirus-colorado-updates-may-3-covid-19/amp/",
+      "publishedDateTime": "2020-05-03T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/04/TDP-L-BEEF_DONATIONS__HHR6111.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": "Coronavirus in Colorado, May 3: A look at the latest updates on COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-coronavirus-mcdonalds-seeks-rent-cut-from-uk-landlords.md",
+      "title": "Coronavirus: McDonald's seeks rent cut from UK landlords",
+      "excerpt": "McDonald's is in talks with some of its landlords in the UK about cutting rent payments as the fast food chain prepares to reopen some of its sites. Businesses face their next quarterly rent bill on 24 June when they are due to pay for the next three months.",
+      "heat": 105,
+      "tags": [
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52520109",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52520109",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52520109",
+      "publishedDateTime": "2020-05-03T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13C53/production/_112097908_mcdsreuters.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Coronavirus: McDonald's seeks rent cut from UK landlords",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-cbs-news-poll-elizabeth-warren-tops-democrats-wish-list-for-bidens-vice-president.md",
+      "title": "CBS News poll: Elizabeth Warren tops Democrats' wish list for Biden's vice president",
+      "excerpt": "Elizabeth Warren is well atop Democratic voters' list of those who should be considered for vice president — with 71% saying she should be — and Warren also outpaces other possible picks by a wide margin as their first choice for the job: Warren at 36% first choice,",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/2020-poll-joe-biden-vice-president-elizabeth-warren-democrats-wish-list/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/2020-poll-joe-biden-vice-president-elizabeth-warren-democrats-wish-list/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-poll-joe-biden-vice-president-elizabeth-warren-democrats-wish-list/",
+      "publishedDateTime": "2020-05-03T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/03/15462fd1-610e-49fd-979b-9ac8f96f1871/thumbnail/1200x630g2/963eb03ce41b24c2190039cb4b6d272f/gettyimages-1189641211-2.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "CBS News poll: Elizabeth Warren tops Democrats' wish list for Biden's vice president",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Political Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-california-planning-commissioner-ousted-after-saying-coronavirus-can-cull-herd.md",
+      "title": "California planning commissioner ousted after saying coronavirus can cull herd",
+      "excerpt": "A Northern California city has canned its planning commission chairman after a viral uproar over his assertion that sick, old and homeless people should be left to meet their “natural course in nature” during the coronavirus pandemic.",
+      "heat": 101,
+      "tags": [
+        "US-CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/california-planning-commissioner-ousted-after-saying-coronavirus-can-cull-herd",
+      "ampWebUrl": "https://www.foxnews.com/us/california-planning-commissioner-ousted-after-saying-coronavirus-can-cull-herd.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/california-planning-commissioner-ousted-after-saying-coronavirus-can-cull-herd.amp",
+      "publishedDateTime": "2020-05-03T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Ken-Turnage-II.jpeg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "California planning commissioner ousted after saying coronavirus can cull herd",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-is-agnc-investment-corp-stock-a-buy.md",
+      "title": "Is AGNC Investment Corp. Stock a Buy?",
+      "excerpt": "After the carnage in the mortgage real estate investment trust (REIT) space over the past two months, is the worst over? For at least one mortgage REIT, the answer may be yes.  AGNC Investment Corp. (NASDAQ:AGNC) reported first-quarter earnings on Thursday,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/03/is-agnc-investment-corp-stock-a-buy.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/03/is-agnc-investment-corp-stock-a-buy.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/03/is-agnc-investment-corp-stock-a-buy.aspx",
+      "publishedDateTime": "2020-05-03T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569148%2Finterest-rates.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 794,
+          "title": "Is AGNC Investment Corp. Stock a Buy?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 64
+}

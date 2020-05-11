@@ -1,0 +1,1276 @@
+{
+  "page": 68,
+  "value": [
+    {
+      "path": "_news/2020-05-02-britain-hits-coronavirus-testing-target-as-death-toll-leaps-again.md",
+      "title": "Britain hits coronavirus testing target as death toll leaps again",
+      "excerpt": "Britain has hit its target of carrying out 100,000 COVID-19 tests a day, health minister Matt Hancock said on Friday, stressing that the programme was crucial to helping ease a national lockdown.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-testing-idUSKBN22D4NF",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-osdh-garfield-county-has-1-of-states-103-new-cases-state-sees-decline-in-numbers-in-past-week.md",
+      "title": "OSDH: Garfield County has 1 of state's 103 new cases; state sees decline in numbers in past week",
+      "excerpt": "Oklahoma saw 103 new COVID-19 cases, including one in Garfield County, reported Saturday, but the number of cases declined in the past week by 8.2%, according to the Oklahoma State",
+      "heat": 102,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.enidnews.com/news/covid19/osdh-garfield-county-has-1-of-states-103-new-cases-state-sees-decline-in-numbers/article_8639dce2-8c8f-11ea-ab32-e36a5ca482b4.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/6/2e/62ee777c-8c97-11ea-bf43-2bfef5f99aa5/5eada8f787704.image.jpg?resize=807%2C603",
+          "width": 807,
+          "height": 603,
+          "title": "OSDH: Garfield County has 1 of state's 103 new cases; state sees decline in numbers in past week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-fact-check-will-florida-order-residents-to-get-vaccinated-for-covid-19.md",
+      "title": "Fact check: Will Florida order residents to get vaccinated for COVID-19?",
+      "excerpt": "An Instagram post says Florida can order people to take a coronavirus vaccination. That is true, but it is false to imply this will happen right away.",
+      "heat": 104,
+      "tags": [
+        "US-FL"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/05/02/fact-check-florida-could-order-covid-19-vaccination-but-not-right-now/3043319001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3043319001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3043319001",
+      "publishedDateTime": "2020-05-02T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/42e084393a5f51b4a8f72731e60ad9a31cdf1911/c=0-186-5166-3092/local/-/media/2020/04/01/USATODAY/usatsports/B9339864266Z.1_20200401020501_000_GAKQERSLV.2-0.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Fact check: Will Florida order residents to get vaccinated for COVID-19?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-a-new-mexico-city-has-closed-its-borders-to-outsiders-after-becoming-a-covid-19-hotspot.md",
+      "title": "A New Mexico city has closed its borders to outsiders after becoming a COVID-19 hotspot",
+      "excerpt": "New Mexico Gov. Michelle Lujan Grisham closed all roads leading in and out of the city of Gallup to help prevent the spread of the novel coronavirus.",
+      "heat": 117,
+      "tags": [
+        "US-NM"
+      ],
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/gallup-new-mexico-roads-closed-because-of-covid-19-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/gallup-new-mexico-roads-closed-because-of-covid-19-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gallup-new-mexico-roads-closed-because-of-covid-19-2020-5?amp",
+      "publishedDateTime": "2020-05-02T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ead98775785326a0b4d7904?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A New Mexico city has closed its borders to outsiders after becoming a COVID-19 hotspot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-coronavirus-live-updates-states-rely-on-residents-trust-as-restrictions-are-loosened.md",
+      "title": "Coronavirus Live Updates: States Rely on Residents’ Trust as Restrictions Are Loosened",
+      "excerpt": "The global race for a vaccine has compressed a process of years into months. Moderate Republicans in tight re-election races are distancing themselves from President Trump’s pandemic response.",
+      "heat": 157,
+      "tags": [
+        "US-MA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.nbcboston.com/news/coronavirus/stricter-guidelines-expected-for-mass-supermarkets/2104486/",
+      "ampWebUrl": "https://www.nbcboston.com/news/coronavirus/stricter-guidelines-expected-for-mass-supermarkets/2104486/?amp",
+      "cdnAmpWebUrl": "https://www-nbcboston-com.cdn.ampproject.org/c/s/www.nbcboston.com/news/coronavirus/stricter-guidelines-expected-for-mass-supermarkets/2104486/?amp",
+      "publishedDateTime": "2020-05-02T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nbcboston.com/2019/09/market-basket-coronavirus-new-rules.jpeg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus Live Updates: States Rely on Residents’ Trust as Restrictions Are Loosened",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-new-york-coronavirus-hospitalizations-lowest-since-march-after-19-straight-days-of-decline.md",
+      "title": "New York Coronavirus Hospitalizations Lowest Since March After 19 Straight Days of Decline",
+      "excerpt": "Governor Andrew Cuomo announced Saturday at his daily coronavirus press conference that there are now 10,350 people infected with the novel coronavirus in New York hospitals across the state–the lowest number of hospitalizations since 9,",
+      "heat": 105,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/new-york-coronavirus-hospitalizations-lowest-since-march-after-19-straight-days-decline-1501607",
+      "ampWebUrl": "https://www.newsweek.com/new-york-coronavirus-hospitalizations-lowest-since-march-after-19-straight-days-decline-1501607?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/new-york-coronavirus-hospitalizations-lowest-since-march-after-19-straight-days-decline-1501607?amp=1",
+      "publishedDateTime": "2020-05-02T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1586839/gov-cuomo-holds-daily-briefing-coronavirus-pandemic-new-york.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "New York Coronavirus Hospitalizations Lowest Since March After 19 Straight Days of Decline",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-why-twitter-stock-jumped-168-in-april.md",
+      "title": "Why Twitter Stock Jumped 16.8% in April",
+      "excerpt": "Shares of Twitter climbed 16.8% in April, according to data from S&P Global Market Intelligence. The social media company's stock rebounded after falling 26% in Mar",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/02/why-twitter-stock-jumped-168-in-april.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/02/why-twitter-stock-jumped-168-in-april.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/02/why-twitter-stock-jumped-168-in-april.aspx",
+      "publishedDateTime": "2020-05-02T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/4064db90b482634abab7769d1d7c4395.png",
+          "width": 720,
+          "height": 386,
+          "title": "Why Twitter Stock Jumped 16.8% in April",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Stock Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-team-members-at-whole-foods-in-lincoln-park-test-positive-for-covid-19.md",
+      "title": "Team Members At Whole Foods In Lincoln Park Test Positive For COVID-19",
+      "excerpt": "CHICAGO (CBS) — Several COVID-19 cases have been reported at Whole Foods on Kingsbury in Lincoln Park. One employee, who asked not to be identified, provided documentation showing five cases at that location since April 9.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://chicago.cbslocal.com/2020/05/02/team-members-at-whole-foods-in-lincoln-park-test-positive-for-covid-19/",
+      "ampWebUrl": "https://chicago.cbslocal.com/2020/05/02/team-members-at-whole-foods-in-lincoln-park-test-positive-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2020/05/02/team-members-at-whole-foods-in-lincoln-park-test-positive-for-covid-19/amp/",
+      "publishedDateTime": "2020-05-02T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-turkeys-coronavirus-death-toll-rises-by-78-to-3336-ministry.md",
+      "title": "Turkey's Coronavirus Death Toll Rises by 78 to 3,336: Ministry",
+      "excerpt": "Medics wearing protective suits, members of Turkish Health Ministry's coronavirus contact tracing team, visit a home to check a suspected coronavirus disease (COVID-19) case in Ankara, Turkey, April 27,",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-02/turkeys-coronavirus-death-toll-rises-by-78-to-3-336-ministry",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-02/turkeys-coronavirus-death-toll-rises-by-78-to-3-336-ministry?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-02/turkeys-coronavirus-death-toll-rises-by-78-to-3-336-ministry?context=amp",
+      "publishedDateTime": "2020-05-02T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-new-yorks-coronavirus-death-toll-has-remained-obnoxiously-and-terrifyingly-high-cuomo-says.md",
+      "title": "New York's coronavirus death toll has remained \"obnoxiously and terrifyingly high,\" Cuomo says",
+      "excerpt": "New York Governor Andrew Cuomo said Saturday that 299 people died due to the coronavirus on Friday. That marked a slight uptick from 289 deaths the day before – the first day in weeks that the single-day death toll had dropped below 300.",
+      "heat": 163,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/new-york-coronavirus-death-toll-obnoxiously-and-terrifyingly-high-andrew-cuomo-says/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/new-york-coronavirus-death-toll-obnoxiously-and-terrifyingly-high-andrew-cuomo-says/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/new-york-coronavirus-death-toll-obnoxiously-and-terrifyingly-high-andrew-cuomo-says/",
+      "publishedDateTime": "2020-05-02T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/04/30/9ee3cabc-5ec2-4412-9c0d-3b0062e7352f/thumbnail/1200x630/ec72f9839bf7dc94f60d5fc60c3920d0/cbsn-fusion-new-york-governor-cuomo-testing-tracing-coronavirus-infections-thumbnail-477691-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "New York's coronavirus death toll has remained \"obnoxiously and terrifyingly high,\" Cuomo says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-cuomo-daily-covid-19-death-toll-at-299.md",
+      "title": "Cuomo: Daily COVID-19 death toll at 299",
+      "excerpt": "Though Saturday marked the seventh straight day the daily toll was below 400 Governor Andrew M. Cuomo said the number is \"still not dropping at the rate we would",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/news/health/coronavirus/coronavirus-cuomo-cases-deaths-1.44324290",
+      "ampWebUrl": "https://www.newsday.com/amp/news/health/coronavirus/coronavirus-cuomo-cases-deaths-1.44324290",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/health/coronavirus/coronavirus-cuomo-cases-deaths-1.44324290",
+      "publishedDateTime": "2020-05-02T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.44328622.1588439128!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "Cuomo: Daily COVID-19 death toll at 299",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-brief-canadas-coronavirus-death-toll-reaches-3446-up-from-3223-public-health-agency-data.md",
+      "title": "BRIEF-Canada's coronavirus death toll reaches 3,446, up from 3,223 - Public Health Agency Data",
+      "excerpt": "CANADA’S TOTAL CORONAVIRUS CASES RISE TO 55,572 FROM 53,657 ON MAY 1; 3,446 DEATHS, UP FROM 3,223 - PUBLIC HEALTH AGENCY DATA (Reporting by Rod Nickel) Our Standards:The Thomson Reuters Trust Principles.",
+      "heat": 108,
+      "tags": [
+        "CA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-canadas-coronavirus-death-toll-rea-idUSL1N2CK05I",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2CK05I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2CK05I",
+      "publishedDateTime": "2020-05-02T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-Canada's coronavirus death toll reaches 3,446, up from 3,223 - Public Health Agency Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Canada",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-first-coronavirus-death-in-huron-county.md",
+      "title": "First coronavirus death in Huron County",
+      "excerpt": "THUMB AREA — Huron County has had its first COVID-19 related death. According to a press release issued on Saturday, May 2, 2020 by Huron and Tuscola County Health Department Public Health Officer Ann Hepfer,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/First-COVID-19-death-in-Huron-County-15242296.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/70/40/19367937/4/rawImage.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "First coronavirus death in Huron County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-oregon-coronavirus-updates-may-2-portland-whole-foods-worker-speaks-out.md",
+      "title": "Oregon coronavirus updates May 2: Portland Whole Foods worker speaks out",
+      "excerpt": "We post a new blog post every day that tracks the daily changes in Oregon and Southwest Washington as we get them. CLICK HERE TO SEE THE LATEST UPDATES",
+      "heat": 124,
+      "tags": [
+        "US-OR",
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.kgw.com/article/news/health/coronavirus/oregon-coronavirus-updates-live-blog-covid-19/283-cda6c929-68ae-499b-b438-0c924d0aa69b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KGW8",
+        "domain": "kgw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.kgw.com/assets/KGW/images/e06671c3-fd18-4a09-8360-f3c13efb6848/e06671c3-fd18-4a09-8360-f3c13efb6848_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": "Oregon coronavirus updates May 2: Portland Whole Foods worker speaks out",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-3-new-cases-in-southeast-georiga-as-statewide-covid-19-cases-surpass-28000.md",
+      "title": "3 new cases in Southeast Georiga as statewide COVID-19 cases surpass 28,000",
+      "excerpt": "There were three new cases of novel coronavirus reported in Southeast Georgia since Friday evening, including two new cases in Ware County and one new case in Glynn County, the state Department of Public Health reported Saturday morning.",
+      "heat": 148,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.news4jax.com/news/georgia/2020/05/02/3-new-cases-in-southeast-georiga-as-statewide-covid-19-cases-surpass-28000/",
+      "ampWebUrl": "https://www.news4jax.com/news/georgia/2020/05/02/3-new-cases-in-southeast-georiga-as-statewide-covid-19-cases-surpass-28000/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/georgia/2020/05/02/3-new-cases-in-southeast-georiga-as-statewide-covid-19-cases-surpass-28000/?outputType=amp",
+      "publishedDateTime": "2020-05-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News4Jax",
+        "domain": "news4jax.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news4jax.com/resizer/FLiiWBksxj2GSkWWvjgzLjIsHXY=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/V27HHGWYWRGW5GCGFR4DF5UVBY.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "3 new cases in Southeast Georiga as statewide COVID-19 cases surpass 28,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-city-confirms-7th-coronavirus-related-death.md",
+      "title": "City confirms 7th coronavirus-related death",
+      "excerpt": "Midland County and the city of Midland confirmed Midland County's seventh COVID-19 related death. The patient, a male in his 80s, was being treated and died at Midland Medical Lod",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chron.com/news/article/City-confirms-7th-coronavirus-related-death-15242291.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/11/51/20/19305494/8/rawImage.jpg",
+          "width": 2048,
+          "height": 1223,
+          "title": "City confirms 7th coronavirus-related death",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-new-york-coronavirus-hospitalizations-hit-lowest-level-in-over-a-month.md",
+      "title": "New York Coronavirus Hospitalizations Hit Lowest Level In Over A Month",
+      "excerpt": "New York Governor Andrew Cuomo said in a press conference on Saturday that the rate of coronavirus infections in his state is continuing to decline, with the number of daily hospitalizations falling to its lowest point in over a month.",
+      "heat": 105,
+      "tags": [
+        "US-NY"
+      ],
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sergeiklebnikov/2020/05/02/new-york-coronavirus-hospitalizations-hit-lowest-level-in-over-a-month/",
+      "ampWebUrl": "https://www.forbes.com/sites/sergeiklebnikov/2020/05/02/new-york-coronavirus-hospitalizations-hit-lowest-level-in-over-a-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2020/05/02/new-york-coronavirus-hospitalizations-hit-lowest-level-in-over-a-month/amp/",
+      "publishedDateTime": "2020-05-02T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211451832%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "New York Coronavirus Hospitalizations Hit Lowest Level In Over A Month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-considering-chinas-actions-over-covid-19-is-for-later-uk-minister-says.md",
+      "title": "Considering China's actions over COVID-19 is for later, UK minister says",
+      "excerpt": "Considering China's actions regarding the novel coronavirus crisis is something that the United Kingdom will look at later but the focus right now is dealing with the immediate impact of the outbreak,",
+      "heat": 154,
+      "tags": [
+        "GB",
+        "UK",
+        "CN"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-britain-china-idUSKBN22E0NW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22E0NW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22E0NW",
+      "publishedDateTime": "2020-05-02T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200502&t=2&i=1517259690&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG410GJ",
+          "width": 723,
+          "height": 545,
+          "title": "Considering China's actions over COVID-19 is for later, UK minister says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in China",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-italys-daily-coronavirus-death-toll-jumps-new-cases-stable.md",
+      "title": "Italy's Daily Coronavirus Death Toll Jumps, New Cases Stable",
+      "excerpt": "Coronavirus Death Toll Jumps, New Cases Stable The steep increase in deaths followed a long, gradual declining trend and was due largely to Lombardy, the country's worst affected region, where there were 329 deaths in the last 24 hours compared with just 88 the day before.",
+      "heat": 100,
+      "tags": [
+        "Italy",
+        "IT"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-02/italys-daily-coronavirus-death-toll-jumps-new-cases-stable",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-05-02/italys-daily-coronavirus-death-toll-jumps-new-cases-stable?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-05-02/italys-daily-coronavirus-death-toll-jumps-new-cases-stable?context=amp",
+      "publishedDateTime": "2020-05-02T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-cdc-reports-29-new-cases-one-death-from-coronavirus.md",
+      "title": "CDC reports 29 new cases, one death from coronavirus",
+      "excerpt": "The additional death and small rise in cases comes as Mainers debate how best — and especially how fast — to reopen the state.",
+      "heat": 130,
+      "tags": [
+        "US",
+        "US-ME"
+      ],
+      "type": "article",
+      "webUrl": "https://www.pressherald.com/2020/05/02/cdc-reports-29-new-cases-one-death-from-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portland Press Herald",
+        "domain": "pressherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://multifiles.pressherald.com/uploads/sites/10/2020/05/2467990_20200501-Masks-Work-003-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "CDC reports 29 new cases, one death from coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-fact-check-vitamins-c-and-d-are-not-used-in-conventional-treatment-of-coronavirus.md",
+      "title": "Fact check: Vitamins C and D are not used in 'conventional treatment' of coronavirus",
+      "excerpt": "Vitamins C and D have not been adopted \"in the conventional treatment\" of coronavirus, as Dr. Joseph Mercola claims.",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/05/02/fact-check-coronavirus-covid-19-vitamins-c-d-treatment-joseph-mercola/3058491001/",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3058491001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3058491001",
+      "publishedDateTime": "2020-05-02T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2020/02/29/USATODAY/usatsports/imageforentry10-mdg.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Fact check: Vitamins C and D are not used in 'conventional treatment' of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Treatment",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-38-additional-walmart-employees-at-massachusetts-store-test-positive-for-coronavirus.md",
+      "title": "38 additional Walmart employees at Massachusetts store test positive for coronavirus",
+      "excerpt": "The store was shut down on Wednesday after city health officials discovered how many employees had tested positive for the coronavirus.",
+      "heat": 138,
+      "tags": [
+        "US-MA"
+      ],
+      "type": "article",
+      "webUrl": "https://www.wcvb.com/article/worcester-massachusetts-walmart-coronavirus-may-2-update/32351894",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/worcester-massachusetts-walmart-coronavirus-may-2-update/32351894",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/worcester-massachusetts-walmart-coronavirus-may-2-update/32351894",
+      "publishedDateTime": "2020-05-02T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/images/worcester-walmart-coronavirus-1588284857.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": "38 additional Walmart employees at Massachusetts store test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-uk-covid-19-death-toll-rises-to-28131-shadowing-italy.md",
+      "title": "UK COVID-19 Death Toll Rises to 28,131, Shadowing Italy",
+      "excerpt": "\"Sadly of those tested positive for coronavirus... 28,131 have now died,\" housing minister Robert Jenrick told reporters at a Downing Street briefing. \"That's an increase of 621 fatalities since yesterday.",
+      "heat": 140,
+      "tags": [
+        "Italy",
+        "IT",
+        "GB",
+        "UK"
+      ],
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-05-02/uk-covid-19-death-toll-rises-to-28-131-shadowing-italy",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-coronavirus-live-updates-spain-opens-after-seven-week-lockdown-protesters-demand-us-states-ease-restrictions.md",
+      "title": "Coronavirus live updates: Spain opens after seven-week lockdown; protesters demand US states ease restrictions",
+      "excerpt": "Covid-19 has infected more than 3.3 million people around the world as of Friday, killing at least 239,090 people.",
+      "heat": 155,
+      "tags": [
+        "Spain",
+        "ES",
+        "US",
+        "US-TX"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/02/coronavirus-live-updates.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/02/coronavirus-live-updates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/02/coronavirus-live-updates.html",
+      "publishedDateTime": "2020-05-02T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106515144-1588276437890test.jpg?v=1588276468",
+          "width": 3000,
+          "height": 2000,
+          "title": "Coronavirus live updates: Spain opens after seven-week lockdown; protesters demand US states ease restrictions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus",
+        "Coronavirus in US",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-france-set-to-impose-14-day-coronavirus-quarantine-for-travellers.md",
+      "title": "France set to impose 14-day coronavirus quarantine for travellers",
+      "excerpt": "Travellers to France, including French citizens returning home, will face a compulsory two-week quarantine and possible isolation when they arrive in the country to help slow the spread of coronavirus,",
+      "heat": 105,
+      "tags": [
+        "France",
+        "FR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-france-quarantine-idUSKBN22E0KX",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22E0KX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22E0KX",
+      "publishedDateTime": "2020-05-02T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200502&t=2&i=1517256840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG410FA",
+          "width": 817,
+          "height": 545,
+          "title": "France set to impose 14-day coronavirus quarantine for travellers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in Europe",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-ventura-county-fair-board-to-discuss-whether-to-cancel-2020-event-because-of-coronavirus.md",
+      "title": "Ventura County Fair board to discuss whether to cancel 2020 event because of coronavirus",
+      "excerpt": "Other fairs in the state have been cancelled because of the pandemic, including those in Orange, San Bernardino and San Diego counties.",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vcstar.com/story/news/local/2020/05/02/coronavirus-ventura-county-fair-board-weigh-canceling-2020/3062595001/",
+      "ampWebUrl": "https://amp.vcstar.com/amp/3062595001",
+      "cdnAmpWebUrl": "https://amp-vcstar-com.cdn.ampproject.org/c/s/amp.vcstar.com/amp/3062595001",
+      "publishedDateTime": "2020-05-02T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ventura County Star",
+        "domain": "vcstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/07/31/PVCS/07ad92fa-bdb7-4aaa-8023-413a15e40f43-fair_opening_day_1.JPG?auto=webp&crop=4252,2392,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Ventura County Fair board to discuss whether to cancel 2020 event because of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Events Impact",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-coronavirus-strikes-nearly-80-missouri-nursing-homes-charlotte-observer.md",
+      "title": "Coronavirus strikes nearly 80 Missouri nursing homes | Charlotte Observer",
+      "excerpt": "Newly released information from the state shows that the coronavirus has infected residents in nearly 80 Missouri nursing homes and assisted care facilities.",
+      "heat": 114,
+      "tags": [
+        "US-MO"
+      ],
+      "type": "article",
+      "webUrl": "https://www.charlotteobserver.com/news/article242458096.html",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/article242458096.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article242458096.html",
+      "publishedDateTime": "2020-05-02T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154290001/76b2abcc-652c-43f4-af5a-4c14c8cfd790/814743e9-e6ca-46f5-a8ca-b27f1f45b4e1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Coronavirus strikes nearly 80 Missouri nursing homes | Charlotte Observer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-eight-pasco-elder-care-home-employees-test-positive-for-coronavirus.md",
+      "title": "Eight Pasco elder-care home employees test positive for coronavirus",
+      "excerpt": "Our coronavirus coverage is now free for the first 24 hours. You can find the latest information at tampabay.com/coronavirus. Please consider subscribing to the Tampa Bay Times. Already a subscriber?",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tampabay.com/news/health/2020/05/02/eight-pasco-elder-care-home-employees-test-positive-for-coronavirus/",
+      "ampWebUrl": "https://www.tampabay.com/news/health/2020/05/02/eight-pasco-elder-care-home-employees-test-positive-for-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/health/2020/05/02/eight-pasco-elder-care-home-employees-test-positive-for-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-05-02T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/BNJYsDSQXBOLHTlcWISWQakuges=/800x450/smart/arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/QCZOYTSXMBHR3LPH7MQWGYEMTY.JPG",
+          "width": 800,
+          "height": 450,
+          "title": "Eight Pasco elder-care home employees test positive for coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "New Cases",
+        "Coronavirus"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-live-updates-oregon-health-officials-report-57-new-coronavirus-cases.md",
+      "title": "Live Updates: Oregon Health Officials Report 57 New Coronavirus Cases",
+      "excerpt": "Health officials in Oregon on Saturday confirmed 57 new coronavirus cases, bringing the state’s total to 2,635 known cases. Health officials said one previously reported positive case has now been confirmed as negative.",
+      "heat": 115,
+      "tags": [
+        "US"
+      ],
+      "type": "article",
+      "webUrl": "https://www.opb.org/news/article/live-updates-oregon-washington-coronavirus-covid-19-may-2/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images3.opb.org/c_fill%2Ch_300%2Cq_90%2Cw_400/artboard_1_copy_5__1_.png",
+          "width": 400,
+          "height": 300,
+          "title": "Live Updates: Oregon Health Officials Report 57 New Coronavirus Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus",
+        "New Cases"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-all-roads-into-gallup-new-mexico-are-closed-over-uninhibited-covid-19-spread.md",
+      "title": "All roads into Gallup, New Mexico, are closed over \"uninhibited\" COVID-19 spread",
+      "excerpt": "\"Effective at 12 p.m., May 1, all roads into Gallup are closed. Businesses in the city of Gallup will close from 5 p.m. through 8 a.m. Vehicles may only have a maximum of two individuals. Residents of the city should remain at home except for emergency outings and those essential for health,",
+      "heat": 100,
+      "tags": [
+        "US-NM"
+      ],
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/gallup-new-mexico-riot-control-act-roads-closed-coronavirus/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/gallup-new-mexico-riot-control-act-roads-closed-coronavirus/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gallup-new-mexico-riot-control-act-roads-closed-coronavirus/",
+      "publishedDateTime": "2020-05-02T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/coronavirus/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/05/02/14d5b07f-d1a4-4726-954e-e5d5fcb8407b/thumbnail/1200x630/b66f9cdd58afe90c5eb27980fc26a4c1/ap-20122859816205.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "All roads into Gallup, New Mexico, are closed over \"uninhibited\" COVID-19 spread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in US",
+        "Coronavirus"
+      ]
+    }
+  ],
+  "nextPage": 69
+}
