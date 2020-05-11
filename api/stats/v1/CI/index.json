@@ -7,14 +7,14 @@
     "isoCode": "CI",
     "lat": 7.54
   },
-  "updatedDateTime": "2020-05-11T22:45:07.9965299Z",
+  "updatedDateTime": "2020-05-11T23:45:07.9128419Z",
   "stats": {
-    "totalConfirmedCases": 1700,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 1730,
+    "newlyConfirmedCases": 30,
     "totalDeaths": 21,
     "newDeaths": 0,
-    "totalRecoveredCases": 794,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 818,
+    "newlyRecoveredCases": 24,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 1700,
+        "confirmed": 1730,
         "deaths": 21,
-        "recovered": 794
+        "recovered": 818
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "CI",
           "lat": 7.54
         },
-        "totalConfirmedCases": 1700,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 1730,
+        "newlyConfirmedCases": 30,
         "totalDeaths": 21,
         "newDeaths": 0,
-        "totalRecoveredCases": 794,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 818,
+        "newlyRecoveredCases": 24
       }
     ]
   }

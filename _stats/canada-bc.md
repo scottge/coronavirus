@@ -2,8 +2,8 @@
 category: stats
 title: "Canada - British Columbia Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Canada-British Columbia. Total Cases: 2353 (+23), Deaths: 130 (+1), Recoveries: 0(-)."
-publishedDateTime: 2020-05-11T22:45:10Z
-updatedDateTime: 2020-05-11T22:45:10Z
+publishedDateTime: 2020-05-11T23:45:10Z
+updatedDateTime: 2020-05-11T23:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/canada-bc/"
 type: article
 heat: 100

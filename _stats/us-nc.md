@@ -2,8 +2,8 @@
 category: stats
 title: "US - North Carolina State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-North Carolina. Total Cases: 15266 (+241), Deaths: 574 (+8), Recoveries: 1808(-)."
-publishedDateTime: 2020-05-11T22:45:10Z
-updatedDateTime: 2020-05-11T22:45:10Z
+publishedDateTime: 2020-05-11T23:45:10Z
+updatedDateTime: 2020-05-11T23:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-nc/"
 type: article
 heat: 100

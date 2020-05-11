@@ -7,14 +7,14 @@
     "isoCode": "BF",
     "lat": 12.2383
   },
-  "updatedDateTime": "2020-05-11T22:45:09.4790876Z",
+  "updatedDateTime": "2020-05-11T23:45:09.3165016Z",
   "stats": {
-    "totalConfirmedCases": 751,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 49,
-    "newDeaths": 0,
-    "totalRecoveredCases": 577,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 760,
+    "newlyConfirmedCases": 9,
+    "totalDeaths": 50,
+    "newDeaths": 1,
+    "totalRecoveredCases": 584,
+    "newlyRecoveredCases": 7,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 751,
-        "deaths": 49,
-        "recovered": 577
+        "confirmed": 760,
+        "deaths": 50,
+        "recovered": 584
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "BF",
           "lat": 12.2383
         },
-        "totalConfirmedCases": 751,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 49,
-        "newDeaths": 0,
-        "totalRecoveredCases": 577,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 760,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 50,
+        "newDeaths": 1,
+        "totalRecoveredCases": 584,
+        "newlyRecoveredCases": 7
       }
     ]
   }

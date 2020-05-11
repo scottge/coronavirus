@@ -7,14 +7,14 @@
     "isoCode": "CH",
     "lat": 46.8182
   },
-  "updatedDateTime": "2020-05-11T22:45:10.3556748Z",
+  "updatedDateTime": "2020-05-11T23:45:10.1425707Z",
   "stats": {
     "totalConfirmedCases": 30344,
     "newlyConfirmedCases": 39,
     "totalDeaths": 1845,
     "newDeaths": 12,
-    "totalRecoveredCases": 26600,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 26800,
+    "newlyRecoveredCases": 200,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -680,7 +680,7 @@
         "date": "2020-05-11T00:00:00",
         "confirmed": 30344,
         "deaths": 1845,
-        "recovered": 26600
+        "recovered": 26800
       }
     ],
     "breakdowns": [
@@ -697,8 +697,8 @@
         "newlyConfirmedCases": 39,
         "totalDeaths": 1845,
         "newDeaths": 12,
-        "totalRecoveredCases": 26600,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 26800,
+        "newlyRecoveredCases": 200
       }
     ]
   }

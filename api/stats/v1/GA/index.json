@@ -7,14 +7,14 @@
     "isoCode": "GA",
     "lat": -0.803689
   },
-  "updatedDateTime": "2020-05-11T22:45:09.722529Z",
+  "updatedDateTime": "2020-05-11T23:45:09.5382511Z",
   "stats": {
-    "totalConfirmedCases": 661,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 8,
-    "newDeaths": 0,
-    "totalRecoveredCases": 110,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 802,
+    "newlyConfirmedCases": 141,
+    "totalDeaths": 9,
+    "newDeaths": 1,
+    "totalRecoveredCases": 127,
+    "newlyRecoveredCases": 17,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 661,
-        "deaths": 8,
-        "recovered": 110
+        "confirmed": 802,
+        "deaths": 9,
+        "recovered": 127
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "GA",
           "lat": -0.803689
         },
-        "totalConfirmedCases": 661,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 8,
-        "newDeaths": 0,
-        "totalRecoveredCases": 110,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 802,
+        "newlyConfirmedCases": 141,
+        "totalDeaths": 9,
+        "newDeaths": 1,
+        "totalRecoveredCases": 127,
+        "newlyRecoveredCases": 17
       }
     ]
   }

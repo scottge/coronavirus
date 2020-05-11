@@ -2,8 +2,8 @@
 category: stats
 title: "US - Ohio State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Ohio. Total Cases: 24787 (+699), Deaths: 1360 (+13), Recoveries: 448(-)."
-publishedDateTime: 2020-05-11T22:45:10Z
-updatedDateTime: 2020-05-11T22:45:10Z
+publishedDateTime: 2020-05-11T23:45:10Z
+updatedDateTime: 2020-05-11T23:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-oh/"
 type: article
 heat: 100
