@@ -7,14 +7,14 @@
     "isoCode": "US-VT",
     "lat": 44.558803
   },
-  "updatedDateTime": "2020-05-10T05:45:38.8341411Z",
+  "updatedDateTime": "2020-05-11T17:42:21.9172657Z",
   "stats": {
-    "totalConfirmedCases": 921,
-    "newlyConfirmedCases": 2,
+    "totalConfirmedCases": 927,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 54,
     "newDeaths": 0,
-    "totalRecoveredCases": 744,
-    "newlyRecoveredCases": 7,
+    "totalRecoveredCases": 785,
+    "newlyRecoveredCases": 8,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 921,
         "deaths": 54,
         "recovered": 744
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 927,
+        "deaths": 54,
+        "recovered": 777
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 927,
+        "deaths": 54,
+        "recovered": 785
       }
     ],
     "breakdowns": [
@@ -697,8 +709,8 @@
           "isoCode": "US-VT",
           "lat": 43.0279
         },
-        "totalConfirmedCases": 56,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 61,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -729,7 +741,7 @@
           "isoCode": "US-VT",
           "lat": 44.4877
         },
-        "totalConfirmedCases": 431,
+        "totalConfirmedCases": 432,
         "newlyConfirmedCases": 0,
         "totalDeaths": 37,
         "newDeaths": 0,
@@ -825,7 +837,7 @@
           "isoCode": "US-VT",
           "lat": 44.1617
         },
-        "totalConfirmedCases": 37,
+        "totalConfirmedCases": 38,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -842,7 +854,7 @@
           "lat": 43.1219
         },
         "totalConfirmedCases": 74,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

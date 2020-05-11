@@ -7,10 +7,10 @@
     "isoCode": "SS",
     "lat": null
   },
-  "updatedDateTime": "2020-05-10T05:45:40.5002768Z",
+  "updatedDateTime": "2020-05-11T17:42:24.4414896Z",
   "stats": {
-    "totalConfirmedCases": 120,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 156,
+    "newlyConfirmedCases": 36,
     "totalDeaths": 0,
     "newDeaths": 0,
     "totalRecoveredCases": 2,
@@ -669,6 +669,18 @@
         "confirmed": 120,
         "deaths": 0,
         "recovered": 2
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 120,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 156,
+        "deaths": 0,
+        "recovered": 2
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "SS",
           "lat": null
         },
-        "totalConfirmedCases": 120,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 156,
+        "newlyConfirmedCases": 36,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 2,

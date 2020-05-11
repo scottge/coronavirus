@@ -7,13 +7,13 @@
     "isoCode": "GI",
     "lat": 36.1408
   },
-  "updatedDateTime": "2020-05-10T05:45:39.6976679Z",
+  "updatedDateTime": "2020-05-11T17:42:23.1993278Z",
   "stats": {
     "totalConfirmedCases": 146,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 142,
+    "totalRecoveredCases": 143,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 146,
         "deaths": 0,
         "recovered": 142
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 146,
+        "deaths": 0,
+        "recovered": 143
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 146,
+        "deaths": 0,
+        "recovered": 143
       }
     ],
     "breakdowns": [
@@ -685,7 +697,7 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 142,
+        "totalRecoveredCases": 143,
         "newlyRecoveredCases": 0
       }
     ]

@@ -7,14 +7,14 @@
     "isoCode": "TW",
     "lat": 23.7
   },
-  "updatedDateTime": "2020-05-10T05:45:37.527032Z",
+  "updatedDateTime": "2020-05-11T17:42:20.9438073Z",
   "stats": {
     "totalConfirmedCases": 440,
     "newlyConfirmedCases": 0,
-    "totalDeaths": 6,
+    "totalDeaths": 7,
     "newDeaths": 0,
-    "totalRecoveredCases": 361,
-    "newlyRecoveredCases": 6,
+    "totalRecoveredCases": 368,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -668,7 +668,19 @@
         "date": "2020-05-09T00:00:00",
         "confirmed": 440,
         "deaths": 6,
-        "recovered": 361
+        "recovered": 366
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 440,
+        "deaths": 7,
+        "recovered": 368
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 440,
+        "deaths": 7,
+        "recovered": 368
       }
     ],
     "breakdowns": [
@@ -683,10 +695,10 @@
         },
         "totalConfirmedCases": 440,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 6,
+        "totalDeaths": 7,
         "newDeaths": 0,
-        "totalRecoveredCases": 361,
-        "newlyRecoveredCases": 6
+        "totalRecoveredCases": 368,
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "Australia Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in Australia. Total Cases: 6939 (+12), Deaths: 97 (-), Recoveries: 6162(+28)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in Australia. Total Cases: 6949 (-), Deaths: 97 (-), Recoveries: 6181(-)."
+publishedDateTime: 2020-05-11T17:42:26Z
+updatedDateTime: 2020-05-11T17:42:26Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/australia/"
 type: article
 heat: 500
@@ -29,7 +29,7 @@ images:
 <div class="total-stats" style="text-align: center;">
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Confirmed Cases:</div>
-	    6939 (<span class='red'>+12</span>)
+	    6949 (-)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Deaths:</div>
@@ -37,7 +37,7 @@ images:
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
-	    6162 (<span class='green'>+28</span>)
+	    6181 (-)
     </h3>
 </div>
 
@@ -50,7 +50,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 4, 0, 0],['1/27/2020', 5, 0, 0],['1/28/2020', 5, 0, 0],['1/29/2020', 6, 0, 0],['1/30/2020', 8, 0, 2],['1/31/2020', 9, 0, 2],['2/1/2020', 11, 0, 2],['2/2/2020', 12, 0, 2],['2/3/2020', 12, 0, 2],['2/4/2020', 13, 0, 2],['2/5/2020', 13, 0, 2],['2/6/2020', 14, 0, 2],['2/7/2020', 15, 0, 2],['2/8/2020', 15, 0, 2],['2/9/2020', 15, 0, 2],['2/10/2020', 15, 0, 2],['2/11/2020', 15, 0, 2],['2/12/2020', 15, 0, 2],['2/13/2020', 15, 0, 8],['2/14/2020', 15, 0, 8],['2/15/2020', 15, 0, 8],['2/16/2020', 15, 0, 8],['2/17/2020', 15, 0, 10],['2/18/2020', 15, 0, 10],['2/19/2020', 15, 0, 10],['2/20/2020', 15, 0, 10],['2/21/2020', 15, 0, 11],['2/22/2020', 15, 0, 11],['2/23/2020', 15, 0, 11],['2/24/2020', 15, 0, 11],['2/25/2020', 15, 0, 11],['2/26/2020', 15, 0, 11],['2/27/2020', 15, 0, 11],['2/28/2020', 15, 0, 11],['2/29/2020', 25, 0, 11],['3/1/2020', 27, 1, 11],['3/2/2020', 30, 1, 11],['3/3/2020', 39, 1, 11],['3/4/2020', 51, 2, 11],['3/5/2020', 54, 2, 21],['3/6/2020', 60, 2, 21],['3/7/2020', 63, 2, 21],['3/8/2020', 76, 3, 21],['3/9/2020', 91, 3, 21],['3/10/2020', 107, 3, 21],['3/11/2020', 128, 3, 21],['3/12/2020', 128, 3, 21],['3/13/2020', 200, 3, 23],['3/14/2020', 250, 3, 23],['3/15/2020', 297, 3, 23],['3/16/2020', 377, 3, 23],['3/17/2020', 452, 5, 23],['3/18/2020', 568, 6, 23],['3/19/2020', 681, 6, 26],['3/20/2020', 791, 7, 26],['3/21/2020', 1071, 7, 26],['3/22/2020', 1314, 7, 88],['3/23/2020', 1682, 7, 119],['3/24/2020', 2318, 8, 119],['3/25/2020', 2364, 8, 119],['3/26/2020', 3143, 13, 194],['3/27/2020', 3143, 13, 194],['3/28/2020', 3935, 21, 244],['3/29/2020', 4197, 17, 244],['3/30/2020', 4550, 18, 358],['3/31/2020', 4559, 18, 358],['4/1/2020', 4862, 20, 422],['4/2/2020', 5116, 24, 520],['4/3/2020', 5330, 28, 649],['4/4/2020', 5550, 30, 701],['4/5/2020', 5687, 35, 757],['4/6/2020', 5797, 40, 1080],['4/7/2020', 5895, 45, 1080],['4/8/2020', 6010, 50, 1080],['4/9/2020', 6108, 51, 1472],['4/10/2020', 6283, 56, 1793],['4/11/2020', 6303, 57, 1806],['4/12/2020', 6352, 61, 1806],['4/13/2020', 6397, 61, 2186],['4/14/2020', 6416, 62, 2186],['4/15/2020', 6441, 63, 2186],['4/16/2020', 6521, 66, 3786],['4/17/2020', 6539, 66, 3822],['4/18/2020', 6547, 67, 4124],['4/19/2020', 6547, 67, 4124],['4/20/2020', 6547, 67, 4124],['4/21/2020', 6547, 67, 4124],['4/22/2020', 6547, 67, 4124],['4/23/2020', 6662, 75, 4124],['4/24/2020', 6662, 75, 4124],['4/25/2020', 6694, 80, 5271],['4/26/2020', 6714, 83, 5541],['4/27/2020', 6721, 83, 5588],['4/28/2020', 6745, 91, 5670],['4/29/2020', 6753, 92, 5718],['4/30/2020', 6767, 93, 5748],['5/1/2020', 6773, 93, 5776],['5/2/2020', 6799, 95, 5818],['5/3/2020', 6825, 96, 5864],['5/4/2020', 6849, 96, 5891],['5/5/2020', 6875, 97, 5975],['5/6/2020', 6896, 97, 6034],['5/7/2020', 6913, 97, 6078],['5/8/2020', 6927, 97, 6134],['5/9/2020', 6939, 97, 6162],
+      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 4, 0, 0],['1/27/2020', 5, 0, 0],['1/28/2020', 5, 0, 0],['1/29/2020', 6, 0, 0],['1/30/2020', 8, 0, 2],['1/31/2020', 9, 0, 2],['2/1/2020', 11, 0, 2],['2/2/2020', 12, 0, 2],['2/3/2020', 12, 0, 2],['2/4/2020', 13, 0, 2],['2/5/2020', 13, 0, 2],['2/6/2020', 14, 0, 2],['2/7/2020', 15, 0, 2],['2/8/2020', 15, 0, 2],['2/9/2020', 15, 0, 2],['2/10/2020', 15, 0, 2],['2/11/2020', 15, 0, 2],['2/12/2020', 15, 0, 2],['2/13/2020', 15, 0, 8],['2/14/2020', 15, 0, 8],['2/15/2020', 15, 0, 8],['2/16/2020', 15, 0, 8],['2/17/2020', 15, 0, 10],['2/18/2020', 15, 0, 10],['2/19/2020', 15, 0, 10],['2/20/2020', 15, 0, 10],['2/21/2020', 15, 0, 11],['2/22/2020', 15, 0, 11],['2/23/2020', 15, 0, 11],['2/24/2020', 15, 0, 11],['2/25/2020', 15, 0, 11],['2/26/2020', 15, 0, 11],['2/27/2020', 15, 0, 11],['2/28/2020', 15, 0, 11],['2/29/2020', 25, 0, 11],['3/1/2020', 27, 1, 11],['3/2/2020', 30, 1, 11],['3/3/2020', 39, 1, 11],['3/4/2020', 51, 2, 11],['3/5/2020', 54, 2, 21],['3/6/2020', 60, 2, 21],['3/7/2020', 63, 2, 21],['3/8/2020', 76, 3, 21],['3/9/2020', 91, 3, 21],['3/10/2020', 107, 3, 21],['3/11/2020', 128, 3, 21],['3/12/2020', 128, 3, 21],['3/13/2020', 200, 3, 23],['3/14/2020', 250, 3, 23],['3/15/2020', 297, 3, 23],['3/16/2020', 377, 3, 23],['3/17/2020', 452, 5, 23],['3/18/2020', 568, 6, 23],['3/19/2020', 681, 6, 26],['3/20/2020', 791, 7, 26],['3/21/2020', 1071, 7, 26],['3/22/2020', 1314, 7, 88],['3/23/2020', 1682, 7, 119],['3/24/2020', 2318, 8, 119],['3/25/2020', 2364, 8, 119],['3/26/2020', 3143, 13, 194],['3/27/2020', 3143, 13, 194],['3/28/2020', 3935, 21, 244],['3/29/2020', 4197, 17, 244],['3/30/2020', 4550, 18, 358],['3/31/2020', 4559, 18, 358],['4/1/2020', 4862, 20, 422],['4/2/2020', 5116, 24, 520],['4/3/2020', 5330, 28, 649],['4/4/2020', 5550, 30, 701],['4/5/2020', 5687, 35, 757],['4/6/2020', 5797, 40, 1080],['4/7/2020', 5895, 45, 1080],['4/8/2020', 6010, 50, 1080],['4/9/2020', 6108, 51, 1472],['4/10/2020', 6283, 56, 1793],['4/11/2020', 6303, 57, 1806],['4/12/2020', 6352, 61, 1806],['4/13/2020', 6397, 61, 2186],['4/14/2020', 6416, 62, 2186],['4/15/2020', 6441, 63, 2186],['4/16/2020', 6521, 66, 3786],['4/17/2020', 6539, 66, 3822],['4/18/2020', 6547, 67, 4124],['4/19/2020', 6547, 67, 4124],['4/20/2020', 6547, 67, 4124],['4/21/2020', 6547, 67, 4124],['4/22/2020', 6547, 67, 4124],['4/23/2020', 6662, 75, 4124],['4/24/2020', 6662, 75, 4124],['4/25/2020', 6694, 80, 5271],['4/26/2020', 6714, 83, 5541],['4/27/2020', 6721, 83, 5588],['4/28/2020', 6745, 91, 5670],['4/29/2020', 6753, 92, 5718],['4/30/2020', 6767, 93, 5748],['5/1/2020', 6773, 93, 5776],['5/2/2020', 6799, 95, 5818],['5/3/2020', 6825, 96, 5864],['5/4/2020', 6849, 96, 5891],['5/5/2020', 6875, 97, 5975],['5/6/2020', 6896, 97, 6034],['5/7/2020', 6913, 97, 6078],['5/8/2020', 6927, 97, 6134],['5/9/2020', 6939, 97, 6162],['5/10/2020', 6949, 97, 6181],['5/11/2020', 6949, 97, 6181],
     ]);
     var options = {
       curveType: 'none',
@@ -74,7 +74,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['Location', 'Total Cases', 'Total Deaths'],
-      ["Australia", 6939, 97]
+      ["Australia", 6949, 97]
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -141,78 +141,6 @@ images:
 		<div class="card-excerpt">The app will ask for your name (or pseudonym), age range, postcode and phone number. Scott Morrison says the Australian government’s covid safe tracking app won’t be mandatory to download and install,</div>
 		<div class="card-meta">
 			<span class="card-provider">The Guardian</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.theguardian.com/australia-news/2020/may/06/australian-healing-church-defends-bleach-sales-after-us-coronavirus-cure-claims"><div class="card-image" style="background-image: url(https://i.guim.co.uk/img/media/d438e6e875763d6cb87dcea0e421c0e109e28a92/0_0_1398_643/master/1398.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=08a2d907a588a8c376878899d574c19b)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.theguardian.com/australia-news/2020/may/06/australian-healing-church-defends-bleach-sales-after-us-coronavirus-cure-claims">Australian 'healing church' defends bleach sales after US coronavirus cure claims</a></div>
-		<div class="card-excerpt">Group claims it should be allowed to promote its Miracle Mineral Solution on freedom of religion grounds</div>
-		<div class="card-meta">
-			<span class="card-provider">The Guardian</span> • <span class="card-date">5/5/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.wsws.org/en/articles/2020/05/05/teac-m05.html"><div class="card-image" style="background-image: url(https://www.wsws.org/asset/7bd7f11a-bd09-4e89-a7d6-a3fec6cdc463/image.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.wsws.org/en/articles/2020/05/05/teac-m05.html">Australian governments reopen schools despite studies warning of COVID-19 danger</a></div>
-		<div class="card-excerpt">The federal government’s attack on the Victorian state premier was aimed at suppressing opposition by teachers and parents.</div>
-		<div class="card-meta">
-			<span class="card-provider">World Socialist Web Site</span> • <span class="card-date">5/4/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.theguardian.com/australia-news/2020/may/05/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-australia-coronavirus-contact-tracing"><div class="card-image" style="background-image: url(https://i.guim.co.uk/img/media/06456110e64b3cbbfcc1af6235942f45117c3e0e/439_307_3561_2138/master/3561.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0558f7ce36467a094a7739bc830adbaf)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.theguardian.com/australia-news/2020/may/05/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-australia-coronavirus-contact-tracing">Covidsafe app: how Australia’s coronavirus contact tracing app works, what it does, downloads and problems</a></div>
-		<div class="card-excerpt">The app will ask for your name (or pseudonym), age range, postcode and phone number. Scott Morrison says the Australian government’s covid safe tracking app won’t be mandatory to download and install,</div>
-		<div class="card-meta">
-			<span class="card-provider">The Guardian</span> • <span class="card-date">5/4/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.theguardian.com/australia-news/2020/may/04/australia-coronavirus-victims-tributes-friends-family-stories-age-names-covid-19-death-toll-australian"><div class="card-image" style="background-image: url(https://i.guim.co.uk/img/media/b1bd1cf71000ac80a1b3afc6195488e859ccbabb/0_0_2500_1500/master/2500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f841bbd7d67ad48f32f3f045b64caf41)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.theguardian.com/australia-news/2020/may/04/australia-coronavirus-victims-tributes-friends-family-stories-age-names-covid-19-death-toll-australian">Australia’s coronavirus victims: remembering those lost to Covid-19</a></div>
-		<div class="card-excerpt">As the death toll rises, families of those who have died around the country share stories of their loved ones</div>
-		<div class="card-meta">
-			<span class="card-provider">The Guardian</span> • <span class="card-date">5/4/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.theguardian.com/australia-news/datablog/ng-interactive/2020/may/04/coronavirus-map-australia-numbers-how-many-new-cases-today-maps-deaths-death-toll-covid-19-stats-statistics-graph-heatmap-by-postcode"><div class="card-image" style="background-image: url(https://i.guim.co.uk/img/media/aada1b794bcc3a370de539510a88f01e2e7e35a9/0_0_1000_600/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df4bc43557fae83de7f10dedb80a1217)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.theguardian.com/australia-news/datablog/ng-interactive/2020/may/04/coronavirus-map-australia-numbers-how-many-new-cases-today-maps-deaths-death-toll-covid-19-stats-statistics-graph-heatmap-by-postcode">Coronavirus map of Australia: how many new cases are there? Covid-19 numbers, statistics and graphs</a></div>
-		<div class="card-excerpt">Is Australia flattening the curve? Look at the graph. We bring together all the Covid-19 confirmed cases, maps, stats and graphs from NSW, Victoria, Queensland, SA, WA, Tasmania, ACT and NT to get a broad picture of the Australian outbreak and track the impact of government response.</div>
-		<div class="card-meta">
-			<span class="card-provider">The Guardian</span> • <span class="card-date">5/3/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.cnn.com/travel/article/new-zealand-australia-travel-bubble-intl-hnk/index.html?ref=hvper.com"><div class="card-image" style="background-image: url(https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170901105318-australia-kakadu-nawurlandja-lookout-nourlangie-rock-122327-3-super-tease.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.cnn.com/travel/article/new-zealand-australia-travel-bubble-intl-hnk/index.html?ref=hvper.com">A 'travel bubble' between New Zealand and Australia could be a model for the future</a></div>
-		<div class="card-excerpt">Tourism is still worth billions to Australia, although it is only the country's fourth biggest export industry. In both countries, tourism industries have taken a massive hit from the coronavirus outbreak -- so it's no surprise that industry representatives are welcoming the prospect of a travel bubble. "The message from the industry side is ...</div>
-		<div class="card-meta">
-			<span class="card-provider">CNN</span> • <span class="card-date">5/3/2020</span>
 		</div>
 	</div>
   </div>

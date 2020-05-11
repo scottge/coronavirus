@@ -7,14 +7,14 @@
     "isoCode": "AF",
     "lat": 33.0
   },
-  "updatedDateTime": "2020-05-10T05:45:39.1020447Z",
+  "updatedDateTime": "2020-05-11T17:42:22.2799544Z",
   "stats": {
-    "totalConfirmedCases": 4033,
-    "newlyConfirmedCases": 255,
-    "totalDeaths": 115,
-    "newDeaths": 6,
-    "totalRecoveredCases": 502,
-    "newlyRecoveredCases": 30,
+    "totalConfirmedCases": 4687,
+    "newlyConfirmedCases": 285,
+    "totalDeaths": 122,
+    "newDeaths": 2,
+    "totalRecoveredCases": 558,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 4033,
         "deaths": 115,
         "recovered": 502
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 4402,
+        "deaths": 120,
+        "recovered": 558
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 4687,
+        "deaths": 122,
+        "recovered": 558
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "AF",
           "lat": 33.0
         },
-        "totalConfirmedCases": 4033,
-        "newlyConfirmedCases": 255,
-        "totalDeaths": 115,
-        "newDeaths": 6,
-        "totalRecoveredCases": 502,
-        "newlyRecoveredCases": 30
+        "totalConfirmedCases": 4687,
+        "newlyConfirmedCases": 285,
+        "totalDeaths": 122,
+        "newDeaths": 2,
+        "totalRecoveredCases": 558,
+        "newlyRecoveredCases": 0
       }
     ]
   }

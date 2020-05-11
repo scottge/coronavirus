@@ -7,13 +7,13 @@
     "isoCode": "US-WI",
     "lat": 43.78444
   },
-  "updatedDateTime": "2020-05-10T05:45:38.8831534Z",
+  "updatedDateTime": "2020-05-11T17:42:22.002662Z",
   "stats": {
-    "totalConfirmedCases": 9941,
-    "newlyConfirmedCases": 348,
-    "totalDeaths": 398,
-    "newDeaths": 14,
-    "totalRecoveredCases": 4348,
+    "totalConfirmedCases": 10221,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 401,
+    "newDeaths": 0,
+    "totalRecoveredCases": 5014,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 9941,
         "deaths": 398,
         "recovered": 4348
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 10221,
+        "deaths": 401,
+        "recovered": 5014
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 10221,
+        "deaths": 401,
+        "recovered": 5014
       }
     ],
     "breakdowns": [
@@ -697,10 +709,10 @@
           "isoCode": "US-WI",
           "lat": 44.317
         },
-        "totalConfirmedCases": 1834,
-        "newlyConfirmedCases": 57,
+        "totalConfirmedCases": 1897,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
-        "newDeaths": 5,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -713,9 +725,9 @@
           "isoCode": "US-WI",
           "lat": 43.9491
         },
-        "totalConfirmedCases": 35,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 0,
+        "totalConfirmedCases": 40,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -730,7 +742,7 @@
           "lat": 45.1988
         },
         "totalConfirmedCases": 29,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -746,7 +758,7 @@
           "lat": 44.5605
         },
         "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -777,8 +789,8 @@
           "isoCode": "US-WI",
           "lat": 43.0186
         },
-        "totalConfirmedCases": 465,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 472,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 23,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -793,8 +805,8 @@
           "isoCode": "US-WI",
           "lat": 43.5271
         },
-        "totalConfirmedCases": 55,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 67,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -810,7 +822,7 @@
           "lat": 46.2409
         },
         "totalConfirmedCases": 11,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -842,7 +854,7 @@
           "lat": 44.803
         },
         "totalConfirmedCases": 54,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -857,8 +869,8 @@
           "isoCode": "US-WI",
           "lat": 43.8377
         },
-        "totalConfirmedCases": 86,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 93,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -873,8 +885,8 @@
           "isoCode": "US-WI",
           "lat": 42.9793
         },
-        "totalConfirmedCases": 67,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 68,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -890,7 +902,7 @@
           "lat": 42.6168
         },
         "totalConfirmedCases": 33,
-        "newlyConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -937,7 +949,7 @@
           "isoCode": "US-WI",
           "lat": 44.2981
         },
-        "totalConfirmedCases": 13,
+        "totalConfirmedCases": 14,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -955,7 +967,7 @@
         },
         "totalConfirmedCases": 50,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -985,8 +997,8 @@
           "isoCode": "US-WI",
           "lat": 42.5707
         },
-        "totalConfirmedCases": 651,
-        "newlyConfirmedCases": 24,
+        "totalConfirmedCases": 682,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 15,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1001,7 +1013,7 @@
           "isoCode": "US-WI",
           "lat": 43.9075
         },
-        "totalConfirmedCases": 32,
+        "totalConfirmedCases": 33,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1018,7 +1030,7 @@
           "lat": 44.9615
         },
         "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1034,7 +1046,7 @@
           "lat": 45.0556
         },
         "totalConfirmedCases": 16,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1065,10 +1077,10 @@
           "isoCode": "US-WI",
           "lat": 42.937
         },
-        "totalConfirmedCases": 3854,
-        "newlyConfirmedCases": 132,
-        "totalDeaths": 224,
-        "newDeaths": 5,
+        "totalConfirmedCases": 3952,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 225,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1113,8 +1125,8 @@
           "isoCode": "US-WI",
           "lat": 44.4449
         },
-        "totalConfirmedCases": 111,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 112,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1129,8 +1141,8 @@
           "isoCode": "US-WI",
           "lat": 43.3847
         },
-        "totalConfirmedCases": 104,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 105,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1177,8 +1189,8 @@
           "isoCode": "US-WI",
           "lat": 42.8088
         },
-        "totalConfirmedCases": 680,
-        "newlyConfirmedCases": 46,
+        "totalConfirmedCases": 704,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 16,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1209,10 +1221,10 @@
           "isoCode": "US-WI",
           "lat": 42.8386
         },
-        "totalConfirmedCases": 347,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 354,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1226,7 +1238,7 @@
           "lat": 43.4814
         },
         "totalConfirmedCases": 71,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1241,7 +1253,7 @@
           "isoCode": "US-WI",
           "lat": 43.6766
         },
-        "totalConfirmedCases": 65,
+        "totalConfirmedCases": 66,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1258,7 +1270,7 @@
           "lat": 44.9691
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1289,10 +1301,10 @@
           "isoCode": "US-WI",
           "lat": 42.8372
         },
-        "totalConfirmedCases": 229,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 235,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 18,
         "newlyRecoveredCases": 0
       },
@@ -1305,8 +1317,8 @@
           "isoCode": "US-WI",
           "lat": 43.4204
         },
-        "totalConfirmedCases": 116,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 117,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1321,10 +1333,10 @@
           "isoCode": "US-WI",
           "lat": 43.1229
         },
-        "totalConfirmedCases": 396,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 400,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 23,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 120,
         "newlyRecoveredCases": 0
       },
@@ -1338,7 +1350,7 @@
           "lat": 44.395
         },
         "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1354,7 +1366,7 @@
           "lat": 44.0391
         },
         "totalConfirmedCases": 98,
-        "newlyConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1417,8 +1429,8 @@
           "isoCode": "US-WI",
           "lat": 45.0659
         },
-        "totalConfirmedCases": 20,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1434,7 +1446,7 @@
           "lat": 45.3006
         },
         "totalConfirmedCases": 28,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1450,7 +1462,7 @@
           "lat": 43.3516
         },
         "totalConfirmedCases": 17,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1529,7 +1541,7 @@
           "isoCode": "US-WI",
           "lat": 45.5353
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 12,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1562,7 +1574,7 @@
           "lat": 44.1525
         },
         "totalConfirmedCases": 19,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1577,7 +1589,7 @@
           "isoCode": "US-WI",
           "lat": 45.0046
         },
-        "totalConfirmedCases": 20,
+        "totalConfirmedCases": 22,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1625,8 +1637,8 @@
           "isoCode": "US-WI",
           "lat": 44.4607
         },
-        "totalConfirmedCases": 28,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1642,7 +1654,7 @@
           "lat": 42.5801
         },
         "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1705,8 +1717,8 @@
           "isoCode": "US-WI",
           "lat": 43.9704
         },
-        "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1769,7 +1781,7 @@
           "isoCode": "US-WI",
           "lat": 45.6704497
         },
-        "totalConfirmedCases": 1,
+        "totalConfirmedCases": 3,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,

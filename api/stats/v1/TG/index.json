@@ -7,14 +7,14 @@
     "isoCode": "TG",
     "lat": 8.6195
   },
-  "updatedDateTime": "2020-05-10T05:45:40.5786836Z",
+  "updatedDateTime": "2020-05-11T17:42:24.5908617Z",
   "stats": {
-    "totalConfirmedCases": 153,
-    "newlyConfirmedCases": 8,
-    "totalDeaths": 10,
+    "totalConfirmedCases": 181,
+    "newlyConfirmedCases": 7,
+    "totalDeaths": 11,
     "newDeaths": 0,
-    "totalRecoveredCases": 87,
-    "newlyRecoveredCases": 2,
+    "totalRecoveredCases": 89,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 153,
         "deaths": 10,
         "recovered": 87
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 174,
+        "deaths": 11,
+        "recovered": 89
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 181,
+        "deaths": 11,
+        "recovered": 89
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "TG",
           "lat": 8.6195
         },
-        "totalConfirmedCases": 153,
-        "newlyConfirmedCases": 8,
-        "totalDeaths": 10,
+        "totalConfirmedCases": 181,
+        "newlyConfirmedCases": 7,
+        "totalDeaths": 11,
         "newDeaths": 0,
-        "totalRecoveredCases": 87,
-        "newlyRecoveredCases": 2
+        "totalRecoveredCases": 89,
+        "newlyRecoveredCases": 0
       }
     ]
   }

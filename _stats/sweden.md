@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "Sweden Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in Sweden. Total Cases: 25921 (+656), Deaths: 3220 (+45), Recoveries: 4971(-)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in Sweden. Total Cases: 26670 (+348), Deaths: 3256 (+31), Recoveries: 4971(-)."
+publishedDateTime: 2020-05-11T17:42:26Z
+updatedDateTime: 2020-05-11T17:42:26Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/sweden/"
 type: article
 heat: 100
@@ -30,11 +30,11 @@ images:
 <div class="total-stats" style="text-align: center;">
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Confirmed Cases:</div>
-	    25921 (<span class='red'>+656</span>)
+	    26670 (<span class='red'>+348</span>)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Deaths:</div>
-	    3220 (<span class='red'>+45</span>)
+	    3256 (<span class='red'>+31</span>)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
@@ -51,7 +51,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 0, 0, 0],['1/27/2020', 0, 0, 0],['1/28/2020', 0, 0, 0],['1/29/2020', 0, 0, 0],['1/30/2020', 0, 0, 0],['1/31/2020', 1, 0, 0],['2/1/2020', 1, 0, 0],['2/2/2020', 1, 0, 0],['2/3/2020', 1, 0, 0],['2/4/2020', 1, 0, 0],['2/5/2020', 1, 0, 0],['2/6/2020', 1, 0, 0],['2/7/2020', 1, 0, 0],['2/8/2020', 1, 0, 0],['2/9/2020', 1, 0, 0],['2/10/2020', 1, 0, 0],['2/11/2020', 1, 0, 0],['2/12/2020', 1, 0, 0],['2/13/2020', 1, 0, 0],['2/14/2020', 1, 0, 0],['2/15/2020', 1, 0, 0],['2/16/2020', 1, 0, 0],['2/17/2020', 1, 0, 0],['2/18/2020', 1, 0, 0],['2/19/2020', 1, 0, 0],['2/20/2020', 1, 0, 0],['2/21/2020', 1, 0, 0],['2/22/2020', 1, 0, 0],['2/23/2020', 1, 0, 0],['2/24/2020', 1, 0, 0],['2/25/2020', 1, 0, 0],['2/26/2020', 2, 0, 0],['2/27/2020', 7, 0, 0],['2/28/2020', 7, 0, 0],['2/29/2020', 12, 0, 0],['3/1/2020', 14, 0, 0],['3/2/2020', 15, 0, 0],['3/3/2020', 21, 0, 0],['3/4/2020', 35, 0, 0],['3/5/2020', 94, 0, 0],['3/6/2020', 101, 0, 0],['3/7/2020', 161, 0, 0],['3/8/2020', 203, 0, 0],['3/9/2020', 248, 0, 1],['3/10/2020', 355, 0, 1],['3/11/2020', 500, 1, 1],['3/12/2020', 687, 1, 1],['3/13/2020', 814, 1, 1],['3/14/2020', 961, 2, 1],['3/15/2020', 1040, 3, 1],['3/16/2020', 1121, 7, 1],['3/17/2020', 1196, 8, 1],['3/18/2020', 1301, 10, 16],['3/19/2020', 1439, 11, 16],['3/20/2020', 1639, 16, 16],['3/21/2020', 1770, 20, 16],['3/22/2020', 1934, 21, 16],['3/23/2020', 2046, 27, 16],['3/24/2020', 2299, 40, 16],['3/25/2020', 2526, 62, 16],['3/26/2020', 2840, 77, 16],['3/27/2020', 3069, 105, 16],['3/28/2020', 3447, 105, 16],['3/29/2020', 3700, 110, 16],['3/30/2020', 4028, 146, 16],['3/31/2020', 4435, 180, 16],['4/1/2020', 4947, 239, 103],['4/2/2020', 5568, 308, 103],['4/3/2020', 6131, 358, 205],['4/4/2020', 6443, 373, 205],['4/5/2020', 6830, 401, 205],['4/6/2020', 7206, 477, 205],['4/7/2020', 7693, 591, 205],['4/8/2020', 8419, 687, 205],['4/9/2020', 9141, 793, 205],['4/10/2020', 9685, 870, 381],['4/11/2020', 10151, 887, 381],['4/12/2020', 10483, 899, 381],['4/13/2020', 10948, 919, 381],['4/14/2020', 11445, 1033, 381],['4/15/2020', 11927, 1203, 381],['4/16/2020', 12540, 1333, 550],['4/17/2020', 13216, 1400, 550],['4/18/2020', 13822, 1511, 550],['4/19/2020', 14385, 1540, 550],['4/20/2020', 14777, 1580, 550],['4/21/2020', 15322, 1765, 550],['4/22/2020', 16004, 1937, 550],['4/23/2020', 16755, 2021, 550],['4/24/2020', 17567, 2152, 1005],['4/25/2020', 18177, 2192, 1005],['4/26/2020', 18640, 2194, 1005],['4/27/2020', 18926, 2274, 1005],['4/28/2020', 19621, 2355, 1005],['4/29/2020', 20302, 2462, 1005],['4/30/2020', 21092, 2586, 1005],['5/1/2020', 21587, 2627, 1005],['5/2/2020', 22082, 2669, 1005],['5/3/2020', 22317, 2679, 1005],['5/4/2020', 22721, 2769, 4074],['5/5/2020', 23216, 2854, 4074],['5/6/2020', 23918, 2941, 4074],['5/7/2020', 24623, 3040, 4971],['5/8/2020', 25265, 3175, 4971],['5/9/2020', 25921, 3220, 4971],
+      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 0, 0, 0],['1/27/2020', 0, 0, 0],['1/28/2020', 0, 0, 0],['1/29/2020', 0, 0, 0],['1/30/2020', 0, 0, 0],['1/31/2020', 1, 0, 0],['2/1/2020', 1, 0, 0],['2/2/2020', 1, 0, 0],['2/3/2020', 1, 0, 0],['2/4/2020', 1, 0, 0],['2/5/2020', 1, 0, 0],['2/6/2020', 1, 0, 0],['2/7/2020', 1, 0, 0],['2/8/2020', 1, 0, 0],['2/9/2020', 1, 0, 0],['2/10/2020', 1, 0, 0],['2/11/2020', 1, 0, 0],['2/12/2020', 1, 0, 0],['2/13/2020', 1, 0, 0],['2/14/2020', 1, 0, 0],['2/15/2020', 1, 0, 0],['2/16/2020', 1, 0, 0],['2/17/2020', 1, 0, 0],['2/18/2020', 1, 0, 0],['2/19/2020', 1, 0, 0],['2/20/2020', 1, 0, 0],['2/21/2020', 1, 0, 0],['2/22/2020', 1, 0, 0],['2/23/2020', 1, 0, 0],['2/24/2020', 1, 0, 0],['2/25/2020', 1, 0, 0],['2/26/2020', 2, 0, 0],['2/27/2020', 7, 0, 0],['2/28/2020', 7, 0, 0],['2/29/2020', 12, 0, 0],['3/1/2020', 14, 0, 0],['3/2/2020', 15, 0, 0],['3/3/2020', 21, 0, 0],['3/4/2020', 35, 0, 0],['3/5/2020', 94, 0, 0],['3/6/2020', 101, 0, 0],['3/7/2020', 161, 0, 0],['3/8/2020', 203, 0, 0],['3/9/2020', 248, 0, 1],['3/10/2020', 355, 0, 1],['3/11/2020', 500, 1, 1],['3/12/2020', 687, 1, 1],['3/13/2020', 814, 1, 1],['3/14/2020', 961, 2, 1],['3/15/2020', 1040, 3, 1],['3/16/2020', 1121, 7, 1],['3/17/2020', 1196, 8, 1],['3/18/2020', 1301, 10, 16],['3/19/2020', 1439, 11, 16],['3/20/2020', 1639, 16, 16],['3/21/2020', 1770, 20, 16],['3/22/2020', 1934, 21, 16],['3/23/2020', 2046, 27, 16],['3/24/2020', 2299, 40, 16],['3/25/2020', 2526, 62, 16],['3/26/2020', 2840, 77, 16],['3/27/2020', 3069, 105, 16],['3/28/2020', 3447, 105, 16],['3/29/2020', 3700, 110, 16],['3/30/2020', 4028, 146, 16],['3/31/2020', 4435, 180, 16],['4/1/2020', 4947, 239, 103],['4/2/2020', 5568, 308, 103],['4/3/2020', 6131, 358, 205],['4/4/2020', 6443, 373, 205],['4/5/2020', 6830, 401, 205],['4/6/2020', 7206, 477, 205],['4/7/2020', 7693, 591, 205],['4/8/2020', 8419, 687, 205],['4/9/2020', 9141, 793, 205],['4/10/2020', 9685, 870, 381],['4/11/2020', 10151, 887, 381],['4/12/2020', 10483, 899, 381],['4/13/2020', 10948, 919, 381],['4/14/2020', 11445, 1033, 381],['4/15/2020', 11927, 1203, 381],['4/16/2020', 12540, 1333, 550],['4/17/2020', 13216, 1400, 550],['4/18/2020', 13822, 1511, 550],['4/19/2020', 14385, 1540, 550],['4/20/2020', 14777, 1580, 550],['4/21/2020', 15322, 1765, 550],['4/22/2020', 16004, 1937, 550],['4/23/2020', 16755, 2021, 550],['4/24/2020', 17567, 2152, 1005],['4/25/2020', 18177, 2192, 1005],['4/26/2020', 18640, 2194, 1005],['4/27/2020', 18926, 2274, 1005],['4/28/2020', 19621, 2355, 1005],['4/29/2020', 20302, 2462, 1005],['4/30/2020', 21092, 2586, 1005],['5/1/2020', 21587, 2627, 1005],['5/2/2020', 22082, 2669, 1005],['5/3/2020', 22317, 2679, 1005],['5/4/2020', 22721, 2769, 4074],['5/5/2020', 23216, 2854, 4074],['5/6/2020', 23918, 2941, 4074],['5/7/2020', 24623, 3040, 4971],['5/8/2020', 25265, 3175, 4971],['5/9/2020', 25921, 3220, 4971],['5/10/2020', 26322, 3225, 4971],['5/11/2020', 26670, 3256, 4971],
     ]);
     var options = {
       curveType: 'none',
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['Location', 'Total Cases', 'Total Deaths'],
-      ["Sweden", 25921, 3220]
+      ["Sweden", 26670, 3256]
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -154,66 +154,6 @@ images:
 		<div class="card-excerpt">Or a tip on how your town or community is handling the pandemic? Please email covidtips@businessinsider.com and tell us your story. Get the latest coronavirus business & economic impact analysis from Business Insider Intelligence on how COVID-19 is affecting industries.</div>
 		<div class="card-meta">
 			<span class="card-provider">Business Insider</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.nbcnews.com/health/health-news/live-blog/2020-05-05-coronavirus-news-n1200041/ncrd1200091"><div class="card-image" style="background-image: url(https://media1.s-nbcnews.com/i/newscms/2020_19/3336916/200505-trump-corona-mc-835_e8f8ce4ffe531c2fa0e5706b67ca441a.JPG)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.nbcnews.com/health/health-news/live-blog/2020-05-05-coronavirus-news-n1200041/ncrd1200091">Epidemiologist believes coronavirus may have been in Sweden as early as November</a></div>
-		<div class="card-excerpt">His travel plans come as the U.S. coronavirus death toll inched closer to 70,000, with 69,149 deaths recorded at 4 a.m. ET. Globally, the more than 250,000 have died from the virus. Meanwhile, businesses in several states including Florida and California,</div>
-		<div class="card-meta">
-			<span class="card-provider">NBC News</span> • <span class="card-date">5/5/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.wsj.com/articles/weighing-swedens-coronavirus-model-11588631127"><div class="card-image" style="background-image: url(https://images.wsj.net/im-183489/social)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.wsj.com/articles/weighing-swedens-coronavirus-model-11588631127">Weighing Sweden’s Coronavirus Model</a></div>
-		<div class="card-excerpt">The left rushes to condemn an experiment that’s far from over.</div>
-		<div class="card-meta">
-			<span class="card-provider">Wall Street Journal</span> • <span class="card-date">5/4/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.nytimes.com/2020/05/04/opinion/coronavirus-sweden-herd-immunity.html"><div class="card-image" style="background-image: url(https://static01.nyt.com/images/2020/05/04/opinion/04bremmerWeb/merlin_171953583_45de90e0-d538-41a4-b017-b407f9b93b57-facebookJumbo.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.nytimes.com/2020/05/04/opinion/coronavirus-sweden-herd-immunity.html">Coronavirus and the Sweden Myth</a></div>
-		<div class="card-excerpt">For countries battling the coronavirus pandemic, Sweden sets a seductive example. While the world’s biggest economies have shut down, one small, well-governed Scandinavian country has allowed most businesses to stay open.</div>
-		<div class="card-meta">
-			<span class="card-provider">New York Times</span> • <span class="card-date">5/4/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.washingtonpost.com/politics/2020/05/03/risk-swedens-coronavirus-strategy-blind-patriotism/"><div class="card-image" style="background-image: url(https://www.washingtonpost.com/resizer/e8wwlecL-gRryTYd7ja5uL7QGvU=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UUPKAXEHGAI6VANDS2IMTCARCE.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.washingtonpost.com/politics/2020/05/03/risk-swedens-coronavirus-strategy-blind-patriotism/">The risk of Sweden’s coronavirus strategy? Blind patriotism.</a></div>
-		<div class="card-excerpt">Pandemic experts have criticized this approach, combining a handful of restrictions with strong recommendations for risk groups and anyone feeling sick to self-isolate, and voluntary social distancing for everyone else.</div>
-		<div class="card-meta">
-			<span class="card-provider">Washington Post</span> • <span class="card-date">5/3/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.heritage.org/public-health/commentary/swedens-covid-19-approach-the-right-one-what-1-expert-thinks"><div class="card-image" style="background-image: url(https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2020-05/GettyImages-1219602500%20%281%29.jpg?itok=W-FOfYpG)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.heritage.org/public-health/commentary/swedens-covid-19-approach-the-right-one-what-1-expert-thinks">Is Sweden’s COVID-19 Approach the Right One? What 1 Expert Thinks</a></div>
-		<div class="card-excerpt">The spread of COVID-19 has created a serious public health challenge for governments throughout the world, but several countries have responded differently.  The U.S. and many European nations, for instance,</div>
-		<div class="card-meta">
-			<span class="card-provider">The Heritage Foundation</span> • <span class="card-date">5/1/2020</span>
 		</div>
 	</div>
   </div>

@@ -7,12 +7,12 @@
     "isoCode": "US-OH",
     "lat": 40.417287
   },
-  "updatedDateTime": "2020-05-10T05:45:38.7010159Z",
+  "updatedDateTime": "2020-05-11T17:42:21.7160505Z",
   "stats": {
-    "totalConfirmedCases": 23701,
-    "newlyConfirmedCases": 681,
-    "totalDeaths": 1338,
-    "newDeaths": 27,
+    "totalConfirmedCases": 24088,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 1347,
+    "newDeaths": 0,
     "totalRecoveredCases": 448,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 23701,
         "deaths": 1338,
         "recovered": 448
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 24088,
+        "deaths": 1347,
+        "recovered": 448
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 24088,
+        "deaths": 1347,
+        "recovered": 448
       }
     ],
     "breakdowns": [
@@ -682,7 +694,7 @@
           "lat": 40.8307
         },
         "totalConfirmedCases": 144,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 29,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -698,7 +710,7 @@
           "lat": 40.6584
         },
         "totalConfirmedCases": 14,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -713,8 +725,8 @@
           "isoCode": "US-OH",
           "lat": 41.5364
         },
-        "totalConfirmedCases": 190,
-        "newlyConfirmedCases": 18,
+        "totalConfirmedCases": 192,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -729,8 +741,8 @@
           "isoCode": "US-OH",
           "lat": 39.4016
         },
-        "totalConfirmedCases": 5,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -761,8 +773,8 @@
           "isoCode": "US-OH",
           "lat": 40.0105
         },
-        "totalConfirmedCases": 229,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 234,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 12,
@@ -777,7 +789,7 @@
           "isoCode": "US-OH",
           "lat": 39.0293
         },
-        "totalConfirmedCases": 16,
+        "totalConfirmedCases": 17,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -793,10 +805,10 @@
           "isoCode": "US-OH",
           "lat": 39.4791
         },
-        "totalConfirmedCases": 436,
-        "newlyConfirmedCases": 32,
+        "totalConfirmedCases": 452,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -825,8 +837,8 @@
           "isoCode": "US-OH",
           "lat": 40.127
         },
-        "totalConfirmedCases": 17,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -841,10 +853,10 @@
           "isoCode": "US-OH",
           "lat": 39.9295
         },
-        "totalConfirmedCases": 90,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 93,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -857,8 +869,8 @@
           "isoCode": "US-OH",
           "lat": 39.2123
         },
-        "totalConfirmedCases": 122,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 123,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -873,7 +885,7 @@
           "isoCode": "US-OH",
           "lat": 39.5523
         },
-        "totalConfirmedCases": 33,
+        "totalConfirmedCases": 34,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -889,10 +901,10 @@
           "isoCode": "US-OH",
           "lat": 40.8871
         },
-        "totalConfirmedCases": 319,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 325,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 35,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -921,8 +933,8 @@
           "isoCode": "US-OH",
           "lat": 40.7924
         },
-        "totalConfirmedCases": 71,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 72,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 11,
@@ -937,10 +949,10 @@
           "isoCode": "US-OH",
           "lat": 41.4339
         },
-        "totalConfirmedCases": 2755,
-        "newlyConfirmedCases": 87,
-        "totalDeaths": 145,
-        "newDeaths": 2,
+        "totalConfirmedCases": 2795,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 146,
+        "newDeaths": 0,
         "totalRecoveredCases": 224,
         "newlyRecoveredCases": 0
       },
@@ -954,7 +966,7 @@
           "lat": 40.1157
         },
         "totalConfirmedCases": 84,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 14,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -970,7 +982,7 @@
           "lat": 41.2944
         },
         "totalConfirmedCases": 26,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -985,8 +997,8 @@
           "isoCode": "US-OH",
           "lat": 40.2219
         },
-        "totalConfirmedCases": 211,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 220,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1001,8 +1013,8 @@
           "isoCode": "US-OH",
           "lat": 41.2883
         },
-        "totalConfirmedCases": 79,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 80,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1018,7 +1030,7 @@
           "lat": 39.6049
         },
         "totalConfirmedCases": 177,
-        "newlyConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 25,
@@ -1034,7 +1046,7 @@
           "lat": 39.6079
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1049,10 +1061,10 @@
           "isoCode": "US-OH",
           "lat": 40.0251
         },
-        "totalConfirmedCases": 3710,
-        "newlyConfirmedCases": 95,
-        "totalDeaths": 114,
-        "newDeaths": 6,
+        "totalConfirmedCases": 3777,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 119,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1065,7 +1077,7 @@
           "isoCode": "US-OH",
           "lat": 41.7113
         },
-        "totalConfirmedCases": 30,
+        "totalConfirmedCases": 31,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1098,7 +1110,7 @@
           "lat": 41.4318
         },
         "totalConfirmedCases": 189,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 19,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1113,8 +1125,8 @@
           "isoCode": "US-OH",
           "lat": 39.731
         },
-        "totalConfirmedCases": 53,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 59,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1129,9 +1141,9 @@
           "isoCode": "US-OH",
           "lat": 39.1063
         },
-        "totalConfirmedCases": 1731,
-        "newlyConfirmedCases": 67,
-        "totalDeaths": 100,
+        "totalConfirmedCases": 1757,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 101,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1162,7 +1174,7 @@
           "lat": 39.2123
         },
         "totalConfirmedCases": 12,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 4,
@@ -1177,7 +1189,7 @@
           "isoCode": "US-OH",
           "lat": 40.5628
         },
-        "totalConfirmedCases": 7,
+        "totalConfirmedCases": 8,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1194,7 +1206,7 @@
           "lat": 41.0796
         },
         "totalConfirmedCases": 38,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 8,
@@ -1210,7 +1222,7 @@
           "lat": 40.2701
         },
         "totalConfirmedCases": 54,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 6,
@@ -1241,8 +1253,8 @@
           "isoCode": "US-OH",
           "lat": 41.6581
         },
-        "totalConfirmedCases": 194,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 197,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1274,7 +1286,7 @@
           "lat": 39.95
         },
         "totalConfirmedCases": 162,
-        "newlyConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 31,
@@ -1305,8 +1317,8 @@
           "isoCode": "US-OH",
           "lat": 41.2665
         },
-        "totalConfirmedCases": 543,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 548,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 44,
         "newDeaths": 0,
         "totalRecoveredCases": 40,
@@ -1321,10 +1333,10 @@
           "isoCode": "US-OH",
           "lat": 41.4906
         },
-        "totalConfirmedCases": 1710,
-        "newlyConfirmedCases": 45,
+        "totalConfirmedCases": 1757,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 164,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1337,8 +1349,8 @@
           "isoCode": "US-OH",
           "lat": 39.733
         },
-        "totalConfirmedCases": 81,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 83,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1353,10 +1365,10 @@
           "isoCode": "US-OH",
           "lat": 40.9042
         },
-        "totalConfirmedCases": 1104,
-        "newlyConfirmedCases": 17,
+        "totalConfirmedCases": 1119,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 122,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1369,8 +1381,8 @@
           "isoCode": "US-OH",
           "lat": 40.4598
         },
-        "totalConfirmedCases": 2381,
-        "newlyConfirmedCases": 15,
+        "totalConfirmedCases": 2387,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1385,8 +1397,8 @@
           "isoCode": "US-OH",
           "lat": 41.0349
         },
-        "totalConfirmedCases": 193,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 194,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1401,8 +1413,8 @@
           "isoCode": "US-OH",
           "lat": 40.6915
         },
-        "totalConfirmedCases": 66,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 67,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 4,
@@ -1417,9 +1429,9 @@
           "isoCode": "US-OH",
           "lat": 40.1504
         },
-        "totalConfirmedCases": 244,
-        "newlyConfirmedCases": 68,
-        "totalDeaths": 27,
+        "totalConfirmedCases": 268,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 28,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1433,8 +1445,8 @@
           "isoCode": "US-OH",
           "lat": 39.8393
         },
-        "totalConfirmedCases": 369,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 390,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1450,7 +1462,7 @@
           "lat": 40.1376
         },
         "totalConfirmedCases": 25,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1466,7 +1478,7 @@
           "lat": 41.5094
         },
         "totalConfirmedCases": 46,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1481,8 +1493,8 @@
           "isoCode": "US-OH",
           "lat": 39.5705
         },
-        "totalConfirmedCases": 1844,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 1845,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 23,
         "newDeaths": 0,
         "totalRecoveredCases": 18,
@@ -1498,7 +1510,7 @@
           "lat": 39.1256
         },
         "totalConfirmedCases": 5,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1513,8 +1525,8 @@
           "isoCode": "US-OH",
           "lat": 41.3118
         },
-        "totalConfirmedCases": 274,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 276,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 46,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1530,7 +1542,7 @@
           "lat": 39.8564
         },
         "totalConfirmedCases": 28,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1545,8 +1557,8 @@
           "isoCode": "US-OH",
           "lat": 40.68
         },
-        "totalConfirmedCases": 113,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 118,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 14,
@@ -1561,7 +1573,7 @@
           "isoCode": "US-OH",
           "lat": 39.4647
         },
-        "totalConfirmedCases": 49,
+        "totalConfirmedCases": 51,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1577,8 +1589,8 @@
           "isoCode": "US-OH",
           "lat": 41.4216
         },
-        "totalConfirmedCases": 48,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 49,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1625,10 +1637,10 @@
           "isoCode": "US-OH",
           "lat": 40.8685
         },
-        "totalConfirmedCases": 479,
-        "newlyConfirmedCases": 15,
+        "totalConfirmedCases": 500,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 67,
-        "newDeaths": 5,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1641,10 +1653,10 @@
           "isoCode": "US-OH",
           "lat": 41.1386
         },
-        "totalConfirmedCases": 880,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 892,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 78,
-        "newDeaths": 4,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1657,8 +1669,8 @@
           "isoCode": "US-OH",
           "lat": 41.3421
         },
-        "totalConfirmedCases": 404,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 406,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 36,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1673,8 +1685,8 @@
           "isoCode": "US-OH",
           "lat": 40.2761
         },
-        "totalConfirmedCases": 196,
-        "newlyConfirmedCases": 28,
+        "totalConfirmedCases": 211,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 17,
@@ -1721,8 +1733,8 @@
           "isoCode": "US-OH",
           "lat": 39.5022
         },
-        "totalConfirmedCases": 202,
-        "newlyConfirmedCases": 11,
+        "totalConfirmedCases": 206,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1737,8 +1749,8 @@
           "isoCode": "US-OH",
           "lat": 39.4739
         },
-        "totalConfirmedCases": 113,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 114,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1754,7 +1766,7 @@
           "lat": 40.9764
         },
         "totalConfirmedCases": 188,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 42,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1769,9 +1781,9 @@
           "isoCode": "US-OH",
           "lat": 41.2846
         },
-        "totalConfirmedCases": 222,
-        "newlyConfirmedCases": 2,
-        "totalDeaths": 29,
+        "totalConfirmedCases": 224,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 30,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1786,7 +1798,7 @@
           "lat": 40.9517
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1801,7 +1813,7 @@
           "isoCode": "US-OH",
           "lat": 39.6063
         },
-        "totalConfirmedCases": 13,
+        "totalConfirmedCases": 14,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1834,7 +1846,7 @@
           "lat": 40.1508
         },
         "totalConfirmedCases": 21,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1849,7 +1861,7 @@
           "isoCode": "US-OH",
           "lat": 40.788
         },
-        "totalConfirmedCases": 27,
+        "totalConfirmedCases": 28,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1881,7 +1893,7 @@
           "isoCode": "US-OH",
           "lat": 39.7631
         },
-        "totalConfirmedCases": 8,
+        "totalConfirmedCases": 10,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1914,7 +1926,7 @@
           "lat": 40.9205
         },
         "totalConfirmedCases": 76,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1930,7 +1942,7 @@
           "lat": 41.019
         },
         "totalConfirmedCases": 9,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1977,7 +1989,7 @@
           "isoCode": "US-OH",
           "lat": 39.1172
         },
-        "totalConfirmedCases": 7,
+        "totalConfirmedCases": 8,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2026,7 +2038,7 @@
           "lat": 38.9463
         },
         "totalConfirmedCases": 6,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 3,
@@ -2074,7 +2086,7 @@
           "lat": 39.2875595
         },
         "totalConfirmedCases": 11,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

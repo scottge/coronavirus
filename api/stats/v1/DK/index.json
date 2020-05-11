@@ -7,14 +7,14 @@
     "isoCode": "DK",
     "lat": 56.2639
   },
-  "updatedDateTime": "2020-05-10T05:45:39.5286356Z",
+  "updatedDateTime": "2020-05-11T17:42:22.9037384Z",
   "stats": {
-    "totalConfirmedCases": 10319,
-    "newlyConfirmedCases": 101,
-    "totalDeaths": 526,
+    "totalConfirmedCases": 10513,
+    "newlyConfirmedCases": 84,
+    "totalDeaths": 533,
     "newDeaths": 4,
-    "totalRecoveredCases": 8093,
-    "newlyRecoveredCases": 166,
+    "totalRecoveredCases": 8328,
+    "newlyRecoveredCases": 111,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 10319,
         "deaths": 526,
         "recovered": 8093
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 10429,
+        "deaths": 529,
+        "recovered": 8217
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 10513,
+        "deaths": 533,
+        "recovered": 8328
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "DK",
           "lat": 56.2639
         },
-        "totalConfirmedCases": 10319,
-        "newlyConfirmedCases": 101,
-        "totalDeaths": 526,
+        "totalConfirmedCases": 10513,
+        "newlyConfirmedCases": 84,
+        "totalDeaths": 533,
         "newDeaths": 4,
-        "totalRecoveredCases": 8093,
-        "newlyRecoveredCases": 166
+        "totalRecoveredCases": 8328,
+        "newlyRecoveredCases": 111
       }
     ]
   }

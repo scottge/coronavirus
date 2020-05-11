@@ -7,7 +7,7 @@
     "isoCode": "KR",
     "lat": 36.0
   },
-  "updatedDateTime": "2020-05-10T05:45:37.4636781Z",
+  "updatedDateTime": "2020-05-11T17:42:20.8678655Z",
   "news": [
     {
       "path": "_news/2020-05-10-asia-today-south-korea-china-report-rise-in-infections.md",
@@ -1100,46 +1100,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-kim-jong-un-vanished-over-coronavirus-concerns-not-heart-surgery-south-korea.md",
-      "title": "Kim Jong Un vanished over coronavirus concerns, not heart surgery: South Korea",
-      "excerpt": "Kim Jong Un disappeared from public view over the past few weeks because of concerns about the coronavirus – not for any heart-related surgery – South Korea’s intelligence agency is claiming.",
-      "heat": 126,
-      "tags": [
-        "KR"
-      ],
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/world/south-korea-suggests-reason-for-kim-jong-un-disappearance",
-      "ampWebUrl": "https://www.foxnews.com/world/south-korea-suggests-reason-for-kim-jong-un-disappearance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/south-korea-suggests-reason-for-kim-jong-un-disappearance.amp",
-      "publishedDateTime": "2020-05-06T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a365c2d-1687-4591-84e0-48c32f2693a4/6ffeb633-8f4a-4a04-82e9-db87dc1cf6e9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Kim Jong Un vanished over coronavirus concerns, not heart surgery: South Korea",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in South Korea",
-        "Coronavirus in Asia",
-        "Coronavirus"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-with-covid-19-cases-in-decline-south-korea-opens-up-to-a-new-normal.md",
       "title": "With COVID-19 cases in decline, South Korea opens up to a new normal",
       "excerpt": "Wednesday marked the beginning of a new phase of loosened social distancing guidelines in South Korea and streets were crowded in downtown Seoul as daily life returned to something close to normal.",
@@ -1218,6 +1178,46 @@
         "Coronavirus in Asia",
         "Coronavirus",
         "Travel Impact"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-south-korea-spy-agency-says-no-signs-north-koreas-kim-received-heart-surgery-yonhap.md",
+      "title": "South Korea spy agency says no signs North Korea's Kim received heart surgery: Yonhap",
+      "excerpt": "There are no signs North Korean leader Kim Jong Un received heart surgery when he disappeared from state media for three weeks, but he reduced public activity due to coronavirus concerns, Yonhap news agency reported on Wednesday.",
+      "heat": 108,
+      "tags": [
+        "KR"
+      ],
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-northkorea-kim-health-idUSKBN22I0AU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22I0AU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22I0AU",
+      "publishedDateTime": "2020-05-05T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517607941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG45072",
+          "width": 817,
+          "height": 545,
+          "title": "South Korea spy agency says no signs North Korea's Kim received heart surgery: Yonhap",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Coronavirus in South Korea",
+        "Coronavirus in Asia",
+        "Coronavirus"
       ]
     }
   ]

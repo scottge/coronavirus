@@ -7,14 +7,14 @@
     "isoCode": "AG",
     "lat": 17.060816
   },
-  "updatedDateTime": "2020-05-10T05:45:39.1808767Z",
+  "updatedDateTime": "2020-05-11T17:42:22.3568796Z",
   "stats": {
     "totalConfirmedCases": 25,
     "newlyConfirmedCases": 0,
     "totalDeaths": 3,
     "newDeaths": 0,
     "totalRecoveredCases": 19,
-    "newlyRecoveredCases": 3,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 25,
         "deaths": 3,
         "recovered": 19
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 25,
+        "deaths": 3,
+        "recovered": 19
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 25,
+        "deaths": 3,
+        "recovered": 19
       }
     ],
     "breakdowns": [
@@ -686,7 +698,7 @@
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 19,
-        "newlyRecoveredCases": 3
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,7 +7,7 @@
     "isoCode": "AU-WA",
     "lat": -31.9505
   },
-  "updatedDateTime": "2020-05-10T05:45:36.1734791Z",
+  "updatedDateTime": "2020-05-11T17:42:18.8584265Z",
   "stats": {
     "totalConfirmedCases": 552,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 552,
+        "deaths": 9,
+        "recovered": 536
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 552,
+        "deaths": 9,
+        "recovered": 536
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 552,
         "deaths": 9,
         "recovered": 536

@@ -7,14 +7,14 @@
     "isoCode": "BS",
     "lat": 25.025885
   },
-  "updatedDateTime": "2020-05-10T05:45:39.2595458Z",
+  "updatedDateTime": "2020-05-11T17:42:22.4495592Z",
   "stats": {
     "totalConfirmedCases": 92,
     "newlyConfirmedCases": 0,
     "totalDeaths": 11,
     "newDeaths": 0,
     "totalRecoveredCases": 37,
-    "newlyRecoveredCases": 6,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 92,
         "deaths": 11,
         "recovered": 37
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 92,
+        "deaths": 11,
+        "recovered": 37
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 92,
+        "deaths": 11,
+        "recovered": 37
       }
     ],
     "breakdowns": [
@@ -686,7 +698,7 @@
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 37,
-        "newlyRecoveredCases": 6
+        "newlyRecoveredCases": 0
       }
     ]
   }

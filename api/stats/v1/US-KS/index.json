@@ -7,12 +7,12 @@
     "isoCode": "US-KS",
     "lat": 39.011902
   },
-  "updatedDateTime": "2020-05-10T05:45:38.4489628Z",
+  "updatedDateTime": "2020-05-11T17:42:21.4640946Z",
   "stats": {
-    "totalConfirmedCases": 6879,
-    "newlyConfirmedCases": 180,
-    "totalDeaths": 173,
-    "newDeaths": 5,
+    "totalConfirmedCases": 7054,
+    "newlyConfirmedCases": 23,
+    "totalDeaths": 175,
+    "newDeaths": 0,
     "totalRecoveredCases": 1675,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 6879,
         "deaths": 173,
         "recovered": 1675
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 7031,
+        "deaths": 175,
+        "recovered": 1675
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 7054,
+        "deaths": 175,
+        "recovered": 1675
       }
     ],
     "breakdowns": [
@@ -681,7 +693,7 @@
           "isoCode": "US-KS",
           "lat": 39.571
         },
-        "totalConfirmedCases": 12,
+        "totalConfirmedCases": 13,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -713,7 +725,7 @@
           "isoCode": "US-KS",
           "lat": 37.9636
         },
-        "totalConfirmedCases": 16,
+        "totalConfirmedCases": 17,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -793,7 +805,7 @@
           "isoCode": "US-KS",
           "lat": 39.7518
         },
-        "totalConfirmedCases": 7,
+        "totalConfirmedCases": 8,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -826,9 +838,9 @@
           "lat": 37.9864
         },
         "totalConfirmedCases": 902,
-        "newlyConfirmedCases": 41,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 8,
         "newlyRecoveredCases": 0
       },
@@ -841,8 +853,8 @@
           "isoCode": "US-KS",
           "lat": 37.7304
         },
-        "totalConfirmedCases": 1061,
-        "newlyConfirmedCases": 37,
+        "totalConfirmedCases": 1102,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -857,7 +869,7 @@
           "isoCode": "US-KS",
           "lat": 38.5482
         },
-        "totalConfirmedCases": 20,
+        "totalConfirmedCases": 23,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -889,7 +901,7 @@
           "isoCode": "US-KS",
           "lat": 38.0364
         },
-        "totalConfirmedCases": 9,
+        "totalConfirmedCases": 10,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -905,8 +917,8 @@
           "isoCode": "US-KS",
           "lat": 39.2395
         },
-        "totalConfirmedCases": 3,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -937,9 +949,9 @@
           "isoCode": "US-KS",
           "lat": 38.8454
         },
-        "totalConfirmedCases": 583,
-        "newlyConfirmedCases": 7,
-        "totalDeaths": 47,
+        "totalConfirmedCases": 598,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 51,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -953,8 +965,8 @@
           "isoCode": "US-KS",
           "lat": 39.1084
         },
-        "totalConfirmedCases": 908,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 920,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 33,
@@ -985,10 +997,10 @@
           "isoCode": "US-KS",
           "lat": 38.4028
         },
-        "totalConfirmedCases": 323,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 330,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 36,
         "newlyRecoveredCases": 0
       },
@@ -1113,8 +1125,8 @@
           "isoCode": "US-KS",
           "lat": 39.2499
         },
-        "totalConfirmedCases": 17,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 5,
@@ -1129,8 +1141,8 @@
           "isoCode": "US-KS",
           "lat": 38.1011
         },
-        "totalConfirmedCases": 52,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 53,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 6,
@@ -1145,7 +1157,7 @@
           "isoCode": "US-KS",
           "lat": 39.299
         },
-        "totalConfirmedCases": 57,
+        "totalConfirmedCases": 58,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1177,10 +1189,10 @@
           "isoCode": "US-KS",
           "lat": 37.5649
         },
-        "totalConfirmedCases": 458,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 468,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 19,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 144,
         "newlyRecoveredCases": 0
       },
@@ -1194,7 +1206,7 @@
           "lat": 38.8911
         },
         "totalConfirmedCases": 160,
-        "newlyConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 80,
@@ -1226,7 +1238,7 @@
           "lat": 37.3252
         },
         "totalConfirmedCases": 17,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1273,8 +1285,8 @@
           "isoCode": "US-KS",
           "lat": 39.1234
         },
-        "totalConfirmedCases": 1045,
-        "newlyConfirmedCases": 45,
+        "totalConfirmedCases": 1110,
+        "newlyConfirmedCases": 23,
         "totalDeaths": 64,
         "newDeaths": 0,
         "totalRecoveredCases": 112,
@@ -1289,8 +1301,8 @@
           "isoCode": "US-KS",
           "lat": 38.5245
         },
-        "totalConfirmedCases": 19,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1434,7 +1446,7 @@
           "lat": 38.6597
         },
         "totalConfirmedCases": 6,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -1482,7 +1494,7 @@
           "lat": 39.0271
         },
         "totalConfirmedCases": 16,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -1577,8 +1589,8 @@
           "isoCode": "US-KS",
           "lat": 37.0466
         },
-        "totalConfirmedCases": 681,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 686,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1625,8 +1637,8 @@
           "isoCode": "US-KS",
           "lat": 38.0415
         },
-        "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1658,7 +1670,7 @@
           "lat": 37.982
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1737,7 +1749,7 @@
           "isoCode": "US-KS",
           "lat": 38.3732
         },
-        "totalConfirmedCases": 3,
+        "totalConfirmedCases": 4,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1785,8 +1797,8 @@
           "isoCode": "US-KS",
           "lat": 37.4822
         },
-        "totalConfirmedCases": 15,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

@@ -7,10 +7,10 @@
     "isoCode": "US-WY",
     "lat": 43.075968
   },
-  "updatedDateTime": "2020-05-10T05:45:38.9927052Z",
+  "updatedDateTime": "2020-05-11T17:42:22.1858229Z",
   "stats": {
-    "totalConfirmedCases": 656,
-    "newlyConfirmedCases": 9,
+    "totalConfirmedCases": 665,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 7,
     "newDeaths": 0,
     "totalRecoveredCases": 428,
@@ -669,6 +669,18 @@
         "confirmed": 656,
         "deaths": 7,
         "recovered": 428
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 665,
+        "deaths": 7,
+        "recovered": 428
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 665,
+        "deaths": 7,
+        "recovered": 428
       }
     ],
     "breakdowns": [
@@ -698,7 +710,7 @@
           "lat": 44.2752
         },
         "totalConfirmedCases": 29,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -745,8 +757,8 @@
           "isoCode": "US-WY",
           "lat": 43.0069
         },
-        "totalConfirmedCases": 180,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 187,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -809,7 +821,7 @@
           "isoCode": "US-WY",
           "lat": 41.1405
         },
-        "totalConfirmedCases": 163,
+        "totalConfirmedCases": 164,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -953,7 +965,7 @@
           "isoCode": "US-WY",
           "lat": 42.7279
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 11,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,

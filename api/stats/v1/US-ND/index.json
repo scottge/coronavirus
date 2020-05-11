@@ -7,14 +7,14 @@
     "isoCode": "US-ND",
     "lat": 47.551493
   },
-  "updatedDateTime": "2020-05-10T05:45:39.0537635Z",
+  "updatedDateTime": "2020-05-11T17:42:22.204867Z",
   "stats": {
-    "totalConfirmedCases": 1464,
-    "newlyConfirmedCases": 39,
-    "totalDeaths": 35,
-    "newDeaths": 2,
-    "totalRecoveredCases": 762,
-    "newlyRecoveredCases": 48,
+    "totalConfirmedCases": 1518,
+    "newlyConfirmedCases": 27,
+    "totalDeaths": 36,
+    "newDeaths": 1,
+    "totalRecoveredCases": 846,
+    "newlyRecoveredCases": 54,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 1464,
         "deaths": 35,
         "recovered": 762
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 1491,
+        "deaths": 35,
+        "recovered": 792
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 1518,
+        "deaths": 36,
+        "recovered": 846
       }
     ],
     "breakdowns": [
@@ -713,10 +725,10 @@
           "isoCode": "US-ND",
           "lat": 47.0065
         },
-        "totalConfirmedCases": 781,
-        "newlyConfirmedCases": 29,
+        "totalConfirmedCases": 805,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -777,10 +789,10 @@
           "isoCode": "US-ND",
           "lat": 47.9241
         },
-        "totalConfirmedCases": 284,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 285,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -794,7 +806,7 @@
           "lat": 48.4977
         },
         "totalConfirmedCases": 2,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -857,7 +869,7 @@
           "isoCode": "US-ND",
           "lat": 46.7283
         },
-        "totalConfirmedCases": 35,
+        "totalConfirmedCases": 36,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -922,7 +934,7 @@
           "lat": 48.1131
         },
         "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -954,7 +966,7 @@
           "lat": 46.8841
         },
         "totalConfirmedCases": 61,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -986,7 +998,7 @@
           "lat": 48.2573
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1066,7 +1078,7 @@
           "lat": 48.6609
         },
         "totalConfirmedCases": 3,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1146,7 +1158,7 @@
           "lat": 47.3
         },
         "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1161,7 +1173,7 @@
           "isoCode": "US-ND",
           "lat": 46.0734
         },
-        "totalConfirmedCases": 8,
+        "totalConfirmedCases": 9,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1242,7 +1254,7 @@
           "lat": 46.4937656
         },
         "totalConfirmedCases": 3,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

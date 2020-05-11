@@ -7,13 +7,13 @@
     "isoCode": "AU-SA",
     "lat": -34.9285
   },
-  "updatedDateTime": "2020-05-10T05:45:36.1438527Z",
+  "updatedDateTime": "2020-05-11T17:42:18.8142138Z",
   "stats": {
     "totalConfirmedCases": 439,
     "newlyConfirmedCases": 0,
     "totalDeaths": 4,
     "newDeaths": 0,
-    "totalRecoveredCases": 433,
+    "totalRecoveredCases": 434,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 439,
         "deaths": 4,
         "recovered": 433
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 439,
+        "deaths": 4,
+        "recovered": 434
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 439,
+        "deaths": 4,
+        "recovered": 434
       }
     ],
     "breakdowns": [
@@ -685,7 +697,7 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
-        "totalRecoveredCases": 433,
+        "totalRecoveredCases": 434,
         "newlyRecoveredCases": 0
       }
     ]

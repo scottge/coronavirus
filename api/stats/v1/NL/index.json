@@ -7,12 +7,12 @@
     "isoCode": "NL",
     "lat": 52.1326
   },
-  "updatedDateTime": "2020-05-10T05:45:40.241597Z",
+  "updatedDateTime": "2020-05-11T17:42:23.9657078Z",
   "stats": {
-    "totalConfirmedCases": 42382,
-    "newlyConfirmedCases": 289,
-    "totalDeaths": 5422,
-    "newDeaths": 63,
+    "totalConfirmedCases": 42788,
+    "newlyConfirmedCases": 161,
+    "totalDeaths": 5456,
+    "newDeaths": 16,
     "totalRecoveredCases": 250,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 42382,
         "deaths": 5422,
         "recovered": 250
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 42627,
+        "deaths": 5440,
+        "recovered": 250
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 42788,
+        "deaths": 5456,
+        "recovered": 250
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "NL",
           "lat": 52.1326
         },
-        "totalConfirmedCases": 42382,
-        "newlyConfirmedCases": 289,
-        "totalDeaths": 5422,
-        "newDeaths": 63,
+        "totalConfirmedCases": 42788,
+        "newlyConfirmedCases": 161,
+        "totalDeaths": 5456,
+        "newDeaths": 16,
         "totalRecoveredCases": 250,
         "newlyRecoveredCases": 0
       }

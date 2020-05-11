@@ -7,7 +7,7 @@
     "isoCode": "US-SC",
     "lat": 33.836081
   },
-  "updatedDateTime": "2020-05-10T05:45:38.7896529Z",
+  "updatedDateTime": "2020-05-11T17:42:21.847406Z",
   "news": [
     {
       "path": "_news/2020-05-07-beaches-open-in-south-carolina-after-coronavirus-closure.md",
@@ -78,115 +78,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-south-carolina-woman-charged-on-two-counts-after-licking-incident-at-grocery-store.md",
-      "title": "South Carolina woman charged on two counts after licking incident at grocery store",
-      "excerpt": "A woman suspected of picking up goods in grocery stores after licking her hands has been arrested in Sumter, South Carolina.",
-      "heat": 104,
-      "tags": [
-        "US-SC"
-      ],
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-04-coronavirus-news-n1199156/ncrd1199186",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1199156",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1199156",
-      "publishedDateTime": "2020-05-04T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/j/newscms/2020_19/3335361/screen_shot_2020-05-04_at_12-03-42_8dd03578ad9bfad9d06316a400c46f2d.fit-560w.png",
-          "width": 560,
-          "height": 305,
-          "title": "South Carolina woman charged on two counts after licking incident at grocery store",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-south-carolina-parks-fill-up-as-virus-death-toll-climbs.md",
-      "title": "South Carolina parks fill up as virus death toll climbs",
-      "excerpt": "Several state parks in South Carolina quickly reached capacity Sunday on the first weekend they were open after a lengthy closure because of the coronavirus. Jones",
-      "heat": 100,
-      "tags": [
-        "US-SC"
-      ],
-      "type": "article",
-      "webUrl": "https://apnews.com/985d545cd6a77ab067c2dcbd19c9f604",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-03T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": "South Carolina parks fill up as virus death toll climbs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-south-carolina-house-and-senate-to-return-on-may-12.md",
-      "title": "South Carolina House and Senate to return on May 12",
-      "excerpt": "The South Carolina Legislature plans to return in less than two weeks as lawmakers face a deadline to pass key bills before they are required to adjourn. House",
-      "heat": null,
-      "tags": [
-        "US-SC"
-      ],
-      "type": "article",
-      "webUrl": "https://apnews.com/aaf4862e0488d443d6dcc45cbbb455dd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

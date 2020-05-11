@@ -7,13 +7,13 @@
     "isoCode": "HU",
     "lat": 47.1625
   },
-  "updatedDateTime": "2020-05-10T05:45:39.7895225Z",
+  "updatedDateTime": "2020-05-11T17:42:23.3717423Z",
   "stats": {
-    "totalConfirmedCases": 3213,
+    "totalConfirmedCases": 3284,
     "newlyConfirmedCases": 0,
-    "totalDeaths": 405,
+    "totalDeaths": 421,
     "newDeaths": 0,
-    "totalRecoveredCases": 904,
+    "totalRecoveredCases": 958,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -666,9 +666,21 @@
       },
       {
         "date": "2020-05-09T00:00:00",
-        "confirmed": 3213,
-        "deaths": 405,
-        "recovered": 904
+        "confirmed": 3263,
+        "deaths": 413,
+        "recovered": 933
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 3284,
+        "deaths": 421,
+        "recovered": 958
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 3284,
+        "deaths": 421,
+        "recovered": 958
       }
     ],
     "breakdowns": [
@@ -681,11 +693,11 @@
           "isoCode": "HU",
           "lat": 47.1625
         },
-        "totalConfirmedCases": 3213,
+        "totalConfirmedCases": 3284,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 405,
+        "totalDeaths": 421,
         "newDeaths": 0,
-        "totalRecoveredCases": 904,
+        "totalRecoveredCases": 958,
         "newlyRecoveredCases": 0
       }
     ]

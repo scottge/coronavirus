@@ -7,7 +7,7 @@
     "isoCode": "CN-HB",
     "lat": 30.9756
   },
-  "updatedDateTime": "2020-05-10T05:45:36.6069746Z",
+  "updatedDateTime": "2020-05-11T17:42:19.4591791Z",
   "news": [
     {
       "path": "_news/2020-05-10-chinas-hubei-reports-one-case-of-covid-19.md",
@@ -1187,34 +1187,33 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-china-criticizes-pompeo-over-coronavirus-wuhan-lab-allegation-claims-leaked-gop-memo-discredits-trump-theory.md",
-      "title": "China Criticizes Pompeo Over Coronavirus Wuhan Lab Allegation, Claims Leaked GOP Memo Discredits Trump Theory",
-      "excerpt": "\"The huge drama of blame-shifting in the U.S. has already been heavily spoiled, and continuing the drama is meaningless,\" Chinese foreign ministry spokesperson Hua Chunying said.",
-      "heat": 151,
+      "path": "_news/2020-05-06-pompeo-accuses-china-of-withholding-vital-information-on-coronavirus.md",
+      "title": "Pompeo accuses China of withholding vital information on coronavirus",
+      "excerpt": "Chinese officials have accused the secretary of state of pushing an unverified theory that the outbreak began in a lab in Wuhan.",
+      "heat": 145,
       "tags": [
         "CN",
-        "CN-HB",
-        "US"
+        "CN-HB"
       ],
       "type": "article",
-      "webUrl": "https://www.newsweek.com/china-criticizes-pompeo-over-coronavirus-wuhan-lab-allegation-claims-leaked-gop-memo-discredits-1502426",
-      "ampWebUrl": "https://www.newsweek.com/china-criticizes-pompeo-over-coronavirus-wuhan-lab-allegation-claims-leaked-gop-memo-discredits-1502426?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-criticizes-pompeo-over-coronavirus-wuhan-lab-allegation-claims-leaked-gop-memo-discredits-1502426?amp=1",
-      "publishedDateTime": "2020-05-06T14:32:00-07:00",
+      "webUrl": "https://www.washingtonpost.com/national-security/pompeo-accuses-china-of-withholding-vital-information-on-coronavirus/2020/05/06/20e15890-8fb2-11ea-8df0-ee33c3f5b0d6_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/pompeo-accuses-china-of-withholding-vital-information-on-coronavirus/2020/05/06/20e15890-8fb2-11ea-8df0-ee33c3f5b0d6_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/pompeo-accuses-china-of-withholding-vital-information-on-coronavirus/2020/05/06/20e15890-8fb2-11ea-8df0-ee33c3f5b0d6_story.html?outputType=amp",
+      "publishedDateTime": "2020-05-06T10:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1587867/trump-xi.jpg",
-          "width": 2500,
-          "height": 1161,
-          "title": "China Criticizes Pompeo Over Coronavirus Wuhan Lab Allegation, Claims Leaked GOP Memo Discredits Trump Theory",
+          "url": "https://www.washingtonpost.com/resizer/12wWRO3mYefcMeUbOoW9r4CTDDk=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F2EWRQUPXII6VHRDNEKO4QIKL4.jpg",
+          "width": 1440,
+          "height": 942,
+          "title": "Pompeo accuses China of withholding vital information on coronavirus",
           "attribution": null
         }
       ],
@@ -1225,8 +1224,7 @@
       "topics": [
         "Coronavirus in China",
         "Coronavirus in Asia",
-        "Coronavirus",
-        "Coronavirus in US"
+        "Coronavirus"
       ]
     }
   ]

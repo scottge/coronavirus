@@ -7,12 +7,12 @@
     "isoCode": "US-NC",
     "lat": 35.759573
   },
-  "updatedDateTime": "2020-05-10T05:45:38.6880723Z",
+  "updatedDateTime": "2020-05-11T17:42:21.6962856Z",
   "stats": {
-    "totalConfirmedCases": 14564,
-    "newlyConfirmedCases": 471,
-    "totalDeaths": 552,
-    "newDeaths": 18,
+    "totalConfirmedCases": 15198,
+    "newlyConfirmedCases": 173,
+    "totalDeaths": 568,
+    "newDeaths": 2,
     "totalRecoveredCases": 1808,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 14564,
         "deaths": 552,
         "recovered": 1808
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 15025,
+        "deaths": 566,
+        "recovered": 1808
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 15198,
+        "deaths": 568,
+        "recovered": 1808
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "US-NC",
           "lat": 36.0876
         },
-        "totalConfirmedCases": 152,
-        "newlyConfirmedCases": 3,
-        "totalDeaths": 4,
-        "newDeaths": 1,
+        "totalConfirmedCases": 173,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
         "totalRecoveredCases": 27,
         "newlyRecoveredCases": 0
       },
@@ -697,8 +709,8 @@
           "isoCode": "US-NC",
           "lat": 35.8162
         },
-        "totalConfirmedCases": 10,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -713,7 +725,7 @@
           "isoCode": "US-NC",
           "lat": 36.5035
         },
-        "totalConfirmedCases": 7,
+        "totalConfirmedCases": 8,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -745,9 +757,9 @@
           "isoCode": "US-NC",
           "lat": 36.2015
         },
-        "totalConfirmedCases": 60,
-        "newlyConfirmedCases": 2,
-        "totalDeaths": 2,
+        "totalConfirmedCases": 61,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -777,8 +789,8 @@
           "isoCode": "US-NC",
           "lat": 35.6142
         },
-        "totalConfirmedCases": 92,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 100,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 34,
@@ -793,8 +805,8 @@
           "isoCode": "US-NC",
           "lat": 35.7181
         },
-        "totalConfirmedCases": 131,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 136,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -809,8 +821,8 @@
           "isoCode": "US-NC",
           "lat": 35.4764
         },
-        "totalConfirmedCases": 341,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 352,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 65,
@@ -825,8 +837,8 @@
           "isoCode": "US-NC",
           "lat": 35.9436
         },
-        "totalConfirmedCases": 59,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 60,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 14,
@@ -858,7 +870,7 @@
           "lat": 34.6973
         },
         "totalConfirmedCases": 32,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 17,
@@ -873,10 +885,10 @@
           "isoCode": "US-NC",
           "lat": 36.5372
         },
-        "totalConfirmedCases": 38,
+        "totalConfirmedCases": 39,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -889,9 +901,9 @@
           "isoCode": "US-NC",
           "lat": 35.5853
         },
-        "totalConfirmedCases": 78,
-        "newlyConfirmedCases": 11,
-        "totalDeaths": 1,
+        "totalConfirmedCases": 82,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -905,8 +917,8 @@
           "isoCode": "US-NC",
           "lat": 35.7211
         },
-        "totalConfirmedCases": 447,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 455,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -922,7 +934,7 @@
           "lat": 35.1771
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 6,
@@ -937,8 +949,8 @@
           "isoCode": "US-NC",
           "lat": 36.058
         },
-        "totalConfirmedCases": 10,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -969,9 +981,9 @@
           "isoCode": "US-NC",
           "lat": 34.3189
         },
-        "totalConfirmedCases": 196,
-        "newlyConfirmedCases": 10,
-        "totalDeaths": 13,
+        "totalConfirmedCases": 203,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 14,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -985,8 +997,8 @@
           "isoCode": "US-NC",
           "lat": 35.2155
         },
-        "totalConfirmedCases": 51,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 54,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 19,
@@ -1001,7 +1013,7 @@
           "isoCode": "US-NC",
           "lat": 35.2133
         },
-        "totalConfirmedCases": 356,
+        "totalConfirmedCases": 368,
         "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
@@ -1033,7 +1045,7 @@
           "isoCode": "US-NC",
           "lat": 35.9475
         },
-        "totalConfirmedCases": 18,
+        "totalConfirmedCases": 19,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1049,8 +1061,8 @@
           "isoCode": "US-NC",
           "lat": 35.8813
         },
-        "totalConfirmedCases": 201,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 202,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 71,
@@ -1065,8 +1077,8 @@
           "isoCode": "US-NC",
           "lat": 35.9468
         },
-        "totalConfirmedCases": 32,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 35,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1081,9 +1093,9 @@
           "isoCode": "US-NC",
           "lat": 34.8271
         },
-        "totalConfirmedCases": 225,
-        "newlyConfirmedCases": 45,
-        "totalDeaths": 3,
+        "totalConfirmedCases": 242,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1097,10 +1109,10 @@
           "isoCode": "US-NC",
           "lat": 36.0418
         },
-        "totalConfirmedCases": 876,
-        "newlyConfirmedCases": 4,
-        "totalDeaths": 32,
-        "newDeaths": 1,
+        "totalConfirmedCases": 886,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 34,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1113,8 +1125,8 @@
           "isoCode": "US-NC",
           "lat": 35.9896
         },
-        "totalConfirmedCases": 151,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 153,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 18,
@@ -1129,8 +1141,8 @@
           "isoCode": "US-NC",
           "lat": 36.2587
         },
-        "totalConfirmedCases": 369,
-        "newlyConfirmedCases": 16,
+        "totalConfirmedCases": 386,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 95,
@@ -1161,10 +1173,10 @@
           "isoCode": "US-NC",
           "lat": 35.2652
         },
-        "totalConfirmedCases": 168,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 178,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 88,
         "newlyRecoveredCases": 0
       },
@@ -1195,7 +1207,7 @@
         },
         "totalConfirmedCases": 34,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 8,
         "newlyRecoveredCases": 0
@@ -1209,8 +1221,8 @@
           "isoCode": "US-NC",
           "lat": 35.9905
         },
-        "totalConfirmedCases": 574,
-        "newlyConfirmedCases": 21,
+        "totalConfirmedCases": 592,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 38,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1225,8 +1237,8 @@
           "isoCode": "US-NC",
           "lat": 36.4452
         },
-        "totalConfirmedCases": 85,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 91,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 20,
@@ -1241,10 +1253,10 @@
           "isoCode": "US-NC",
           "lat": 35.3999
         },
-        "totalConfirmedCases": 212,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 217,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1257,10 +1269,10 @@
           "isoCode": "US-NC",
           "lat": 35.4481
         },
-        "totalConfirmedCases": 224,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 226,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 27,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1273,8 +1285,8 @@
           "isoCode": "US-NC",
           "lat": 36.3567
         },
-        "totalConfirmedCases": 48,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 49,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 2,
@@ -1290,7 +1302,7 @@
           "lat": 34.9358
         },
         "totalConfirmedCases": 120,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1321,8 +1333,8 @@
           "isoCode": "US-NC",
           "lat": 35.6871
         },
-        "totalConfirmedCases": 147,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 151,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1337,7 +1349,7 @@
           "isoCode": "US-NC",
           "lat": 35.2958
         },
-        "totalConfirmedCases": 21,
+        "totalConfirmedCases": 22,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1353,8 +1365,8 @@
           "isoCode": "US-NC",
           "lat": 35.4669
         },
-        "totalConfirmedCases": 201,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 205,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 2,
@@ -1369,8 +1381,8 @@
           "isoCode": "US-NC",
           "lat": 35.4874
         },
-        "totalConfirmedCases": 246,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 268,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -1385,8 +1397,8 @@
           "isoCode": "US-NC",
           "lat": 35.2236
         },
-        "totalConfirmedCases": 113,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 118,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1401,7 +1413,7 @@
           "isoCode": "US-NC",
           "lat": 35.4193
         },
-        "totalConfirmedCases": 39,
+        "totalConfirmedCases": 40,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1417,7 +1429,7 @@
           "isoCode": "US-NC",
           "lat": 35.6775
         },
-        "totalConfirmedCases": 29,
+        "totalConfirmedCases": 30,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1433,10 +1445,10 @@
           "isoCode": "US-NC",
           "lat": 35.0864
         },
-        "totalConfirmedCases": 2043,
-        "newlyConfirmedCases": 54,
+        "totalConfirmedCases": 2074,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 61,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 508,
         "newlyRecoveredCases": 0
       },
@@ -1465,7 +1477,7 @@
           "isoCode": "US-NC",
           "lat": 35.2162
         },
-        "totalConfirmedCases": 43,
+        "totalConfirmedCases": 45,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1481,7 +1493,7 @@
           "isoCode": "US-NC",
           "lat": 35.2533
         },
-        "totalConfirmedCases": 148,
+        "totalConfirmedCases": 151,
         "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
@@ -1497,8 +1509,8 @@
           "isoCode": "US-NC",
           "lat": 36.0114
         },
-        "totalConfirmedCases": 118,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 123,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 10,
@@ -1513,7 +1525,7 @@
           "isoCode": "US-NC",
           "lat": 34.123
         },
-        "totalConfirmedCases": 97,
+        "totalConfirmedCases": 107,
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
@@ -1529,10 +1541,10 @@
           "isoCode": "US-NC",
           "lat": 36.4965
         },
-        "totalConfirmedCases": 102,
+        "totalConfirmedCases": 118,
         "newlyConfirmedCases": 0,
         "totalDeaths": 7,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 22,
         "newlyRecoveredCases": 0
       },
@@ -1546,7 +1558,7 @@
           "lat": 34.7498
         },
         "totalConfirmedCases": 54,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 8,
@@ -1561,10 +1573,10 @@
           "isoCode": "US-NC",
           "lat": 36.0806
         },
-        "totalConfirmedCases": 248,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 252,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 33,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1593,8 +1605,8 @@
           "isoCode": "US-NC",
           "lat": 36.2942
         },
-        "totalConfirmedCases": 81,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 82,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1610,7 +1622,7 @@
           "lat": 36.1813
         },
         "totalConfirmedCases": 17,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1626,7 +1638,7 @@
           "lat": 36.3905
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1641,8 +1653,8 @@
           "isoCode": "US-NC",
           "lat": 35.3804
         },
-        "totalConfirmedCases": 162,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 165,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1659,7 +1671,7 @@
         },
         "totalConfirmedCases": 31,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1673,9 +1685,9 @@
           "isoCode": "US-NC",
           "lat": 35.8556
         },
-        "totalConfirmedCases": 317,
-        "newlyConfirmedCases": 10,
-        "totalDeaths": 5,
+        "totalConfirmedCases": 338,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1689,9 +1701,9 @@
           "isoCode": "US-NC",
           "lat": 34.4751
         },
-        "totalConfirmedCases": 365,
-        "newlyConfirmedCases": 38,
-        "totalDeaths": 4,
+        "totalConfirmedCases": 388,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1705,8 +1717,8 @@
           "isoCode": "US-NC",
           "lat": 35.6821
         },
-        "totalConfirmedCases": 480,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 483,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 25,
         "newDeaths": 0,
         "totalRecoveredCases": 54,
@@ -1722,9 +1734,9 @@
           "lat": 35.3624
         },
         "totalConfirmedCases": 152,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1737,8 +1749,8 @@
           "isoCode": "US-NC",
           "lat": 34.7859
         },
-        "totalConfirmedCases": 145,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 156,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 3,
@@ -1753,7 +1765,7 @@
           "isoCode": "US-NC",
           "lat": 34.7691
         },
-        "totalConfirmedCases": 36,
+        "totalConfirmedCases": 40,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1785,8 +1797,8 @@
           "isoCode": "US-NC",
           "lat": 36.5233
         },
-        "totalConfirmedCases": 33,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 41,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1833,10 +1845,10 @@
           "isoCode": "US-NC",
           "lat": 35.0699
         },
-        "totalConfirmedCases": 294,
-        "newlyConfirmedCases": 10,
-        "totalDeaths": 16,
-        "newDeaths": 1,
+        "totalConfirmedCases": 297,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 17,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1850,9 +1862,9 @@
           "lat": 36.3259
         },
         "totalConfirmedCases": 161,
-        "newlyConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1865,8 +1877,8 @@
           "isoCode": "US-NC",
           "lat": 35.8032
         },
-        "totalConfirmedCases": 1022,
-        "newlyConfirmedCases": 14,
+        "totalConfirmedCases": 1038,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 23,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1913,10 +1925,10 @@
           "isoCode": "US-NC",
           "lat": 35.3777
         },
-        "totalConfirmedCases": 726,
-        "newlyConfirmedCases": 11,
+        "totalConfirmedCases": 743,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 18,
         "newlyRecoveredCases": 0
       },
@@ -1929,8 +1941,8 @@
           "isoCode": "US-NC",
           "lat": 36.2469
         },
-        "totalConfirmedCases": 202,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 239,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1945,8 +1957,8 @@
           "isoCode": "US-NC",
           "lat": 35.6055
         },
-        "totalConfirmedCases": 203,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 212,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 36,
@@ -1961,8 +1973,8 @@
           "isoCode": "US-NC",
           "lat": 36.2336
         },
-        "totalConfirmedCases": 49,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 54,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 5,
@@ -1978,7 +1990,7 @@
           "lat": 35.0463
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 3,
@@ -1994,7 +2006,7 @@
           "lat": 35.9443
         },
         "totalConfirmedCases": 29,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2010,7 +2022,7 @@
           "lat": 34.9645
         },
         "totalConfirmedCases": 38,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 9,
@@ -2025,8 +2037,8 @@
           "isoCode": "US-NC",
           "lat": 36.4428
         },
-        "totalConfirmedCases": 39,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 40,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 7,
@@ -2074,7 +2086,7 @@
           "lat": 36.4072
         },
         "totalConfirmedCases": 11,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2105,8 +2117,8 @@
           "isoCode": "US-NC",
           "lat": 34.7332
         },
-        "totalConfirmedCases": 51,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 52,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -2121,8 +2133,8 @@
           "isoCode": "US-NC",
           "lat": 36.3944
         },
-        "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2138,7 +2150,7 @@
           "lat": 36.4396
         },
         "totalConfirmedCases": 23,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2153,8 +2165,8 @@
           "isoCode": "US-NC",
           "lat": 34.5166
         },
-        "totalConfirmedCases": 36,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 39,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2169,8 +2181,8 @@
           "isoCode": "US-NC",
           "lat": 34.9386
         },
-        "totalConfirmedCases": 89,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 90,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2249,8 +2261,8 @@
           "isoCode": "US-NC",
           "lat": 35.888897
         },
-        "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

@@ -7,14 +7,14 @@
     "isoCode": "AL",
     "lat": 41.1533
   },
-  "updatedDateTime": "2020-05-10T05:45:39.1107268Z",
+  "updatedDateTime": "2020-05-11T17:42:22.2924463Z",
   "stats": {
-    "totalConfirmedCases": 856,
-    "newlyConfirmedCases": 6,
+    "totalConfirmedCases": 872,
+    "newlyConfirmedCases": 4,
     "totalDeaths": 31,
     "newDeaths": 0,
-    "totalRecoveredCases": 627,
-    "newlyRecoveredCases": 7,
+    "totalRecoveredCases": 654,
+    "newlyRecoveredCases": 4,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 856,
         "deaths": 31,
         "recovered": 627
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 868,
+        "deaths": 31,
+        "recovered": 650
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 872,
+        "deaths": 31,
+        "recovered": 654
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "AL",
           "lat": 41.1533
         },
-        "totalConfirmedCases": 856,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 872,
+        "newlyConfirmedCases": 4,
         "totalDeaths": 31,
         "newDeaths": 0,
-        "totalRecoveredCases": 627,
-        "newlyRecoveredCases": 7
+        "totalRecoveredCases": 654,
+        "newlyRecoveredCases": 4
       }
     ]
   }

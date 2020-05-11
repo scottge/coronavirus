@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "China - Beijing Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in Beijing, China. Total Cases: 593 (-), Deaths: 9 (-), Recoveries: 565(+5)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in Beijing, China. Total Cases: 593 (-), Deaths: 9 (-), Recoveries: 568(-)."
+publishedDateTime: 2020-05-11T17:42:26Z
+updatedDateTime: 2020-05-11T17:42:26Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/china-beijing/"
 type: article
 heat: 100
@@ -39,7 +39,7 @@ images:
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
-	    565 (<span class='green'>+5</span>)
+	    568 (-)
     </h3>
 </div>
 
@@ -52,7 +52,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 14, 0, 0],['1/23/2020', 22, 0, 0],['1/24/2020', 36, 0, 1],['1/25/2020', 41, 0, 2],['1/26/2020', 68, 0, 2],['1/27/2020', 80, 1, 2],['1/28/2020', 91, 1, 4],['1/29/2020', 111, 1, 4],['1/30/2020', 114, 1, 4],['1/31/2020', 139, 1, 5],['2/1/2020', 168, 1, 9],['2/2/2020', 191, 1, 9],['2/3/2020', 212, 1, 12],['2/4/2020', 228, 1, 23],['2/5/2020', 253, 1, 24],['2/6/2020', 274, 1, 31],['2/7/2020', 297, 1, 33],['2/8/2020', 315, 2, 34],['2/9/2020', 326, 2, 37],['2/10/2020', 337, 2, 44],['2/11/2020', 342, 3, 48],['2/12/2020', 352, 3, 56],['2/13/2020', 366, 3, 69],['2/14/2020', 372, 3, 80],['2/15/2020', 375, 4, 98],['2/16/2020', 380, 4, 108],['2/17/2020', 381, 4, 114],['2/18/2020', 387, 4, 122],['2/19/2020', 393, 4, 145],['2/20/2020', 395, 4, 153],['2/21/2020', 396, 4, 169],['2/22/2020', 399, 4, 178],['2/23/2020', 399, 4, 189],['2/24/2020', 399, 4, 198],['2/25/2020', 400, 4, 215],['2/26/2020', 400, 4, 235],['2/27/2020', 410, 5, 248],['2/28/2020', 410, 7, 257],['2/29/2020', 411, 8, 271],['3/1/2020', 413, 8, 276],['3/2/2020', 414, 8, 282],['3/3/2020', 414, 8, 288],['3/4/2020', 418, 8, 297],['3/5/2020', 418, 8, 297],['3/6/2020', 422, 8, 299],['3/7/2020', 426, 8, 303],['3/8/2020', 428, 8, 308],['3/9/2020', 428, 8, 315],['3/10/2020', 429, 8, 320],['3/11/2020', 435, 8, 326],['3/12/2020', 435, 8, 334],['3/13/2020', 437, 8, 349],['3/14/2020', 442, 8, 353],['3/15/2020', 446, 8, 358],['3/16/2020', 456, 8, 368],['3/17/2020', 469, 8, 378],['3/18/2020', 480, 8, 380],['3/19/2020', 491, 8, 385],['3/20/2020', 504, 8, 396],['3/21/2020', 514, 8, 400],['3/22/2020', 522, 8, 400],['3/23/2020', 537, 8, 401],['3/24/2020', 558, 8, 401],['3/25/2020', 565, 8, 403],['3/26/2020', 566, 8, 406],['3/27/2020', 572, 8, 409],['3/28/2020', 576, 8, 411],['3/29/2020', 577, 8, 412],['3/30/2020', 580, 8, 416],['3/31/2020', 580, 8, 418],['4/1/2020', 582, 8, 424],['4/2/2020', 582, 8, 424],['4/3/2020', 582, 8, 424],['4/4/2020', 582, 8, 424],['4/5/2020', 582, 8, 424],['4/6/2020', 582, 8, 424],['4/7/2020', 582, 8, 424],['4/8/2020', 582, 8, 424],['4/9/2020', 582, 8, 424],['4/10/2020', 589, 8, 474],['4/11/2020', 589, 8, 479],['4/12/2020', 589, 8, 479],['4/13/2020', 589, 8, 491],['4/14/2020', 590, 8, 495],['4/15/2020', 593, 8, 503],['4/16/2020', 593, 8, 511],['4/17/2020', 593, 8, 511],['4/18/2020', 593, 8, 511],['4/19/2020', 593, 8, 514],['4/20/2020', 593, 8, 516],['4/21/2020', 593, 8, 518],['4/22/2020', 593, 8, 522],['4/23/2020', 593, 8, 524],['4/24/2020', 593, 8, 524],['4/25/2020', 593, 8, 525],['4/26/2020', 593, 9, 525],['4/27/2020', 593, 9, 536],['4/28/2020', 593, 9, 538],['4/29/2020', 593, 9, 542],['4/30/2020', 593, 9, 547],['5/1/2020', 593, 9, 547],['5/2/2020', 593, 9, 547],['5/3/2020', 593, 9, 553],['5/4/2020', 593, 9, 554],['5/5/2020', 593, 9, 555],['5/6/2020', 593, 9, 557],['5/7/2020', 593, 9, 560],['5/8/2020', 593, 9, 560],['5/9/2020', 593, 9, 565],
+      ['1/22/2020', 14, 0, 0],['1/23/2020', 22, 0, 0],['1/24/2020', 36, 0, 1],['1/25/2020', 41, 0, 2],['1/26/2020', 68, 0, 2],['1/27/2020', 80, 1, 2],['1/28/2020', 91, 1, 4],['1/29/2020', 111, 1, 4],['1/30/2020', 114, 1, 4],['1/31/2020', 139, 1, 5],['2/1/2020', 168, 1, 9],['2/2/2020', 191, 1, 9],['2/3/2020', 212, 1, 12],['2/4/2020', 228, 1, 23],['2/5/2020', 253, 1, 24],['2/6/2020', 274, 1, 31],['2/7/2020', 297, 1, 33],['2/8/2020', 315, 2, 34],['2/9/2020', 326, 2, 37],['2/10/2020', 337, 2, 44],['2/11/2020', 342, 3, 48],['2/12/2020', 352, 3, 56],['2/13/2020', 366, 3, 69],['2/14/2020', 372, 3, 80],['2/15/2020', 375, 4, 98],['2/16/2020', 380, 4, 108],['2/17/2020', 381, 4, 114],['2/18/2020', 387, 4, 122],['2/19/2020', 393, 4, 145],['2/20/2020', 395, 4, 153],['2/21/2020', 396, 4, 169],['2/22/2020', 399, 4, 178],['2/23/2020', 399, 4, 189],['2/24/2020', 399, 4, 198],['2/25/2020', 400, 4, 215],['2/26/2020', 400, 4, 235],['2/27/2020', 410, 5, 248],['2/28/2020', 410, 7, 257],['2/29/2020', 411, 8, 271],['3/1/2020', 413, 8, 276],['3/2/2020', 414, 8, 282],['3/3/2020', 414, 8, 288],['3/4/2020', 418, 8, 297],['3/5/2020', 418, 8, 297],['3/6/2020', 422, 8, 299],['3/7/2020', 426, 8, 303],['3/8/2020', 428, 8, 308],['3/9/2020', 428, 8, 315],['3/10/2020', 429, 8, 320],['3/11/2020', 435, 8, 326],['3/12/2020', 435, 8, 334],['3/13/2020', 437, 8, 349],['3/14/2020', 442, 8, 353],['3/15/2020', 446, 8, 358],['3/16/2020', 456, 8, 368],['3/17/2020', 469, 8, 378],['3/18/2020', 480, 8, 380],['3/19/2020', 491, 8, 385],['3/20/2020', 504, 8, 396],['3/21/2020', 514, 8, 400],['3/22/2020', 522, 8, 400],['3/23/2020', 537, 8, 401],['3/24/2020', 558, 8, 401],['3/25/2020', 565, 8, 403],['3/26/2020', 566, 8, 406],['3/27/2020', 572, 8, 409],['3/28/2020', 576, 8, 411],['3/29/2020', 577, 8, 412],['3/30/2020', 580, 8, 416],['3/31/2020', 580, 8, 418],['4/1/2020', 582, 8, 424],['4/2/2020', 582, 8, 424],['4/3/2020', 582, 8, 424],['4/4/2020', 582, 8, 424],['4/5/2020', 582, 8, 424],['4/6/2020', 582, 8, 424],['4/7/2020', 582, 8, 424],['4/8/2020', 582, 8, 424],['4/9/2020', 582, 8, 424],['4/10/2020', 589, 8, 474],['4/11/2020', 589, 8, 479],['4/12/2020', 589, 8, 479],['4/13/2020', 589, 8, 491],['4/14/2020', 590, 8, 495],['4/15/2020', 593, 8, 503],['4/16/2020', 593, 8, 511],['4/17/2020', 593, 8, 511],['4/18/2020', 593, 8, 511],['4/19/2020', 593, 8, 514],['4/20/2020', 593, 8, 516],['4/21/2020', 593, 8, 518],['4/22/2020', 593, 8, 522],['4/23/2020', 593, 8, 524],['4/24/2020', 593, 8, 524],['4/25/2020', 593, 8, 525],['4/26/2020', 593, 9, 525],['4/27/2020', 593, 9, 536],['4/28/2020', 593, 9, 538],['4/29/2020', 593, 9, 542],['4/30/2020', 593, 9, 547],['5/1/2020', 593, 9, 547],['5/2/2020', 593, 9, 547],['5/3/2020', 593, 9, 553],['5/4/2020', 593, 9, 554],['5/5/2020', 593, 9, 555],['5/6/2020', 593, 9, 557],['5/7/2020', 593, 9, 560],['5/8/2020', 593, 9, 560],['5/9/2020', 593, 9, 565],['5/10/2020', 593, 9, 568],['5/11/2020', 593, 9, 568],
     ]);
     var options = {
       curveType: 'none',
@@ -167,54 +167,6 @@ images:
 		<div class="card-excerpt">China’s renewed assertiveness may be driven by both domestic and external factors as Beijing seeks to bolster support at home for its tough security stance, while showing rival claimants and the US that maritime and sovereignty issues will not be sidelined amid the pandemic.</div>
 		<div class="card-meta">
 			<span class="card-provider">South China Morning Post</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.express.co.uk/news/world/1278572/china-news-beijing-lie-italy-started-coronavirus-xi-jinping-spt"><div class="card-image" style="background-image: url(https://cdn.images.express.co.uk/img/dynamic/78/590x/1278572_1.jpg?r=1588766213526)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.express.co.uk/news/world/1278572/china-news-beijing-lie-italy-started-coronavirus-xi-jinping-spt">China coronavirus outrage: How Beijing claimed 'Italy started pandemic'</a></div>
-		<div class="card-excerpt">CHINA's government has come under fire for its cloak-and-dagger approach to the coronavirus pandemic, and this includes its outrageous claims that the disease started in Italy.</div>
-		<div class="card-meta">
-			<span class="card-provider">Express</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.businessinsider.com/coronavirus-china-accuses-uk-of-cold-war-mentality-towards-beijing-2020-5"><div class="card-image" style="background-image: url(https://i.insider.com/5eb29176e3c3fb56fd7dd825?width=1200&format=jpeg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.businessinsider.com/coronavirus-china-accuses-uk-of-cold-war-mentality-towards-beijing-2020-5">China warns the UK against a new 'cold war' as it accuses British politicians of poisoning relations with Beijing</a></div>
-		<div class="card-excerpt">Liu Xiaoming said that UK MPs who were critical of China were not in step with Boris Johnson or the UK Parliament.</div>
-		<div class="card-meta">
-			<span class="card-provider">Business Insider</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.rt.com/news/487878-pompeo-china-clown-show-coronavirus/"><div class="card-image" style="background-image: url(https://cdni.rt.com/files/2020.01/xxl/5e2d7bd385f540524e3394c4.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.rt.com/news/487878-pompeo-china-clown-show-coronavirus/">A China-bashing coronavirus jester? Beijing tears into Pompeo’s ‘clown show’</a></div>
-		<div class="card-excerpt">China has fired back at Mike Pompeo’s allegations that Beijing is somehow behind the origin and spread of Covid-19, describing his “comedy routine” as deeply cynical and damaging to the United States.</div>
-		<div class="card-meta">
-			<span class="card-provider">RT</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.foxnews.com/media/ingraham-western-elites-in-tank-china-biden"><div class="card-image" style="background-image: url(https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3ab20f7-7d90-4095-a99b-31b7d5bd9b97/91b4aedf-b06b-4a24-ae0c-b19ebf83bf60/1280x720/match/image.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.foxnews.com/media/ingraham-western-elites-in-tank-china-biden">Ingraham hits Western 'elites' who are 'in the tank' for China, says Biden win would be 'gift' to Beijing</a></div>
-		<div class="card-excerpt">"Ingraham Angle" host Laura Ingraham said Tuesday that while many Americans are becoming wise to China and the Chinese Communist Party's malignant actions amid the coronavirus pandemic, many members of the U.</div>
-		<div class="card-meta">
-			<span class="card-provider">Fox News</span> • <span class="card-date">5/5/2020</span>
 		</div>
 	</div>
   </div>

@@ -7,12 +7,12 @@
     "isoCode": "US-RI",
     "lat": 41.580095
   },
-  "updatedDateTime": "2020-05-10T05:45:38.7698665Z",
+  "updatedDateTime": "2020-05-11T17:42:21.8165488Z",
   "stats": {
-    "totalConfirmedCases": 10989,
-    "newlyConfirmedCases": 210,
-    "totalDeaths": 418,
-    "newDeaths": 19,
+    "totalConfirmedCases": 11450,
+    "newlyConfirmedCases": 176,
+    "totalDeaths": 430,
+    "newDeaths": 8,
     "totalRecoveredCases": 730,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 10989,
         "deaths": 418,
         "recovered": 730
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 11274,
+        "deaths": 422,
+        "recovered": 730
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 11450,
+        "deaths": 430,
+        "recovered": 730
       }
     ],
     "breakdowns": [
@@ -683,7 +695,7 @@
         },
         "totalConfirmedCases": 703,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 24,
+        "totalDeaths": 28,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -715,7 +727,7 @@
         },
         "totalConfirmedCases": 7138,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 200,
+        "totalDeaths": 203,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -747,7 +759,7 @@
         },
         "totalConfirmedCases": 154,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0

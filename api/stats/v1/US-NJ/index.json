@@ -7,14 +7,14 @@
     "isoCode": "US-NJ",
     "lat": 40.058324
   },
-  "updatedDateTime": "2020-05-10T05:45:38.6602549Z",
+  "updatedDateTime": "2020-05-11T17:42:21.6540951Z",
   "stats": {
-    "totalConfirmedCases": 138579,
-    "newlyConfirmedCases": 1367,
-    "totalDeaths": 9118,
-    "newDeaths": 132,
-    "totalRecoveredCases": 1501,
-    "newlyRecoveredCases": 33,
+    "totalConfirmedCases": 140930,
+    "newlyConfirmedCases": 922,
+    "totalDeaths": 9312,
+    "newDeaths": 48,
+    "totalRecoveredCases": 1535,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 138579,
         "deaths": 9118,
         "recovered": 1501
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 140008,
+        "deaths": 9264,
+        "recovered": 1535
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 140930,
+        "deaths": 9312,
+        "recovered": 1535
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "US-NJ",
           "lat": 39.564
         },
-        "totalConfirmedCases": 1494,
-        "newlyConfirmedCases": 71,
+        "totalConfirmedCases": 1510,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 72,
-        "newDeaths": 4,
+        "newDeaths": 0,
         "totalRecoveredCases": 71,
         "newlyRecoveredCases": 0
       },
@@ -697,10 +709,10 @@
           "isoCode": "US-NJ",
           "lat": 40.9263
         },
-        "totalConfirmedCases": 16804,
-        "newlyConfirmedCases": 95,
-        "totalDeaths": 1348,
-        "newDeaths": 19,
+        "totalConfirmedCases": 16929,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1355,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -713,10 +725,10 @@
           "isoCode": "US-NJ",
           "lat": 40.0712
         },
-        "totalConfirmedCases": 3531,
-        "newlyConfirmedCases": 100,
-        "totalDeaths": 194,
-        "newDeaths": 4,
+        "totalConfirmedCases": 3574,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 198,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -729,10 +741,10 @@
           "isoCode": "US-NJ",
           "lat": 39.9259
         },
-        "totalConfirmedCases": 4758,
-        "newlyConfirmedCases": 139,
-        "totalDeaths": 217,
-        "newDeaths": 18,
+        "totalConfirmedCases": 4870,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 225,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -745,10 +757,10 @@
           "isoCode": "US-NJ",
           "lat": 38.9765
         },
-        "totalConfirmedCases": 442,
-        "newlyConfirmedCases": 18,
+        "totalConfirmedCases": 458,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 32,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 45,
         "newlyRecoveredCases": 0
       },
@@ -761,10 +773,10 @@
           "isoCode": "US-NJ",
           "lat": 39.3265
         },
-        "totalConfirmedCases": 1245,
-        "newlyConfirmedCases": 121,
-        "totalDeaths": 34,
-        "newDeaths": 6,
+        "totalConfirmedCases": 1287,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 36,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -777,10 +789,10 @@
           "isoCode": "US-NJ",
           "lat": 40.8428
         },
-        "totalConfirmedCases": 15544,
-        "newlyConfirmedCases": 194,
-        "totalDeaths": 1414,
-        "newDeaths": 12,
+        "totalConfirmedCases": 15646,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1423,
+        "newDeaths": 0,
         "totalRecoveredCases": 60,
         "newlyRecoveredCases": 0
       },
@@ -793,10 +805,10 @@
           "isoCode": "US-NJ",
           "lat": 39.7458
         },
-        "totalConfirmedCases": 1631,
-        "newlyConfirmedCases": 38,
-        "totalDeaths": 79,
-        "newDeaths": 7,
+        "totalConfirmedCases": 1654,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 81,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -809,10 +821,10 @@
           "isoCode": "US-NJ",
           "lat": 40.7453
         },
-        "totalConfirmedCases": 17365,
+        "totalConfirmedCases": 17513,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 954,
-        "newDeaths": 9,
+        "totalDeaths": 969,
+        "newDeaths": 0,
         "totalRecoveredCases": 314,
         "newlyRecoveredCases": 0
       },
@@ -825,10 +837,10 @@
           "isoCode": "US-NJ",
           "lat": 40.6159
         },
-        "totalConfirmedCases": 706,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 714,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 46,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -841,10 +853,10 @@
           "isoCode": "US-NJ",
           "lat": 40.2236
         },
-        "totalConfirmedCases": 5233,
-        "newlyConfirmedCases": 122,
-        "totalDeaths": 330,
-        "newDeaths": 8,
+        "totalConfirmedCases": 5317,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 334,
+        "newDeaths": 0,
         "totalRecoveredCases": 12,
         "newlyRecoveredCases": 0
       },
@@ -857,10 +869,10 @@
           "isoCode": "US-NJ",
           "lat": 40.5726
         },
-        "totalConfirmedCases": 13759,
-        "newlyConfirmedCases": 142,
-        "totalDeaths": 759,
-        "newDeaths": 11,
+        "totalConfirmedCases": 13937,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 793,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -873,10 +885,10 @@
           "isoCode": "US-NJ",
           "lat": 40.2589
         },
-        "totalConfirmedCases": 6815,
-        "newlyConfirmedCases": 63,
-        "totalDeaths": 439,
-        "newDeaths": 10,
+        "totalConfirmedCases": 6894,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 443,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -889,10 +901,10 @@
           "isoCode": "US-NJ",
           "lat": 40.7966
         },
-        "totalConfirmedCases": 5833,
-        "newlyConfirmedCases": 66,
-        "totalDeaths": 511,
-        "newDeaths": 5,
+        "totalConfirmedCases": 5854,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 516,
+        "newDeaths": 0,
         "totalRecoveredCases": 1,
         "newlyRecoveredCases": 0
       },
@@ -905,10 +917,10 @@
           "isoCode": "US-NJ",
           "lat": 40.0384
         },
-        "totalConfirmedCases": 7366,
-        "newlyConfirmedCases": 89,
-        "totalDeaths": 522,
-        "newDeaths": 6,
+        "totalConfirmedCases": 7462,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 540,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -921,10 +933,10 @@
           "isoCode": "US-NJ",
           "lat": 40.8568
         },
-        "totalConfirmedCases": 14428,
-        "newlyConfirmedCases": 148,
-        "totalDeaths": 734,
-        "newDeaths": 19,
+        "totalConfirmedCases": 14543,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 744,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -937,8 +949,8 @@
           "isoCode": "US-NJ",
           "lat": 39.6503
         },
-        "totalConfirmedCases": 400,
-        "newlyConfirmedCases": 37,
+        "totalConfirmedCases": 411,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -953,10 +965,10 @@
           "isoCode": "US-NJ",
           "lat": 40.5361
         },
-        "totalConfirmedCases": 3996,
-        "newlyConfirmedCases": 28,
-        "totalDeaths": 331,
-        "newDeaths": 3,
+        "totalConfirmedCases": 4054,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 333,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -969,10 +981,10 @@
           "isoCode": "US-NJ",
           "lat": 41.1874
         },
-        "totalConfirmedCases": 1023,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 1026,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 127,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -985,10 +997,10 @@
           "isoCode": "US-NJ",
           "lat": 40.6976
         },
-        "totalConfirmedCases": 13984,
-        "newlyConfirmedCases": 67,
-        "totalDeaths": 852,
-        "newDeaths": 8,
+        "totalConfirmedCases": 14057,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 867,
+        "newDeaths": 0,
         "totalRecoveredCases": 151,
         "newlyRecoveredCases": 0
       },
@@ -1001,10 +1013,10 @@
           "isoCode": "US-NJ",
           "lat": 40.6774
         },
-        "totalConfirmedCases": 1040,
-        "newlyConfirmedCases": 6,
-        "totalDeaths": 103,
-        "newDeaths": 2,
+        "totalConfirmedCases": 1044,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 104,
+        "newDeaths": 0,
         "totalRecoveredCases": 76,
         "newlyRecoveredCases": 0
       }

@@ -7,14 +7,14 @@
     "isoCode": "BO",
     "lat": -16.2902
   },
-  "updatedDateTime": "2020-05-10T05:45:39.3457823Z",
+  "updatedDateTime": "2020-05-11T17:42:22.5766979Z",
   "stats": {
-    "totalConfirmedCases": 2437,
-    "newlyConfirmedCases": 171,
-    "totalDeaths": 114,
-    "newDeaths": 8,
-    "totalRecoveredCases": 258,
-    "newlyRecoveredCases": 21,
+    "totalConfirmedCases": 2556,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 118,
+    "newDeaths": 0,
+    "totalRecoveredCases": 273,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 2437,
         "deaths": 114,
         "recovered": 258
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 2556,
+        "deaths": 118,
+        "recovered": 273
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 2556,
+        "deaths": 118,
+        "recovered": 273
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "BO",
           "lat": -16.2902
         },
-        "totalConfirmedCases": 2437,
-        "newlyConfirmedCases": 171,
-        "totalDeaths": 114,
-        "newDeaths": 8,
-        "totalRecoveredCases": 258,
-        "newlyRecoveredCases": 21
+        "totalConfirmedCases": 2556,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 118,
+        "newDeaths": 0,
+        "totalRecoveredCases": 273,
+        "newlyRecoveredCases": 0
       }
     ]
   }

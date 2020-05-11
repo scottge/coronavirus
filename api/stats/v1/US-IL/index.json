@@ -7,12 +7,12 @@
     "isoCode": "US-IL",
     "lat": 40.633125
   },
-  "updatedDateTime": "2020-05-10T05:45:38.3922791Z",
+  "updatedDateTime": "2020-05-11T17:42:21.3982311Z",
   "stats": {
-    "totalConfirmedCases": 76085,
-    "newlyConfirmedCases": 2325,
-    "totalDeaths": 3354,
-    "newDeaths": 109,
+    "totalConfirmedCases": 77741,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 3412,
+    "newDeaths": 0,
     "totalRecoveredCases": 645,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 76085,
         "deaths": 3354,
         "recovered": 645
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 77741,
+        "deaths": 3412,
+        "recovered": 645
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 77741,
+        "deaths": 3412,
+        "recovered": 645
       }
     ],
     "breakdowns": [
@@ -713,7 +725,7 @@
           "isoCode": "US-IL",
           "lat": 41.3573
         },
-        "totalConfirmedCases": 13,
+        "totalConfirmedCases": 14,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -729,7 +741,7 @@
           "isoCode": "US-IL",
           "lat": 42.0904
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 11,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -745,8 +757,8 @@
           "isoCode": "US-IL",
           "lat": 40.3031
         },
-        "totalConfirmedCases": 256,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 263,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 62,
@@ -777,8 +789,8 @@
           "isoCode": "US-IL",
           "lat": 39.215
         },
-        "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -794,9 +806,9 @@
           "lat": 38.607
         },
         "totalConfirmedCases": 126,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 11,
         "newlyRecoveredCases": 0
       },
@@ -809,10 +821,10 @@
           "isoCode": "US-IL",
           "lat": 41.7377
         },
-        "totalConfirmedCases": 51674,
-        "newlyConfirmedCases": 1438,
-        "totalDeaths": 2264,
-        "newDeaths": 67,
+        "totalConfirmedCases": 52655,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2317,
+        "newDeaths": 0,
         "totalRecoveredCases": 2,
         "newlyRecoveredCases": 0
       },
@@ -857,10 +869,10 @@
           "isoCode": "US-IL",
           "lat": 41.7683
         },
-        "totalConfirmedCases": 170,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 177,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 31,
         "newlyRecoveredCases": 0
       },
@@ -889,10 +901,10 @@
           "isoCode": "US-IL",
           "lat": 41.7635
         },
-        "totalConfirmedCases": 4493,
-        "newlyConfirmedCases": 119,
-        "totalDeaths": 247,
-        "newDeaths": 11,
+        "totalConfirmedCases": 4603,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 248,
+        "newDeaths": 0,
         "totalRecoveredCases": 100,
         "newlyRecoveredCases": 0
       },
@@ -938,7 +950,7 @@
           "lat": 41.2763
         },
         "totalConfirmedCases": 58,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -969,10 +981,10 @@
           "isoCode": "US-IL",
           "lat": 40.5162
         },
-        "totalConfirmedCases": 89,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 96,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -985,8 +997,8 @@
           "isoCode": "US-IL",
           "lat": 37.9013
         },
-        "totalConfirmedCases": 162,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 167,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 14,
@@ -1002,7 +1014,7 @@
           "lat": 42.4302
         },
         "totalConfirmedCases": 18,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1017,10 +1029,10 @@
           "isoCode": "US-IL",
           "lat": 41.9879
         },
-        "totalConfirmedCases": 2818,
-        "newlyConfirmedCases": 150,
-        "totalDeaths": 88,
-        "newDeaths": 4,
+        "totalConfirmedCases": 3003,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 89,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1033,9 +1045,9 @@
           "isoCode": "US-IL",
           "lat": 41.145
         },
-        "totalConfirmedCases": 479,
-        "newlyConfirmedCases": 21,
-        "totalDeaths": 29,
+        "totalConfirmedCases": 540,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 30,
         "newDeaths": 0,
         "totalRecoveredCases": 59,
         "newlyRecoveredCases": 0
@@ -1049,10 +1061,10 @@
           "isoCode": "US-IL",
           "lat": 41.6561
         },
-        "totalConfirmedCases": 388,
-        "newlyConfirmedCases": 15,
+        "totalConfirmedCases": 421,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 76,
         "newlyRecoveredCases": 0
       },
@@ -1065,8 +1077,8 @@
           "isoCode": "US-IL",
           "lat": 41.1093
         },
-        "totalConfirmedCases": 71,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 73,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1081,10 +1093,10 @@
           "isoCode": "US-IL",
           "lat": 42.3689
         },
-        "totalConfirmedCases": 5199,
-        "newlyConfirmedCases": 214,
+        "totalConfirmedCases": 5245,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 173,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1097,10 +1109,10 @@
           "isoCode": "US-IL",
           "lat": 41.1242
         },
-        "totalConfirmedCases": 102,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 105,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 8,
         "newlyRecoveredCases": 0
       },
@@ -1145,8 +1157,8 @@
           "isoCode": "US-IL",
           "lat": 39.7117
         },
-        "totalConfirmedCases": 140,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 144,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 15,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1161,10 +1173,10 @@
           "isoCode": "US-IL",
           "lat": 38.7631
         },
-        "totalConfirmedCases": 414,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 427,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 31,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 72,
         "newlyRecoveredCases": 0
       },
@@ -1177,8 +1189,8 @@
           "isoCode": "US-IL",
           "lat": 38.5224
         },
-        "totalConfirmedCases": 43,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1209,10 +1221,10 @@
           "isoCode": "US-IL",
           "lat": 42.3334
         },
-        "totalConfirmedCases": 936,
-        "newlyConfirmedCases": 39,
+        "totalConfirmedCases": 945,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 52,
-        "newDeaths": 4,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1225,8 +1237,8 @@
           "isoCode": "US-IL",
           "lat": 40.4857
         },
-        "totalConfirmedCases": 115,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 117,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 73,
@@ -1290,7 +1302,7 @@
           "lat": 39.5925
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1305,8 +1317,8 @@
           "isoCode": "US-IL",
           "lat": 40.935
         },
-        "totalConfirmedCases": 136,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 139,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 13,
@@ -1321,8 +1333,8 @@
           "isoCode": "US-IL",
           "lat": 38.2096
         },
-        "totalConfirmedCases": 217,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 220,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 35,
@@ -1337,10 +1349,10 @@
           "isoCode": "US-IL",
           "lat": 41.4416
         },
-        "totalConfirmedCases": 507,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 515,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 16,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1369,8 +1381,8 @@
           "isoCode": "US-IL",
           "lat": 39.7577
         },
-        "totalConfirmedCases": 256,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 258,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 19,
         "newDeaths": 0,
         "totalRecoveredCases": 31,
@@ -1385,10 +1397,10 @@
           "isoCode": "US-IL",
           "lat": 38.3188
         },
-        "totalConfirmedCases": 689,
-        "newlyConfirmedCases": 41,
-        "totalDeaths": 49,
-        "newDeaths": 3,
+        "totalConfirmedCases": 711,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 50,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1401,8 +1413,8 @@
           "isoCode": "US-IL",
           "lat": 42.4929
         },
-        "totalConfirmedCases": 88,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 97,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 5,
@@ -1418,7 +1430,7 @@
           "lat": 40.534
         },
         "totalConfirmedCases": 59,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1449,8 +1461,8 @@
           "isoCode": "US-IL",
           "lat": 41.7173
         },
-        "totalConfirmedCases": 102,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 104,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 10,
@@ -1465,10 +1477,10 @@
           "isoCode": "US-IL",
           "lat": 41.4399
         },
-        "totalConfirmedCases": 3636,
-        "newlyConfirmedCases": 75,
+        "totalConfirmedCases": 3684,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 202,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1497,10 +1509,10 @@
           "isoCode": "US-IL",
           "lat": 42.45
         },
-        "totalConfirmedCases": 877,
-        "newlyConfirmedCases": 47,
-        "totalDeaths": 24,
-        "newDeaths": 3,
+        "totalConfirmedCases": 917,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 25,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1529,8 +1541,8 @@
           "isoCode": "US-IL",
           "lat": 40.5709
         },
-        "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1545,8 +1557,8 @@
           "isoCode": "US-IL",
           "lat": 42.1236
         },
-        "totalConfirmedCases": 148,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 149,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1609,7 +1621,7 @@
           "isoCode": "US-IL",
           "lat": 41.0904
         },
-        "totalConfirmedCases": 11,
+        "totalConfirmedCases": 12,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1689,7 +1701,7 @@
           "isoCode": "US-IL",
           "lat": 39.1546
         },
-        "totalConfirmedCases": 16,
+        "totalConfirmedCases": 17,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1708,7 +1720,7 @@
         "totalConfirmedCases": 48,
         "newlyConfirmedCases": 0,
         "totalDeaths": 6,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1769,8 +1781,8 @@
           "isoCode": "US-IL",
           "lat": 38.3256
         },
-        "totalConfirmedCases": 94,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 97,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 15,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1785,8 +1797,8 @@
           "isoCode": "US-IL",
           "lat": 42.3524
         },
-        "totalConfirmedCases": 185,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 193,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1881,8 +1893,8 @@
           "isoCode": "US-IL",
           "lat": 39.4774
         },
-        "totalConfirmedCases": 23,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1913,7 +1925,7 @@
           "isoCode": "US-IL",
           "lat": 40.5457
         },
-        "totalConfirmedCases": 11,
+        "totalConfirmedCases": 12,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1946,7 +1958,7 @@
           "lat": 37.1145
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1962,7 +1974,7 @@
           "lat": 40.1199
         },
         "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2010,7 +2022,7 @@
           "lat": 40.3269
         },
         "totalConfirmedCases": 49,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2025,7 +2037,7 @@
           "isoCode": "US-IL",
           "lat": 38.0333
         },
-        "totalConfirmedCases": 36,
+        "totalConfirmedCases": 38,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2041,8 +2053,8 @@
           "isoCode": "US-IL",
           "lat": 41.0629
         },
-        "totalConfirmedCases": 97,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 102,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2089,8 +2101,8 @@
           "isoCode": "US-IL",
           "lat": 37.3599
         },
-        "totalConfirmedCases": 62,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 63,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2105,7 +2117,7 @@
           "isoCode": "US-IL",
           "lat": 37.2416
         },
-        "totalConfirmedCases": 6,
+        "totalConfirmedCases": 7,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2170,7 +2182,7 @@
           "lat": 39.9525
         },
         "totalConfirmedCases": 56,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2218,7 +2230,7 @@
           "lat": 39.9379573
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2233,8 +2245,8 @@
           "isoCode": "US-IL",
           "lat": 41.5054724
         },
-        "totalConfirmedCases": 77,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 79,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

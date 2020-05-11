@@ -7,14 +7,14 @@
     "isoCode": "UZ",
     "lat": 41.377491
   },
-  "updatedDateTime": "2020-05-10T05:45:40.8287069Z",
+  "updatedDateTime": "2020-05-11T17:42:24.8879787Z",
   "stats": {
-    "totalConfirmedCases": 2349,
-    "newlyConfirmedCases": 13,
+    "totalConfirmedCases": 2482,
+    "newlyConfirmedCases": 29,
     "totalDeaths": 10,
     "newDeaths": 0,
-    "totalRecoveredCases": 1846,
-    "newlyRecoveredCases": 71,
+    "totalRecoveredCases": 1982,
+    "newlyRecoveredCases": 101,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -666,9 +666,21 @@
       },
       {
         "date": "2020-05-09T00:00:00",
-        "confirmed": 2349,
+        "confirmed": 2387,
         "deaths": 10,
         "recovered": 1846
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 2453,
+        "deaths": 10,
+        "recovered": 1881
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 2482,
+        "deaths": 10,
+        "recovered": 1982
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "UZ",
           "lat": 41.377491
         },
-        "totalConfirmedCases": 2349,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 2482,
+        "newlyConfirmedCases": 29,
         "totalDeaths": 10,
         "newDeaths": 0,
-        "totalRecoveredCases": 1846,
-        "newlyRecoveredCases": 71
+        "totalRecoveredCases": 1982,
+        "newlyRecoveredCases": 101
       }
     ]
   }

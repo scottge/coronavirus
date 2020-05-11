@@ -7,14 +7,14 @@
     "isoCode": "US-VA",
     "lat": 37.431573
   },
-  "updatedDateTime": "2020-05-10T05:45:38.8450237Z",
+  "updatedDateTime": "2020-05-11T17:42:21.9341824Z",
   "stats": {
-    "totalConfirmedCases": 23196,
-    "newlyConfirmedCases": 854,
-    "totalDeaths": 827,
-    "newDeaths": 15,
+    "totalConfirmedCases": 25070,
+    "newlyConfirmedCases": 989,
+    "totalDeaths": 850,
+    "newDeaths": 11,
     "totalRecoveredCases": 3124,
-    "newlyRecoveredCases": 127,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 23196,
         "deaths": 827,
         "recovered": 3124
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 24081,
+        "deaths": 839,
+        "recovered": 3124
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 25070,
+        "deaths": 850,
+        "recovered": 3124
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "US-VA",
           "lat": 37.9299
         },
-        "totalConfirmedCases": 496,
-        "newlyConfirmedCases": 33,
+        "totalConfirmedCases": 508,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -697,10 +709,10 @@
           "isoCode": "US-VA",
           "lat": 38.9085
         },
-        "totalConfirmedCases": 5610,
-        "newlyConfirmedCases": 272,
-        "totalDeaths": 230,
-        "newDeaths": 3,
+        "totalConfirmedCases": 5892,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 239,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -713,8 +725,8 @@
           "isoCode": "US-VA",
           "lat": 38.1266
         },
-        "totalConfirmedCases": 119,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 120,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -729,10 +741,10 @@
           "isoCode": "US-VA",
           "lat": 38.6473
         },
-        "totalConfirmedCases": 2548,
-        "newlyConfirmedCases": 74,
-        "totalDeaths": 47,
-        "newDeaths": 1,
+        "totalConfirmedCases": 2740,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 48,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -745,10 +757,10 @@
           "isoCode": "US-VA",
           "lat": 38.8185
         },
-        "totalConfirmedCases": 1142,
-        "newlyConfirmedCases": 32,
+        "totalConfirmedCases": 1193,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 30,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -761,10 +773,10 @@
           "isoCode": "US-VA",
           "lat": 38.8816
         },
-        "totalConfirmedCases": 1332,
-        "newlyConfirmedCases": 51,
-        "totalDeaths": 60,
-        "newDeaths": 3,
+        "totalConfirmedCases": 1368,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 61,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -793,8 +805,8 @@
           "isoCode": "US-VA",
           "lat": 37.6133
         },
-        "totalConfirmedCases": 1054,
-        "newlyConfirmedCases": 22,
+        "totalConfirmedCases": 1067,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 110,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -841,10 +853,10 @@
           "isoCode": "US-VA",
           "lat": 39.0768
         },
-        "totalConfirmedCases": 1127,
-        "newlyConfirmedCases": 57,
+        "totalConfirmedCases": 1159,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 30,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -857,8 +869,8 @@
           "isoCode": "US-VA",
           "lat": 37.3273
         },
-        "totalConfirmedCases": 765,
-        "newlyConfirmedCases": 24,
+        "totalConfirmedCases": 787,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 26,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -874,7 +886,7 @@
           "lat": 37.3591
         },
         "totalConfirmedCases": 22,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -889,8 +901,8 @@
           "isoCode": "US-VA",
           "lat": 38.4362
         },
-        "totalConfirmedCases": 578,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 579,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 21,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -905,8 +917,8 @@
           "isoCode": "US-VA",
           "lat": 36.7335
         },
-        "totalConfirmedCases": 478,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 491,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -922,7 +934,7 @@
           "lat": 38.1618
         },
         "totalConfirmedCases": 64,
-        "newlyConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -953,8 +965,8 @@
           "isoCode": "US-VA",
           "lat": 37.9603
         },
-        "totalConfirmedCases": 512,
-        "newlyConfirmedCases": 18,
+        "totalConfirmedCases": 530,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -970,7 +982,7 @@
           "lat": 37.3866
         },
         "totalConfirmedCases": 38,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -985,8 +997,8 @@
           "isoCode": "US-VA",
           "lat": 36.6778
         },
-        "totalConfirmedCases": 325,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 328,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1017,8 +1029,8 @@
           "isoCode": "US-VA",
           "lat": 38.4597
         },
-        "totalConfirmedCases": 354,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 374,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1049,9 +1061,9 @@
           "isoCode": "US-VA",
           "lat": 38.4465
         },
-        "totalConfirmedCases": 339,
-        "newlyConfirmedCases": 19,
-        "totalDeaths": 1,
+        "totalConfirmedCases": 344,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1065,7 +1077,7 @@
           "isoCode": "US-VA",
           "lat": 36.6179
         },
-        "totalConfirmedCases": 2,
+        "totalConfirmedCases": 3,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1081,8 +1093,8 @@
           "isoCode": "US-VA",
           "lat": 36.8508
         },
-        "totalConfirmedCases": 290,
-        "newlyConfirmedCases": 16,
+        "totalConfirmedCases": 304,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1097,8 +1109,8 @@
           "isoCode": "US-VA",
           "lat": 38.7479
         },
-        "totalConfirmedCases": 358,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 381,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1113,7 +1125,7 @@
           "isoCode": "US-VA",
           "lat": 36.5759
         },
-        "totalConfirmedCases": 17,
+        "totalConfirmedCases": 18,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1129,7 +1141,7 @@
           "isoCode": "US-VA",
           "lat": 37.2679
         },
-        "totalConfirmedCases": 170,
+        "totalConfirmedCases": 173,
         "newlyConfirmedCases": 0,
         "totalDeaths": 15,
         "newDeaths": 0,
@@ -1162,9 +1174,9 @@
           "lat": 37.5541
         },
         "totalConfirmedCases": 246,
-        "newlyConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1178,7 +1190,7 @@
           "lat": 36.6953
         },
         "totalConfirmedCases": 215,
-        "newlyConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 19,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1209,8 +1221,8 @@
           "isoCode": "US-VA",
           "lat": 37.1051
         },
-        "totalConfirmedCases": 152,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 159,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1241,10 +1253,10 @@
           "isoCode": "US-VA",
           "lat": 37.7772
         },
-        "totalConfirmedCases": 163,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 170,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 16,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1258,9 +1270,9 @@
           "lat": 37.9856
         },
         "totalConfirmedCases": 38,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1273,8 +1285,8 @@
           "isoCode": "US-VA",
           "lat": 36.5815
         },
-        "totalConfirmedCases": 28,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1290,7 +1302,7 @@
           "lat": 36.8468
         },
         "totalConfirmedCases": 202,
-        "newlyConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1306,7 +1318,7 @@
           "lat": 37.3441
         },
         "totalConfirmedCases": 21,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1321,8 +1333,8 @@
           "isoCode": "US-VA",
           "lat": 37.0551
         },
-        "totalConfirmedCases": 138,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 144,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1337,8 +1349,8 @@
           "isoCode": "US-VA",
           "lat": 38.2042
         },
-        "totalConfirmedCases": 239,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 248,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1354,7 +1366,7 @@
           "lat": 36.9933
         },
         "totalConfirmedCases": 12,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1385,10 +1397,10 @@
           "isoCode": "US-VA",
           "lat": 38.4705
         },
-        "totalConfirmedCases": 253,
-        "newlyConfirmedCases": 14,
+        "totalConfirmedCases": 264,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1401,8 +1413,8 @@
           "isoCode": "US-VA",
           "lat": 39.0902
         },
-        "totalConfirmedCases": 162,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 164,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1417,8 +1429,8 @@
           "isoCode": "US-VA",
           "lat": 37.0836
         },
-        "totalConfirmedCases": 108,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 110,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1433,8 +1445,8 @@
           "isoCode": "US-VA",
           "lat": 36.5762
         },
-        "totalConfirmedCases": 118,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 122,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1466,9 +1478,9 @@
           "lat": 38.5769
         },
         "totalConfirmedCases": 128,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1481,7 +1493,7 @@
           "isoCode": "US-VA",
           "lat": 37.265
         },
-        "totalConfirmedCases": 65,
+        "totalConfirmedCases": 66,
         "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
@@ -1513,8 +1525,8 @@
           "isoCode": "US-VA",
           "lat": 38.654
         },
-        "totalConfirmedCases": 168,
-        "newlyConfirmedCases": 15,
+        "totalConfirmedCases": 172,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1530,7 +1542,7 @@
           "lat": 36.5778
         },
         "totalConfirmedCases": 131,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1562,7 +1574,7 @@
           "lat": 37.8652
         },
         "totalConfirmedCases": 79,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1609,10 +1621,10 @@
           "isoCode": "US-VA",
           "lat": 38.7394
         },
-        "totalConfirmedCases": 242,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 245,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1657,8 +1669,8 @@
           "isoCode": "US-VA",
           "lat": 37.0676
         },
-        "totalConfirmedCases": 64,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 65,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1673,7 +1685,7 @@
           "isoCode": "US-VA",
           "lat": 36.9853
         },
-        "totalConfirmedCases": 25,
+        "totalConfirmedCases": 27,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1689,7 +1701,7 @@
           "isoCode": "US-VA",
           "lat": 36.6953
         },
-        "totalConfirmedCases": 47,
+        "totalConfirmedCases": 48,
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
@@ -1721,8 +1733,8 @@
           "isoCode": "US-VA",
           "lat": 37.9187
         },
-        "totalConfirmedCases": 22,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1737,8 +1749,8 @@
           "isoCode": "US-VA",
           "lat": 38.7718
         },
-        "totalConfirmedCases": 116,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 120,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1753,7 +1765,7 @@
           "isoCode": "US-VA",
           "lat": 37.2352
         },
-        "totalConfirmedCases": 55,
+        "totalConfirmedCases": 56,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1801,10 +1813,10 @@
           "isoCode": "US-VA",
           "lat": 38.9231
         },
-        "totalConfirmedCases": 82,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 85,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1818,7 +1830,7 @@
           "lat": 38.0212
         },
         "totalConfirmedCases": 55,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1833,8 +1845,8 @@
           "isoCode": "US-VA",
           "lat": 37.1233
         },
-        "totalConfirmedCases": 26,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1850,7 +1862,7 @@
           "lat": 37.2746
         },
         "totalConfirmedCases": 93,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1866,7 +1878,7 @@
           "lat": 37.2959
         },
         "totalConfirmedCases": 66,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1881,8 +1893,8 @@
           "isoCode": "US-VA",
           "lat": 38.2992
         },
-        "totalConfirmedCases": 58,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 61,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1897,8 +1909,8 @@
           "isoCode": "US-VA",
           "lat": 36.666
         },
-        "totalConfirmedCases": 34,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1913,8 +1925,8 @@
           "isoCode": "US-VA",
           "lat": 39.1735
         },
-        "totalConfirmedCases": 64,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 66,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1930,7 +1942,7 @@
           "lat": 37.3315
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1961,7 +1973,7 @@
           "isoCode": "US-VA",
           "lat": 36.816
         },
-        "totalConfirmedCases": 44,
+        "totalConfirmedCases": 46,
         "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
@@ -1977,7 +1989,7 @@
           "isoCode": "US-VA",
           "lat": 36.7022
         },
-        "totalConfirmedCases": 5,
+        "totalConfirmedCases": 12,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1993,7 +2005,7 @@
           "isoCode": "US-VA",
           "lat": 37.2357
         },
-        "totalConfirmedCases": 42,
+        "totalConfirmedCases": 44,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2009,7 +2021,7 @@
           "isoCode": "US-VA",
           "lat": 38.2991
         },
-        "totalConfirmedCases": 14,
+        "totalConfirmedCases": 15,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -2025,7 +2037,7 @@
           "isoCode": "US-VA",
           "lat": 36.6326
         },
-        "totalConfirmedCases": 42,
+        "totalConfirmedCases": 49,
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
@@ -2041,7 +2053,7 @@
           "isoCode": "US-VA",
           "lat": 37.034
         },
-        "totalConfirmedCases": 32,
+        "totalConfirmedCases": 33,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -2058,7 +2070,7 @@
           "lat": 36.839
         },
         "totalConfirmedCases": 22,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2073,7 +2085,7 @@
           "isoCode": "US-VA",
           "lat": 37.2043
         },
-        "totalConfirmedCases": 42,
+        "totalConfirmedCases": 45,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -2089,7 +2101,7 @@
           "isoCode": "US-VA",
           "lat": 38.3282
         },
-        "totalConfirmedCases": 38,
+        "totalConfirmedCases": 41,
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
@@ -2105,8 +2117,8 @@
           "isoCode": "US-VA",
           "lat": 38.136
         },
-        "totalConfirmedCases": 44,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 46,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2122,7 +2134,7 @@
           "lat": 36.7009
         },
         "totalConfirmedCases": 22,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2153,7 +2165,7 @@
           "isoCode": "US-VA",
           "lat": 37.2915
         },
-        "totalConfirmedCases": 33,
+        "totalConfirmedCases": 37,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2170,7 +2182,7 @@
           "lat": 37.6683
         },
         "totalConfirmedCases": 5,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2217,10 +2229,10 @@
           "isoCode": "US-VA",
           "lat": 37.257
         },
-        "totalConfirmedCases": 159,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 163,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -2249,7 +2261,7 @@
           "isoCode": "US-VA",
           "lat": 37.2692
         },
-        "totalConfirmedCases": 31,
+        "totalConfirmedCases": 39,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -2313,8 +2325,8 @@
           "isoCode": "US-VA",
           "lat": 38.2565
         },
-        "totalConfirmedCases": 37,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 38,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2330,7 +2342,7 @@
           "lat": 36.9608
         },
         "totalConfirmedCases": 6,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2345,7 +2357,7 @@
           "isoCode": "US-VA",
           "lat": 38.3792
         },
-        "totalConfirmedCases": 20,
+        "totalConfirmedCases": 21,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -2378,7 +2390,7 @@
           "lat": 37.4984
         },
         "totalConfirmedCases": 5,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2409,7 +2421,7 @@
           "isoCode": "US-VA",
           "lat": 37.3912302
         },
-        "totalConfirmedCases": 4,
+        "totalConfirmedCases": 5,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2506,7 +2518,7 @@
           "lat": 36.953
         },
         "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2521,7 +2533,7 @@
           "isoCode": "US-VA",
           "lat": 37.92
         },
-        "totalConfirmedCases": 9,
+        "totalConfirmedCases": 10,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -2586,7 +2598,7 @@
           "lat": 38.0674
         },
         "totalConfirmedCases": 21,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2666,7 +2678,7 @@
           "lat": 37.9901
         },
         "totalConfirmedCases": 9,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2681,7 +2693,7 @@
           "isoCode": "US-VA",
           "lat": 38.6562
         },
-        "totalConfirmedCases": 7,
+        "totalConfirmedCases": 8,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2700,7 +2712,7 @@
         "totalConfirmedCases": 7,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -2730,7 +2742,7 @@
           "lat": 37.1371
         },
         "totalConfirmedCases": 5,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2745,7 +2757,7 @@
           "isoCode": "US-VA",
           "lat": 37.0879
         },
-        "totalConfirmedCases": 6,
+        "totalConfirmedCases": 7,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,

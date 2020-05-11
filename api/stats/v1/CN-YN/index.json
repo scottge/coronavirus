@@ -7,14 +7,14 @@
     "isoCode": "CN-YN",
     "lat": 24.974
   },
-  "updatedDateTime": "2020-05-10T05:45:36.7427756Z",
+  "updatedDateTime": "2020-05-11T17:42:19.7024359Z",
   "stats": {
     "totalConfirmedCases": 185,
     "newlyConfirmedCases": 0,
     "totalDeaths": 2,
     "newDeaths": 0,
     "totalRecoveredCases": 183,
-    "newlyRecoveredCases": 1,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 185,
         "deaths": 2,
         "recovered": 183
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 185,
+        "deaths": 2,
+        "recovered": 183
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 185,
+        "deaths": 2,
+        "recovered": 183
       }
     ],
     "breakdowns": [
@@ -686,7 +698,7 @@
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 183,
-        "newlyRecoveredCases": 1
+        "newlyRecoveredCases": 0
       }
     ]
   }

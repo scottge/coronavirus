@@ -7,13 +7,13 @@
     "isoCode": "US-MA",
     "lat": 42.407211
   },
-  "updatedDateTime": "2020-05-10T05:45:38.5512681Z",
+  "updatedDateTime": "2020-05-11T17:42:21.5440216Z",
   "stats": {
-    "totalConfirmedCases": 76743,
-    "newlyConfirmedCases": 1410,
-    "totalDeaths": 4840,
-    "newDeaths": 138,
-    "totalRecoveredCases": 8118,
+    "totalConfirmedCases": 77793,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 4979,
+    "newDeaths": 0,
+    "totalRecoveredCases": 22148,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 76743,
         "deaths": 4840,
         "recovered": 8118
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 77793,
+        "deaths": 4979,
+        "recovered": 22148
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 77793,
+        "deaths": 4979,
+        "recovered": 22148
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "US-MA",
           "lat": 41.6012
         },
-        "totalConfirmedCases": 1056,
-        "newlyConfirmedCases": 18,
-        "totalDeaths": 66,
-        "newDeaths": 5,
+        "totalConfirmedCases": 1068,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 68,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -697,7 +709,7 @@
           "isoCode": "US-MA",
           "lat": 42.3118
         },
-        "totalConfirmedCases": 472,
+        "totalConfirmedCases": 475,
         "newlyConfirmedCases": 0,
         "totalDeaths": 37,
         "newDeaths": 0,
@@ -713,10 +725,10 @@
           "isoCode": "US-MA",
           "lat": 41.9726
         },
-        "totalConfirmedCases": 4847,
-        "newlyConfirmedCases": 177,
-        "totalDeaths": 260,
-        "newDeaths": 8,
+        "totalConfirmedCases": 4931,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 266,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -729,10 +741,10 @@
           "isoCode": "US-MA",
           "lat": 42.632
         },
-        "totalConfirmedCases": 11211,
-        "newlyConfirmedCases": 216,
-        "totalDeaths": 625,
-        "newDeaths": 24,
+        "totalConfirmedCases": 11353,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 644,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -746,9 +758,9 @@
           "lat": 42.6063
         },
         "totalConfirmedCases": 294,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 42,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -761,10 +773,10 @@
           "isoCode": "US-MA",
           "lat": 42.2125
         },
-        "totalConfirmedCases": 4647,
-        "newlyConfirmedCases": 125,
-        "totalDeaths": 445,
-        "newDeaths": 4,
+        "totalConfirmedCases": 4714,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 449,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -777,10 +789,10 @@
           "isoCode": "US-MA",
           "lat": 42.3757
         },
-        "totalConfirmedCases": 659,
-        "newlyConfirmedCases": 5,
-        "totalDeaths": 50,
-        "newDeaths": 2,
+        "totalConfirmedCases": 676,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 55,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -793,10 +805,10 @@
           "isoCode": "US-MA",
           "lat": 42.4672
         },
-        "totalConfirmedCases": 17307,
-        "newlyConfirmedCases": 293,
-        "totalDeaths": 1169,
-        "newDeaths": 37,
+        "totalConfirmedCases": 17589,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1207,
+        "newDeaths": 0,
         "totalRecoveredCases": 147,
         "newlyRecoveredCases": 0
       },
@@ -809,10 +821,10 @@
           "isoCode": "US-MA",
           "lat": 42.1767
         },
-        "totalConfirmedCases": 6887,
-        "newlyConfirmedCases": 86,
-        "totalDeaths": 635,
-        "newDeaths": 12,
+        "totalConfirmedCases": 6952,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 650,
+        "newDeaths": 0,
         "totalRecoveredCases": 218,
         "newlyRecoveredCases": 0
       },
@@ -825,10 +837,10 @@
           "isoCode": "US-MA",
           "lat": 42.2121
         },
-        "totalConfirmedCases": 6311,
-        "newlyConfirmedCases": 117,
-        "totalDeaths": 384,
-        "newDeaths": 9,
+        "totalConfirmedCases": 6382,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 393,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -841,10 +853,10 @@
           "isoCode": "US-MA",
           "lat": 42.3601
         },
-        "totalConfirmedCases": 15119,
-        "newlyConfirmedCases": 175,
-        "totalDeaths": 703,
-        "newDeaths": 20,
+        "totalConfirmedCases": 15279,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 718,
+        "newDeaths": 0,
         "totalRecoveredCases": 926,
         "newlyRecoveredCases": 0
       },
@@ -857,10 +869,10 @@
           "isoCode": "US-MA",
           "lat": 42.4097
         },
-        "totalConfirmedCases": 7611,
-        "newlyConfirmedCases": 201,
-        "totalDeaths": 420,
-        "newDeaths": 16,
+        "totalConfirmedCases": 7743,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 444,
+        "newDeaths": 0,
         "totalRecoveredCases": 8,
         "newlyRecoveredCases": 0
       },
@@ -889,7 +901,7 @@
           "isoCode": "US-MA",
           "lat": 41.4039539
         },
-        "totalConfirmedCases": 22,
+        "totalConfirmedCases": 23,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,

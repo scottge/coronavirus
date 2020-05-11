@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "China - Shanghai Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in Shanghai, China. Total Cases: 659 (+2), Deaths: 7 (-), Recoveries: 629(+6)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in Shanghai, China. Total Cases: 659 (-), Deaths: 7 (-), Recoveries: 629(-)."
+publishedDateTime: 2020-05-11T17:42:26Z
+updatedDateTime: 2020-05-11T17:42:26Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/china-shanghai/"
 type: article
 heat: 100
@@ -31,7 +31,7 @@ images:
 <div class="total-stats" style="text-align: center;">
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Confirmed Cases:</div>
-	    659 (<span class='red'>+2</span>)
+	    659 (-)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Deaths:</div>
@@ -39,7 +39,7 @@ images:
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
-	    629 (<span class='green'>+6</span>)
+	    629 (-)
     </h3>
 </div>
 
@@ -52,7 +52,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 9, 0, 0],['1/23/2020', 16, 0, 0],['1/24/2020', 20, 0, 1],['1/25/2020', 33, 0, 1],['1/26/2020', 40, 1, 1],['1/27/2020', 53, 1, 3],['1/28/2020', 66, 1, 4],['1/29/2020', 96, 1, 5],['1/30/2020', 112, 1, 5],['1/31/2020', 135, 1, 9],['2/1/2020', 169, 1, 10],['2/2/2020', 182, 1, 10],['2/3/2020', 203, 1, 10],['2/4/2020', 219, 1, 12],['2/5/2020', 243, 1, 15],['2/6/2020', 257, 1, 25],['2/7/2020', 277, 1, 30],['2/8/2020', 286, 1, 41],['2/9/2020', 293, 1, 44],['2/10/2020', 299, 1, 48],['2/11/2020', 303, 1, 52],['2/12/2020', 311, 1, 57],['2/13/2020', 315, 1, 62],['2/14/2020', 318, 1, 90],['2/15/2020', 326, 1, 124],['2/16/2020', 328, 1, 140],['2/17/2020', 333, 1, 161],['2/18/2020', 333, 1, 177],['2/19/2020', 333, 2, 186],['2/20/2020', 334, 2, 199],['2/21/2020', 334, 2, 211],['2/22/2020', 335, 3, 227],['2/23/2020', 335, 3, 249],['2/24/2020', 335, 3, 261],['2/25/2020', 336, 3, 268],['2/26/2020', 337, 3, 272],['2/27/2020', 337, 3, 276],['2/28/2020', 337, 3, 279],['2/29/2020', 337, 3, 287],['3/1/2020', 337, 3, 290],['3/2/2020', 337, 3, 292],['3/3/2020', 338, 3, 294],['3/4/2020', 338, 3, 298],['3/5/2020', 339, 3, 303],['3/6/2020', 342, 3, 306],['3/7/2020', 342, 3, 313],['3/8/2020', 342, 3, 314],['3/9/2020', 342, 3, 315],['3/10/2020', 344, 3, 319],['3/11/2020', 344, 3, 320],['3/12/2020', 344, 3, 321],['3/13/2020', 350, 3, 324],['3/14/2020', 353, 3, 324],['3/15/2020', 355, 3, 324],['3/16/2020', 358, 3, 325],['3/17/2020', 361, 3, 326],['3/18/2020', 363, 3, 326],['3/19/2020', 371, 3, 326],['3/20/2020', 380, 3, 327],['3/21/2020', 394, 4, 328],['3/22/2020', 404, 4, 329],['3/23/2020', 413, 4, 329],['3/24/2020', 414, 4, 330],['3/25/2020', 451, 5, 330],['3/26/2020', 451, 5, 331],['3/27/2020', 485, 5, 334],['3/28/2020', 492, 5, 334],['3/29/2020', 498, 5, 334],['3/30/2020', 509, 5, 338],['3/31/2020', 516, 6, 341],['4/1/2020', 522, 6, 343],['4/2/2020', 522, 6, 343],['4/3/2020', 522, 6, 343],['4/4/2020', 522, 6, 343],['4/5/2020', 522, 6, 343],['4/6/2020', 522, 6, 343],['4/7/2020', 522, 6, 343],['4/8/2020', 522, 6, 343],['4/9/2020', 522, 6, 343],['4/10/2020', 555, 7, 435],['4/11/2020', 607, 7, 438],['4/12/2020', 607, 7, 446],['4/13/2020', 618, 7, 458],['4/14/2020', 622, 7, 468],['4/15/2020', 628, 7, 485],['4/16/2020', 628, 7, 512],['4/17/2020', 628, 7, 512],['4/18/2020', 635, 7, 516],['4/19/2020', 638, 7, 521],['4/20/2020', 638, 7, 530],['4/21/2020', 639, 7, 530],['4/22/2020', 640, 7, 534],['4/23/2020', 641, 7, 534],['4/24/2020', 641, 7, 547],['4/25/2020', 642, 7, 558],['4/26/2020', 642, 7, 568],['4/27/2020', 644, 7, 594],['4/28/2020', 645, 7, 597],['4/29/2020', 647, 7, 597],['4/30/2020', 652, 7, 599],['5/1/2020', 652, 7, 605],['5/2/2020', 652, 7, 612],['5/3/2020', 655, 7, 615],['5/4/2020', 656, 7, 619],['5/5/2020', 656, 7, 620],['5/6/2020', 657, 7, 620],['5/7/2020', 657, 7, 623],['5/8/2020', 657, 7, 623],['5/9/2020', 659, 7, 629],
+      ['1/22/2020', 9, 0, 0],['1/23/2020', 16, 0, 0],['1/24/2020', 20, 0, 1],['1/25/2020', 33, 0, 1],['1/26/2020', 40, 1, 1],['1/27/2020', 53, 1, 3],['1/28/2020', 66, 1, 4],['1/29/2020', 96, 1, 5],['1/30/2020', 112, 1, 5],['1/31/2020', 135, 1, 9],['2/1/2020', 169, 1, 10],['2/2/2020', 182, 1, 10],['2/3/2020', 203, 1, 10],['2/4/2020', 219, 1, 12],['2/5/2020', 243, 1, 15],['2/6/2020', 257, 1, 25],['2/7/2020', 277, 1, 30],['2/8/2020', 286, 1, 41],['2/9/2020', 293, 1, 44],['2/10/2020', 299, 1, 48],['2/11/2020', 303, 1, 52],['2/12/2020', 311, 1, 57],['2/13/2020', 315, 1, 62],['2/14/2020', 318, 1, 90],['2/15/2020', 326, 1, 124],['2/16/2020', 328, 1, 140],['2/17/2020', 333, 1, 161],['2/18/2020', 333, 1, 177],['2/19/2020', 333, 2, 186],['2/20/2020', 334, 2, 199],['2/21/2020', 334, 2, 211],['2/22/2020', 335, 3, 227],['2/23/2020', 335, 3, 249],['2/24/2020', 335, 3, 261],['2/25/2020', 336, 3, 268],['2/26/2020', 337, 3, 272],['2/27/2020', 337, 3, 276],['2/28/2020', 337, 3, 279],['2/29/2020', 337, 3, 287],['3/1/2020', 337, 3, 290],['3/2/2020', 337, 3, 292],['3/3/2020', 338, 3, 294],['3/4/2020', 338, 3, 298],['3/5/2020', 339, 3, 303],['3/6/2020', 342, 3, 306],['3/7/2020', 342, 3, 313],['3/8/2020', 342, 3, 314],['3/9/2020', 342, 3, 315],['3/10/2020', 344, 3, 319],['3/11/2020', 344, 3, 320],['3/12/2020', 344, 3, 321],['3/13/2020', 350, 3, 324],['3/14/2020', 353, 3, 324],['3/15/2020', 355, 3, 324],['3/16/2020', 358, 3, 325],['3/17/2020', 361, 3, 326],['3/18/2020', 363, 3, 326],['3/19/2020', 371, 3, 326],['3/20/2020', 380, 3, 327],['3/21/2020', 394, 4, 328],['3/22/2020', 404, 4, 329],['3/23/2020', 413, 4, 329],['3/24/2020', 414, 4, 330],['3/25/2020', 451, 5, 330],['3/26/2020', 451, 5, 331],['3/27/2020', 485, 5, 334],['3/28/2020', 492, 5, 334],['3/29/2020', 498, 5, 334],['3/30/2020', 509, 5, 338],['3/31/2020', 516, 6, 341],['4/1/2020', 522, 6, 343],['4/2/2020', 522, 6, 343],['4/3/2020', 522, 6, 343],['4/4/2020', 522, 6, 343],['4/5/2020', 522, 6, 343],['4/6/2020', 522, 6, 343],['4/7/2020', 522, 6, 343],['4/8/2020', 522, 6, 343],['4/9/2020', 522, 6, 343],['4/10/2020', 555, 7, 435],['4/11/2020', 607, 7, 438],['4/12/2020', 607, 7, 446],['4/13/2020', 618, 7, 458],['4/14/2020', 622, 7, 468],['4/15/2020', 628, 7, 485],['4/16/2020', 628, 7, 512],['4/17/2020', 628, 7, 512],['4/18/2020', 635, 7, 516],['4/19/2020', 638, 7, 521],['4/20/2020', 638, 7, 530],['4/21/2020', 639, 7, 530],['4/22/2020', 640, 7, 534],['4/23/2020', 641, 7, 534],['4/24/2020', 641, 7, 547],['4/25/2020', 642, 7, 558],['4/26/2020', 642, 7, 568],['4/27/2020', 644, 7, 594],['4/28/2020', 645, 7, 597],['4/29/2020', 647, 7, 597],['4/30/2020', 652, 7, 599],['5/1/2020', 652, 7, 605],['5/2/2020', 652, 7, 612],['5/3/2020', 655, 7, 615],['5/4/2020', 656, 7, 619],['5/5/2020', 656, 7, 620],['5/6/2020', 657, 7, 620],['5/7/2020', 657, 7, 623],['5/8/2020', 657, 7, 623],['5/9/2020', 659, 7, 629],['5/10/2020', 659, 7, 629],['5/11/2020', 659, 7, 629],
     ]);
     var options = {
       curveType: 'none',
@@ -179,42 +179,6 @@ images:
 		<div class="card-excerpt">Guest interaction and photos with Disney characters as well as parades and night time shows will be suspended during the initial phase of the reopening.</div>
 		<div class="card-meta">
 			<span class="card-provider">Newsweek</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.nbcnews.com/health/health-news/live-blog/2020-05-06-coronavirus-news-n1200996/ncrd1201001"><div class="card-image" style="background-image: url(https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages-bento/og-nbcnews1200x630.png)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.nbcnews.com/health/health-news/live-blog/2020-05-06-coronavirus-news-n1200996/ncrd1201001">Disneyland in Shanghai set to reopen May 11</a></div>
-		<div class="card-excerpt">Disneyland in Shanghai, China, is set to reopen May 11 with limited capacity and advanced reservations, the company announced Tuesday. “As the park reopens with significantly enhanced health and safety measures,</div>
-		<div class="card-meta">
-			<span class="card-provider">NBC News</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://canoe.com/business/money-news/disney-takes-us1-4b-hit-from-coronavirus-as-theme-parks-movie-theatres-close"><div class="card-image" style="background-image: url(https://postmediacanoe.files.wordpress.com/2020/05/shanghaidisney1000.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://canoe.com/business/money-news/disney-takes-us1-4b-hit-from-coronavirus-as-theme-parks-movie-theatres-close">Disney takes $1.4B coronavirus hit, sets date to reopen Shanghai park</a></div>
-		<div class="card-excerpt">Walt Disney Co estimated on Tuesday that global measures to contain the coronavirus pandemic cut profits by $1.4 billion, mostly from its shuttered theme parks, but said it would reopen Shanghai</div>
-		<div class="card-meta">
-			<span class="card-provider">Canoe.com</span> • <span class="card-date">5/5/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.ocregister.com/2020/05/05/disney-rolls-out-post-covid-19-plan-for-reopening-shanghai-disneyland-theme-park/"><div class="card-image" style="background-image: url(https://www.ocregister.com/wp-content/uploads/2020/05/OCR-L-DISNEY-CORONAVIRUS-0124-FEATURED-1.jpg?w=1024&h=576)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.ocregister.com/2020/05/05/disney-rolls-out-post-covid-19-plan-for-reopening-shanghai-disneyland-theme-park/">Disney rolls out post-COVID-19 plan for reopening Shanghai Disneyland theme park</a></div>
-		<div class="card-excerpt">Disney laid out a health and safety plan for the reopening of the Shanghai Disneyland theme park on Monday, May 11, following a three-month closure of the park due to the COVID-19 pandemic.</div>
-		<div class="card-meta">
-			<span class="card-provider">Orange County Register</span> • <span class="card-date">5/5/2020</span>
 		</div>
 	</div>
   </div>

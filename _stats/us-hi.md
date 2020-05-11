@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "US - Hawaii State Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in US-Hawaii. Total Cases: 632 (+1), Deaths: 17 (-), Recoveries: 551(-)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in US-Hawaii. Total Cases: 632 (-), Deaths: 17 (-), Recoveries: 561(-)."
+publishedDateTime: 2020-05-11T17:42:25Z
+updatedDateTime: 2020-05-11T17:42:25Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-hi/"
 type: article
 heat: 100
@@ -30,7 +30,7 @@ images:
 <div class="total-stats" style="text-align: center;">
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Confirmed Cases:</div>
-	    632 (<span class='red'>+1</span>)
+	    632 (-)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Deaths:</div>
@@ -38,7 +38,7 @@ images:
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
-	    551 (-)
+	    561 (-)
     </h3>
 </div>
 
@@ -51,7 +51,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 0, 0, 0],['1/27/2020', 0, 0, 0],['1/28/2020', 0, 0, 0],['1/29/2020', 0, 0, 0],['1/30/2020', 0, 0, 0],['1/31/2020', 0, 0, 0],['2/1/2020', 0, 0, 0],['2/2/2020', 0, 0, 0],['2/3/2020', 0, 0, 0],['2/4/2020', 0, 0, 0],['2/5/2020', 0, 0, 0],['2/6/2020', 0, 0, 0],['2/7/2020', 0, 0, 0],['2/8/2020', 0, 0, 0],['2/9/2020', 0, 0, 0],['2/10/2020', 0, 0, 0],['2/11/2020', 0, 0, 0],['2/12/2020', 0, 0, 0],['2/13/2020', 0, 0, 0],['2/14/2020', 0, 0, 0],['2/15/2020', 0, 0, 0],['2/16/2020', 0, 0, 0],['2/17/2020', 0, 0, 0],['2/18/2020', 0, 0, 0],['2/19/2020', 0, 0, 0],['2/20/2020', 0, 0, 0],['2/21/2020', 0, 0, 0],['2/22/2020', 0, 0, 0],['2/23/2020', 0, 0, 0],['2/24/2020', 0, 0, 0],['2/25/2020', 0, 0, 0],['2/26/2020', 0, 0, 0],['2/27/2020', 0, 0, 0],['2/28/2020', 0, 0, 0],['2/29/2020', 0, 0, 0],['3/1/2020', 0, 0, 0],['3/2/2020', 0, 0, 0],['3/3/2020', 0, 0, 0],['3/4/2020', 0, 0, 0],['3/5/2020', 0, 0, 0],['3/6/2020', 0, 0, 0],['3/7/2020', 1, 0, 0],['3/8/2020', 1, 0, 0],['3/9/2020', 1, 0, 0],['3/10/2020', 1, 0, 0],['3/11/2020', 2, 0, 0],['3/12/2020', 2, 0, 0],['3/13/2020', 2, 0, 0],['3/14/2020', 4, 0, 0],['3/15/2020', 7, 0, 0],['3/16/2020', 11, 0, 0],['3/17/2020', 15, 0, 0],['3/18/2020', 16, 0, 0],['3/19/2020', 26, 0, 0],['3/20/2020', 37, 0, 0],['3/21/2020', 48, 0, 0],['3/22/2020', 56, 0, 0],['3/23/2020', 77, 0, 0],['3/24/2020', 90, 1, 0],['3/25/2020', 95, 0, 0],['3/26/2020', 106, 0, 0],['3/27/2020', 120, 0, 0],['3/28/2020', 149, 0, 0],['3/29/2020', 175, 0, 0],['3/30/2020', 204, 0, 0],['3/31/2020', 224, 1, 0],['4/1/2020', 256, 1, 49],['4/2/2020', 283, 2, 72],['4/3/2020', 319, 3, 72],['4/4/2020', 351, 3, 72],['4/5/2020', 371, 4, 72],['4/6/2020', 387, 5, 72],['4/7/2020', 410, 5, 72],['4/8/2020', 435, 5, 72],['4/9/2020', 442, 6, 251],['4/10/2020', 465, 8, 251],['4/11/2020', 486, 8, 251],['4/12/2020', 499, 9, 310],['4/13/2020', 504, 9, 310],['4/14/2020', 517, 9, 310],['4/15/2020', 530, 9, 359],['4/16/2020', 541, 9, 374],['4/17/2020', 553, 9, 374],['4/18/2020', 574, 9, 390],['4/19/2020', 580, 10, 414],['4/20/2020', 584, 10, 423],['4/21/2020', 586, 12, 437],['4/22/2020', 592, 12, 444],['4/23/2020', 596, 12, 455],['4/24/2020', 607, 12, 455],['4/25/2020', 605, 14, 482],['4/26/2020', 607, 14, 488],['4/27/2020', 607, 16, 493],['4/28/2020', 609, 16, 505],['4/29/2020', 613, 16, 516],['4/30/2020', 618, 16, 526],['5/1/2020', 618, 16, 533],['5/2/2020', 620, 16, 541],['5/3/2020', 621, 17, 544],['5/4/2020', 623, 17, 548],['5/5/2020', 627, 17, 551],['5/6/2020', 628, 17, 558],['5/7/2020', 631, 17, 565],['5/8/2020', 631, 17, 565],['5/9/2020', 632, 17, 551],
+      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 0, 0, 0],['1/27/2020', 0, 0, 0],['1/28/2020', 0, 0, 0],['1/29/2020', 0, 0, 0],['1/30/2020', 0, 0, 0],['1/31/2020', 0, 0, 0],['2/1/2020', 0, 0, 0],['2/2/2020', 0, 0, 0],['2/3/2020', 0, 0, 0],['2/4/2020', 0, 0, 0],['2/5/2020', 0, 0, 0],['2/6/2020', 0, 0, 0],['2/7/2020', 0, 0, 0],['2/8/2020', 0, 0, 0],['2/9/2020', 0, 0, 0],['2/10/2020', 0, 0, 0],['2/11/2020', 0, 0, 0],['2/12/2020', 0, 0, 0],['2/13/2020', 0, 0, 0],['2/14/2020', 0, 0, 0],['2/15/2020', 0, 0, 0],['2/16/2020', 0, 0, 0],['2/17/2020', 0, 0, 0],['2/18/2020', 0, 0, 0],['2/19/2020', 0, 0, 0],['2/20/2020', 0, 0, 0],['2/21/2020', 0, 0, 0],['2/22/2020', 0, 0, 0],['2/23/2020', 0, 0, 0],['2/24/2020', 0, 0, 0],['2/25/2020', 0, 0, 0],['2/26/2020', 0, 0, 0],['2/27/2020', 0, 0, 0],['2/28/2020', 0, 0, 0],['2/29/2020', 0, 0, 0],['3/1/2020', 0, 0, 0],['3/2/2020', 0, 0, 0],['3/3/2020', 0, 0, 0],['3/4/2020', 0, 0, 0],['3/5/2020', 0, 0, 0],['3/6/2020', 0, 0, 0],['3/7/2020', 1, 0, 0],['3/8/2020', 1, 0, 0],['3/9/2020', 1, 0, 0],['3/10/2020', 1, 0, 0],['3/11/2020', 2, 0, 0],['3/12/2020', 2, 0, 0],['3/13/2020', 2, 0, 0],['3/14/2020', 4, 0, 0],['3/15/2020', 7, 0, 0],['3/16/2020', 11, 0, 0],['3/17/2020', 15, 0, 0],['3/18/2020', 16, 0, 0],['3/19/2020', 26, 0, 0],['3/20/2020', 37, 0, 0],['3/21/2020', 48, 0, 0],['3/22/2020', 56, 0, 0],['3/23/2020', 77, 0, 0],['3/24/2020', 90, 1, 0],['3/25/2020', 95, 0, 0],['3/26/2020', 106, 0, 0],['3/27/2020', 120, 0, 0],['3/28/2020', 149, 0, 0],['3/29/2020', 175, 0, 0],['3/30/2020', 204, 0, 0],['3/31/2020', 224, 1, 0],['4/1/2020', 256, 1, 49],['4/2/2020', 283, 2, 72],['4/3/2020', 319, 3, 72],['4/4/2020', 351, 3, 72],['4/5/2020', 371, 4, 72],['4/6/2020', 387, 5, 72],['4/7/2020', 410, 5, 72],['4/8/2020', 435, 5, 72],['4/9/2020', 442, 6, 251],['4/10/2020', 465, 8, 251],['4/11/2020', 486, 8, 251],['4/12/2020', 499, 9, 310],['4/13/2020', 504, 9, 310],['4/14/2020', 517, 9, 310],['4/15/2020', 530, 9, 359],['4/16/2020', 541, 9, 374],['4/17/2020', 553, 9, 374],['4/18/2020', 574, 9, 390],['4/19/2020', 580, 10, 414],['4/20/2020', 584, 10, 423],['4/21/2020', 586, 12, 437],['4/22/2020', 592, 12, 444],['4/23/2020', 596, 12, 455],['4/24/2020', 607, 12, 455],['4/25/2020', 605, 14, 482],['4/26/2020', 607, 14, 488],['4/27/2020', 607, 16, 493],['4/28/2020', 609, 16, 505],['4/29/2020', 613, 16, 516],['4/30/2020', 618, 16, 526],['5/1/2020', 618, 16, 533],['5/2/2020', 620, 16, 541],['5/3/2020', 621, 17, 544],['5/4/2020', 623, 17, 548],['5/5/2020', 627, 17, 551],['5/6/2020', 628, 17, 558],['5/7/2020', 631, 17, 565],['5/8/2020', 631, 17, 565],['5/9/2020', 632, 17, 551],['5/10/2020', 632, 17, 561],['5/11/2020', 632, 17, 561],
     ]);
     var options = {
       curveType: 'none',
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Hawaii", f:"Hawaii"}, 75, 0, 75, 0, 0, 0],[{v:"Honolulu", f:"Honolulu"}, 408, 0, 397, 11, 0, 0],[{v:"Kauai", f:"Kauai"}, 21, 0, 21, 0, 0, 0],[{v:"Maui", f:"Maui"}, 117, 0, 111, 6, 0, 0],[{v:"Out of HI", f:"Out of HI"}, 11, 1, 11, 0, 0, 0],
+      [{v:"Hawaii", f:"Hawaii"}, 75, 0, 75, 0, 0, 0],[{v:"Honolulu", f:"Honolulu"}, 408, 0, 397, 11, 0, 0],[{v:"Kauai", f:"Kauai"}, 21, 0, 21, 0, 0, 0],[{v:"Maui", f:"Maui"}, 117, 0, 111, 6, 0, 0],[{v:"Out of HI", f:"Out of HI"}, 11, 0, 11, 0, 0, 0],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));
@@ -140,54 +140,6 @@ images:
 		<div class="card-excerpt">Hawaii authorities are cracking down on rogue tourists who are visiting beaches, riding personal watercraft, shopping and generally flouting strict requirements that they quarantine for 14 days after arriving.</div>
 		<div class="card-meta">
 			<span class="card-provider">Mercury News</span> • <span class="card-date">5/7/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.newsweek.com/couple-arrested-honeymoon-hawaii-ignoring-coronavirus-quarantine-rules-1501744"><div class="card-image" style="background-image: url(https://d.newsweek.com/en/full/1587008/hawaii.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.newsweek.com/couple-arrested-honeymoon-hawaii-ignoring-coronavirus-quarantine-rules-1501744">Couple Arrested on Honeymoon In Hawaii for Ignoring Coronavirus Quarantine Rules</a></div>
-		<div class="card-excerpt">The pair told hotel staff that they planned to visit friends and go to beaches during their stay, before leaving the premises.</div>
-		<div class="card-meta">
-			<span class="card-provider">Newsweek</span> • <span class="card-date">5/4/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.jsonline.com/story/travel/news/2020/05/04/coronavirus-hawaii-travel-restrictions-keep-virus-numbers-down/3076497001/"><div class="card-image" style="background-image: url(https://www.gannett-cdn.com/presto/2020/05/04/USAT/2d94afc3-df05-4318-90da-731d4dfca452-AP_Virus_Outbreak_Hawaii_Ocean_Isolation_1.JPG?auto=webp&crop=5471,3078,x0,y556&format=pjpg&width=1200)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.jsonline.com/story/travel/news/2020/05/04/coronavirus-hawaii-travel-restrictions-keep-virus-numbers-down/3076497001/">Hawaii's tourism industry struggles as shutdown keeps coronavirus numbers among lowest in US</a></div>
-		<div class="card-excerpt">For the Pacific islands, controlling the coronavirus means cutting off tourism. Hawaii has among the lowest infection and mortality rates in the U.S.</div>
-		<div class="card-meta">
-			<span class="card-provider">Milwaukee Journal Sentinel</span> • <span class="card-date">5/4/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.wsj.com/articles/coronavirus-hits-hawaiis-tourism-dependent-workforce-hard-11588584601"><div class="card-image" style="background-image: url(https://images.wsj.net/im-181188/social)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.wsj.com/articles/coronavirus-hits-hawaiis-tourism-dependent-workforce-hard-11588584601">Coronavirus Hits Hawaii’s Tourism-Dependent Workforce Hard</a></div>
-		<div class="card-excerpt">The state’s workforce has sought unemployment benefits at the highest rate in the nation since mid-March, reflecting how hard the coronavirus pandemic has hit its vital tourism industry.</div>
-		<div class="card-meta">
-			<span class="card-provider">Wall Street Journal</span> • <span class="card-date">5/4/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.westhawaiitoday.com/2020/05/01/hawaii-news/one-new-coronavirus-case-reported-in-hawaii/"><div class="card-image" style="background-image: url(https://www.westhawaiitoday.com/wp-content/uploads/2020/05/web1_wht_localNews_logo.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.westhawaiitoday.com/2020/05/01/hawaii-news/one-new-coronavirus-case-reported-in-hawaii/">One new coronavirus case reported in Hawaii</a></div>
-		<div class="card-excerpt">The new case is on Oahu, which has had 400 cases. The numbers for Hawaii County (73), Maui County (116) and Kauai County (21) remain unchanged. There were no new deaths reported F</div>
-		<div class="card-meta">
-			<span class="card-provider">West Hawaii Today</span> • <span class="card-date">5/1/2020</span>
 		</div>
 	</div>
   </div>

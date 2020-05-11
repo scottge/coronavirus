@@ -7,14 +7,14 @@
     "isoCode": "HR",
     "lat": 45.1
   },
-  "updatedDateTime": "2020-05-10T05:45:39.5096974Z",
+  "updatedDateTime": "2020-05-11T17:42:22.865457Z",
   "stats": {
-    "totalConfirmedCases": 2176,
-    "newlyConfirmedCases": 15,
-    "totalDeaths": 87,
+    "totalConfirmedCases": 2196,
+    "newlyConfirmedCases": 9,
+    "totalDeaths": 91,
     "newDeaths": 1,
-    "totalRecoveredCases": 1726,
-    "newlyRecoveredCases": 37,
+    "totalRecoveredCases": 1784,
+    "newlyRecoveredCases": 20,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 2176,
         "deaths": 87,
         "recovered": 1726
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 2187,
+        "deaths": 90,
+        "recovered": 1764
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 2196,
+        "deaths": 91,
+        "recovered": 1784
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "HR",
           "lat": 45.1
         },
-        "totalConfirmedCases": 2176,
-        "newlyConfirmedCases": 15,
-        "totalDeaths": 87,
+        "totalConfirmedCases": 2196,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 91,
         "newDeaths": 1,
-        "totalRecoveredCases": 1726,
-        "newlyRecoveredCases": 37
+        "totalRecoveredCases": 1784,
+        "newlyRecoveredCases": 20
       }
     ]
   }

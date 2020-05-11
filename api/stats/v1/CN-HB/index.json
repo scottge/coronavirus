@@ -7,10 +7,10 @@
     "isoCode": "CN-HB",
     "lat": 30.9756
   },
-  "updatedDateTime": "2020-05-10T05:45:36.6009437Z",
+  "updatedDateTime": "2020-05-11T17:42:19.4491535Z",
   "stats": {
-    "totalConfirmedCases": 68129,
-    "newlyConfirmedCases": 1,
+    "totalConfirmedCases": 68134,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 4512,
     "newDeaths": 0,
     "totalRecoveredCases": 64452,
@@ -669,6 +669,18 @@
         "confirmed": 68129,
         "deaths": 4512,
         "recovered": 64452
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 68134,
+        "deaths": 4512,
+        "recovered": 64452
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 68134,
+        "deaths": 4512,
+        "recovered": 64452
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "CN-HB",
           "lat": 30.9756
         },
-        "totalConfirmedCases": 68129,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 68134,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4512,
         "newDeaths": 0,
         "totalRecoveredCases": 64452,

@@ -7,14 +7,14 @@
     "isoCode": "US-TX",
     "lat": 31.968599
   },
-  "updatedDateTime": "2020-05-10T05:45:38.8037083Z",
+  "updatedDateTime": "2020-05-11T17:42:21.8718836Z",
   "stats": {
-    "totalConfirmedCases": 38696,
-    "newlyConfirmedCases": 969,
-    "totalDeaths": 1111,
-    "newDeaths": 32,
+    "totalConfirmedCases": 40147,
+    "newlyConfirmedCases": 257,
+    "totalDeaths": 1133,
+    "newDeaths": 0,
     "totalRecoveredCases": 23589,
-    "newlyRecoveredCases": 3985,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 38696,
         "deaths": 1111,
         "recovered": 23589
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 39890,
+        "deaths": 1133,
+        "recovered": 23589
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 40147,
+        "deaths": 1133,
+        "recovered": 23589
       }
     ],
     "breakdowns": [
@@ -762,7 +774,7 @@
           "lat": 29.7965
         },
         "totalConfirmedCases": 15,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -793,8 +805,8 @@
           "isoCode": "US-TX",
           "lat": 30.2819
         },
-        "totalConfirmedCases": 108,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 109,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 6,
@@ -826,7 +838,7 @@
           "lat": 31.0525
         },
         "totalConfirmedCases": 220,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 58,
@@ -841,10 +853,10 @@
           "isoCode": "US-TX",
           "lat": 29.5545
         },
-        "totalConfirmedCases": 1835,
-        "newlyConfirmedCases": 30,
+        "totalConfirmedCases": 1901,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 56,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 361,
         "newlyRecoveredCases": 0
       },
@@ -873,7 +885,7 @@
           "isoCode": "US-TX",
           "lat": 34.06854817
         },
-        "totalConfirmedCases": 2,
+        "totalConfirmedCases": 3,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -921,10 +933,10 @@
           "isoCode": "US-TX",
           "lat": 29.0455
         },
-        "totalConfirmedCases": 644,
-        "newlyConfirmedCases": 31,
+        "totalConfirmedCases": 661,
+        "newlyConfirmedCases": 5,
         "totalDeaths": 9,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 210,
         "newlyRecoveredCases": 0
       },
@@ -937,8 +949,8 @@
           "isoCode": "US-TX",
           "lat": 30.5852
         },
-        "totalConfirmedCases": 256,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 271,
+        "newlyConfirmedCases": 6,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 50,
@@ -1018,7 +1030,7 @@
           "lat": 30.5677
         },
         "totalConfirmedCases": 26,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1033,8 +1045,8 @@
           "isoCode": "US-TX",
           "lat": 29.8785
         },
-        "totalConfirmedCases": 26,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1081,10 +1093,10 @@
           "isoCode": "US-TX",
           "lat": 26.0566
         },
-        "totalConfirmedCases": 494,
-        "newlyConfirmedCases": 11,
+        "totalConfirmedCases": 512,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 22,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 148,
         "newlyRecoveredCases": 0
       },
@@ -1113,7 +1125,7 @@
           "isoCode": "US-TX",
           "lat": 33.1378
         },
-        "totalConfirmedCases": 17,
+        "totalConfirmedCases": 20,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1129,7 +1141,7 @@
           "isoCode": "US-TX",
           "lat": 34.5324
         },
-        "totalConfirmedCases": 22,
+        "totalConfirmedCases": 23,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1145,7 +1157,7 @@
           "isoCode": "US-TX",
           "lat": 29.7269
         },
-        "totalConfirmedCases": 48,
+        "totalConfirmedCases": 50,
         "newlyConfirmedCases": 1,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1193,10 +1205,10 @@
           "isoCode": "US-TX",
           "lat": 33.1795
         },
-        "totalConfirmedCases": 889,
-        "newlyConfirmedCases": 30,
-        "totalDeaths": 27,
-        "newDeaths": 3,
+        "totalConfirmedCases": 920,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 28,
+        "newDeaths": 0,
         "totalRecoveredCases": 429,
         "newlyRecoveredCases": 0
       },
@@ -1273,8 +1285,8 @@
           "isoCode": "US-TX",
           "lat": 31.4187
         },
-        "totalConfirmedCases": 207,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 208,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1305,10 +1317,10 @@
           "isoCode": "US-TX",
           "lat": 32.7767
         },
-        "totalConfirmedCases": 5619,
-        "newlyConfirmedCases": 250,
+        "totalConfirmedCases": 5870,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 143,
-        "newDeaths": 8,
+        "newDeaths": 0,
         "totalRecoveredCases": 2,
         "newlyRecoveredCases": 0
       },
@@ -1337,7 +1349,7 @@
           "isoCode": "US-TX",
           "lat": 34.8232
         },
-        "totalConfirmedCases": 46,
+        "totalConfirmedCases": 59,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1369,10 +1381,10 @@
           "isoCode": "US-TX",
           "lat": 33.133
         },
-        "totalConfirmedCases": 902,
-        "newlyConfirmedCases": 30,
+        "totalConfirmedCases": 922,
+        "newlyConfirmedCases": 8,
         "totalDeaths": 25,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 321,
         "newlyRecoveredCases": 0
       },
@@ -1449,8 +1461,8 @@
           "isoCode": "US-TX",
           "lat": 32.0105
         },
-        "totalConfirmedCases": 98,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 102,
+        "newlyConfirmedCases": 4,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 23,
@@ -1465,10 +1477,10 @@
           "isoCode": "US-TX",
           "lat": 31.811
         },
-        "totalConfirmedCases": 1276,
-        "newlyConfirmedCases": 86,
-        "totalDeaths": 32,
-        "newDeaths": 2,
+        "totalConfirmedCases": 1340,
+        "newlyConfirmedCases": 18,
+        "totalDeaths": 33,
+        "newDeaths": 1,
         "totalRecoveredCases": 121,
         "newlyRecoveredCases": 0
       },
@@ -1482,7 +1494,7 @@
           "lat": 32.314
         },
         "totalConfirmedCases": 202,
-        "newlyConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1529,7 +1541,7 @@
           "isoCode": "US-TX",
           "lat": 34.4293
         },
-        "totalConfirmedCases": 1,
+        "totalConfirmedCases": 2,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1577,8 +1589,8 @@
           "isoCode": "US-TX",
           "lat": 30.064
         },
-        "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1609,10 +1621,10 @@
           "isoCode": "US-TX",
           "lat": 29.5693
         },
-        "totalConfirmedCases": 1357,
-        "newlyConfirmedCases": 25,
-        "totalDeaths": 36,
-        "newDeaths": 3,
+        "totalConfirmedCases": 1384,
+        "newlyConfirmedCases": 14,
+        "totalDeaths": 38,
+        "newDeaths": 2,
         "totalRecoveredCases": 104,
         "newlyRecoveredCases": 0
       },
@@ -1689,9 +1701,9 @@
           "isoCode": "US-TX",
           "lat": 29.4128
         },
-        "totalConfirmedCases": 676,
-        "newlyConfirmedCases": 4,
-        "totalDeaths": 28,
+        "totalConfirmedCases": 685,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 29,
         "newDeaths": 0,
         "totalRecoveredCases": 243,
         "newlyRecoveredCases": 0
@@ -1705,7 +1717,7 @@
           "isoCode": "US-TX",
           "lat": 34.96489496
         },
-        "totalConfirmedCases": 1,
+        "totalConfirmedCases": 4,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1721,8 +1733,8 @@
           "isoCode": "US-TX",
           "lat": 33.6233
         },
-        "totalConfirmedCases": 83,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 89,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1738,7 +1750,7 @@
           "lat": 29.7055
         },
         "totalConfirmedCases": 16,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1753,7 +1765,7 @@
           "isoCode": "US-TX",
           "lat": 32.4893
         },
-        "totalConfirmedCases": 117,
+        "totalConfirmedCases": 118,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1770,7 +1782,7 @@
           "lat": 30.3874
         },
         "totalConfirmedCases": 42,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1785,7 +1797,7 @@
           "isoCode": "US-TX",
           "lat": 29.4892
         },
-        "totalConfirmedCases": 92,
+        "totalConfirmedCases": 95,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1834,7 +1846,7 @@
           "lat": 33.5703
         },
         "totalConfirmedCases": 12,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1865,10 +1877,10 @@
           "isoCode": "US-TX",
           "lat": 29.7752
         },
-        "totalConfirmedCases": 7803,
-        "newlyConfirmedCases": 209,
-        "totalDeaths": 168,
-        "newDeaths": 8,
+        "totalConfirmedCases": 7878,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 172,
+        "newDeaths": 0,
         "totalRecoveredCases": 1459,
         "newlyRecoveredCases": 0
       },
@@ -1882,9 +1894,9 @@
           "lat": 34.07783319
         },
         "totalConfirmedCases": 4,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1897,9 +1909,9 @@
           "isoCode": "US-TX",
           "lat": 32.5886
         },
-        "totalConfirmedCases": 180,
+        "totalConfirmedCases": 186,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 7,
+        "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1913,10 +1925,10 @@
           "isoCode": "US-TX",
           "lat": 30.0392
         },
-        "totalConfirmedCases": 203,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 204,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 71,
         "newlyRecoveredCases": 0
       },
@@ -1945,7 +1957,7 @@
           "isoCode": "US-TX",
           "lat": 32.3075
         },
-        "totalConfirmedCases": 36,
+        "totalConfirmedCases": 41,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1977,9 +1989,9 @@
           "isoCode": "US-TX",
           "lat": 26.2585
         },
-        "totalConfirmedCases": 377,
-        "newlyConfirmedCases": 9,
-        "totalDeaths": 7,
+        "totalConfirmedCases": 389,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 79,
         "newlyRecoveredCases": 0
@@ -2073,7 +2085,7 @@
           "isoCode": "US-TX",
           "lat": 33.3222
         },
-        "totalConfirmedCases": 7,
+        "totalConfirmedCases": 8,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2089,7 +2101,7 @@
           "isoCode": "US-TX",
           "lat": 31.3177
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 13,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2122,7 +2134,7 @@
           "lat": 32.9324
         },
         "totalConfirmedCases": 57,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2185,10 +2197,10 @@
           "isoCode": "US-TX",
           "lat": 30.0522
         },
-        "totalConfirmedCases": 360,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 376,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 25,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 36,
         "newlyRecoveredCases": 0
       },
@@ -2233,7 +2245,7 @@
           "isoCode": "US-TX",
           "lat": 34.8674
         },
-        "totalConfirmedCases": 25,
+        "totalConfirmedCases": 26,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2266,7 +2278,7 @@
           "lat": 27.7609
         },
         "totalConfirmedCases": 5,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2282,7 +2294,7 @@
           "lat": 32.7315
         },
         "totalConfirmedCases": 116,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2298,7 +2310,7 @@
           "lat": 29.7844
         },
         "totalConfirmedCases": 19,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 8,
@@ -2313,7 +2325,7 @@
           "isoCode": "US-TX",
           "lat": 27.5095
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 11,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -2345,9 +2357,9 @@
           "isoCode": "US-TX",
           "lat": 33.6689
         },
-        "totalConfirmedCases": 77,
+        "totalConfirmedCases": 89,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 1,
+        "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -2361,7 +2373,7 @@
           "isoCode": "US-TX",
           "lat": 34.012
         },
-        "totalConfirmedCases": 5,
+        "totalConfirmedCases": 7,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2409,8 +2421,8 @@
           "isoCode": "US-TX",
           "lat": 30.047
         },
-        "totalConfirmedCases": 62,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 64,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2425,8 +2437,8 @@
           "isoCode": "US-TX",
           "lat": 31.307
         },
-        "totalConfirmedCases": 14,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2473,10 +2485,10 @@
           "isoCode": "US-TX",
           "lat": 33.6901
         },
-        "totalConfirmedCases": 583,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 592,
+        "newlyConfirmedCases": 3,
         "totalDeaths": 49,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 149,
         "newlyRecoveredCases": 0
       },
@@ -2570,7 +2582,7 @@
           "lat": 28.947
         },
         "totalConfirmedCases": 31,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 4,
@@ -2618,7 +2630,7 @@
           "lat": 28.8885
         },
         "totalConfirmedCases": 34,
-        "newlyConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -2633,7 +2645,7 @@
           "isoCode": "US-TX",
           "lat": 29.3532
         },
-        "totalConfirmedCases": 22,
+        "totalConfirmedCases": 31,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -2650,9 +2662,9 @@
           "lat": 32.0249
         },
         "totalConfirmedCases": 101,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 20,
         "newlyRecoveredCases": 0
       },
@@ -2666,7 +2678,7 @@
           "lat": 30.874
         },
         "totalConfirmedCases": 20,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2761,10 +2773,10 @@
           "isoCode": "US-TX",
           "lat": 36.0444
         },
-        "totalConfirmedCases": 494,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 527,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 21,
         "newlyRecoveredCases": 0
       },
@@ -2809,8 +2821,8 @@
           "isoCode": "US-TX",
           "lat": 29.2698
         },
-        "totalConfirmedCases": 40,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 53,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -2825,9 +2837,9 @@
           "isoCode": "US-TX",
           "lat": 31.8126
         },
-        "totalConfirmedCases": 202,
+        "totalConfirmedCases": 206,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 7,
+        "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 20,
         "newlyRecoveredCases": 0
@@ -2841,7 +2853,7 @@
           "isoCode": "US-TX",
           "lat": 35.5479
         },
-        "totalConfirmedCases": 73,
+        "totalConfirmedCases": 75,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2873,8 +2885,8 @@
           "isoCode": "US-TX",
           "lat": 27.8094
         },
-        "totalConfirmedCases": 128,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 132,
+        "newlyConfirmedCases": 3,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2906,7 +2918,7 @@
           "lat": 30.1291
         },
         "totalConfirmedCases": 85,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 28,
@@ -2922,7 +2934,7 @@
           "lat": 32.7508
         },
         "totalConfirmedCases": 45,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2969,8 +2981,8 @@
           "isoCode": "US-TX",
           "lat": 35.1989
         },
-        "totalConfirmedCases": 1101,
-        "newlyConfirmedCases": 74,
+        "totalConfirmedCases": 1124,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 15,
         "newDeaths": 0,
         "totalRecoveredCases": 20,
@@ -3001,8 +3013,8 @@
           "isoCode": "US-TX",
           "lat": 35.0539
         },
-        "totalConfirmedCases": 355,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 358,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 22,
@@ -3113,7 +3125,7 @@
           "isoCode": "US-TX",
           "lat": 30.5898
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 11,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -3130,7 +3142,7 @@
           "lat": 35.8914
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3145,8 +3157,8 @@
           "isoCode": "US-TX",
           "lat": 28.0969
         },
-        "totalConfirmedCases": 18,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3177,9 +3189,9 @@
           "isoCode": "US-TX",
           "lat": 31.944
         },
-        "totalConfirmedCases": 149,
+        "totalConfirmedCases": 152,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 4,
+        "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 6,
         "newlyRecoveredCases": 0
@@ -3194,7 +3206,7 @@
           "lat": 32.2222
         },
         "totalConfirmedCases": 174,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 59,
@@ -3241,7 +3253,7 @@
           "isoCode": "US-TX",
           "lat": 34.5374
         },
-        "totalConfirmedCases": 11,
+        "totalConfirmedCases": 12,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -3257,10 +3269,10 @@
           "isoCode": "US-TX",
           "lat": 32.7732
         },
-        "totalConfirmedCases": 3127,
-        "newlyConfirmedCases": 171,
-        "totalDeaths": 95,
-        "newDeaths": 5,
+        "totalConfirmedCases": 3695,
+        "newlyConfirmedCases": 485,
+        "totalDeaths": 103,
+        "newDeaths": 2,
         "totalRecoveredCases": 265,
         "newlyRecoveredCases": 0
       },
@@ -3274,7 +3286,7 @@
           "lat": 32.4522
         },
         "totalConfirmedCases": 384,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 3,
@@ -3321,8 +3333,8 @@
           "isoCode": "US-TX",
           "lat": 30.4088
         },
-        "totalConfirmedCases": 2095,
-        "newlyConfirmedCases": 24,
+        "totalConfirmedCases": 2127,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 60,
         "newDeaths": 0,
         "totalRecoveredCases": 267,
@@ -3417,7 +3429,7 @@
           "isoCode": "US-TX",
           "lat": 35.7026
         },
-        "totalConfirmedCases": 20,
+        "totalConfirmedCases": 21,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -3465,8 +3477,8 @@
           "isoCode": "US-TX",
           "lat": 28.8285
         },
-        "totalConfirmedCases": 148,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 150,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 13,
@@ -3497,8 +3509,8 @@
           "isoCode": "US-TX",
           "lat": 30.705
         },
-        "totalConfirmedCases": 337,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 340,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 14,
@@ -3514,7 +3526,7 @@
           "lat": 30.0996
         },
         "totalConfirmedCases": 38,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3530,7 +3542,7 @@
           "lat": 30.1586
         },
         "totalConfirmedCases": 164,
-        "newlyConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 14,
@@ -3561,8 +3573,8 @@
           "isoCode": "US-TX",
           "lat": 27.6555
         },
-        "totalConfirmedCases": 424,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 435,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 88,
@@ -3609,8 +3621,8 @@
           "isoCode": "US-TX",
           "lat": 33.9072
         },
-        "totalConfirmedCases": 74,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 75,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 15,
@@ -3625,8 +3637,8 @@
           "isoCode": "US-TX",
           "lat": 27.7132
         },
-        "totalConfirmedCases": 6,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3657,10 +3669,10 @@
           "isoCode": "US-TX",
           "lat": 30.513
         },
-        "totalConfirmedCases": 368,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 377,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 83,
         "newlyRecoveredCases": 0
       },
@@ -3674,7 +3686,7 @@
           "lat": 32.8898
         },
         "totalConfirmedCases": 92,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3689,7 +3701,7 @@
           "isoCode": "US-TX",
           "lat": 29.2358
         },
-        "totalConfirmedCases": 34,
+        "totalConfirmedCases": 35,
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
@@ -3706,7 +3718,7 @@
           "lat": 33.2099
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3818,7 +3830,7 @@
           "lat": 30.0772
         },
         "totalConfirmedCases": 9,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 2,
@@ -3914,7 +3926,7 @@
           "lat": 28.4364
         },
         "totalConfirmedCases": 2,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3945,7 +3957,7 @@
           "isoCode": "US-TX",
           "lat": 32.9305
         },
-        "totalConfirmedCases": 13,
+        "totalConfirmedCases": 14,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -3963,7 +3975,7 @@
         },
         "totalConfirmedCases": 168,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 7,
+        "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 5,
         "newlyRecoveredCases": 0
@@ -3978,7 +3990,7 @@
           "lat": 31.0755
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3994,7 +4006,7 @@
           "lat": 30.1833
         },
         "totalConfirmedCases": 5,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -4057,7 +4069,7 @@
           "isoCode": "US-TX",
           "lat": 33.1658
         },
-        "totalConfirmedCases": 29,
+        "totalConfirmedCases": 35,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -4138,7 +4150,7 @@
           "lat": 30.8926
         },
         "totalConfirmedCases": 15,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -4362,7 +4374,7 @@
           "lat": 34.5157
         },
         "totalConfirmedCases": 19,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -4409,7 +4421,7 @@
           "isoCode": "US-TX",
           "lat": 33.5523
         },
-        "totalConfirmedCases": 3,
+        "totalConfirmedCases": 9,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -4489,7 +4501,7 @@
           "isoCode": "US-TX",
           "lat": 36.4937
         },
-        "totalConfirmedCases": 20,
+        "totalConfirmedCases": 23,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -4506,7 +4518,7 @@
           "lat": 28.7221
         },
         "totalConfirmedCases": 2,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -4553,7 +4565,7 @@
           "isoCode": "US-TX",
           "lat": 35.5291
         },
-        "totalConfirmedCases": 13,
+        "totalConfirmedCases": 14,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,

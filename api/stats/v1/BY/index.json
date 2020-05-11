@@ -7,14 +7,14 @@
     "isoCode": "BY",
     "lat": 53.7098
   },
-  "updatedDateTime": "2020-05-10T05:45:39.3000181Z",
+  "updatedDateTime": "2020-05-11T17:42:22.5010089Z",
   "stats": {
-    "totalConfirmedCases": 22052,
-    "newlyConfirmedCases": 951,
-    "totalDeaths": 126,
-    "newDeaths": 5,
-    "totalRecoveredCases": 6050,
-    "newlyRecoveredCases": 566,
+    "totalConfirmedCases": 23906,
+    "newlyConfirmedCases": 933,
+    "totalDeaths": 135,
+    "newDeaths": 4,
+    "totalRecoveredCases": 6531,
+    "newlyRecoveredCases": 125,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 22052,
         "deaths": 126,
         "recovered": 6050
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 22973,
+        "deaths": 131,
+        "recovered": 6406
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 23906,
+        "deaths": 135,
+        "recovered": 6531
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "BY",
           "lat": 53.7098
         },
-        "totalConfirmedCases": 22052,
-        "newlyConfirmedCases": 951,
-        "totalDeaths": 126,
-        "newDeaths": 5,
-        "totalRecoveredCases": 6050,
-        "newlyRecoveredCases": 566
+        "totalConfirmedCases": 23906,
+        "newlyConfirmedCases": 933,
+        "totalDeaths": 135,
+        "newDeaths": 4,
+        "totalRecoveredCases": 6531,
+        "newlyRecoveredCases": 125
       }
     ]
   }

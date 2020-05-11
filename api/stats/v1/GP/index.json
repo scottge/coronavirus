@@ -7,7 +7,7 @@
     "isoCode": "GP",
     "lat": 16.995971
   },
-  "updatedDateTime": "2020-05-10T05:45:39.7230465Z",
+  "updatedDateTime": "2020-05-11T17:42:23.2556675Z",
   "stats": {
     "totalConfirmedCases": 154,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 154,
+        "deaths": 13,
+        "recovered": 104
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 154,
+        "deaths": 13,
+        "recovered": 104
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 154,
         "deaths": 13,
         "recovered": 104

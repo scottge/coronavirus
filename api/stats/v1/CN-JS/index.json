@@ -7,13 +7,13 @@
     "isoCode": "CN-JS",
     "lat": 32.9711
   },
-  "updatedDateTime": "2020-05-10T05:45:36.6168659Z",
+  "updatedDateTime": "2020-05-11T17:42:19.4786364Z",
   "stats": {
     "totalConfirmedCases": 653,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 652,
+    "totalRecoveredCases": 653,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 653,
         "deaths": 0,
         "recovered": 652
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 653,
+        "deaths": 0,
+        "recovered": 653
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 653,
+        "deaths": 0,
+        "recovered": 653
       }
     ],
     "breakdowns": [
@@ -685,7 +697,7 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 652,
+        "totalRecoveredCases": 653,
         "newlyRecoveredCases": 0
       }
     ]

@@ -7,13 +7,13 @@
     "isoCode": "SC",
     "lat": -4.679574
   },
-  "updatedDateTime": "2020-05-10T05:45:40.4334821Z",
+  "updatedDateTime": "2020-05-11T17:42:24.3465491Z",
   "stats": {
     "totalConfirmedCases": 11,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 8,
+    "totalRecoveredCases": 10,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 11,
         "deaths": 0,
         "recovered": 8
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 10
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 10
       }
     ],
     "breakdowns": [
@@ -685,7 +697,7 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 8,
+        "totalRecoveredCases": 10,
         "newlyRecoveredCases": 0
       }
     ]

@@ -7,13 +7,13 @@
     "isoCode": "US-AK",
     "lat": 63.588753
   },
-  "updatedDateTime": "2020-05-10T05:45:39.0818809Z",
+  "updatedDateTime": "2020-05-11T17:42:22.2493966Z",
   "stats": {
-    "totalConfirmedCases": 379,
-    "newlyConfirmedCases": 1,
+    "totalConfirmedCases": 380,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 10,
     "newDeaths": 0,
-    "totalRecoveredCases": 305,
+    "totalRecoveredCases": 324,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 379,
         "deaths": 10,
         "recovered": 305
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 380,
+        "deaths": 10,
+        "recovered": 324
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 380,
+        "deaths": 10,
+        "recovered": 324
       }
     ],
     "breakdowns": [
@@ -697,7 +709,7 @@
           "isoCode": "US-AK",
           "lat": 64.9061
         },
-        "totalConfirmedCases": 83,
+        "totalConfirmedCases": 84,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -762,7 +774,7 @@
           "lat": 60.4997
         },
         "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 16,

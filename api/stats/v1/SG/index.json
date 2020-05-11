@@ -7,14 +7,14 @@
     "isoCode": "SG",
     "lat": 1.2833
   },
-  "updatedDateTime": "2020-05-10T05:45:40.4477805Z",
+  "updatedDateTime": "2020-05-11T17:42:24.3729265Z",
   "stats": {
-    "totalConfirmedCases": 22460,
-    "newlyConfirmedCases": 753,
-    "totalDeaths": 20,
-    "newDeaths": 0,
-    "totalRecoveredCases": 2296,
-    "newlyRecoveredCases": 256,
+    "totalConfirmedCases": 23822,
+    "newlyConfirmedCases": 486,
+    "totalDeaths": 21,
+    "newDeaths": 1,
+    "totalRecoveredCases": 3225,
+    "newlyRecoveredCases": 504,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 22460,
         "deaths": 20,
         "recovered": 2296
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 23336,
+        "deaths": 20,
+        "recovered": 2721
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 23822,
+        "deaths": 21,
+        "recovered": 3225
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "SG",
           "lat": 1.2833
         },
-        "totalConfirmedCases": 22460,
-        "newlyConfirmedCases": 753,
-        "totalDeaths": 20,
-        "newDeaths": 0,
-        "totalRecoveredCases": 2296,
-        "newlyRecoveredCases": 256
+        "totalConfirmedCases": 23822,
+        "newlyConfirmedCases": 486,
+        "totalDeaths": 21,
+        "newDeaths": 1,
+        "totalRecoveredCases": 3225,
+        "newlyRecoveredCases": 504
       }
     ]
   }

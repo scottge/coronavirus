@@ -7,7 +7,7 @@
     "isoCode": "US-MN",
     "lat": 46.729553
   },
-  "updatedDateTime": "2020-05-10T05:45:38.5850637Z",
+  "updatedDateTime": "2020-05-11T17:42:21.5781333Z",
   "news": [
     {
       "path": "_news/2020-05-07-irish-fair-of-minnesota-in-august-canceled-because-of-coronavirus.md",
@@ -47,109 +47,6 @@
         "Coronavirus in US",
         "Coronavirus",
         "Events Impact"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-covid-19-turns-minnesotas-budget-surplus-into-24b-deficit.md",
-      "title": "COVID-19 turns Minnesota’s budget surplus into $2.4B deficit",
-      "excerpt": "MINNEAPOLIS (AP) — The COVID-19 pandemic has erased the state's budget cushion, Minnesota Management and Budget reported Tuesday. The agency said it now projects a nearly $2.43",
-      "heat": 115,
-      "tags": [
-        "US-MN"
-      ],
-      "type": "article",
-      "webUrl": "https://apnews.com/0c07d2bea296c1b897b474ba60282569",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/8c489a6d091940e9b02d72040da913d5/3000.jpeg",
-          "width": 3000,
-          "height": 1995,
-          "title": "COVID-19 turns Minnesota’s budget surplus into $2.4B deficit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-minnesotas-coronavirus-death-toll-tops-300-new-cases-spike.md",
-      "title": "Minnesota's coronavirus death toll tops 300; new cases spike",
-      "excerpt": "Minnesota's coronavirus death toll topped 300 people Tuesday as 15 new deaths raised the statewide total to 301, while the state reported its highest daily total of new cases yet. The Minnesota Department of Health recorded 365 new confirmed cases,",
-      "heat": 120,
-      "tags": [
-        "US-MN"
-      ],
-      "type": "article",
-      "webUrl": "https://www.sfgate.com/news/article/Minnesota-s-coronavirus-death-toll-tops-300-new-15231548.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus",
-        "New Cases"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-minnesotas-coronavirus-death-toll-tops-300-new-cases-spike.md",
-      "title": "Minnesota's Coronavirus Death Toll Tops 300; New Cases Spike",
-      "excerpt": "Minnesota 's coronavirus death toll topped 300 people Tuesday as 15 new deaths raised the statewide total to 301, while the state reported its highest daily total of new cases yet. The Minnesota Department of Health recorded 365 new confirmed cases,",
-      "heat": 180,
-      "tags": [
-        "US-MN"
-      ],
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/minnesota/articles/2020-04-28/minnesotas-coronavirus-death-toll-tops-300-new-cases-spike",
-      "ampWebUrl": "https://www.usnews.com/news/best-states/minnesota/articles/2020-04-28/minnesotas-coronavirus-death-toll-tops-300-new-cases-spike?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/minnesota/articles/2020-04-28/minnesotas-coronavirus-death-toll-tops-300-new-cases-spike?context=amp",
-      "publishedDateTime": "2020-04-28T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus",
-        "New Cases"
       ]
     }
   ]

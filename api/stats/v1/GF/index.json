@@ -7,14 +7,14 @@
     "isoCode": "GF",
     "lat": 3.9339
   },
-  "updatedDateTime": "2020-05-10T05:45:39.651111Z",
+  "updatedDateTime": "2020-05-11T17:42:23.1097535Z",
   "stats": {
     "totalConfirmedCases": 144,
-    "newlyConfirmedCases": 3,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 1,
     "newDeaths": 0,
     "totalRecoveredCases": 122,
-    "newlyRecoveredCases": 3,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 144,
         "deaths": 1,
         "recovered": 122
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 144,
+        "deaths": 1,
+        "recovered": 122
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 144,
+        "deaths": 1,
+        "recovered": 122
       }
     ],
     "breakdowns": [
@@ -682,11 +694,11 @@
           "lat": 3.9339
         },
         "totalConfirmedCases": 144,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 122,
-        "newlyRecoveredCases": 3
+        "newlyRecoveredCases": 0
       }
     ]
   }

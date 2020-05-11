@@ -7,14 +7,14 @@
     "isoCode": "AO",
     "lat": -11.202692
   },
-  "updatedDateTime": "2020-05-10T05:45:39.1357324Z",
+  "updatedDateTime": "2020-05-11T17:42:22.3308827Z",
   "stats": {
-    "totalConfirmedCases": 43,
+    "totalConfirmedCases": 45,
     "newlyConfirmedCases": 0,
     "totalDeaths": 2,
     "newDeaths": 0,
     "totalRecoveredCases": 13,
-    "newlyRecoveredCases": 2,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 43,
         "deaths": 2,
         "recovered": 13
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 45,
+        "deaths": 2,
+        "recovered": 13
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 45,
+        "deaths": 2,
+        "recovered": 13
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "AO",
           "lat": -11.202692
         },
-        "totalConfirmedCases": 43,
+        "totalConfirmedCases": 45,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 13,
-        "newlyRecoveredCases": 2
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "TN",
     "lat": 34.0
   },
-  "updatedDateTime": "2020-05-10T05:45:40.5940343Z",
+  "updatedDateTime": "2020-05-11T17:42:24.6165335Z",
   "stats": {
     "totalConfirmedCases": 1032,
-    "newlyConfirmedCases": 2,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 45,
     "newDeaths": 0,
-    "totalRecoveredCases": 660,
-    "newlyRecoveredCases": 22,
+    "totalRecoveredCases": 700,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 1032,
         "deaths": 45,
         "recovered": 660
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 1032,
+        "deaths": 45,
+        "recovered": 700
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 1032,
+        "deaths": 45,
+        "recovered": 700
       }
     ],
     "breakdowns": [
@@ -682,11 +694,11 @@
           "lat": 34.0
         },
         "totalConfirmedCases": 1032,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 45,
         "newDeaths": 0,
-        "totalRecoveredCases": 660,
-        "newlyRecoveredCases": 22
+        "totalRecoveredCases": 700,
+        "newlyRecoveredCases": 0
       }
     ]
   }

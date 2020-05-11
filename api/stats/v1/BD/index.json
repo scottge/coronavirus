@@ -7,14 +7,14 @@
     "isoCode": "BD",
     "lat": 23.685
   },
-  "updatedDateTime": "2020-05-10T05:45:39.2810693Z",
+  "updatedDateTime": "2020-05-11T17:42:22.4759406Z",
   "stats": {
-    "totalConfirmedCases": 13770,
-    "newlyConfirmedCases": 636,
-    "totalDeaths": 214,
-    "newDeaths": 8,
-    "totalRecoveredCases": 2414,
-    "newlyRecoveredCases": 313,
+    "totalConfirmedCases": 15691,
+    "newlyConfirmedCases": 1034,
+    "totalDeaths": 239,
+    "newDeaths": 11,
+    "totalRecoveredCases": 2902,
+    "newlyRecoveredCases": 252,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 13770,
         "deaths": 214,
         "recovered": 2414
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 14657,
+        "deaths": 228,
+        "recovered": 2650
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 15691,
+        "deaths": 239,
+        "recovered": 2902
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "BD",
           "lat": 23.685
         },
-        "totalConfirmedCases": 13770,
-        "newlyConfirmedCases": 636,
-        "totalDeaths": 214,
-        "newDeaths": 8,
-        "totalRecoveredCases": 2414,
-        "newlyRecoveredCases": 313
+        "totalConfirmedCases": 15691,
+        "newlyConfirmedCases": 1034,
+        "totalDeaths": 239,
+        "newDeaths": 11,
+        "totalRecoveredCases": 2902,
+        "newlyRecoveredCases": 252
       }
     ]
   }

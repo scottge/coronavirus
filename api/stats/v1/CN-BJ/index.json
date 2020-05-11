@@ -7,14 +7,14 @@
     "isoCode": "CN-BJ",
     "lat": 40.1824
   },
-  "updatedDateTime": "2020-05-10T05:45:36.4643616Z",
+  "updatedDateTime": "2020-05-11T17:42:19.2925781Z",
   "stats": {
     "totalConfirmedCases": 593,
     "newlyConfirmedCases": 0,
     "totalDeaths": 9,
     "newDeaths": 0,
-    "totalRecoveredCases": 565,
-    "newlyRecoveredCases": 5,
+    "totalRecoveredCases": 568,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 593,
         "deaths": 9,
         "recovered": 565
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 593,
+        "deaths": 9,
+        "recovered": 568
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 593,
+        "deaths": 9,
+        "recovered": 568
       }
     ],
     "breakdowns": [
@@ -685,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
-        "totalRecoveredCases": 565,
-        "newlyRecoveredCases": 5
+        "totalRecoveredCases": 568,
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "KN",
     "lat": 17.357822
   },
-  "updatedDateTime": "2020-05-10T05:45:40.3749067Z",
+  "updatedDateTime": "2020-05-11T17:42:24.221857Z",
   "stats": {
     "totalConfirmedCases": 15,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
     "totalRecoveredCases": 14,
-    "newlyRecoveredCases": 1,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 15,
         "deaths": 0,
         "recovered": 14
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 14
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 14
       }
     ],
     "breakdowns": [
@@ -686,7 +698,7 @@
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 14,
-        "newlyRecoveredCases": 1
+        "newlyRecoveredCases": 0
       }
     ]
   }

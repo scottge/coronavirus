@@ -7,14 +7,14 @@
     "isoCode": "CY",
     "lat": 35.1264
   },
-  "updatedDateTime": "2020-05-10T05:45:39.5223648Z",
+  "updatedDateTime": "2020-05-11T17:42:22.8909054Z",
   "stats": {
-    "totalConfirmedCases": 892,
-    "newlyConfirmedCases": 1,
-    "totalDeaths": 15,
+    "totalConfirmedCases": 901,
+    "newlyConfirmedCases": 3,
+    "totalDeaths": 16,
     "newDeaths": 0,
     "totalRecoveredCases": 401,
-    "newlyRecoveredCases": 1,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 892,
         "deaths": 15,
         "recovered": 401
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 898,
+        "deaths": 16,
+        "recovered": 401
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 901,
+        "deaths": 16,
+        "recovered": 401
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "CY",
           "lat": 35.1264
         },
-        "totalConfirmedCases": 892,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 15,
+        "totalConfirmedCases": 901,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 16,
         "newDeaths": 0,
         "totalRecoveredCases": 401,
-        "newlyRecoveredCases": 1
+        "newlyRecoveredCases": 0
       }
     ]
   }

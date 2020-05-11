@@ -7,14 +7,14 @@
     "isoCode": "CN-MO",
     "lat": 22.1667
   },
-  "updatedDateTime": "2020-05-10T05:45:36.6477482Z",
+  "updatedDateTime": "2020-05-11T17:42:19.532088Z",
   "stats": {
     "totalConfirmedCases": 45,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 40,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 42,
+    "newlyRecoveredCases": 1,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 45,
         "deaths": 0,
         "recovered": 40
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 45,
+        "deaths": 0,
+        "recovered": 41
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 45,
+        "deaths": 0,
+        "recovered": 42
       }
     ],
     "breakdowns": [
@@ -685,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 40,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 42,
+        "newlyRecoveredCases": 1
       }
     ]
   }

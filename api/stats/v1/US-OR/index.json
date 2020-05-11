@@ -7,12 +7,12 @@
     "isoCode": "US-OR",
     "lat": 43.804133
   },
-  "updatedDateTime": "2020-05-10T05:45:38.744462Z",
+  "updatedDateTime": "2020-05-11T17:42:21.7778516Z",
   "stats": {
-    "totalConfirmedCases": 3160,
-    "newlyConfirmedCases": 91,
+    "totalConfirmedCases": 3228,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 127,
-    "newDeaths": 3,
+    "newDeaths": 0,
     "totalRecoveredCases": 1125,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 3160,
         "deaths": 127,
         "recovered": 1125
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 3228,
+        "deaths": 127,
+        "recovered": 1125
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 3228,
+        "deaths": 127,
+        "recovered": 1125
       }
     ],
     "breakdowns": [
@@ -681,7 +693,7 @@
           "isoCode": "US-OR",
           "lat": 44.3307
         },
-        "totalConfirmedCases": 44,
+        "totalConfirmedCases": 47,
         "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
@@ -697,10 +709,10 @@
           "isoCode": "US-OR",
           "lat": 45.4239
         },
-        "totalConfirmedCases": 256,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 266,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -713,8 +725,8 @@
           "isoCode": "US-OR",
           "lat": 46.1303
         },
-        "totalConfirmedCases": 28,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -745,8 +757,8 @@
           "isoCode": "US-OR",
           "lat": 43.8325
         },
-        "totalConfirmedCases": 85,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 86,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -793,8 +805,8 @@
           "isoCode": "US-OR",
           "lat": 45.6354
         },
-        "totalConfirmedCases": 12,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -858,7 +870,7 @@
           "lat": 44.0563
         },
         "totalConfirmedCases": 60,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 15,
@@ -890,9 +902,9 @@
           "lat": 44.3561
         },
         "totalConfirmedCases": 102,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -905,8 +917,8 @@
           "isoCode": "US-OR",
           "lat": 44.8446
         },
-        "totalConfirmedCases": 663,
-        "newlyConfirmedCases": 37,
+        "totalConfirmedCases": 677,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 23,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -937,10 +949,10 @@
           "isoCode": "US-OR",
           "lat": 45.5146
         },
-        "totalConfirmedCases": 863,
-        "newlyConfirmedCases": 24,
+        "totalConfirmedCases": 885,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 53,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -953,8 +965,8 @@
           "isoCode": "US-OR",
           "lat": 44.9267
         },
-        "totalConfirmedCases": 82,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 84,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -985,8 +997,8 @@
           "isoCode": "US-OR",
           "lat": 45.775
         },
-        "totalConfirmedCases": 84,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 85,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1033,8 +1045,8 @@
           "isoCode": "US-OR",
           "lat": 45.547
         },
-        "totalConfirmedCases": 562,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 573,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1049,8 +1061,8 @@
           "isoCode": "US-OR",
           "lat": 45.211
         },
-        "totalConfirmedCases": 47,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 49,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1066,7 +1078,7 @@
           "lat": 44.2476
         },
         "totalConfirmedCases": 14,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1146,7 +1158,7 @@
           "lat": 42.886
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1162,7 +1174,7 @@
           "lat": 44.5232
         },
         "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

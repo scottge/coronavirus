@@ -7,14 +7,14 @@
     "isoCode": "CN-NM",
     "lat": 44.0935
   },
-  "updatedDateTime": "2020-05-10T05:45:36.6549676Z",
+  "updatedDateTime": "2020-05-11T17:42:19.5451379Z",
   "stats": {
-    "totalConfirmedCases": 201,
+    "totalConfirmedCases": 208,
     "newlyConfirmedCases": 0,
     "totalDeaths": 1,
     "newDeaths": 0,
-    "totalRecoveredCases": 184,
-    "newlyRecoveredCases": 12,
+    "totalRecoveredCases": 187,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 201,
         "deaths": 1,
         "recovered": 184
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 208,
+        "deaths": 1,
+        "recovered": 187
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 208,
+        "deaths": 1,
+        "recovered": 187
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "CN-NM",
           "lat": 44.0935
         },
-        "totalConfirmedCases": 201,
+        "totalConfirmedCases": 208,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
-        "totalRecoveredCases": 184,
-        "newlyRecoveredCases": 12
+        "totalRecoveredCases": 187,
+        "newlyRecoveredCases": 0
       }
     ]
   }

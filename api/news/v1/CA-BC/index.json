@@ -7,7 +7,7 @@
     "isoCode": "CA-BC",
     "lat": 49.2827
   },
-  "updatedDateTime": "2020-05-10T05:45:36.3712373Z",
+  "updatedDateTime": "2020-05-11T17:42:19.1304898Z",
   "news": [
     {
       "path": "_news/2020-05-07-canadas-british-columbia-the-latest-province-to-unveil-restart-plan.md",
@@ -79,47 +79,6 @@
           "width": 1200,
           "height": 700,
           "title": "The Latest: NHL offered place to play in British Columbia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in Canada",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-feds-investing-175-million-in-vancouver-company-studying-covid-19.md",
-      "title": "Feds investing $175 million in Vancouver company studying COVID 19",
-      "excerpt": "The federal government is investing millions to boost online access to health services and to support a Vancouver biological company's research into treatment and prevention of COVID-19.",
-      "heat": 105,
-      "tags": [
-        "CA",
-        "CA-BC",
-        "Canada-BC"
-      ],
-      "type": "article",
-      "webUrl": "https://www.cbc.ca/news/canada/british-columbia/feds-investing-175-million-in-vancouver-company-studying-covid-19-1.5553950",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.5553950",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5553950",
-      "publishedDateTime": "2020-05-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.5496573.1584110462!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-19-abcellera.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Feds investing $175 million in Vancouver company studying COVID 19",
           "attribution": null
         }
       ],

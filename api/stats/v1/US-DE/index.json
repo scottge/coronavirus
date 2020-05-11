@@ -7,14 +7,14 @@
     "isoCode": "US-DE",
     "lat": 38.910832
   },
-  "updatedDateTime": "2020-05-10T05:45:38.8961715Z",
+  "updatedDateTime": "2020-05-11T17:42:22.0231707Z",
   "stats": {
-    "totalConfirmedCases": 6277,
-    "newlyConfirmedCases": 166,
-    "totalDeaths": 221,
-    "newDeaths": 8,
-    "totalRecoveredCases": 2228,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 6565,
+    "newlyConfirmedCases": 118,
+    "totalDeaths": 225,
+    "newDeaths": 1,
+    "totalRecoveredCases": 2619,
+    "newlyRecoveredCases": 82,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 6277,
         "deaths": 221,
         "recovered": 2228
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 6447,
+        "deaths": 224,
+        "recovered": 2537
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 6565,
+        "deaths": 225,
+        "recovered": 2619
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "US-DE",
           "lat": 38.8699
         },
-        "totalConfirmedCases": 985,
-        "newlyConfirmedCases": 22,
+        "totalConfirmedCases": 1016,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 38,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -697,10 +709,10 @@
           "isoCode": "US-DE",
           "lat": 39.5393
         },
-        "totalConfirmedCases": 2275,
-        "newlyConfirmedCases": 91,
+        "totalConfirmedCases": 2331,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 93,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -713,10 +725,10 @@
           "isoCode": "US-DE",
           "lat": 38.4603
         },
-        "totalConfirmedCases": 2990,
-        "newlyConfirmedCases": 54,
+        "totalConfirmedCases": 3059,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 90,
-        "newDeaths": 4,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       }

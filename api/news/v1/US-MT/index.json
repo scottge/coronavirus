@@ -7,7 +7,7 @@
     "isoCode": "US-MT",
     "lat": 46.879682
   },
-  "updatedDateTime": "2020-05-10T05:45:38.977939Z",
+  "updatedDateTime": "2020-05-11T17:42:22.158216Z",
   "news": [
     {
       "path": "_news/2020-05-08-some-montana-schools-reopen-doors-to-students-following-coronavirus-closures.md",
@@ -166,86 +166,6 @@
       "topics": [
         "Coronavirus in US",
         "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-small-montana-schools-could-be-first-to-reopen-after-covid-19-closures.md",
-      "title": "Small Montana schools could be first to reopen after Covid-19 closures",
-      "excerpt": "(CNN)A one-teacher, one-room school in Montana may be among the nation's first to reopen -- as soon as Thursday -- after being closed due to Covid-19. The Cohagen Elementary School, which has kindergarten through eighth grade, will open its doors that day to its 14 students, Garfield County School Superintendent Heather Gibson told CNN.",
-      "heat": 195,
-      "tags": [
-        "US-MT"
-      ],
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/05/05/us/montana-schools-reopen/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/05/us/montana-schools-reopen/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/us/montana-schools-reopen/index.html",
-      "publishedDateTime": "2020-05-05T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200505161732-willow-creek-school-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Small Montana schools could be first to reopen after Covid-19 closures",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus",
-        "Education Impact"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-at-least-60-montana-school-districts-to-remain-closed-no-known-reopenings-state-officials-say.md",
-      "title": "At least 60+ Montana school districts to remain closed, no known reopenings, state officials say",
-      "excerpt": "More than 60 Montana school districts have decided to keep campuses closed for the rest of the school year — and state education officials don't know of a single school",
-      "heat": 107,
-      "tags": [
-        "US-MT"
-      ],
-      "type": "article",
-      "webUrl": "https://billingsgazette.com/news/local/at-least-60-montana-school-districts-to-remain-closed-no-known-reopenings-state-officials-say/article_e141a91f-d393-5388-8e51-4560054e3f9f.html",
-      "ampWebUrl": "https://billingsgazette.com/news/local/at-least-60-montana-school-districts-to-remain-closed-no-known-reopenings-state-officials-say/article_e141a91f-d393-5388-8e51-4560054e3f9f.amp.html",
-      "cdnAmpWebUrl": "https://billingsgazette-com.cdn.ampproject.org/c/s/billingsgazette.com/news/local/at-least-60-montana-school-districts-to-remain-closed-no-known-reopenings-state-officials-say/article_e141a91f-d393-5388-8e51-4560054e3f9f.amp.html",
-      "publishedDateTime": "2020-04-29T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Billings Gazette",
-        "domain": "billingsgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/6/24/62451d30-354d-518f-9f99-10cb01cb087b/5ceb6944f3d8e.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "At least 60+ Montana school districts to remain closed, no known reopenings, state officials say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus",
-        "Education Impact"
       ]
     }
   ]

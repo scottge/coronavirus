@@ -7,14 +7,14 @@
     "isoCode": "MC",
     "lat": 43.7333
   },
-  "updatedDateTime": "2020-05-10T05:45:40.1548366Z",
+  "updatedDateTime": "2020-05-11T17:42:23.8495838Z",
   "stats": {
     "totalConfirmedCases": 96,
-    "newlyConfirmedCases": 1,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 4,
     "newDeaths": 0,
-    "totalRecoveredCases": 82,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 85,
+    "newlyRecoveredCases": 3,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 96,
         "deaths": 4,
         "recovered": 82
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 96,
+        "deaths": 4,
+        "recovered": 82
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 96,
+        "deaths": 4,
+        "recovered": 85
       }
     ],
     "breakdowns": [
@@ -682,11 +694,11 @@
           "lat": 43.7333
         },
         "totalConfirmedCases": 96,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
-        "totalRecoveredCases": 82,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 85,
+        "newlyRecoveredCases": 3
       }
     ]
   }

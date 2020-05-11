@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "Singapore Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in Singapore. Total Cases: 22460 (+753), Deaths: 20 (-), Recoveries: 2296(+256)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in Singapore. Total Cases: 23822 (+486), Deaths: 21 (+1), Recoveries: 3225(+504)."
+publishedDateTime: 2020-05-11T17:42:26Z
+updatedDateTime: 2020-05-11T17:42:26Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/singapore/"
 type: article
 heat: 500
@@ -30,15 +30,15 @@ images:
 <div class="total-stats" style="text-align: center;">
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Confirmed Cases:</div>
-	    22460 (<span class='red'>+753</span>)
+	    23822 (<span class='red'>+486</span>)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Deaths:</div>
-	    20 (-)
+	    21 (<span class='red'>+1</span>)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
-	    2296 (<span class='green'>+256</span>)
+	    3225 (<span class='green'>+504</span>)
     </h3>
 </div>
 
@@ -51,7 +51,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 0, 0, 0],['1/23/2020', 1, 0, 0],['1/24/2020', 3, 0, 0],['1/25/2020', 3, 0, 0],['1/26/2020', 4, 0, 0],['1/27/2020', 5, 0, 0],['1/28/2020', 7, 0, 0],['1/29/2020', 7, 0, 0],['1/30/2020', 10, 0, 0],['1/31/2020', 13, 0, 0],['2/1/2020', 16, 0, 0],['2/2/2020', 18, 0, 0],['2/3/2020', 18, 0, 0],['2/4/2020', 24, 0, 0],['2/5/2020', 28, 0, 0],['2/6/2020', 28, 0, 0],['2/7/2020', 30, 0, 0],['2/8/2020', 33, 0, 2],['2/9/2020', 40, 0, 2],['2/10/2020', 45, 0, 2],['2/11/2020', 47, 0, 9],['2/12/2020', 50, 0, 15],['2/13/2020', 58, 0, 15],['2/14/2020', 67, 0, 17],['2/15/2020', 72, 0, 18],['2/16/2020', 75, 0, 18],['2/17/2020', 77, 0, 24],['2/18/2020', 81, 0, 29],['2/19/2020', 84, 0, 34],['2/20/2020', 84, 0, 34],['2/21/2020', 85, 0, 37],['2/22/2020', 85, 0, 37],['2/23/2020', 89, 0, 51],['2/24/2020', 89, 0, 51],['2/25/2020', 91, 0, 53],['2/26/2020', 93, 0, 62],['2/27/2020', 93, 0, 62],['2/28/2020', 93, 0, 62],['2/29/2020', 102, 0, 72],['3/1/2020', 106, 0, 72],['3/2/2020', 108, 0, 78],['3/3/2020', 110, 0, 78],['3/4/2020', 110, 0, 78],['3/5/2020', 117, 0, 78],['3/6/2020', 130, 0, 78],['3/7/2020', 138, 0, 78],['3/8/2020', 150, 0, 78],['3/9/2020', 150, 0, 78],['3/10/2020', 160, 0, 78],['3/11/2020', 178, 0, 96],['3/12/2020', 187, 0, 96],['3/13/2020', 200, 0, 97],['3/14/2020', 212, 0, 105],['3/15/2020', 226, 0, 105],['3/16/2020', 243, 0, 109],['3/17/2020', 266, 0, 114],['3/18/2020', 313, 0, 117],['3/19/2020', 345, 0, 124],['3/20/2020', 385, 2, 131],['3/21/2020', 432, 2, 140],['3/22/2020', 455, 2, 144],['3/23/2020', 509, 2, 152],['3/24/2020', 558, 2, 156],['3/25/2020', 631, 2, 160],['3/26/2020', 683, 2, 172],['3/27/2020', 732, 2, 183],['3/28/2020', 802, 3, 198],['3/29/2020', 844, 3, 212],['3/30/2020', 879, 3, 228],['3/31/2020', 926, 3, 240],['4/1/2020', 1000, 4, 245],['4/2/2020', 1049, 5, 266],['4/3/2020', 1114, 5, 282],['4/4/2020', 1189, 6, 297],['4/5/2020', 1309, 6, 320],['4/6/2020', 1375, 6, 344],['4/7/2020', 1481, 6, 377],['4/8/2020', 1623, 6, 406],['4/9/2020', 1910, 7, 460],['4/10/2020', 2108, 7, 492],['4/11/2020', 2299, 8, 528],['4/12/2020', 2532, 8, 560],['4/13/2020', 2918, 9, 586],['4/14/2020', 3252, 10, 611],['4/15/2020', 3699, 10, 652],['4/16/2020', 4427, 10, 683],['4/17/2020', 5050, 11, 708],['4/18/2020', 5992, 11, 740],['4/19/2020', 6588, 11, 768],['4/20/2020', 8014, 11, 801],['4/21/2020', 9125, 11, 839],['4/22/2020', 10141, 12, 896],['4/23/2020', 11178, 12, 924],['4/24/2020', 12075, 12, 956],['4/25/2020', 13624, 12, 1002],['4/26/2020', 13624, 12, 1060],['4/27/2020', 14423, 14, 1095],['4/28/2020', 14951, 14, 1128],['4/29/2020', 15641, 14, 1188],['4/30/2020', 16169, 15, 1244],['5/1/2020', 16858, 16, 1295],['5/2/2020', 17548, 17, 1347],['5/3/2020', 18205, 18, 1408],['5/4/2020', 18778, 18, 1457],['5/5/2020', 19410, 18, 1519],['5/6/2020', 20198, 20, 1634],['5/7/2020', 20939, 20, 1712],['5/8/2020', 21707, 20, 2040],['5/9/2020', 22460, 20, 2296],
+      ['1/22/2020', 0, 0, 0],['1/23/2020', 1, 0, 0],['1/24/2020', 3, 0, 0],['1/25/2020', 3, 0, 0],['1/26/2020', 4, 0, 0],['1/27/2020', 5, 0, 0],['1/28/2020', 7, 0, 0],['1/29/2020', 7, 0, 0],['1/30/2020', 10, 0, 0],['1/31/2020', 13, 0, 0],['2/1/2020', 16, 0, 0],['2/2/2020', 18, 0, 0],['2/3/2020', 18, 0, 0],['2/4/2020', 24, 0, 0],['2/5/2020', 28, 0, 0],['2/6/2020', 28, 0, 0],['2/7/2020', 30, 0, 0],['2/8/2020', 33, 0, 2],['2/9/2020', 40, 0, 2],['2/10/2020', 45, 0, 2],['2/11/2020', 47, 0, 9],['2/12/2020', 50, 0, 15],['2/13/2020', 58, 0, 15],['2/14/2020', 67, 0, 17],['2/15/2020', 72, 0, 18],['2/16/2020', 75, 0, 18],['2/17/2020', 77, 0, 24],['2/18/2020', 81, 0, 29],['2/19/2020', 84, 0, 34],['2/20/2020', 84, 0, 34],['2/21/2020', 85, 0, 37],['2/22/2020', 85, 0, 37],['2/23/2020', 89, 0, 51],['2/24/2020', 89, 0, 51],['2/25/2020', 91, 0, 53],['2/26/2020', 93, 0, 62],['2/27/2020', 93, 0, 62],['2/28/2020', 93, 0, 62],['2/29/2020', 102, 0, 72],['3/1/2020', 106, 0, 72],['3/2/2020', 108, 0, 78],['3/3/2020', 110, 0, 78],['3/4/2020', 110, 0, 78],['3/5/2020', 117, 0, 78],['3/6/2020', 130, 0, 78],['3/7/2020', 138, 0, 78],['3/8/2020', 150, 0, 78],['3/9/2020', 150, 0, 78],['3/10/2020', 160, 0, 78],['3/11/2020', 178, 0, 96],['3/12/2020', 187, 0, 96],['3/13/2020', 200, 0, 97],['3/14/2020', 212, 0, 105],['3/15/2020', 226, 0, 105],['3/16/2020', 243, 0, 109],['3/17/2020', 266, 0, 114],['3/18/2020', 313, 0, 117],['3/19/2020', 345, 0, 124],['3/20/2020', 385, 2, 131],['3/21/2020', 432, 2, 140],['3/22/2020', 455, 2, 144],['3/23/2020', 509, 2, 152],['3/24/2020', 558, 2, 156],['3/25/2020', 631, 2, 160],['3/26/2020', 683, 2, 172],['3/27/2020', 732, 2, 183],['3/28/2020', 802, 3, 198],['3/29/2020', 844, 3, 212],['3/30/2020', 879, 3, 228],['3/31/2020', 926, 3, 240],['4/1/2020', 1000, 4, 245],['4/2/2020', 1049, 5, 266],['4/3/2020', 1114, 5, 282],['4/4/2020', 1189, 6, 297],['4/5/2020', 1309, 6, 320],['4/6/2020', 1375, 6, 344],['4/7/2020', 1481, 6, 377],['4/8/2020', 1623, 6, 406],['4/9/2020', 1910, 7, 460],['4/10/2020', 2108, 7, 492],['4/11/2020', 2299, 8, 528],['4/12/2020', 2532, 8, 560],['4/13/2020', 2918, 9, 586],['4/14/2020', 3252, 10, 611],['4/15/2020', 3699, 10, 652],['4/16/2020', 4427, 10, 683],['4/17/2020', 5050, 11, 708],['4/18/2020', 5992, 11, 740],['4/19/2020', 6588, 11, 768],['4/20/2020', 8014, 11, 801],['4/21/2020', 9125, 11, 839],['4/22/2020', 10141, 12, 896],['4/23/2020', 11178, 12, 924],['4/24/2020', 12075, 12, 956],['4/25/2020', 13624, 12, 1002],['4/26/2020', 13624, 12, 1060],['4/27/2020', 14423, 14, 1095],['4/28/2020', 14951, 14, 1128],['4/29/2020', 15641, 14, 1188],['4/30/2020', 16169, 15, 1244],['5/1/2020', 16858, 16, 1295],['5/2/2020', 17548, 17, 1347],['5/3/2020', 18205, 18, 1408],['5/4/2020', 18778, 18, 1457],['5/5/2020', 19410, 18, 1519],['5/6/2020', 20198, 20, 1634],['5/7/2020', 20939, 20, 1712],['5/8/2020', 21707, 20, 2040],['5/9/2020', 22460, 20, 2296],['5/10/2020', 23336, 20, 2721],['5/11/2020', 23822, 21, 3225],
     ]);
     var options = {
       curveType: 'none',
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['Location', 'Total Cases', 'Total Deaths'],
-      ["Singapore", 22460, 20]
+      ["Singapore", 23822, 21]
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -184,18 +184,6 @@ images:
 </div>
 <div class="col-md-6 col-sm-12">
   <div class="content-card">
-	<a href="https://www.cnbc.com/2020/05/06/coronavirus-latest-updates-asia-europe.html"><div class="card-image" style="background-image: url(https://image.cnbcfm.com/api/v1/image/106482678-1586459154608gettyimages-1208458989.jpeg?v=1588745855)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.cnbc.com/2020/05/06/coronavirus-latest-updates-asia-europe.html">Coronavirus live updates: India's services industry crumbles; Singapore's cases cross 20,000</a></div>
-		<div class="card-excerpt">The IHS Markit India Services Business Activity Index came in at 5.4 in April — markedly lower than the previous month's 49.3, according to the latest data release.</div>
-		<div class="card-meta">
-			<span class="card-provider">CNBC</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
 	<a href="https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN22I0SG"><div class="card-image" style="background-image: url(https://s3.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517622084&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG450FO)"></div></a>
 	<div class="content">
 		<div class="card-title"><a href="https://www.reuters.com/article/us-health-coronavirus-singapore-idUSKBN22I0SG">Singapore's health ministry confirms 788 new coronavirus cases</a></div>
@@ -214,6 +202,18 @@ images:
 		<div class="card-excerpt">Migrant workers living dormitories have accounted for around 87.6% of Singapore's total 19,410 confirmed cases as of Tuesday, according to the health ministry.</div>
 		<div class="card-meta">
 			<span class="card-provider">CNBC</span> • <span class="card-date">5/5/2020</span>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="col-md-6 col-sm-12">
+  <div class="content-card">
+	<a href="https://www.reuters.com/article/southeast-asia-stocks-idUSL4N2CO0GB"><div class="card-image" style="background-image: url(https://s4.reutersmedia.net/resources_v3/images/rcom-default.png)"></div></a>
+	<div class="content">
+		<div class="card-title"><a href="https://www.reuters.com/article/southeast-asia-stocks-idUSL4N2CO0GB">SE Asia Stocks-Singapore gains; Philippines falls on profit-taking, poor exports</a></div>
+		<div class="card-excerpt">Singapore shares gained the most in Southeast Asia on Wednesday, supported by the industrial sector, while Philippine stocks dropped more than 1% on profit-taking and dismal exports data. Financial markets around the world have been caught this month between grim economic figures and worries about worsening U.</div>
+		<div class="card-meta">
+			<span class="card-provider">Reuters</span> • <span class="card-date">5/5/2020</span>
 		</div>
 	</div>
   </div>

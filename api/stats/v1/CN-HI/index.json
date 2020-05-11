@@ -7,7 +7,7 @@
     "isoCode": "CN-HI",
     "lat": 19.1959
   },
-  "updatedDateTime": "2020-05-10T05:45:36.5172484Z",
+  "updatedDateTime": "2020-05-11T17:42:19.3832191Z",
   "stats": {
     "totalConfirmedCases": 168,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 168,
+        "deaths": 6,
+        "recovered": 162
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 168,
+        "deaths": 6,
+        "recovered": 162
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 168,
         "deaths": 6,
         "recovered": 162

@@ -7,7 +7,7 @@
     "isoCode": "US-ID",
     "lat": 44.068202
   },
-  "updatedDateTime": "2020-05-10T05:45:38.9537181Z",
+  "updatedDateTime": "2020-05-11T17:42:22.1150729Z",
   "news": [
     {
       "path": "_news/2020-05-09-twin-falls-county-racks-up-the-most-new-coronavirus-cases-in-idaho-this-week.md",
@@ -48,138 +48,6 @@
         "Coronavirus in US",
         "Coronavirus",
         "New Cases"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-expert-idaho-will-have-to-be-smart-to-defeat-coronavirus.md",
-      "title": "Expert: Idaho Will Have to Be Smart to Defeat Coronavirus",
-      "excerpt": "Testing Task Force says Idaho's long-term success in reopening during the pandemic hinges on understanding what the state and individuals have to do to defeat the coronavirus.",
-      "heat": 115,
-      "tags": [
-        "US-ID"
-      ],
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/idaho/articles/2020-05-04/expert-idaho-will-have-to-be-smart-to-defeat-coronavirus",
-      "ampWebUrl": "https://www.usnews.com/news/best-states/idaho/articles/2020-05-04/expert-idaho-will-have-to-be-smart-to-defeat-coronavirus?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/idaho/articles/2020-05-04/expert-idaho-will-have-to-be-smart-to-defeat-coronavirus?context=amp",
-      "publishedDateTime": "2020-05-04T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-lawsuit-seeks-to-block-idaho-restrictions-due-to-virus.md",
-      "title": "Lawsuit Seeks to Block Idaho Restrictions Due to Virus",
-      "excerpt": "Three northern Idaho residents have filed a federal lawsuit challenging statewide restrictions ordered by Gov. Brad Little due to the coronavirus, saying it violates their religious freedoms.",
-      "heat": null,
-      "tags": [
-        "US-ID"
-      ],
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/idaho/articles/2020-05-01/lawsuit-seeks-to-block-idaho-restrictions-due-to-virus",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-idaho-stay-home-order-ends-restoring-normal-activity-begins.md",
-      "title": "Idaho stay-home order ends, restoring normal activity begins",
-      "excerpt": "Idaho residents have been successful at reducing infections and deaths because of the coronavirus, and it's time to start restoring normal activity, Gov. Brad Little said Thursday. The Republican governor said that his five-week stay-at-home order will be allowed to expire,",
-      "heat": null,
-      "tags": [
-        "US-ID"
-      ],
-      "type": "article",
-      "webUrl": "https://www.sfgate.com/news/article/Idaho-stay-home-order-ends-restoring-normal-15237768.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-idaho-committee-oks-150-million-of-coronavirus-rescue-money.md",
-      "title": "Idaho committee OKs $150 million of coronavirus rescue money",
-      "excerpt": "A committee helping oversee Idaho’s $1.25 billion share of the federal government’s $2.2 trillion coronavirus rescue package on Wednesday voted to distribute money to",
-      "heat": null,
-      "tags": [
-        "US-ID"
-      ],
-      "type": "article",
-      "webUrl": "https://apnews.com/2080c4e18155eeb081c4ae06e7aca5a9",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/6ae929a21fa045768af10d858559a406/3000.jpeg",
-          "width": 3000,
-          "height": 1948,
-          "title": "Idaho committee OKs $150 million of coronavirus rescue money",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
       ]
     }
   ]

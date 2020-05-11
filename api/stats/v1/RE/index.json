@@ -7,10 +7,10 @@
     "isoCode": "RE",
     "lat": -21.1151
   },
-  "updatedDateTime": "2020-05-10T05:45:37.3815821Z",
+  "updatedDateTime": "2020-05-11T17:42:20.7174863Z",
   "stats": {
-    "totalConfirmedCases": 431,
-    "newlyConfirmedCases": 4,
+    "totalConfirmedCases": 436,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
     "totalRecoveredCases": 354,
@@ -669,6 +669,18 @@
         "confirmed": 431,
         "deaths": 0,
         "recovered": 354
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 436,
+        "deaths": 0,
+        "recovered": 354
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 436,
+        "deaths": 0,
+        "recovered": 354
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "RE",
           "lat": -21.1151
         },
-        "totalConfirmedCases": 431,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 436,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 354,

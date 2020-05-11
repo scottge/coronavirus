@@ -7,12 +7,12 @@
     "isoCode": "US-AZ",
     "lat": 34.048928
   },
-  "updatedDateTime": "2020-05-10T05:45:38.0527671Z",
+  "updatedDateTime": "2020-05-11T17:42:21.2477712Z",
   "stats": {
-    "totalConfirmedCases": 10960,
-    "newlyConfirmedCases": 433,
-    "totalDeaths": 532,
-    "newDeaths": 15,
+    "totalConfirmedCases": 11380,
+    "newlyConfirmedCases": 261,
+    "totalDeaths": 542,
+    "newDeaths": 6,
     "totalRecoveredCases": 70,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 10960,
         "deaths": 532,
         "recovered": 70
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 11119,
+        "deaths": 536,
+        "recovered": 70
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 11380,
+        "deaths": 542,
+        "recovered": 70
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "US-AZ",
           "lat": 36.9221
         },
-        "totalConfirmedCases": 710,
-        "newlyConfirmedCases": 39,
+        "totalConfirmedCases": 716,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -713,8 +725,8 @@
           "isoCode": "US-AZ",
           "lat": 36.592
         },
-        "totalConfirmedCases": 679,
-        "newlyConfirmedCases": 20,
+        "totalConfirmedCases": 699,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 55,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -777,7 +789,7 @@
           "isoCode": "US-AZ",
           "lat": 33.9921
         },
-        "totalConfirmedCases": 22,
+        "totalConfirmedCases": 23,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -793,10 +805,10 @@
           "isoCode": "US-AZ",
           "lat": 33.2918
         },
-        "totalConfirmedCases": 5779,
-        "newlyConfirmedCases": 254,
-        "totalDeaths": 245,
-        "newDeaths": 7,
+        "totalConfirmedCases": 5827,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 247,
+        "newDeaths": 0,
         "totalRecoveredCases": 1,
         "newlyRecoveredCases": 0
       },
@@ -809,10 +821,10 @@
           "isoCode": "US-AZ",
           "lat": 35.4227
         },
-        "totalConfirmedCases": 178,
-        "newlyConfirmedCases": 7,
-        "totalDeaths": 23,
-        "newDeaths": 3,
+        "totalConfirmedCases": 193,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 24,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -825,10 +837,10 @@
           "isoCode": "US-AZ",
           "lat": 33.9965
         },
-        "totalConfirmedCases": 981,
-        "newlyConfirmedCases": 36,
+        "totalConfirmedCases": 983,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 36,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -841,10 +853,10 @@
           "isoCode": "US-AZ",
           "lat": 32.0575
         },
-        "totalConfirmedCases": 1554,
-        "newlyConfirmedCases": 34,
-        "totalDeaths": 133,
-        "newDeaths": 2,
+        "totalConfirmedCases": 1585,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 134,
+        "newDeaths": 0,
         "totalRecoveredCases": 1,
         "newlyRecoveredCases": 0
       },
@@ -857,8 +869,8 @@
           "isoCode": "US-AZ",
           "lat": 32.8162
         },
-        "totalConfirmedCases": 585,
-        "newlyConfirmedCases": 19,
+        "totalConfirmedCases": 600,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 19,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -873,8 +885,8 @@
           "isoCode": "US-AZ",
           "lat": 31.6645
         },
-        "totalConfirmedCases": 40,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -889,8 +901,8 @@
           "isoCode": "US-AZ",
           "lat": 35.2171
         },
-        "totalConfirmedCases": 175,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 177,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 3,
@@ -905,10 +917,10 @@
           "isoCode": "US-AZ",
           "lat": 32.6452
         },
-        "totalConfirmedCases": 176,
-        "newlyConfirmedCases": 17,
+        "totalConfirmedCases": 191,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       }

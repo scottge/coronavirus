@@ -7,7 +7,7 @@
     "isoCode": "MR",
     "lat": 21.00789
   },
-  "updatedDateTime": "2020-05-10T05:45:40.1295144Z",
+  "updatedDateTime": "2020-05-11T17:42:23.797418Z",
   "stats": {
     "totalConfirmedCases": 8,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 8,
+        "deaths": 1,
+        "recovered": 6
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 8,
+        "deaths": 1,
+        "recovered": 6
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 8,
         "deaths": 1,
         "recovered": 6

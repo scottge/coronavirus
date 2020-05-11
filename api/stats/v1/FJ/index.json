@@ -7,7 +7,7 @@
     "isoCode": "FJ",
     "lat": -16.578193
   },
-  "updatedDateTime": "2020-05-10T05:45:39.6134344Z",
+  "updatedDateTime": "2020-05-11T17:42:23.0707296Z",
   "stats": {
     "totalConfirmedCases": 18,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 14
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 14
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 18,
         "deaths": 0,
         "recovered": 14

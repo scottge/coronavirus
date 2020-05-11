@@ -7,7 +7,7 @@
     "isoCode": "BI",
     "lat": -3.373056
   },
-  "updatedDateTime": "2020-05-10T05:45:39.382953Z",
+  "updatedDateTime": "2020-05-11T17:42:22.6566292Z",
   "stats": {
     "totalConfirmedCases": 15,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 15,
+        "deaths": 1,
+        "recovered": 7
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 15,
+        "deaths": 1,
+        "recovered": 7
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 15,
         "deaths": 1,
         "recovered": 7

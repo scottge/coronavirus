@@ -7,14 +7,14 @@
     "isoCode": "AU-TAS",
     "lat": -41.4545
   },
-  "updatedDateTime": "2020-05-10T05:45:36.1522965Z",
+  "updatedDateTime": "2020-05-11T17:42:18.8284325Z",
   "stats": {
     "totalConfirmedCases": 227,
     "newlyConfirmedCases": 0,
     "totalDeaths": 13,
     "newDeaths": 0,
     "totalRecoveredCases": 182,
-    "newlyRecoveredCases": 6,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 227,
         "deaths": 13,
         "recovered": 182
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 227,
+        "deaths": 13,
+        "recovered": 182
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 227,
+        "deaths": 13,
+        "recovered": 182
       }
     ],
     "breakdowns": [
@@ -686,7 +698,7 @@
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 182,
-        "newlyRecoveredCases": 6
+        "newlyRecoveredCases": 0
       }
     ]
   }

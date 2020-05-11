@@ -7,14 +7,14 @@
     "isoCode": "AZ",
     "lat": 40.1431
   },
-  "updatedDateTime": "2020-05-10T05:45:39.2499225Z",
+  "updatedDateTime": "2020-05-11T17:42:22.4367592Z",
   "stats": {
-    "totalConfirmedCases": 2422,
-    "newlyConfirmedCases": 143,
-    "totalDeaths": 31,
-    "newDeaths": 3,
-    "totalRecoveredCases": 1620,
-    "newlyRecoveredCases": 44,
+    "totalConfirmedCases": 2589,
+    "newlyConfirmedCases": 70,
+    "totalDeaths": 32,
+    "newDeaths": 0,
+    "totalRecoveredCases": 1680,
+    "newlyRecoveredCases": 30,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 2422,
         "deaths": 31,
         "recovered": 1620
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 2519,
+        "deaths": 32,
+        "recovered": 1650
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 2589,
+        "deaths": 32,
+        "recovered": 1680
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "AZ",
           "lat": 40.1431
         },
-        "totalConfirmedCases": 2422,
-        "newlyConfirmedCases": 143,
-        "totalDeaths": 31,
-        "newDeaths": 3,
-        "totalRecoveredCases": 1620,
-        "newlyRecoveredCases": 44
+        "totalConfirmedCases": 2589,
+        "newlyConfirmedCases": 70,
+        "totalDeaths": 32,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1680,
+        "newlyRecoveredCases": 30
       }
     ]
   }

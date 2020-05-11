@@ -7,14 +7,14 @@
     "isoCode": "MK",
     "lat": 41.6086
   },
-  "updatedDateTime": "2020-05-10T05:45:37.3014143Z",
+  "updatedDateTime": "2020-05-11T17:42:20.5651402Z",
   "stats": {
-    "totalConfirmedCases": 1622,
-    "newlyConfirmedCases": 36,
+    "totalConfirmedCases": 1664,
+    "newlyConfirmedCases": 22,
     "totalDeaths": 91,
-    "newDeaths": 1,
-    "totalRecoveredCases": 1112,
-    "newlyRecoveredCases": 13,
+    "newDeaths": 0,
+    "totalRecoveredCases": 1200,
+    "newlyRecoveredCases": 64,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 1622,
         "deaths": 91,
         "recovered": 1112
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 1642,
+        "deaths": 91,
+        "recovered": 1136
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 1664,
+        "deaths": 91,
+        "recovered": 1200
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "MK",
           "lat": 41.6086
         },
-        "totalConfirmedCases": 1622,
-        "newlyConfirmedCases": 36,
+        "totalConfirmedCases": 1664,
+        "newlyConfirmedCases": 22,
         "totalDeaths": 91,
-        "newDeaths": 1,
-        "totalRecoveredCases": 1112,
-        "newlyRecoveredCases": 13
+        "newDeaths": 0,
+        "totalRecoveredCases": 1200,
+        "newlyRecoveredCases": 64
       }
     ]
   }

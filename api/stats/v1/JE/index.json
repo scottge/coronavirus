@@ -7,7 +7,7 @@
     "isoCode": "JE",
     "lat": 49.19
   },
-  "updatedDateTime": "2020-05-10T05:45:39.8799086Z",
+  "updatedDateTime": "2020-05-11T17:42:23.5344904Z",
   "stats": {
     "totalConfirmedCases": 2,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 2,
         "deaths": 0,
         "recovered": 0

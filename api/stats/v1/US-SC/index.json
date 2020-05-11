@@ -7,12 +7,12 @@
     "isoCode": "US-SC",
     "lat": 33.836081
   },
-  "updatedDateTime": "2020-05-10T05:45:38.7800396Z",
+  "updatedDateTime": "2020-05-11T17:42:21.8327999Z",
   "stats": {
-    "totalConfirmedCases": 7533,
-    "newlyConfirmedCases": 163,
-    "totalDeaths": 330,
-    "newDeaths": 10,
+    "totalConfirmedCases": 7706,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 331,
+    "newDeaths": 0,
     "totalRecoveredCases": 4881,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 7533,
         "deaths": 330,
         "recovered": 4881
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 7706,
+        "deaths": 331,
+        "recovered": 4881
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 7706,
+        "deaths": 331,
+        "recovered": 4881
       }
     ],
     "breakdowns": [
@@ -697,8 +709,8 @@
           "isoCode": "US-SC",
           "lat": 33.8497
         },
-        "totalConfirmedCases": 116,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 118,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -713,8 +725,8 @@
           "isoCode": "US-SC",
           "lat": 34.6433
         },
-        "totalConfirmedCases": 184,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 185,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -729,7 +741,7 @@
           "isoCode": "US-SC",
           "lat": 32.4599
         },
-        "totalConfirmedCases": 273,
+        "totalConfirmedCases": 279,
         "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
@@ -746,9 +758,9 @@
           "lat": 32.9922
         },
         "totalConfirmedCases": 192,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 15,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -762,7 +774,7 @@
           "lat": 33.5579
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -778,9 +790,9 @@
           "lat": 32.7957
         },
         "totalConfirmedCases": 482,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -809,8 +821,8 @@
           "isoCode": "US-SC",
           "lat": 34.7697
         },
-        "totalConfirmedCases": 75,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 79,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -825,10 +837,10 @@
           "isoCode": "US-SC",
           "lat": 33.6013
         },
-        "totalConfirmedCases": 262,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 263,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 26,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -857,8 +869,8 @@
           "isoCode": "US-SC",
           "lat": 34.401
         },
-        "totalConfirmedCases": 173,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 174,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -873,8 +885,8 @@
           "isoCode": "US-SC",
           "lat": 34.3406
         },
-        "totalConfirmedCases": 88,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 95,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -889,7 +901,7 @@
           "isoCode": "US-SC",
           "lat": 33.186
         },
-        "totalConfirmedCases": 105,
+        "totalConfirmedCases": 106,
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
@@ -906,7 +918,7 @@
           "lat": 33.7401
         },
         "totalConfirmedCases": 39,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -922,9 +934,9 @@
           "lat": 34.3718
         },
         "totalConfirmedCases": 80,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -937,8 +949,8 @@
           "isoCode": "US-SC",
           "lat": 33.8149
         },
-        "totalConfirmedCases": 412,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 424,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 20,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -969,10 +981,10 @@
           "isoCode": "US-SC",
           "lat": 34.8821
         },
-        "totalConfirmedCases": 912,
-        "newlyConfirmedCases": 43,
+        "totalConfirmedCases": 933,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 45,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1001,7 +1013,7 @@
           "isoCode": "US-SC",
           "lat": 32.6812
         },
-        "totalConfirmedCases": 27,
+        "totalConfirmedCases": 28,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1017,8 +1029,8 @@
           "isoCode": "US-SC",
           "lat": 33.6092
         },
-        "totalConfirmedCases": 256,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 262,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1033,8 +1045,8 @@
           "isoCode": "US-SC",
           "lat": 32.4681
         },
-        "totalConfirmedCases": 23,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1050,7 +1062,7 @@
           "lat": 34.3672
         },
         "totalConfirmedCases": 253,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1065,8 +1077,8 @@
           "isoCode": "US-SC",
           "lat": 34.7253
         },
-        "totalConfirmedCases": 104,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 110,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1081,7 +1093,7 @@
           "isoCode": "US-SC",
           "lat": 34.4912
         },
-        "totalConfirmedCases": 46,
+        "totalConfirmedCases": 47,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1097,8 +1109,8 @@
           "isoCode": "US-SC",
           "lat": 34.2202
         },
-        "totalConfirmedCases": 99,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 106,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1113,10 +1125,10 @@
           "isoCode": "US-SC",
           "lat": 33.9458
         },
-        "totalConfirmedCases": 472,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 478,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 21,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1129,9 +1141,9 @@
           "isoCode": "US-SC",
           "lat": 34.2823
         },
-        "totalConfirmedCases": 47,
-        "newlyConfirmedCases": 3,
-        "totalDeaths": 2,
+        "totalConfirmedCases": 57,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1178,7 +1190,7 @@
           "lat": 34.7704
         },
         "totalConfirmedCases": 37,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1193,7 +1205,7 @@
           "isoCode": "US-SC",
           "lat": 33.5301
         },
-        "totalConfirmedCases": 99,
+        "totalConfirmedCases": 101,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1209,8 +1221,8 @@
           "isoCode": "US-SC",
           "lat": 34.819
         },
-        "totalConfirmedCases": 68,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 73,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1225,10 +1237,10 @@
           "isoCode": "US-SC",
           "lat": 34.0324
         },
-        "totalConfirmedCases": 1082,
-        "newlyConfirmedCases": 25,
+        "totalConfirmedCases": 1100,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 54,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1241,8 +1253,8 @@
           "isoCode": "US-SC",
           "lat": 33.8573
         },
-        "totalConfirmedCases": 86,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 87,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1257,8 +1269,8 @@
           "isoCode": "US-SC",
           "lat": 34.8606
         },
-        "totalConfirmedCases": 336,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 343,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1273,8 +1285,8 @@
           "isoCode": "US-SC",
           "lat": 33.9753
         },
-        "totalConfirmedCases": 286,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 287,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1290,7 +1302,7 @@
           "lat": 34.7922
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1305,9 +1317,9 @@
           "isoCode": "US-SC",
           "lat": 33.6665
         },
-        "totalConfirmedCases": 136,
+        "totalConfirmedCases": 137,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 6,
+        "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1321,8 +1333,8 @@
           "isoCode": "US-SC",
           "lat": 34.952
         },
-        "totalConfirmedCases": 237,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 238,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1338,7 +1350,7 @@
           "lat": 33.2419
         },
         "totalConfirmedCases": 33,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1353,8 +1365,8 @@
           "isoCode": "US-SC",
           "lat": 33.0985
         },
-        "totalConfirmedCases": 15,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1369,8 +1381,8 @@
           "isoCode": "US-SC",
           "lat": 32.9593
         },
-        "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1386,7 +1398,7 @@
           "lat": 35.0742
         },
         "totalConfirmedCases": 22,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1401,7 +1413,7 @@
           "isoCode": "US-SC",
           "lat": 33.7192
         },
-        "totalConfirmedCases": 7,
+        "totalConfirmedCases": 47,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,

@@ -7,12 +7,12 @@
     "isoCode": "CA-QC",
     "lat": 52.9399
   },
-  "updatedDateTime": "2020-05-10T05:45:36.3908687Z",
+  "updatedDateTime": "2020-05-11T17:42:19.1631116Z",
   "stats": {
-    "totalConfirmedCases": 36997,
-    "newlyConfirmedCases": 836,
-    "totalDeaths": 2787,
-    "newDeaths": 61,
+    "totalConfirmedCases": 38479,
+    "newlyConfirmedCases": 747,
+    "totalDeaths": 3014,
+    "newDeaths": 85,
     "totalRecoveredCases": 0,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 36997,
         "deaths": 2787,
         "recovered": 0
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 37732,
+        "deaths": 2929,
+        "recovered": 0
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 38479,
+        "deaths": 3014,
+        "recovered": 0
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "CA-QC",
           "lat": 52.9399
         },
-        "totalConfirmedCases": 36997,
-        "newlyConfirmedCases": 836,
-        "totalDeaths": 2787,
-        "newDeaths": 61,
+        "totalConfirmedCases": 38479,
+        "newlyConfirmedCases": 747,
+        "totalDeaths": 3014,
+        "newDeaths": 85,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       }

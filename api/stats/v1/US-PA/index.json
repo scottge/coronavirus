@@ -7,13 +7,13 @@
     "isoCode": "US-PA",
     "lat": 41.203322
   },
-  "updatedDateTime": "2020-05-10T05:45:38.7560614Z",
+  "updatedDateTime": "2020-05-11T17:42:21.7967579Z",
   "stats": {
-    "totalConfirmedCases": 58686,
-    "newlyConfirmedCases": 1215,
-    "totalDeaths": 3798,
-    "newDeaths": 78,
-    "totalRecoveredCases": 1080,
+    "totalConfirmedCases": 60557,
+    "newlyConfirmedCases": 501,
+    "totalDeaths": 3843,
+    "newDeaths": 19,
+    "totalRecoveredCases": 1100,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 58686,
         "deaths": 3798,
         "recovered": 1080
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 60056,
+        "deaths": 3824,
+        "recovered": 1100
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 60557,
+        "deaths": 3843,
+        "recovered": 1100
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "US-PA",
           "lat": 39.9813
         },
-        "totalConfirmedCases": 156,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 159,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -697,10 +709,10 @@
           "isoCode": "US-PA",
           "lat": 40.417
         },
-        "totalConfirmedCases": 1486,
-        "newlyConfirmedCases": 31,
-        "totalDeaths": 120,
-        "newDeaths": 1,
+        "totalConfirmedCases": 1503,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 122,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -715,7 +727,7 @@
         },
         "totalConfirmedCases": 55,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 3,
+        "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -729,8 +741,8 @@
           "isoCode": "US-PA",
           "lat": 40.7355
         },
-        "totalConfirmedCases": 482,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 491,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 78,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -745,10 +757,10 @@
           "isoCode": "US-PA",
           "lat": 40.3711
         },
-        "totalConfirmedCases": 3257,
-        "newlyConfirmedCases": 67,
-        "totalDeaths": 169,
-        "newDeaths": 1,
+        "totalConfirmedCases": 3371,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 170,
+        "newDeaths": 0,
         "totalRecoveredCases": 29,
         "newlyRecoveredCases": 0
       },
@@ -778,7 +790,7 @@
           "lat": 41.6704
         },
         "totalConfirmedCases": 38,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -793,10 +805,10 @@
           "isoCode": "US-PA",
           "lat": 40.4108
         },
-        "totalConfirmedCases": 3852,
-        "newlyConfirmedCases": 102,
-        "totalDeaths": 336,
-        "newDeaths": 5,
+        "totalConfirmedCases": 3966,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 341,
+        "newDeaths": 0,
         "totalRecoveredCases": 493,
         "newlyRecoveredCases": 0
       },
@@ -809,8 +821,8 @@
           "isoCode": "US-PA",
           "lat": 40.9104
         },
-        "totalConfirmedCases": 194,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 195,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -825,8 +837,8 @@
           "isoCode": "US-PA",
           "lat": 40.6048
         },
-        "totalConfirmedCases": 42,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -857,9 +869,9 @@
           "isoCode": "US-PA",
           "lat": 40.916
         },
-        "totalConfirmedCases": 195,
-        "newlyConfirmedCases": 3,
-        "totalDeaths": 16,
+        "totalConfirmedCases": 198,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -873,7 +885,7 @@
           "isoCode": "US-PA",
           "lat": 40.8266
         },
-        "totalConfirmedCases": 117,
+        "totalConfirmedCases": 119,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -889,10 +901,10 @@
           "isoCode": "US-PA",
           "lat": 39.9343
         },
-        "totalConfirmedCases": 1774,
-        "newlyConfirmedCases": 46,
-        "totalDeaths": 183,
-        "newDeaths": 7,
+        "totalConfirmedCases": 1906,
+        "newlyConfirmedCases": 41,
+        "totalDeaths": 184,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -921,7 +933,7 @@
           "isoCode": "US-PA",
           "lat": 40.8745
         },
-        "totalConfirmedCases": 24,
+        "totalConfirmedCases": 25,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -937,10 +949,10 @@
           "isoCode": "US-PA",
           "lat": 41.0026
         },
-        "totalConfirmedCases": 323,
-        "newlyConfirmedCases": 16,
+        "totalConfirmedCases": 324,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 28,
-        "newDeaths": 7,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -969,10 +981,10 @@
           "isoCode": "US-PA",
           "lat": 40.2311
         },
-        "totalConfirmedCases": 425,
-        "newlyConfirmedCases": 11,
+        "totalConfirmedCases": 434,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 33,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -985,8 +997,8 @@
           "isoCode": "US-PA",
           "lat": 40.2657
         },
-        "totalConfirmedCases": 797,
-        "newlyConfirmedCases": 33,
+        "totalConfirmedCases": 823,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 37,
         "newDeaths": 0,
         "totalRecoveredCases": 42,
@@ -1001,10 +1013,10 @@
           "isoCode": "US-PA",
           "lat": 39.9078
         },
-        "totalConfirmedCases": 4836,
-        "newlyConfirmedCases": 156,
-        "totalDeaths": 394,
-        "newDeaths": 12,
+        "totalConfirmedCases": 5032,
+        "newlyConfirmedCases": 56,
+        "totalDeaths": 395,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1017,8 +1029,8 @@
           "isoCode": "US-PA",
           "lat": 42.0469
         },
-        "totalConfirmedCases": 120,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 124,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 39,
@@ -1034,7 +1046,7 @@
           "lat": 40.0188
         },
         "totalConfirmedCases": 85,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1049,10 +1061,10 @@
           "isoCode": "US-PA",
           "lat": 39.7329
         },
-        "totalConfirmedCases": 478,
-        "newlyConfirmedCases": 26,
+        "totalConfirmedCases": 493,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1081,8 +1093,8 @@
           "isoCode": "US-PA",
           "lat": 40.6472
         },
-        "totalConfirmedCases": 119,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 181,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1098,7 +1110,7 @@
           "lat": 40.8197
         },
         "totalConfirmedCases": 76,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1129,10 +1141,10 @@
           "isoCode": "US-PA",
           "lat": 41.4846
         },
-        "totalConfirmedCases": 1134,
-        "newlyConfirmedCases": 20,
-        "totalDeaths": 115,
-        "newDeaths": 2,
+        "totalConfirmedCases": 1172,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 117,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1145,9 +1157,9 @@
           "isoCode": "US-PA",
           "lat": 40.2141
         },
-        "totalConfirmedCases": 2185,
-        "newlyConfirmedCases": 63,
-        "totalDeaths": 222,
+        "totalConfirmedCases": 2223,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 228,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1161,7 +1173,7 @@
           "isoCode": "US-PA",
           "lat": 41.0955
         },
-        "totalConfirmedCases": 69,
+        "totalConfirmedCases": 70,
         "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
@@ -1177,8 +1189,8 @@
           "isoCode": "US-PA",
           "lat": 40.3412
         },
-        "totalConfirmedCases": 805,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 811,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 16,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1193,10 +1205,10 @@
           "isoCode": "US-PA",
           "lat": 40.5165
         },
-        "totalConfirmedCases": 3169,
-        "newlyConfirmedCases": 29,
-        "totalDeaths": 120,
-        "newDeaths": 6,
+        "totalConfirmedCases": 3241,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 121,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1209,8 +1221,8 @@
           "isoCode": "US-PA",
           "lat": 41.2867
         },
-        "totalConfirmedCases": 2356,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 2416,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 120,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1225,8 +1237,8 @@
           "isoCode": "US-PA",
           "lat": 41.2472
         },
-        "totalConfirmedCases": 127,
-        "newlyConfirmedCases": 18,
+        "totalConfirmedCases": 131,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1242,9 +1254,9 @@
           "lat": 41.3502
         },
         "totalConfirmedCases": 73,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1257,7 +1269,7 @@
           "isoCode": "US-PA",
           "lat": 40.5549
         },
-        "totalConfirmedCases": 50,
+        "totalConfirmedCases": 52,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1273,9 +1285,9 @@
           "isoCode": "US-PA",
           "lat": 41.0458
         },
-        "totalConfirmedCases": 1206,
-        "newlyConfirmedCases": 8,
-        "totalDeaths": 63,
+        "totalConfirmedCases": 1218,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 64,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1289,10 +1301,10 @@
           "isoCode": "US-PA",
           "lat": 40.229
         },
-        "totalConfirmedCases": 5116,
-        "newlyConfirmedCases": 79,
-        "totalDeaths": 523,
-        "newDeaths": 8,
+        "totalConfirmedCases": 5260,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 525,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1321,10 +1333,10 @@
           "isoCode": "US-PA",
           "lat": 40.8811
         },
-        "totalConfirmedCases": 2429,
-        "newlyConfirmedCases": 39,
+        "totalConfirmedCases": 2453,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 158,
-        "newDeaths": 5,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1337,8 +1349,8 @@
           "isoCode": "US-PA",
           "lat": 41.085
         },
-        "totalConfirmedCases": 119,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 124,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1353,7 +1365,7 @@
           "isoCode": "US-PA",
           "lat": 40.3952
         },
-        "totalConfirmedCases": 34,
+        "totalConfirmedCases": 35,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1369,10 +1381,10 @@
           "isoCode": "US-PA",
           "lat": 39.9526
         },
-        "totalConfirmedCases": 17881,
-        "newlyConfirmedCases": 364,
-        "totalDeaths": 891,
-        "newDeaths": 16,
+        "totalConfirmedCases": 18211,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 894,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1385,8 +1397,8 @@
           "isoCode": "US-PA",
           "lat": 41.3666
         },
-        "totalConfirmedCases": 427,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 432,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 21,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1417,8 +1429,8 @@
           "isoCode": "US-PA",
           "lat": 40.6302
         },
-        "totalConfirmedCases": 437,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 451,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1468,7 +1480,7 @@
         "totalConfirmedCases": 87,
         "newlyConfirmedCases": 0,
         "totalDeaths": 13,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1546,7 +1558,7 @@
           "lat": 40.332
         },
         "totalConfirmedCases": 124,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1561,8 +1573,8 @@
           "isoCode": "US-PA",
           "lat": 41.6739
         },
-        "totalConfirmedCases": 116,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 117,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1577,8 +1589,8 @@
           "isoCode": "US-PA",
           "lat": 40.4145
         },
-        "totalConfirmedCases": 415,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 417,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 30,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1593,8 +1605,8 @@
           "isoCode": "US-PA",
           "lat": 40.1542
         },
-        "totalConfirmedCases": 767,
-        "newlyConfirmedCases": 14,
+        "totalConfirmedCases": 773,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 14,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1610,7 +1622,7 @@
           "lat": 40.1599
         },
         "totalConfirmedCases": 29,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1642,7 +1654,7 @@
           "lat": 41.6119
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1658,7 +1670,7 @@
           "lat": 41.0094
         },
         "totalConfirmedCases": 41,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1690,9 +1702,9 @@
           "lat": 39.932
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },

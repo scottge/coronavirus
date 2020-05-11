@@ -7,14 +7,14 @@
     "isoCode": "ME",
     "lat": 42.5
   },
-  "updatedDateTime": "2020-05-10T05:45:40.1696666Z",
+  "updatedDateTime": "2020-05-11T17:42:23.8750614Z",
   "stats": {
     "totalConfirmedCases": 324,
     "newlyConfirmedCases": 0,
-    "totalDeaths": 8,
+    "totalDeaths": 9,
     "newDeaths": 0,
-    "totalRecoveredCases": 274,
-    "newlyRecoveredCases": 7,
+    "totalRecoveredCases": 294,
+    "newlyRecoveredCases": 4,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 324,
         "deaths": 8,
         "recovered": 274
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 324,
+        "deaths": 9,
+        "recovered": 290
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 324,
+        "deaths": 9,
+        "recovered": 294
       }
     ],
     "breakdowns": [
@@ -683,10 +695,10 @@
         },
         "totalConfirmedCases": 324,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 8,
+        "totalDeaths": 9,
         "newDeaths": 0,
-        "totalRecoveredCases": 274,
-        "newlyRecoveredCases": 7
+        "totalRecoveredCases": 294,
+        "newlyRecoveredCases": 4
       }
     ]
   }

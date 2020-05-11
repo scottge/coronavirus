@@ -7,14 +7,14 @@
     "isoCode": "CN-JL",
     "lat": 43.6661
   },
-  "updatedDateTime": "2020-05-10T05:45:36.6323936Z",
+  "updatedDateTime": "2020-05-11T17:42:19.5057759Z",
   "stats": {
-    "totalConfirmedCases": 124,
-    "newlyConfirmedCases": 11,
+    "totalConfirmedCases": 127,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 1,
     "newDeaths": 0,
     "totalRecoveredCases": 105,
-    "newlyRecoveredCases": 1,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 124,
         "deaths": 1,
         "recovered": 105
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 127,
+        "deaths": 1,
+        "recovered": 105
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 127,
+        "deaths": 1,
+        "recovered": 105
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "CN-JL",
           "lat": 43.6661
         },
-        "totalConfirmedCases": 124,
-        "newlyConfirmedCases": 11,
+        "totalConfirmedCases": 127,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 105,
-        "newlyRecoveredCases": 1
+        "newlyRecoveredCases": 0
       }
     ]
   }

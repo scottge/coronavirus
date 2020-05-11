@@ -7,14 +7,14 @@
     "isoCode": "PT",
     "lat": 39.3999
   },
-  "updatedDateTime": "2020-05-10T05:45:40.3485433Z",
+  "updatedDateTime": "2020-05-11T17:42:24.1687992Z",
   "stats": {
-    "totalConfirmedCases": 27406,
-    "newlyConfirmedCases": 138,
-    "totalDeaths": 1126,
-    "newDeaths": 12,
-    "totalRecoveredCases": 2499,
-    "newlyRecoveredCases": 77,
+    "totalConfirmedCases": 27679,
+    "newlyConfirmedCases": 98,
+    "totalDeaths": 1144,
+    "newDeaths": 9,
+    "totalRecoveredCases": 2549,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 27406,
         "deaths": 1126,
         "recovered": 2499
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 27581,
+        "deaths": 1135,
+        "recovered": 2549
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 27679,
+        "deaths": 1144,
+        "recovered": 2549
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "PT",
           "lat": 39.3999
         },
-        "totalConfirmedCases": 27406,
-        "newlyConfirmedCases": 138,
-        "totalDeaths": 1126,
-        "newDeaths": 12,
-        "totalRecoveredCases": 2499,
-        "newlyRecoveredCases": 77
+        "totalConfirmedCases": 27679,
+        "newlyConfirmedCases": 98,
+        "totalDeaths": 1144,
+        "newDeaths": 9,
+        "totalRecoveredCases": 2549,
+        "newlyRecoveredCases": 0
       }
     ]
   }

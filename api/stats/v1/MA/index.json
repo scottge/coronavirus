@@ -7,14 +7,14 @@
     "isoCode": "MA",
     "lat": 31.7917
   },
-  "updatedDateTime": "2020-05-10T05:45:40.1997262Z",
+  "updatedDateTime": "2020-05-11T17:42:23.900853Z",
   "stats": {
-    "totalConfirmedCases": 5910,
-    "newlyConfirmedCases": 199,
-    "totalDeaths": 186,
+    "totalConfirmedCases": 6281,
+    "newlyConfirmedCases": 218,
+    "totalDeaths": 188,
     "newDeaths": 0,
-    "totalRecoveredCases": 2461,
-    "newlyRecoveredCases": 137,
+    "totalRecoveredCases": 2811,
+    "newlyRecoveredCases": 257,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 5910,
         "deaths": 186,
         "recovered": 2461
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 6063,
+        "deaths": 188,
+        "recovered": 2554
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 6281,
+        "deaths": 188,
+        "recovered": 2811
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "MA",
           "lat": 31.7917
         },
-        "totalConfirmedCases": 5910,
-        "newlyConfirmedCases": 199,
-        "totalDeaths": 186,
+        "totalConfirmedCases": 6281,
+        "newlyConfirmedCases": 218,
+        "totalDeaths": 188,
         "newDeaths": 0,
-        "totalRecoveredCases": 2461,
-        "newlyRecoveredCases": 137
+        "totalRecoveredCases": 2811,
+        "newlyRecoveredCases": 257
       }
     ]
   }

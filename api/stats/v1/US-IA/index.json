@@ -7,14 +7,14 @@
     "isoCode": "US-IA",
     "lat": 41.878003
   },
-  "updatedDateTime": "2020-05-10T05:45:38.4306905Z",
+  "updatedDateTime": "2020-05-11T17:42:21.4432309Z",
   "stats": {
-    "totalConfirmedCases": 11688,
-    "newlyConfirmedCases": 231,
-    "totalDeaths": 252,
-    "newDeaths": 9,
-    "totalRecoveredCases": 4685,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 12373,
+    "newlyConfirmedCases": 395,
+    "totalDeaths": 271,
+    "newDeaths": 6,
+    "totalRecoveredCases": 5249,
+    "newlyRecoveredCases": 564,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 11688,
         "deaths": 252,
         "recovered": 4685
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 11978,
+        "deaths": 265,
+        "recovered": 4685
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 12373,
+        "deaths": 271,
+        "recovered": 5249
       }
     ],
     "breakdowns": [
@@ -697,7 +709,7 @@
           "isoCode": "US-IA",
           "lat": 43.2084
         },
-        "totalConfirmedCases": 101,
+        "totalConfirmedCases": 111,
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
@@ -729,7 +741,7 @@
           "isoCode": "US-IA",
           "lat": 41.592
         },
-        "totalConfirmedCases": 9,
+        "totalConfirmedCases": 10,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -761,9 +773,9 @@
           "isoCode": "US-IA",
           "lat": 42.492
         },
-        "totalConfirmedCases": 1477,
-        "newlyConfirmedCases": 14,
-        "totalDeaths": 20,
+        "totalConfirmedCases": 1493,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 23,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -778,7 +790,7 @@
           "lat": 41.9669
         },
         "totalConfirmedCases": 34,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -841,8 +853,8 @@
           "isoCode": "US-IA",
           "lat": 41.7399
         },
-        "totalConfirmedCases": 40,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -858,7 +870,7 @@
           "lat": 42.9442
         },
         "totalConfirmedCases": 15,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -873,8 +885,8 @@
           "isoCode": "US-IA",
           "lat": 42.9269
         },
-        "totalConfirmedCases": 22,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -889,8 +901,8 @@
           "isoCode": "US-IA",
           "lat": 41.8227
         },
-        "totalConfirmedCases": 55,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 56,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -905,8 +917,8 @@
           "isoCode": "US-IA",
           "lat": 42.0757
         },
-        "totalConfirmedCases": 175,
-        "newlyConfirmedCases": 26,
+        "totalConfirmedCases": 176,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -921,9 +933,9 @@
           "isoCode": "US-IA",
           "lat": 41.5905
         },
-        "totalConfirmedCases": 660,
-        "newlyConfirmedCases": 6,
-        "totalDeaths": 5,
+        "totalConfirmedCases": 676,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -937,8 +949,8 @@
           "isoCode": "US-IA",
           "lat": 40.86
         },
-        "totalConfirmedCases": 37,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 39,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -969,9 +981,9 @@
           "isoCode": "US-IA",
           "lat": 42.4477
         },
-        "totalConfirmedCases": 188,
-        "newlyConfirmedCases": 7,
-        "totalDeaths": 6,
+        "totalConfirmedCases": 191,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1002,7 +1014,7 @@
           "lat": 41.8452
         },
         "totalConfirmedCases": 33,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1066,7 +1078,7 @@
           "lat": 40.9232
         },
         "totalConfirmedCases": 43,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1114,9 +1126,9 @@
           "lat": 41.7008
         },
         "totalConfirmedCases": 238,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1129,10 +1141,10 @@
           "isoCode": "US-IA",
           "lat": 41.6699
         },
-        "totalConfirmedCases": 549,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 551,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1193,8 +1205,8 @@
           "isoCode": "US-IA",
           "lat": 42.1494
         },
-        "totalConfirmedCases": 819,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 827,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 58,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1225,8 +1237,8 @@
           "isoCode": "US-IA",
           "lat": 42.0067
         },
-        "totalConfirmedCases": 702,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 721,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1242,7 +1254,7 @@
           "lat": 42.0208
         },
         "totalConfirmedCases": 12,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1258,7 +1270,7 @@
           "lat": 40.981
         },
         "totalConfirmedCases": 4,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1273,10 +1285,10 @@
           "isoCode": "US-IA",
           "lat": 41.5898
         },
-        "totalConfirmedCases": 471,
-        "newlyConfirmedCases": 25,
-        "totalDeaths": 19,
-        "newDeaths": 1,
+        "totalConfirmedCases": 488,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 22,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1305,10 +1317,10 @@
           "isoCode": "US-IA",
           "lat": 41.6776
         },
-        "totalConfirmedCases": 2194,
-        "newlyConfirmedCases": 44,
-        "totalDeaths": 58,
-        "newDeaths": 4,
+        "totalConfirmedCases": 2238,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 60,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1321,8 +1333,8 @@
           "isoCode": "US-IA",
           "lat": 41.3912
         },
-        "totalConfirmedCases": 82,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 85,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1338,7 +1350,7 @@
           "lat": 41.5833
         },
         "totalConfirmedCases": 79,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1353,8 +1365,8 @@
           "isoCode": "US-IA",
           "lat": 41.6915
         },
-        "totalConfirmedCases": 279,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 280,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1369,8 +1381,8 @@
           "isoCode": "US-IA",
           "lat": 41.7263
         },
-        "totalConfirmedCases": 18,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 19,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1385,8 +1397,8 @@
           "isoCode": "US-IA",
           "lat": 42.9749
         },
-        "totalConfirmedCases": 42,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 84,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1401,8 +1413,8 @@
           "isoCode": "US-IA",
           "lat": 42.1073
         },
-        "totalConfirmedCases": 55,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 58,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1417,10 +1429,10 @@
           "isoCode": "US-IA",
           "lat": 41.9648
         },
-        "totalConfirmedCases": 327,
-        "newlyConfirmedCases": 5,
-        "totalDeaths": 12,
-        "newDeaths": 1,
+        "totalConfirmedCases": 329,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 13,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1465,8 +1477,8 @@
           "isoCode": "US-IA",
           "lat": 40.9176
         },
-        "totalConfirmedCases": 212,
-        "newlyConfirmedCases": 20,
+        "totalConfirmedCases": 218,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1482,7 +1494,7 @@
           "lat": 41.3709
         },
         "totalConfirmedCases": 42,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1497,8 +1509,8 @@
           "isoCode": "US-IA",
           "lat": 41.2139
         },
-        "totalConfirmedCases": 156,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 159,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1545,9 +1557,9 @@
           "isoCode": "US-IA",
           "lat": 42.3975
         },
-        "totalConfirmedCases": 1554,
-        "newlyConfirmedCases": 22,
-        "totalDeaths": 7,
+        "totalConfirmedCases": 1627,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 3,
         "newlyRecoveredCases": 0
@@ -1610,7 +1622,7 @@
           "lat": 41.227
         },
         "totalConfirmedCases": 11,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1626,7 +1638,7 @@
           "lat": 42.669
         },
         "totalConfirmedCases": 58,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1674,7 +1686,7 @@
           "lat": 41.1772
         },
         "totalConfirmedCases": 282,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1705,8 +1717,8 @@
           "isoCode": "US-IA",
           "lat": 42.811
         },
-        "totalConfirmedCases": 51,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 59,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1722,7 +1734,7 @@
           "lat": 41.018
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1786,7 +1798,7 @@
           "lat": 43.1814
         },
         "totalConfirmedCases": 15,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1801,7 +1813,7 @@
           "isoCode": "US-IA",
           "lat": 41.0413
         },
-        "totalConfirmedCases": 5,
+        "totalConfirmedCases": 6,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1817,7 +1829,7 @@
           "isoCode": "US-IA",
           "lat": 42.3898
         },
-        "totalConfirmedCases": 9,
+        "totalConfirmedCases": 10,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1929,7 +1941,7 @@
           "isoCode": "US-IA",
           "lat": 43.3534
         },
-        "totalConfirmedCases": 1,
+        "totalConfirmedCases": 2,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1946,7 +1958,7 @@
           "lat": 43.2863
         },
         "totalConfirmedCases": 19,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2009,7 +2021,7 @@
           "isoCode": "US-IA",
           "lat": 42.868
         },
-        "totalConfirmedCases": 6,
+        "totalConfirmedCases": 7,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2058,7 +2070,7 @@
           "lat": 40.6913838
         },
         "totalConfirmedCases": 9,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2105,9 +2117,9 @@
           "isoCode": "US-IA",
           "lat": 43.0615947
         },
-        "totalConfirmedCases": 3,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 0,
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -2154,7 +2166,7 @@
           "lat": 41.0040981
         },
         "totalConfirmedCases": 4,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

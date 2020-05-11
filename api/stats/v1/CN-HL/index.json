@@ -7,14 +7,14 @@
     "isoCode": "CN-HL",
     "lat": 47.862
   },
-  "updatedDateTime": "2020-05-10T05:45:36.5317232Z",
+  "updatedDateTime": "2020-05-11T17:42:19.4085973Z",
   "stats": {
     "totalConfirmedCases": 945,
-    "newlyConfirmedCases": 1,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 13,
     "newDeaths": 0,
-    "totalRecoveredCases": 891,
-    "newlyRecoveredCases": 76,
+    "totalRecoveredCases": 904,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 945,
         "deaths": 13,
         "recovered": 891
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 945,
+        "deaths": 13,
+        "recovered": 904
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 945,
+        "deaths": 13,
+        "recovered": 904
       }
     ],
     "breakdowns": [
@@ -682,11 +694,11 @@
           "lat": 47.862
         },
         "totalConfirmedCases": 945,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
-        "totalRecoveredCases": 891,
-        "newlyRecoveredCases": 76
+        "totalRecoveredCases": 904,
+        "newlyRecoveredCases": 0
       }
     ]
   }

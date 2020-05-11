@@ -7,10 +7,10 @@
     "isoCode": "MW",
     "lat": -13.254308
   },
-  "updatedDateTime": "2020-05-10T05:45:40.0841049Z",
+  "updatedDateTime": "2020-05-11T17:42:23.7187448Z",
   "stats": {
     "totalConfirmedCases": 56,
-    "newlyConfirmedCases": 13,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 3,
     "newDeaths": 0,
     "totalRecoveredCases": 14,
@@ -669,6 +669,18 @@
         "confirmed": 56,
         "deaths": 3,
         "recovered": 14
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 56,
+        "deaths": 3,
+        "recovered": 14
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 56,
+        "deaths": 3,
+        "recovered": 14
       }
     ],
     "breakdowns": [
@@ -682,7 +694,7 @@
           "lat": -13.254308
         },
         "totalConfirmedCases": 56,
-        "newlyConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 14,

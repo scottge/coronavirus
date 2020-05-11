@@ -7,7 +7,7 @@
     "isoCode": "CN-NX",
     "lat": 37.2692
   },
-  "updatedDateTime": "2020-05-10T05:45:36.6638501Z",
+  "updatedDateTime": "2020-05-11T17:42:19.5582926Z",
   "stats": {
     "totalConfirmedCases": 75,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 75,
+        "deaths": 0,
+        "recovered": 75
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 75,
+        "deaths": 0,
+        "recovered": 75
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 75,
         "deaths": 0,
         "recovered": 75

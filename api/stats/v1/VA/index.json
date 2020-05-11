@@ -7,7 +7,7 @@
     "isoCode": "VA",
     "lat": 41.9029
   },
-  "updatedDateTime": "2020-05-10T05:45:39.7748776Z",
+  "updatedDateTime": "2020-05-11T17:42:23.3475946Z",
   "stats": {
     "totalConfirmedCases": 12,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 12,
         "deaths": 0,
         "recovered": 2

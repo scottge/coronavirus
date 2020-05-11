@@ -7,14 +7,14 @@
     "isoCode": "CN-HK",
     "lat": 22.3
   },
-  "updatedDateTime": "2020-05-10T05:45:36.547035Z",
+  "updatedDateTime": "2020-05-11T17:42:19.4342612Z",
   "stats": {
-    "totalConfirmedCases": 1045,
+    "totalConfirmedCases": 1048,
     "newlyConfirmedCases": 0,
     "totalDeaths": 4,
     "newDeaths": 0,
-    "totalRecoveredCases": 967,
-    "newlyRecoveredCases": 7,
+    "totalRecoveredCases": 985,
+    "newlyRecoveredCases": 3,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 1045,
         "deaths": 4,
         "recovered": 967
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 1048,
+        "deaths": 4,
+        "recovered": 982
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 1048,
+        "deaths": 4,
+        "recovered": 985
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "CN-HK",
           "lat": 22.3
         },
-        "totalConfirmedCases": 1045,
+        "totalConfirmedCases": 1048,
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
-        "totalRecoveredCases": 967,
-        "newlyRecoveredCases": 7
+        "totalRecoveredCases": 985,
+        "newlyRecoveredCases": 3
       }
     ]
   }

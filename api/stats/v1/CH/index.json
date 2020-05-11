@@ -7,14 +7,14 @@
     "isoCode": "CH",
     "lat": 46.8182
   },
-  "updatedDateTime": "2020-05-10T05:45:40.5456537Z",
+  "updatedDateTime": "2020-05-11T17:42:24.5262243Z",
   "stats": {
-    "totalConfirmedCases": 30251,
-    "newlyConfirmedCases": 44,
-    "totalDeaths": 1830,
-    "newDeaths": 7,
-    "totalRecoveredCases": 26400,
-    "newlyRecoveredCases": 300,
+    "totalConfirmedCases": 30344,
+    "newlyConfirmedCases": 39,
+    "totalDeaths": 1845,
+    "newDeaths": 12,
+    "totalRecoveredCases": 26600,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 30251,
         "deaths": 1830,
         "recovered": 26400
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 30305,
+        "deaths": 1833,
+        "recovered": 26600
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 30344,
+        "deaths": 1845,
+        "recovered": 26600
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "CH",
           "lat": 46.8182
         },
-        "totalConfirmedCases": 30251,
-        "newlyConfirmedCases": 44,
-        "totalDeaths": 1830,
-        "newDeaths": 7,
-        "totalRecoveredCases": 26400,
-        "newlyRecoveredCases": 300
+        "totalConfirmedCases": 30344,
+        "newlyConfirmedCases": 39,
+        "totalDeaths": 1845,
+        "newDeaths": 12,
+        "totalRecoveredCases": 26600,
+        "newlyRecoveredCases": 0
       }
     ]
   }

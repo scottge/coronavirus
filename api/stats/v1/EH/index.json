@@ -7,7 +7,7 @@
     "isoCode": "EH",
     "lat": 24.215527
   },
-  "updatedDateTime": "2020-05-10T05:45:40.8361591Z",
+  "updatedDateTime": "2020-05-11T17:42:24.9037688Z",
   "stats": {
     "totalConfirmedCases": 6,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 5
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 5
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 6,
         "deaths": 0,
         "recovered": 5

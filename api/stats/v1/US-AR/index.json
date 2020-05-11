@@ -7,13 +7,13 @@
     "isoCode": "US-AR",
     "lat": 35.20105
   },
-  "updatedDateTime": "2020-05-10T05:45:38.9548316Z",
+  "updatedDateTime": "2020-05-11T17:42:22.1199273Z",
   "stats": {
-    "totalConfirmedCases": 3747,
+    "totalConfirmedCases": 4012,
     "newlyConfirmedCases": 0,
-    "totalDeaths": 90,
+    "totalDeaths": 93,
     "newDeaths": 0,
-    "totalRecoveredCases": 2968,
+    "totalRecoveredCases": 3112,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 3747,
         "deaths": 90,
         "recovered": 2968
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 4012,
+        "deaths": 93,
+        "recovered": 3112
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 4012,
+        "deaths": 93,
+        "recovered": 3112
       }
     ],
     "breakdowns": [
@@ -697,7 +709,7 @@
           "isoCode": "US-AR",
           "lat": 33.1212
         },
-        "totalConfirmedCases": 17,
+        "totalConfirmedCases": 18,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -729,7 +741,7 @@
           "isoCode": "US-AR",
           "lat": 36.4291
         },
-        "totalConfirmedCases": 116,
+        "totalConfirmedCases": 123,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -793,7 +805,7 @@
           "isoCode": "US-AR",
           "lat": 34.0005
         },
-        "totalConfirmedCases": 32,
+        "totalConfirmedCases": 33,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -873,7 +885,7 @@
           "isoCode": "US-AR",
           "lat": 35.9116
         },
-        "totalConfirmedCases": 92,
+        "totalConfirmedCases": 97,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -905,7 +917,7 @@
           "isoCode": "US-AR",
           "lat": 35.2267
         },
-        "totalConfirmedCases": 205,
+        "totalConfirmedCases": 210,
         "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
@@ -921,7 +933,7 @@
           "isoCode": "US-AR",
           "lat": 35.402
         },
-        "totalConfirmedCases": 27,
+        "totalConfirmedCases": 29,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -969,7 +981,7 @@
           "isoCode": "US-AR",
           "lat": 35.2289
         },
-        "totalConfirmedCases": 81,
+        "totalConfirmedCases": 82,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -985,7 +997,7 @@
           "isoCode": "US-AR",
           "lat": 34.4269
         },
-        "totalConfirmedCases": 118,
+        "totalConfirmedCases": 119,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1017,7 +1029,7 @@
           "isoCode": "US-AR",
           "lat": 36.2092
         },
-        "totalConfirmedCases": 22,
+        "totalConfirmedCases": 23,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1049,7 +1061,7 @@
           "isoCode": "US-AR",
           "lat": 34.2602
         },
-        "totalConfirmedCases": 22,
+        "totalConfirmedCases": 26,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1081,7 +1093,7 @@
           "isoCode": "US-AR",
           "lat": 35.7672
         },
-        "totalConfirmedCases": 12,
+        "totalConfirmedCases": 17,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1097,7 +1109,7 @@
           "isoCode": "US-AR",
           "lat": 34.4429
         },
-        "totalConfirmedCases": 226,
+        "totalConfirmedCases": 234,
         "newlyConfirmedCases": 0,
         "totalDeaths": 19,
         "newDeaths": 0,
@@ -1129,7 +1141,7 @@
           "isoCode": "US-AR",
           "lat": 36.0852
         },
-        "totalConfirmedCases": 69,
+        "totalConfirmedCases": 70,
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
@@ -1145,9 +1157,9 @@
           "isoCode": "US-AR",
           "lat": 34.0789
         },
-        "totalConfirmedCases": 907,
+        "totalConfirmedCases": 937,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 6,
+        "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 7,
         "newlyRecoveredCases": 0
@@ -1161,7 +1173,7 @@
           "isoCode": "US-AR",
           "lat": 35.0129
         },
-        "totalConfirmedCases": 44,
+        "totalConfirmedCases": 45,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1193,7 +1205,7 @@
           "isoCode": "US-AR",
           "lat": 35.0399
         },
-        "totalConfirmedCases": 7,
+        "totalConfirmedCases": 8,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1273,9 +1285,9 @@
           "isoCode": "US-AR",
           "lat": 34.7926
         },
-        "totalConfirmedCases": 603,
+        "totalConfirmedCases": 627,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 22,
+        "totalDeaths": 23,
         "newDeaths": 0,
         "totalRecoveredCases": 170,
         "newlyRecoveredCases": 0
@@ -1305,7 +1317,7 @@
           "isoCode": "US-AR",
           "lat": 34.5095
         },
-        "totalConfirmedCases": 72,
+        "totalConfirmedCases": 73,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1337,7 +1349,7 @@
           "isoCode": "US-AR",
           "lat": 35.3285
         },
-        "totalConfirmedCases": 14,
+        "totalConfirmedCases": 15,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1353,7 +1365,7 @@
           "isoCode": "US-AR",
           "lat": 33.8335
         },
-        "totalConfirmedCases": 16,
+        "totalConfirmedCases": 18,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1385,9 +1397,9 @@
           "isoCode": "US-AR",
           "lat": 33.1079
         },
-        "totalConfirmedCases": 73,
+        "totalConfirmedCases": 76,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 1,
+        "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 12,
         "newlyRecoveredCases": 0
@@ -1417,7 +1429,7 @@
           "isoCode": "US-AR",
           "lat": 36.1642
         },
-        "totalConfirmedCases": 105,
+        "totalConfirmedCases": 110,
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
@@ -1433,7 +1445,7 @@
           "isoCode": "US-AR",
           "lat": 35.277
         },
-        "totalConfirmedCases": 35,
+        "totalConfirmedCases": 36,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1481,7 +1493,7 @@
           "isoCode": "US-AR",
           "lat": 35.0788
         },
-        "totalConfirmedCases": 108,
+        "totalConfirmedCases": 278,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1545,7 +1557,7 @@
           "isoCode": "US-AR",
           "lat": 34.7737
         },
-        "totalConfirmedCases": 4,
+        "totalConfirmedCases": 5,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1561,7 +1573,7 @@
           "isoCode": "US-AR",
           "lat": 35.8592
         },
-        "totalConfirmedCases": 47,
+        "totalConfirmedCases": 52,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1577,7 +1589,7 @@
           "isoCode": "US-AR",
           "lat": 34.8899
         },
-        "totalConfirmedCases": 4,
+        "totalConfirmedCases": 5,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1609,7 +1621,7 @@
           "isoCode": "US-AR",
           "lat": 33.7518
         },
-        "totalConfirmedCases": 8,
+        "totalConfirmedCases": 9,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1641,7 +1653,7 @@
           "isoCode": "US-AR",
           "lat": 36.2959
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 11,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,

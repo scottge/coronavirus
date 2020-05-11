@@ -7,14 +7,14 @@
     "isoCode": "NG",
     "lat": 9.082
   },
-  "updatedDateTime": "2020-05-10T05:45:40.2803149Z",
+  "updatedDateTime": "2020-05-11T17:42:24.0332575Z",
   "stats": {
-    "totalConfirmedCases": 4151,
-    "newlyConfirmedCases": 239,
-    "totalDeaths": 128,
-    "newDeaths": 11,
-    "totalRecoveredCases": 745,
-    "newlyRecoveredCases": 66,
+    "totalConfirmedCases": 4399,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 143,
+    "newDeaths": 0,
+    "totalRecoveredCases": 778,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 4151,
         "deaths": 128,
         "recovered": 745
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 4399,
+        "deaths": 143,
+        "recovered": 778
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 4399,
+        "deaths": 143,
+        "recovered": 778
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "NG",
           "lat": 9.082
         },
-        "totalConfirmedCases": 4151,
-        "newlyConfirmedCases": 239,
-        "totalDeaths": 128,
-        "newDeaths": 11,
-        "totalRecoveredCases": 745,
-        "newlyRecoveredCases": 66
+        "totalConfirmedCases": 4399,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 143,
+        "newDeaths": 0,
+        "totalRecoveredCases": 778,
+        "newlyRecoveredCases": 0
       }
     ]
   }

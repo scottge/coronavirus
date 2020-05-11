@@ -7,13 +7,13 @@
     "isoCode": "US-HI",
     "lat": 19.898682
   },
-  "updatedDateTime": "2020-05-10T05:45:38.3793801Z",
+  "updatedDateTime": "2020-05-11T17:42:21.3809251Z",
   "stats": {
     "totalConfirmedCases": 632,
-    "newlyConfirmedCases": 1,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 17,
     "newDeaths": 0,
-    "totalRecoveredCases": 551,
+    "totalRecoveredCases": 561,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 632,
         "deaths": 17,
         "recovered": 551
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 632,
+        "deaths": 17,
+        "recovered": 561
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 632,
+        "deaths": 17,
+        "recovered": 561
       }
     ],
     "breakdowns": [
@@ -746,7 +758,7 @@
           "lat": 19.5429151
         },
         "totalConfirmedCases": 11,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

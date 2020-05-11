@@ -7,14 +7,14 @@
     "isoCode": "NA",
     "lat": -22.95764
   },
-  "updatedDateTime": "2020-05-10T05:45:40.2264877Z",
+  "updatedDateTime": "2020-05-11T17:42:23.9403827Z",
   "stats": {
     "totalConfirmedCases": 16,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 10,
-    "newlyRecoveredCases": 1,
+    "totalRecoveredCases": 11,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 16,
         "deaths": 0,
         "recovered": 10
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 11
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 11
       }
     ],
     "breakdowns": [
@@ -685,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 10,
-        "newlyRecoveredCases": 1
+        "totalRecoveredCases": 11,
+        "newlyRecoveredCases": 0
       }
     ]
   }

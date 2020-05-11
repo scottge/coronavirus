@@ -7,14 +7,14 @@
     "isoCode": "US-MN",
     "lat": 46.729553
   },
-  "updatedDateTime": "2020-05-10T05:45:38.5669969Z",
+  "updatedDateTime": "2020-05-11T17:42:21.5620746Z",
   "stats": {
-    "totalConfirmedCases": 10797,
-    "newlyConfirmedCases": 709,
-    "totalDeaths": 558,
-    "newDeaths": 24,
-    "totalRecoveredCases": 6322,
-    "newlyRecoveredCases": 625,
+    "totalConfirmedCases": 11799,
+    "newlyConfirmedCases": 522,
+    "totalDeaths": 591,
+    "newDeaths": 13,
+    "totalRecoveredCases": 7536,
+    "newlyRecoveredCases": 654,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 10797,
         "deaths": 558,
         "recovered": 6322
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 11277,
+        "deaths": 578,
+        "recovered": 6882
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 11799,
+        "deaths": 591,
+        "recovered": 7536
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "US-MN",
           "lat": 45.3293
         },
-        "totalConfirmedCases": 518,
-        "newlyConfirmedCases": 41,
+        "totalConfirmedCases": 549,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 29,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -713,8 +725,8 @@
           "isoCode": "US-MN",
           "lat": 45.7525
         },
-        "totalConfirmedCases": 87,
-        "newlyConfirmedCases": 11,
+        "totalConfirmedCases": 92,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -761,10 +773,10 @@
           "isoCode": "US-MN",
           "lat": 44.8254
         },
-        "totalConfirmedCases": 78,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 82,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -778,8 +790,8 @@
           "lat": 47.0568
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -793,8 +805,8 @@
           "isoCode": "US-MN",
           "lat": 45.6875
         },
-        "totalConfirmedCases": 19,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -809,10 +821,10 @@
           "isoCode": "US-MN",
           "lat": 46.7105
         },
-        "totalConfirmedCases": 233,
-        "newlyConfirmedCases": 4,
-        "totalDeaths": 16,
-        "newDeaths": 1,
+        "totalConfirmedCases": 235,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 17,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -841,8 +853,8 @@
           "isoCode": "US-MN",
           "lat": 43.9096
         },
-        "totalConfirmedCases": 45,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 46,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -857,10 +869,10 @@
           "isoCode": "US-MN",
           "lat": 44.9096
         },
-        "totalConfirmedCases": 408,
-        "newlyConfirmedCases": 44,
+        "totalConfirmedCases": 430,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 15,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -873,7 +885,7 @@
           "isoCode": "US-MN",
           "lat": 44.1529
         },
-        "totalConfirmedCases": 24,
+        "totalConfirmedCases": 26,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -889,7 +901,7 @@
           "isoCode": "US-MN",
           "lat": 45.9741
         },
-        "totalConfirmedCases": 15,
+        "totalConfirmedCases": 16,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -905,8 +917,8 @@
           "isoCode": "US-MN",
           "lat": 43.7677
         },
-        "totalConfirmedCases": 10,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -937,10 +949,10 @@
           "isoCode": "US-MN",
           "lat": 44.9394
         },
-        "totalConfirmedCases": 3379,
-        "newlyConfirmedCases": 226,
-        "totalDeaths": 374,
-        "newDeaths": 12,
+        "totalConfirmedCases": 3558,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 389,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -985,8 +997,8 @@
           "isoCode": "US-MN",
           "lat": 47.3207
         },
-        "totalConfirmedCases": 25,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1001,8 +1013,8 @@
           "isoCode": "US-MN",
           "lat": 43.6288
         },
-        "totalConfirmedCases": 31,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 32,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1017,8 +1029,8 @@
           "isoCode": "US-MN",
           "lat": 45.4054
         },
-        "totalConfirmedCases": 276,
-        "newlyConfirmedCases": 15,
+        "totalConfirmedCases": 284,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1033,7 +1045,7 @@
           "isoCode": "US-MN",
           "lat": 44.2236
         },
-        "totalConfirmedCases": 28,
+        "totalConfirmedCases": 29,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1065,7 +1077,7 @@
           "isoCode": "US-MN",
           "lat": 47.3219
         },
-        "totalConfirmedCases": 2,
+        "totalConfirmedCases": 3,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1082,7 +1094,7 @@
           "lat": 43.6441
         },
         "totalConfirmedCases": 112,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1098,7 +1110,7 @@
           "lat": 44.9431
         },
         "totalConfirmedCases": 21,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1113,8 +1125,8 @@
           "isoCode": "US-MN",
           "lat": 43.5133
         },
-        "totalConfirmedCases": 42,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1130,7 +1142,7 @@
           "lat": 44.3296
         },
         "totalConfirmedCases": 21,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1145,8 +1157,8 @@
           "isoCode": "US-MN",
           "lat": 43.9952
         },
-        "totalConfirmedCases": 363,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 368,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1162,7 +1174,7 @@
           "lat": 46.3798
         },
         "totalConfirmedCases": 23,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1177,10 +1189,10 @@
           "isoCode": "US-MN",
           "lat": 44.9964
         },
-        "totalConfirmedCases": 875,
-        "newlyConfirmedCases": 75,
-        "totalDeaths": 43,
-        "newDeaths": 1,
+        "totalConfirmedCases": 920,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 45,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1209,8 +1221,8 @@
           "isoCode": "US-MN",
           "lat": 44.4551
         },
-        "totalConfirmedCases": 102,
-        "newlyConfirmedCases": 21,
+        "totalConfirmedCases": 114,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1225,8 +1237,8 @@
           "isoCode": "US-MN",
           "lat": 44.7251
         },
-        "totalConfirmedCases": 129,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 140,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1241,8 +1253,8 @@
           "isoCode": "US-MN",
           "lat": 45.4416
         },
-        "totalConfirmedCases": 107,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 109,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1257,7 +1269,7 @@
           "isoCode": "US-MN",
           "lat": 44.6728
         },
-        "totalConfirmedCases": 3,
+        "totalConfirmedCases": 4,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1273,8 +1285,8 @@
           "isoCode": "US-MN",
           "lat": 47.5312
         },
-        "totalConfirmedCases": 91,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 92,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1289,10 +1301,10 @@
           "isoCode": "US-MN",
           "lat": 45.465
         },
-        "totalConfirmedCases": 1348,
-        "newlyConfirmedCases": 74,
+        "totalConfirmedCases": 1405,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1305,8 +1317,8 @@
           "isoCode": "US-MN",
           "lat": 43.8683
         },
-        "totalConfirmedCases": 58,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 60,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1354,7 +1366,7 @@
           "lat": 43.8938
         },
         "totalConfirmedCases": 16,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1369,10 +1381,10 @@
           "isoCode": "US-MN",
           "lat": 45.0598
         },
-        "totalConfirmedCases": 231,
-        "newlyConfirmedCases": 20,
-        "totalDeaths": 14,
-        "newDeaths": 2,
+        "totalConfirmedCases": 247,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 15,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1386,7 +1398,7 @@
           "lat": 44.0535
         },
         "totalConfirmedCases": 22,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1417,8 +1429,8 @@
           "isoCode": "US-MN",
           "lat": 43.9837
         },
-        "totalConfirmedCases": 70,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 71,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 15,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1433,8 +1445,8 @@
           "isoCode": "US-MN",
           "lat": 45.092
         },
-        "totalConfirmedCases": 92,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 102,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1498,7 +1510,7 @@
           "lat": 44.4488
         },
         "totalConfirmedCases": 17,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1513,8 +1525,8 @@
           "isoCode": "US-MN",
           "lat": 43.7659
         },
-        "totalConfirmedCases": 43,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1577,7 +1589,7 @@
           "isoCode": "US-MN",
           "lat": 44.7699
         },
-        "totalConfirmedCases": 8,
+        "totalConfirmedCases": 12,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1593,10 +1605,10 @@
           "isoCode": "US-MN",
           "lat": 47.6966
         },
-        "totalConfirmedCases": 48,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 52,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1626,7 +1638,7 @@
           "lat": 43.9546
         },
         "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1641,8 +1653,8 @@
           "isoCode": "US-MN",
           "lat": 44.0704
         },
-        "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1673,7 +1685,7 @@
           "isoCode": "US-MN",
           "lat": 45.2814
         },
-        "totalConfirmedCases": 3,
+        "totalConfirmedCases": 5,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1705,8 +1717,8 @@
           "isoCode": "US-MN",
           "lat": 45.8367
         },
-        "totalConfirmedCases": 69,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 73,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1721,8 +1733,8 @@
           "isoCode": "US-MN",
           "lat": 43.8266
         },
-        "totalConfirmedCases": 1230,
-        "newlyConfirmedCases": 53,
+        "totalConfirmedCases": 1255,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1738,7 +1750,7 @@
           "lat": 46.8066
         },
         "totalConfirmedCases": 25,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1769,8 +1781,8 @@
           "isoCode": "US-MN",
           "lat": 46.324
         },
-        "totalConfirmedCases": 33,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 36,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1785,7 +1797,7 @@
           "isoCode": "US-MN",
           "lat": 47.8837
         },
-        "totalConfirmedCases": 1,
+        "totalConfirmedCases": 2,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1801,8 +1813,8 @@
           "isoCode": "US-MN",
           "lat": 43.8879
         },
-        "totalConfirmedCases": 64,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 65,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1849,7 +1861,7 @@
           "isoCode": "US-MN",
           "lat": 47.1761
         },
-        "totalConfirmedCases": 9,
+        "totalConfirmedCases": 10,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1866,7 +1878,7 @@
           "lat": 45.5689
         },
         "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1929,8 +1941,8 @@
           "isoCode": "US-MN",
           "lat": 45.9772
         },
-        "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1945,7 +1957,7 @@
           "isoCode": "US-MN",
           "lat": 44.9583
         },
-        "totalConfirmedCases": 5,
+        "totalConfirmedCases": 6,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1978,7 +1990,7 @@
           "lat": 45.9329034
         },
         "totalConfirmedCases": 9,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

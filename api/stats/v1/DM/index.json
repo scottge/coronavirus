@@ -7,13 +7,13 @@
     "isoCode": "DM",
     "lat": 15.414999
   },
-  "updatedDateTime": "2020-05-10T05:45:39.5413959Z",
+  "updatedDateTime": "2020-05-11T17:42:22.9296531Z",
   "stats": {
     "totalConfirmedCases": 16,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 14,
+    "totalRecoveredCases": 15,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 16,
         "deaths": 0,
         "recovered": 14
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 15
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 15
       }
     ],
     "breakdowns": [
@@ -685,7 +697,7 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 14,
+        "totalRecoveredCases": 15,
         "newlyRecoveredCases": 0
       }
     ]

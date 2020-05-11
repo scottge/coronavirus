@@ -7,12 +7,12 @@
     "isoCode": "US-MO",
     "lat": 37.964253
   },
-  "updatedDateTime": "2020-05-10T05:45:38.5993127Z",
+  "updatedDateTime": "2020-05-11T17:42:21.5822961Z",
   "stats": {
-    "totalConfirmedCases": 9810,
-    "newlyConfirmedCases": 118,
-    "totalDeaths": 493,
-    "newDeaths": 14,
+    "totalConfirmedCases": 10008,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 497,
+    "newDeaths": 0,
     "totalRecoveredCases": 2063,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 9810,
         "deaths": 493,
         "recovered": 2063
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 10008,
+        "deaths": 497,
+        "recovered": 2063
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 10008,
+        "deaths": 497,
+        "recovered": 2063
       }
     ],
     "breakdowns": [
@@ -793,8 +805,8 @@
           "isoCode": "US-MO",
           "lat": 39.7226
         },
-        "totalConfirmedCases": 432,
-        "newlyConfirmedCases": 23,
+        "totalConfirmedCases": 442,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -825,7 +837,7 @@
           "isoCode": "US-MO",
           "lat": 37.8136
         },
-        "totalConfirmedCases": 35,
+        "totalConfirmedCases": 36,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -841,7 +853,7 @@
           "isoCode": "US-MO",
           "lat": 37.2368
         },
-        "totalConfirmedCases": 49,
+        "totalConfirmedCases": 51,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -873,10 +885,10 @@
           "isoCode": "US-MO",
           "lat": 38.7306
         },
-        "totalConfirmedCases": 69,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 70,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 8,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -969,7 +981,7 @@
           "isoCode": "US-MO",
           "lat": 38.5157
         },
-        "totalConfirmedCases": 55,
+        "totalConfirmedCases": 56,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1081,10 +1093,10 @@
           "isoCode": "US-MO",
           "lat": 39.1363
         },
-        "totalConfirmedCases": 1119,
-        "newlyConfirmedCases": 23,
+        "totalConfirmedCases": 1165,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 30,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 2,
         "newlyRecoveredCases": 0
       },
@@ -1114,7 +1126,7 @@
           "lat": 38.3655
         },
         "totalConfirmedCases": 309,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 95,
@@ -1130,7 +1142,7 @@
           "lat": 38.5833
         },
         "totalConfirmedCases": 63,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 32,
@@ -1161,10 +1173,10 @@
           "isoCode": "US-MO",
           "lat": 38.9877
         },
-        "totalConfirmedCases": 60,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 62,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 23,
         "newlyRecoveredCases": 0
       },
@@ -1306,7 +1318,7 @@
           "lat": 37.0355
         },
         "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1337,7 +1349,7 @@
           "isoCode": "US-MO",
           "lat": 36.3318
         },
-        "totalConfirmedCases": 57,
+        "totalConfirmedCases": 63,
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
@@ -1370,7 +1382,7 @@
           "lat": 38.6211
         },
         "totalConfirmedCases": 64,
-        "newlyConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 2,
@@ -1513,8 +1525,8 @@
           "isoCode": "US-MO",
           "lat": 37.0938
         },
-        "totalConfirmedCases": 79,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 80,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 13,
@@ -1545,10 +1557,10 @@
           "isoCode": "US-MO",
           "lat": 38.8664
         },
-        "totalConfirmedCases": 663,
-        "newlyConfirmedCases": 8,
-        "totalDeaths": 46,
-        "newDeaths": 0,
+        "totalConfirmedCases": 670,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 47,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1562,9 +1574,9 @@
           "lat": 37.8618
         },
         "totalConfirmedCases": 33,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 16,
         "newlyRecoveredCases": 0
       },
@@ -1577,10 +1589,10 @@
           "isoCode": "US-MO",
           "lat": 38.6103
         },
-        "totalConfirmedCases": 3864,
-        "newlyConfirmedCases": 72,
-        "totalDeaths": 255,
-        "newDeaths": 9,
+        "totalConfirmedCases": 3932,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 262,
+        "newDeaths": 0,
         "totalRecoveredCases": 944,
         "newlyRecoveredCases": 0
       },
@@ -1594,7 +1606,7 @@
           "lat": 37.0237
         },
         "totalConfirmedCases": 29,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1769,7 +1781,7 @@
           "isoCode": "US-MO",
           "lat": 36.7632
         },
-        "totalConfirmedCases": 26,
+        "totalConfirmedCases": 27,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1818,7 +1830,7 @@
           "lat": 36.6111
         },
         "totalConfirmedCases": 12,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1849,8 +1861,8 @@
           "isoCode": "US-MO",
           "lat": 39.194
         },
-        "totalConfirmedCases": 215,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 219,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 24,
@@ -1946,7 +1958,7 @@
           "lat": 37.4872
         },
         "totalConfirmedCases": 3,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2089,8 +2101,8 @@
           "isoCode": "US-MO",
           "lat": 39.8388
         },
-        "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2201,7 +2213,7 @@
           "isoCode": "US-MO",
           "lat": 39.2747
         },
-        "totalConfirmedCases": 1,
+        "totalConfirmedCases": 2,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2297,8 +2309,8 @@
           "isoCode": "US-MO",
           "lat": 37.6965235
         },
-        "totalConfirmedCases": 1,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

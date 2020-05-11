@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "US - New Jersey State Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in US-New Jersey. Total Cases: 138579 (+1367), Deaths: 9118 (+132), Recoveries: 1501(+33)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in US-New Jersey. Total Cases: 140930 (+922), Deaths: 9312 (+48), Recoveries: 1535(-)."
+publishedDateTime: 2020-05-11T17:42:25Z
+updatedDateTime: 2020-05-11T17:42:25Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-nj/"
 type: article
 heat: 100
@@ -30,15 +30,15 @@ images:
 <div class="total-stats" style="text-align: center;">
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Confirmed Cases:</div>
-	    138579 (<span class='red'>+1367</span>)
+	    140930 (<span class='red'>+922</span>)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Deaths:</div>
-	    9118 (<span class='red'>+132</span>)
+	    9312 (<span class='red'>+48</span>)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
-	    1501 (<span class='green'>+33</span>)
+	    1535 (-)
     </h3>
 </div>
 
@@ -51,7 +51,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 0, 0, 0],['1/27/2020', 0, 0, 0],['1/28/2020', 0, 0, 0],['1/29/2020', 0, 0, 0],['1/30/2020', 0, 0, 0],['1/31/2020', 0, 0, 0],['2/1/2020', 0, 0, 0],['2/2/2020', 0, 0, 0],['2/3/2020', 0, 0, 0],['2/4/2020', 0, 0, 0],['2/5/2020', 0, 0, 0],['2/6/2020', 0, 0, 0],['2/7/2020', 0, 0, 0],['2/8/2020', 0, 0, 0],['2/9/2020', 0, 0, 0],['2/10/2020', 0, 0, 0],['2/11/2020', 0, 0, 0],['2/12/2020', 0, 0, 0],['2/13/2020', 0, 0, 0],['2/14/2020', 0, 0, 0],['2/15/2020', 0, 0, 0],['2/16/2020', 0, 0, 0],['2/17/2020', 0, 0, 0],['2/18/2020', 0, 0, 0],['2/19/2020', 0, 0, 0],['2/20/2020', 0, 0, 0],['2/21/2020', 0, 0, 0],['2/22/2020', 0, 0, 0],['2/23/2020', 0, 0, 0],['2/24/2020', 0, 0, 0],['2/25/2020', 0, 0, 0],['2/26/2020', 0, 0, 0],['2/27/2020', 0, 0, 0],['2/28/2020', 0, 0, 0],['2/29/2020', 0, 0, 0],['3/1/2020', 0, 0, 0],['3/2/2020', 0, 0, 0],['3/3/2020', 0, 0, 0],['3/4/2020', 0, 0, 0],['3/5/2020', 2, 0, 0],['3/6/2020', 2, 0, 0],['3/7/2020', 4, 0, 0],['3/8/2020', 5, 0, 0],['3/9/2020', 5, 0, 0],['3/10/2020', 15, 1, 0],['3/11/2020', 23, 1, 0],['3/12/2020', 31, 1, 0],['3/13/2020', 51, 1, 1],['3/14/2020', 71, 2, 1],['3/15/2020', 109, 2, 1],['3/16/2020', 179, 3, 1],['3/17/2020', 267, 3, 1],['3/18/2020', 425, 5, 1],['3/19/2020', 740, 9, 1],['3/20/2020', 890, 11, 1],['3/21/2020', 1327, 16, 1],['3/22/2020', 1914, 21, 1],['3/23/2020', 2844, 27, 1],['3/24/2020', 3675, 44, 1],['3/25/2020', 4407, 62, 1],['3/26/2020', 6876, 81, 1],['3/27/2020', 8825, 108, 1],['3/28/2020', 11124, 140, 1],['3/29/2020', 11666, 154, 1],['3/30/2020', 12789, 121, 12],['3/31/2020', 12789, 121, 12],['4/1/2020', 22255, 355, 12],['4/2/2020', 25590, 537, 12],['4/3/2020', 29895, 646, 12],['4/4/2020', 34124, 846, 12],['4/5/2020', 37505, 917, 12],['4/6/2020', 41090, 1003, 12],['4/7/2020', 44416, 1232, 12],['4/8/2020', 47437, 1504, 12],['4/9/2020', 51027, 1709, 12],['4/10/2020', 54588, 1932, 12],['4/11/2020', 58151, 2183, 12],['4/12/2020', 61850, 2350, 12],['4/13/2020', 64584, 2443, 12],['4/14/2020', 68824, 2805, 12],['4/15/2020', 71030, 3156, 12],['4/16/2020', 75317, 3518, 12],['4/17/2020', 78467, 3840, 12],['4/18/2020', 81599, 4249, 12],['4/19/2020', 85301, 4362, 12],['4/20/2020', 88806, 4520, 12],['4/21/2020', 92387, 4753, 12],['4/22/2020', 95914, 5150, 12],['4/23/2020', 100025, 5426, 12],['4/24/2020', 102083, 5642, 730],['4/25/2020', 105523, 5915, 1271],['4/26/2020', 109038, 5984, 1271],['4/27/2020', 111188, 6077, 1271],['4/28/2020', 113856, 6442, 1271],['4/29/2020', 116264, 6771, 1271],['4/30/2020', 118652, 7228, 1271],['5/1/2020', 121178, 7481, 1271],['5/2/2020', 123717, 7742, 1271],['5/3/2020', 127438, 7886, 1271],['5/4/2020', 129345, 7951, 1271],['5/5/2020', 131705, 8292, 1271],['5/6/2020', 133059, 8572, 1444],['5/7/2020', 135106, 8834, 1121],['5/8/2020', 137212, 8986, 1468],['5/9/2020', 138579, 9118, 1501],
+      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 0, 0, 0],['1/27/2020', 0, 0, 0],['1/28/2020', 0, 0, 0],['1/29/2020', 0, 0, 0],['1/30/2020', 0, 0, 0],['1/31/2020', 0, 0, 0],['2/1/2020', 0, 0, 0],['2/2/2020', 0, 0, 0],['2/3/2020', 0, 0, 0],['2/4/2020', 0, 0, 0],['2/5/2020', 0, 0, 0],['2/6/2020', 0, 0, 0],['2/7/2020', 0, 0, 0],['2/8/2020', 0, 0, 0],['2/9/2020', 0, 0, 0],['2/10/2020', 0, 0, 0],['2/11/2020', 0, 0, 0],['2/12/2020', 0, 0, 0],['2/13/2020', 0, 0, 0],['2/14/2020', 0, 0, 0],['2/15/2020', 0, 0, 0],['2/16/2020', 0, 0, 0],['2/17/2020', 0, 0, 0],['2/18/2020', 0, 0, 0],['2/19/2020', 0, 0, 0],['2/20/2020', 0, 0, 0],['2/21/2020', 0, 0, 0],['2/22/2020', 0, 0, 0],['2/23/2020', 0, 0, 0],['2/24/2020', 0, 0, 0],['2/25/2020', 0, 0, 0],['2/26/2020', 0, 0, 0],['2/27/2020', 0, 0, 0],['2/28/2020', 0, 0, 0],['2/29/2020', 0, 0, 0],['3/1/2020', 0, 0, 0],['3/2/2020', 0, 0, 0],['3/3/2020', 0, 0, 0],['3/4/2020', 0, 0, 0],['3/5/2020', 2, 0, 0],['3/6/2020', 2, 0, 0],['3/7/2020', 4, 0, 0],['3/8/2020', 5, 0, 0],['3/9/2020', 5, 0, 0],['3/10/2020', 15, 1, 0],['3/11/2020', 23, 1, 0],['3/12/2020', 31, 1, 0],['3/13/2020', 51, 1, 1],['3/14/2020', 71, 2, 1],['3/15/2020', 109, 2, 1],['3/16/2020', 179, 3, 1],['3/17/2020', 267, 3, 1],['3/18/2020', 425, 5, 1],['3/19/2020', 740, 9, 1],['3/20/2020', 890, 11, 1],['3/21/2020', 1327, 16, 1],['3/22/2020', 1914, 21, 1],['3/23/2020', 2844, 27, 1],['3/24/2020', 3675, 44, 1],['3/25/2020', 4407, 62, 1],['3/26/2020', 6876, 81, 1],['3/27/2020', 8825, 108, 1],['3/28/2020', 11124, 140, 1],['3/29/2020', 11666, 154, 1],['3/30/2020', 12789, 121, 12],['3/31/2020', 12789, 121, 12],['4/1/2020', 22255, 355, 12],['4/2/2020', 25590, 537, 12],['4/3/2020', 29895, 646, 12],['4/4/2020', 34124, 846, 12],['4/5/2020', 37505, 917, 12],['4/6/2020', 41090, 1003, 12],['4/7/2020', 44416, 1232, 12],['4/8/2020', 47437, 1504, 12],['4/9/2020', 51027, 1709, 12],['4/10/2020', 54588, 1932, 12],['4/11/2020', 58151, 2183, 12],['4/12/2020', 61850, 2350, 12],['4/13/2020', 64584, 2443, 12],['4/14/2020', 68824, 2805, 12],['4/15/2020', 71030, 3156, 12],['4/16/2020', 75317, 3518, 12],['4/17/2020', 78467, 3840, 12],['4/18/2020', 81599, 4249, 12],['4/19/2020', 85301, 4362, 12],['4/20/2020', 88806, 4520, 12],['4/21/2020', 92387, 4753, 12],['4/22/2020', 95914, 5150, 12],['4/23/2020', 100025, 5426, 12],['4/24/2020', 102083, 5642, 730],['4/25/2020', 105523, 5915, 1271],['4/26/2020', 109038, 5984, 1271],['4/27/2020', 111188, 6077, 1271],['4/28/2020', 113856, 6442, 1271],['4/29/2020', 116264, 6771, 1271],['4/30/2020', 118652, 7228, 1271],['5/1/2020', 121178, 7481, 1271],['5/2/2020', 123717, 7742, 1271],['5/3/2020', 127438, 7886, 1271],['5/4/2020', 129345, 7951, 1271],['5/5/2020', 131705, 8292, 1271],['5/6/2020', 133059, 8572, 1444],['5/7/2020', 135106, 8834, 1121],['5/8/2020', 137212, 8986, 1468],['5/9/2020', 138579, 9118, 1501],['5/10/2020', 140008, 9264, 1535],['5/11/2020', 140930, 9312, 1535],
     ]);
     var options = {
       curveType: 'none',
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [39.564, -74.5961, "Atlantic", 1494, 72],[40.9263, -74.077, "Bergen", 16804, 1348],[40.0712, -74.8649, "Burlington", 3531, 194],[39.9259, -75.1196, "Camden", 4758, 217],[38.9765, -74.9516, "Cape May", 442, 32],[39.3265, -75.0306, "Cumberland", 1245, 34],[40.8428, -74.2014, "Essex", 15544, 1414],[39.7458, -75.3117, "Gloucester", 1631, 79],[40.7453, -74.0535, "Hudson", 17365, 954],[40.6159, -74.772, "Hunterdon", 706, 46],[40.2236, -74.7641, "Mercer", 5233, 330],[40.5726, -74.4927, "Middlesex", 13759, 759],[40.2589, -74.124, "Monmouth", 6815, 439],[40.7966, -74.4772, "Morris", 5833, 511],[40.0384, -74.1678, "Ocean", 7366, 522],[40.8568, -74.1285, "Passaic", 14428, 734],[39.6503, -75.3251, "Salem", 400, 18],[40.5361, -74.5745, "Somerset", 3996, 331],[41.1874, -74.5015, "Sussex", 1023, 127],[40.6976, -74.2632, "Union", 13984, 852],[40.6774, -75.1558, "Warren", 1040, 103],
+      [39.564, -74.5961, "Atlantic", 1510, 72],[40.9263, -74.077, "Bergen", 16929, 1355],[40.0712, -74.8649, "Burlington", 3574, 198],[39.9259, -75.1196, "Camden", 4870, 225],[38.9765, -74.9516, "Cape May", 458, 32],[39.3265, -75.0306, "Cumberland", 1287, 36],[40.8428, -74.2014, "Essex", 15646, 1423],[39.7458, -75.3117, "Gloucester", 1654, 81],[40.7453, -74.0535, "Hudson", 17513, 969],[40.6159, -74.772, "Hunterdon", 714, 46],[40.2236, -74.7641, "Mercer", 5317, 334],[40.5726, -74.4927, "Middlesex", 13937, 793],[40.2589, -74.124, "Monmouth", 6894, 443],[40.7966, -74.4772, "Morris", 5854, 516],[40.0384, -74.1678, "Ocean", 7462, 540],[40.8568, -74.1285, "Passaic", 14543, 744],[39.6503, -75.3251, "Salem", 411, 18],[40.5361, -74.5745, "Somerset", 4054, 333],[41.1874, -74.5015, "Sussex", 1026, 127],[40.6976, -74.2632, "Union", 14057, 867],[40.6774, -75.1558, "Warren", 1044, 104],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Atlantic", f:"Atlantic"}, 1494, 71, 1351, 72, 4, 71],[{v:"Bergen", f:"Bergen"}, 16804, 95, 15456, 1348, 19, 0],[{v:"Burlington", f:"Burlington"}, 3531, 100, 3337, 194, 4, 0],[{v:"Camden", f:"Camden"}, 4758, 139, 4541, 217, 18, 0],[{v:"Cape May", f:"Cape May"}, 442, 18, 365, 32, 1, 45],[{v:"Cumberland", f:"Cumberland"}, 1245, 121, 1211, 34, 6, 0],[{v:"Essex", f:"Essex"}, 15544, 194, 14070, 1414, 12, 60],[{v:"Gloucester", f:"Gloucester"}, 1631, 38, 1552, 79, 7, 0],[{v:"Hudson", f:"Hudson"}, 17365, 0, 16097, 954, 9, 314],[{v:"Hunterdon", f:"Hunterdon"}, 706, 5, 660, 46, 2, 0],[{v:"Mercer", f:"Mercer"}, 5233, 122, 4891, 330, 8, 12],[{v:"Middlesex", f:"Middlesex"}, 13759, 142, 13000, 759, 11, 0],[{v:"Monmouth", f:"Monmouth"}, 6815, 63, 6376, 439, 10, 0],[{v:"Morris", f:"Morris"}, 5833, 66, 5321, 511, 5, 1],[{v:"Ocean", f:"Ocean"}, 7366, 89, 6844, 522, 6, 0],[{v:"Passaic", f:"Passaic"}, 14428, 148, 13694, 734, 19, 0],[{v:"Salem", f:"Salem"}, 400, 37, 382, 18, 0, 0],[{v:"Somerset", f:"Somerset"}, 3996, 28, 3665, 331, 3, 0],[{v:"Sussex", f:"Sussex"}, 1023, 8, 896, 127, 2, 0],[{v:"Union", f:"Union"}, 13984, 67, 12981, 852, 8, 151],[{v:"Warren", f:"Warren"}, 1040, 6, 861, 103, 2, 76],
+      [{v:"Atlantic", f:"Atlantic"}, 1510, 0, 1367, 72, 0, 71],[{v:"Bergen", f:"Bergen"}, 16929, 0, 15574, 1355, 0, 0],[{v:"Burlington", f:"Burlington"}, 3574, 0, 3376, 198, 0, 0],[{v:"Camden", f:"Camden"}, 4870, 0, 4645, 225, 0, 0],[{v:"Cape May", f:"Cape May"}, 458, 0, 381, 32, 0, 45],[{v:"Cumberland", f:"Cumberland"}, 1287, 0, 1251, 36, 0, 0],[{v:"Essex", f:"Essex"}, 15646, 0, 14163, 1423, 0, 60],[{v:"Gloucester", f:"Gloucester"}, 1654, 0, 1573, 81, 0, 0],[{v:"Hudson", f:"Hudson"}, 17513, 0, 16230, 969, 0, 314],[{v:"Hunterdon", f:"Hunterdon"}, 714, 0, 668, 46, 0, 0],[{v:"Mercer", f:"Mercer"}, 5317, 0, 4971, 334, 0, 12],[{v:"Middlesex", f:"Middlesex"}, 13937, 0, 13144, 793, 0, 0],[{v:"Monmouth", f:"Monmouth"}, 6894, 0, 6451, 443, 0, 0],[{v:"Morris", f:"Morris"}, 5854, 0, 5337, 516, 0, 1],[{v:"Ocean", f:"Ocean"}, 7462, 0, 6922, 540, 0, 0],[{v:"Passaic", f:"Passaic"}, 14543, 0, 13799, 744, 0, 0],[{v:"Salem", f:"Salem"}, 411, 0, 393, 18, 0, 0],[{v:"Somerset", f:"Somerset"}, 4054, 0, 3721, 333, 0, 0],[{v:"Sussex", f:"Sussex"}, 1026, 0, 899, 127, 0, 0],[{v:"Union", f:"Union"}, 14057, 0, 13039, 867, 0, 151],[{v:"Warren", f:"Warren"}, 1044, 0, 864, 104, 0, 76],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));
@@ -200,42 +200,6 @@ images:
 		<div class="card-excerpt">Rite Aid announced on Thursday that the company is expanding its COVID-19 testing eligibility as well as opening an additional 46 self-swab testing sites. Effective</div>
 		<div class="card-meta">
 			<span class="card-provider">WAVY</span> • <span class="card-date">5/7/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.nj.com/coronavirus/2020/05/murphy-extends-nj-coronavirus-public-health-emergency-for-30-days-state-of-emergency-remains-in-effect.html"><div class="card-image" style="background-image: url(https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/XPCYDF2NVZCF5PAKTAR6XHYUM4.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.nj.com/coronavirus/2020/05/murphy-extends-nj-coronavirus-public-health-emergency-for-30-days-state-of-emergency-remains-in-effect.html">Murphy extends N.J. coronavirus public-health emergency for 30 days. State of emergency remains in effect.</a></div>
-		<div class="card-excerpt">Phil Murphy announced Wednesday he’s extending the public-health emergency he declared in New Jersey over the coronavirus pandemic by 30 days. Murphy declared both a state of emergency and a public-health emergency on March 9 as the pandemic was beginning to spread in New Jersey.</div>
-		<div class="card-meta">
-			<span class="card-provider">NJ.com</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.cnn.com/world/live-news/coronavirus-pandemic-04-10-20/index.html"><div class="card-image" style="background-image: url(https://cdn.cnn.com/cnnnext/dam/assets/200213175741-04-coronavirus-0213-super-tease.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.cnn.com/world/live-news/coronavirus-pandemic-04-10-20/index.html">Wait, Donald Trump's approval is up again?</a></div>
-		<div class="card-excerpt">After a brief surge of public support for President Donald Trump in the early days of America's fight against the coronavirus, his approval numbers had settled back into the low 40s.</div>
-		<div class="card-meta">
-			<span class="card-provider">CNN</span> • <span class="card-date">5/5/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.nbcnewyork.com/news/coronavirus/10-nj-universities-join-forces-want-students-to-return-to-state-for-higher-education/2403286/"><div class="card-image" style="background-image: url(https://media.nbcnewyork.com/2019/09/GettyImages-1171004759.jpg?crop=0px%2C222px%2C2121px%2C1193px&resize=1200%2C675)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.nbcnewyork.com/news/coronavirus/10-nj-universities-join-forces-want-students-to-return-to-state-for-higher-education/2403286/">10 NJ Universities Join Forces, Want Students to Return to State for Higher Education</a></div>
-		<div class="card-excerpt">The presidents of 10 public universities and colleges in New Jersey have joined forces and issued a call for the 120,000 state residents who attend higher education institutions outside of the state to return home,</div>
-		<div class="card-meta">
-			<span class="card-provider">NBC New York</span> • <span class="card-date">5/5/2020</span>
 		</div>
 	</div>
   </div>

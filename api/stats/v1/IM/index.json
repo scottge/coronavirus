@@ -7,9 +7,9 @@
     "isoCode": "IM",
     "lat": 54.236107
   },
-  "updatedDateTime": "2020-05-10T05:45:39.841768Z",
+  "updatedDateTime": "2020-05-11T17:42:23.4630937Z",
   "stats": {
-    "totalConfirmedCases": 329,
+    "totalConfirmedCases": 330,
     "newlyConfirmedCases": 0,
     "totalDeaths": 23,
     "newDeaths": 0,
@@ -669,6 +669,18 @@
         "confirmed": 329,
         "deaths": 23,
         "recovered": 271
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 330,
+        "deaths": 23,
+        "recovered": 271
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 330,
+        "deaths": 23,
+        "recovered": 271
       }
     ],
     "breakdowns": [
@@ -681,7 +693,7 @@
           "isoCode": "IM",
           "lat": 54.236107
         },
-        "totalConfirmedCases": 329,
+        "totalConfirmedCases": 330,
         "newlyConfirmedCases": 0,
         "totalDeaths": 23,
         "newDeaths": 0,

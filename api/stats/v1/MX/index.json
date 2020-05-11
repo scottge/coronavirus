@@ -7,14 +7,14 @@
     "isoCode": "MX",
     "lat": 23.6345
   },
-  "updatedDateTime": "2020-05-10T05:45:40.148921Z",
+  "updatedDateTime": "2020-05-11T17:42:23.8357147Z",
   "stats": {
-    "totalConfirmedCases": 33460,
-    "newlyConfirmedCases": 1938,
-    "totalDeaths": 3353,
-    "newDeaths": 193,
-    "totalRecoveredCases": 21824,
-    "newlyRecoveredCases": 1510,
+    "totalConfirmedCases": 35022,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 3465,
+    "newDeaths": 0,
+    "totalRecoveredCases": 23100,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 33460,
         "deaths": 3353,
         "recovered": 21824
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 35022,
+        "deaths": 3465,
+        "recovered": 23100
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 35022,
+        "deaths": 3465,
+        "recovered": 23100
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "MX",
           "lat": 23.6345
         },
-        "totalConfirmedCases": 33460,
-        "newlyConfirmedCases": 1938,
-        "totalDeaths": 3353,
-        "newDeaths": 193,
-        "totalRecoveredCases": 21824,
-        "newlyRecoveredCases": 1510
+        "totalConfirmedCases": 35022,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3465,
+        "newDeaths": 0,
+        "totalRecoveredCases": 23100,
+        "newlyRecoveredCases": 0
       }
     ]
   }

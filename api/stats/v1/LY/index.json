@@ -7,14 +7,14 @@
     "isoCode": "LY",
     "lat": 26.3351
   },
-  "updatedDateTime": "2020-05-10T05:45:40.0201466Z",
+  "updatedDateTime": "2020-05-11T17:42:23.6531545Z",
   "stats": {
     "totalConfirmedCases": 64,
     "newlyConfirmedCases": 0,
     "totalDeaths": 3,
     "newDeaths": 0,
-    "totalRecoveredCases": 24,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 28,
+    "newlyRecoveredCases": 4,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 64,
         "deaths": 3,
         "recovered": 24
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 64,
+        "deaths": 3,
+        "recovered": 24
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 64,
+        "deaths": 3,
+        "recovered": 28
       }
     ],
     "breakdowns": [
@@ -685,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
-        "totalRecoveredCases": 24,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 28,
+        "newlyRecoveredCases": 4
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "LU",
     "lat": 49.8153
   },
-  "updatedDateTime": "2020-05-10T05:45:40.0620553Z",
+  "updatedDateTime": "2020-05-11T17:42:23.6926744Z",
   "stats": {
-    "totalConfirmedCases": 3877,
-    "newlyConfirmedCases": 6,
+    "totalConfirmedCases": 3888,
+    "newlyConfirmedCases": 2,
     "totalDeaths": 101,
-    "newDeaths": 1,
-    "totalRecoveredCases": 3550,
-    "newlyRecoveredCases": 24,
+    "newDeaths": 0,
+    "totalRecoveredCases": 3602,
+    "newlyRecoveredCases": 16,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 3877,
         "deaths": 101,
         "recovered": 3550
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 3886,
+        "deaths": 101,
+        "recovered": 3586
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 3888,
+        "deaths": 101,
+        "recovered": 3602
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "LU",
           "lat": 49.8153
         },
-        "totalConfirmedCases": 3877,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 3888,
+        "newlyConfirmedCases": 2,
         "totalDeaths": 101,
-        "newDeaths": 1,
-        "totalRecoveredCases": 3550,
-        "newlyRecoveredCases": 24
+        "newDeaths": 0,
+        "totalRecoveredCases": 3602,
+        "newlyRecoveredCases": 16
       }
     ]
   }

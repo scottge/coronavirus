@@ -7,14 +7,14 @@
     "isoCode": "CN-SN",
     "lat": 35.1917
   },
-  "updatedDateTime": "2020-05-10T05:45:36.679767Z",
+  "updatedDateTime": "2020-05-11T17:42:19.5838644Z",
   "stats": {
     "totalConfirmedCases": 308,
     "newlyConfirmedCases": 0,
     "totalDeaths": 3,
     "newDeaths": 0,
-    "totalRecoveredCases": 293,
-    "newlyRecoveredCases": 25,
+    "totalRecoveredCases": 294,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 308,
         "deaths": 3,
         "recovered": 293
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 308,
+        "deaths": 3,
+        "recovered": 294
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 308,
+        "deaths": 3,
+        "recovered": 294
       }
     ],
     "breakdowns": [
@@ -685,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
-        "totalRecoveredCases": 293,
-        "newlyRecoveredCases": 25
+        "totalRecoveredCases": 294,
+        "newlyRecoveredCases": 0
       }
     ]
   }

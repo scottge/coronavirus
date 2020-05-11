@@ -7,7 +7,7 @@
     "isoCode": "MG",
     "lat": -18.766947
   },
-  "updatedDateTime": "2020-05-10T05:45:40.072751Z",
+  "updatedDateTime": "2020-05-11T17:42:23.7059973Z",
   "stats": {
     "totalConfirmedCases": 193,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 193,
+        "deaths": 0,
+        "recovered": 101
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 193,
+        "deaths": 0,
+        "recovered": 101
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 193,
         "deaths": 0,
         "recovered": 101

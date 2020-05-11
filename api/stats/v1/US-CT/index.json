@@ -7,12 +7,12 @@
     "isoCode": "US-CT",
     "lat": 41.603221
   },
-  "updatedDateTime": "2020-05-10T05:45:38.3081708Z",
+  "updatedDateTime": "2020-05-11T17:42:21.320702Z",
   "stats": {
-    "totalConfirmedCases": 32984,
-    "newlyConfirmedCases": 573,
-    "totalDeaths": 2932,
-    "newDeaths": 58,
+    "totalConfirmedCases": 33554,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 2967,
+    "newDeaths": 0,
     "totalRecoveredCases": 65,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 32984,
         "deaths": 2932,
         "recovered": 65
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 33554,
+        "deaths": 2967,
+        "recovered": 65
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 33554,
+        "deaths": 2967,
+        "recovered": 65
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "US-CT",
           "lat": 41.256
         },
-        "totalConfirmedCases": 13030,
-        "newlyConfirmedCases": 151,
-        "totalDeaths": 1017,
-        "newDeaths": 11,
+        "totalConfirmedCases": 13236,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1024,
+        "newDeaths": 0,
         "totalRecoveredCases": 63,
         "newlyRecoveredCases": 0
       },
@@ -697,10 +709,10 @@
           "isoCode": "US-CT",
           "lat": 41.5832
         },
-        "totalConfirmedCases": 7105,
-        "newlyConfirmedCases": 201,
-        "totalDeaths": 901,
-        "newDeaths": 17,
+        "totalConfirmedCases": 7263,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 909,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -713,10 +725,10 @@
           "isoCode": "US-CT",
           "lat": 41.7866
         },
-        "totalConfirmedCases": 1142,
-        "newlyConfirmedCases": 12,
-        "totalDeaths": 105,
-        "newDeaths": 1,
+        "totalConfirmedCases": 1153,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 107,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -729,10 +741,10 @@
           "isoCode": "US-CT",
           "lat": 41.3823
         },
-        "totalConfirmedCases": 789,
-        "newlyConfirmedCases": 14,
-        "totalDeaths": 114,
-        "newDeaths": 6,
+        "totalConfirmedCases": 798,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 115,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -745,10 +757,10 @@
           "isoCode": "US-CT",
           "lat": 41.3265
         },
-        "totalConfirmedCases": 9091,
-        "newlyConfirmedCases": 204,
-        "totalDeaths": 686,
-        "newDeaths": 17,
+        "totalConfirmedCases": 9209,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 701,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -761,10 +773,10 @@
           "isoCode": "US-CT",
           "lat": 41.3502
         },
-        "totalConfirmedCases": 775,
-        "newlyConfirmedCases": 20,
+        "totalConfirmedCases": 782,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 54,
-        "newDeaths": 4,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -777,9 +789,9 @@
           "isoCode": "US-CT",
           "lat": 41.7736
         },
-        "totalConfirmedCases": 540,
-        "newlyConfirmedCases": 10,
-        "totalDeaths": 46,
+        "totalConfirmedCases": 543,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 47,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -809,10 +821,10 @@
           "isoCode": "US-CT",
           "lat": 41.9862
         },
-        "totalConfirmedCases": 266,
-        "newlyConfirmedCases": 16,
-        "totalDeaths": 6,
-        "newDeaths": 1,
+        "totalConfirmedCases": 270,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 7,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       }

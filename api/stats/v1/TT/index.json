@@ -7,14 +7,14 @@
     "isoCode": "TT",
     "lat": 10.691803
   },
-  "updatedDateTime": "2020-05-10T05:45:40.5856083Z",
+  "updatedDateTime": "2020-05-11T17:42:24.6035768Z",
   "stats": {
     "totalConfirmedCases": 116,
     "newlyConfirmedCases": 0,
     "totalDeaths": 8,
     "newDeaths": 0,
-    "totalRecoveredCases": 104,
-    "newlyRecoveredCases": 1,
+    "totalRecoveredCases": 107,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 116,
         "deaths": 8,
         "recovered": 104
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 116,
+        "deaths": 8,
+        "recovered": 107
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 116,
+        "deaths": 8,
+        "recovered": 107
       }
     ],
     "breakdowns": [
@@ -685,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
-        "totalRecoveredCases": 104,
-        "newlyRecoveredCases": 1
+        "totalRecoveredCases": 107,
+        "newlyRecoveredCases": 0
       }
     ]
   }

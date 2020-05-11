@@ -7,14 +7,14 @@
     "isoCode": "US-SD",
     "lat": 43.969515
   },
-  "updatedDateTime": "2020-05-10T05:45:38.9318512Z",
+  "updatedDateTime": "2020-05-11T17:42:22.0806114Z",
   "stats": {
-    "totalConfirmedCases": 3396,
-    "newlyConfirmedCases": 249,
+    "totalConfirmedCases": 3520,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 35,
-    "newDeaths": 3,
-    "totalRecoveredCases": 2125,
-    "newlyRecoveredCases": 56,
+    "newDeaths": 0,
+    "totalRecoveredCases": 2187,
+    "newlyRecoveredCases": 62,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 3396,
         "deaths": 35,
         "recovered": 2125
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 3520,
+        "deaths": 35,
+        "recovered": 2125
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 3520,
+        "deaths": 35,
+        "recovered": 2187
       }
     ],
     "breakdowns": [
@@ -681,7 +693,7 @@
           "isoCode": "US-SD",
           "lat": 43.5272
         },
-        "totalConfirmedCases": 1,
+        "totalConfirmedCases": 2,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -745,8 +757,8 @@
           "isoCode": "US-SD",
           "lat": 45.2442
         },
-        "totalConfirmedCases": 110,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 120,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 15,
@@ -969,8 +981,8 @@
           "isoCode": "US-SD",
           "lat": 43.3479
         },
-        "totalConfirmedCases": 186,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 188,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 67,
@@ -1049,10 +1061,10 @@
           "isoCode": "US-SD",
           "lat": 43.6632
         },
-        "totalConfirmedCases": 2767,
-        "newlyConfirmedCases": 232,
+        "totalConfirmedCases": 2867,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 29,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 954,
         "newlyRecoveredCases": 0
       },
@@ -1065,8 +1077,8 @@
           "isoCode": "US-SD",
           "lat": 43.8901
         },
-        "totalConfirmedCases": 19,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 10,
@@ -1081,8 +1093,8 @@
           "isoCode": "US-SD",
           "lat": 45.8557
         },
-        "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 4,
@@ -1097,7 +1109,7 @@
           "isoCode": "US-SD",
           "lat": 43.3061
         },
-        "totalConfirmedCases": 8,
+        "totalConfirmedCases": 9,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1130,7 +1142,7 @@
           "lat": 42.6816
         },
         "totalConfirmedCases": 53,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 5,
@@ -1145,7 +1157,7 @@
           "isoCode": "US-SD",
           "lat": 42.8901
         },
-        "totalConfirmedCases": 29,
+        "totalConfirmedCases": 30,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1194,7 +1206,7 @@
           "lat": 44.7382
         },
         "totalConfirmedCases": 4,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 3,
@@ -1386,7 +1398,7 @@
           "lat": 44.3679
         },
         "totalConfirmedCases": 9,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1481,7 +1493,7 @@
           "isoCode": "US-SD",
           "lat": 45.1752383
         },
-        "totalConfirmedCases": 2,
+        "totalConfirmedCases": 3,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,

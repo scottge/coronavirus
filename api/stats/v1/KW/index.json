@@ -7,14 +7,14 @@
     "isoCode": "KW",
     "lat": 29.5
   },
-  "updatedDateTime": "2020-05-10T05:45:39.9694229Z",
+  "updatedDateTime": "2020-05-11T17:42:23.5872926Z",
   "stats": {
-    "totalConfirmedCases": 7623,
-    "newlyConfirmedCases": 415,
-    "totalDeaths": 49,
-    "newDeaths": 2,
-    "totalRecoveredCases": 2622,
-    "newlyRecoveredCases": 156,
+    "totalConfirmedCases": 9286,
+    "newlyConfirmedCases": 598,
+    "totalDeaths": 65,
+    "newDeaths": 7,
+    "totalRecoveredCases": 2907,
+    "newlyRecoveredCases": 178,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 7623,
         "deaths": 49,
         "recovered": 2622
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 8688,
+        "deaths": 58,
+        "recovered": 2729
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 9286,
+        "deaths": 65,
+        "recovered": 2907
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "KW",
           "lat": 29.5
         },
-        "totalConfirmedCases": 7623,
-        "newlyConfirmedCases": 415,
-        "totalDeaths": 49,
-        "newDeaths": 2,
-        "totalRecoveredCases": 2622,
-        "newlyRecoveredCases": 156
+        "totalConfirmedCases": 9286,
+        "newlyConfirmedCases": 598,
+        "totalDeaths": 65,
+        "newDeaths": 7,
+        "totalRecoveredCases": 2907,
+        "newlyRecoveredCases": 178
       }
     ]
   }

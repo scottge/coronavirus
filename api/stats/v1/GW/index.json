@@ -7,13 +7,13 @@
     "isoCode": "GW",
     "lat": 11.8037
   },
-  "updatedDateTime": "2020-05-10T05:45:39.7505759Z",
+  "updatedDateTime": "2020-05-11T17:42:23.3056841Z",
   "stats": {
-    "totalConfirmedCases": 641,
-    "newlyConfirmedCases": 47,
+    "totalConfirmedCases": 726,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 3,
-    "newDeaths": 1,
-    "totalRecoveredCases": 25,
+    "newDeaths": 0,
+    "totalRecoveredCases": 26,
     "newlyRecoveredCases": 0,
     "history": [
       {
@@ -669,6 +669,18 @@
         "confirmed": 641,
         "deaths": 3,
         "recovered": 25
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 726,
+        "deaths": 3,
+        "recovered": 26
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 726,
+        "deaths": 3,
+        "recovered": 26
       }
     ],
     "breakdowns": [
@@ -681,11 +693,11 @@
           "isoCode": "GW",
           "lat": 11.8037
         },
-        "totalConfirmedCases": 641,
-        "newlyConfirmedCases": 47,
+        "totalConfirmedCases": 726,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
-        "newDeaths": 1,
-        "totalRecoveredCases": 25,
+        "newDeaths": 0,
+        "totalRecoveredCases": 26,
         "newlyRecoveredCases": 0
       }
     ]

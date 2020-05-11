@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "US - Massachusetts State Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in US-Massachusetts. Total Cases: 76743 (+1410), Deaths: 4840 (+138), Recoveries: 8118(-)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in US-Massachusetts. Total Cases: 77793 (-), Deaths: 4979 (-), Recoveries: 22148(-)."
+publishedDateTime: 2020-05-11T17:42:25Z
+updatedDateTime: 2020-05-11T17:42:25Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ma/"
 type: article
 heat: 100
@@ -30,15 +30,15 @@ images:
 <div class="total-stats" style="text-align: center;">
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Confirmed Cases:</div>
-	    76743 (<span class='red'>+1410</span>)
+	    77793 (-)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Deaths:</div>
-	    4840 (<span class='red'>+138</span>)
+	    4979 (-)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
-	    8118 (-)
+	    22148 (-)
     </h3>
 </div>
 
@@ -51,7 +51,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 0, 0, 0],['1/27/2020', 0, 0, 0],['1/28/2020', 0, 0, 0],['1/29/2020', 0, 0, 0],['1/30/2020', 0, 0, 0],['1/31/2020', 0, 0, 0],['2/1/2020', 1, 0, 0],['2/2/2020', 1, 0, 0],['2/3/2020', 1, 0, 0],['2/4/2020', 1, 0, 0],['2/5/2020', 1, 0, 0],['2/6/2020', 1, 0, 0],['2/7/2020', 1, 0, 0],['2/8/2020', 1, 0, 0],['2/9/2020', 1, 0, 0],['2/10/2020', 1, 0, 0],['2/11/2020', 1, 0, 0],['2/12/2020', 1, 0, 0],['2/13/2020', 1, 0, 0],['2/14/2020', 1, 0, 0],['2/15/2020', 1, 0, 0],['2/16/2020', 1, 0, 0],['2/17/2020', 1, 0, 0],['2/18/2020', 1, 0, 0],['2/19/2020', 1, 0, 0],['2/20/2020', 1, 0, 0],['2/21/2020', 1, 0, 0],['2/22/2020', 1, 0, 0],['2/23/2020', 1, 0, 0],['2/24/2020', 1, 0, 0],['2/25/2020', 1, 0, 0],['2/26/2020', 1, 0, 0],['2/27/2020', 1, 0, 0],['2/28/2020', 1, 0, 1],['2/29/2020', 1, 0, 1],['3/1/2020', 1, 0, 1],['3/2/2020', 1, 0, 1],['3/3/2020', 2, 0, 1],['3/4/2020', 2, 0, 1],['3/5/2020', 2, 0, 1],['3/6/2020', 6, 0, 1],['3/7/2020', 6, 0, 1],['3/8/2020', 22, 0, 1],['3/9/2020', 22, 0, 1],['3/10/2020', 41, 0, 1],['3/11/2020', 92, 0, 1],['3/12/2020', 108, 0, 1],['3/13/2020', 124, 0, 1],['3/14/2020', 139, 0, 1],['3/15/2020', 164, 0, 1],['3/16/2020', 197, 0, 1],['3/17/2020', 218, 0, 1],['3/18/2020', 256, 0, 1],['3/19/2020', 328, 0, 1],['3/20/2020', 413, 1, 1],['3/21/2020', 529, 2, 1],['3/22/2020', 646, 5, 1],['3/23/2020', 777, 9, 1],['3/24/2020', 1159, 11, 1],['3/25/2020', 1838, 15, 1],['3/26/2020', 2417, 25, 1],['3/27/2020', 3240, 35, 1],['3/28/2020', 4257, 44, 1],['3/29/2020', 4955, 48, 1],['3/30/2020', 5752, 56, 1],['3/31/2020', 6620, 89, 1],['4/1/2020', 7738, 122, 10],['4/2/2020', 8966, 154, 10],['4/3/2020', 10402, 192, 10],['4/4/2020', 11736, 216, 10],['4/5/2020', 12500, 231, 10],['4/6/2020', 13837, 260, 257],['4/7/2020', 15202, 356, 311],['4/8/2020', 16790, 433, 311],['4/9/2020', 18941, 503, 311],['4/10/2020', 20974, 599, 729],['4/11/2020', 22860, 686, 729],['4/12/2020', 25475, 756, 729],['4/13/2020', 26867, 844, 729],['4/14/2020', 28164, 957, 729],['4/15/2020', 29918, 1108, 729],['4/16/2020', 32181, 1245, 729],['4/17/2020', 34402, 1404, 729],['4/18/2020', 36372, 1560, 1299],['4/19/2020', 38077, 1706, 1299],['4/20/2020', 39643, 1809, 1299],['4/21/2020', 41199, 1961, 1299],['4/22/2020', 42944, 2182, 1299],['4/23/2020', 46023, 2360, 1299],['4/24/2020', 49516, 2758, 1299],['4/25/2020', 53348, 2730, 8118],['4/26/2020', 54938, 2899, 8118],['4/27/2020', 56462, 3003, 8118],['4/28/2020', 58302, 3153, 8118],['4/29/2020', 60265, 3405, 8118],['4/30/2020', 62205, 3562, 8118],['5/1/2020', 64230, 3702, 8118],['5/2/2020', 66263, 3846, 8118],['5/3/2020', 68087, 4004, 8118],['5/4/2020', 69087, 4090, 8118],['5/5/2020', 70271, 4212, 8118],['5/6/2020', 72025, 4420, 8118],['5/7/2020', 73721, 4552, 8118],['5/8/2020', 75333, 4702, 8118],['5/9/2020', 76743, 4840, 8118],
+      ['1/22/2020', 0, 0, 0],['1/23/2020', 0, 0, 0],['1/24/2020', 0, 0, 0],['1/25/2020', 0, 0, 0],['1/26/2020', 0, 0, 0],['1/27/2020', 0, 0, 0],['1/28/2020', 0, 0, 0],['1/29/2020', 0, 0, 0],['1/30/2020', 0, 0, 0],['1/31/2020', 0, 0, 0],['2/1/2020', 1, 0, 0],['2/2/2020', 1, 0, 0],['2/3/2020', 1, 0, 0],['2/4/2020', 1, 0, 0],['2/5/2020', 1, 0, 0],['2/6/2020', 1, 0, 0],['2/7/2020', 1, 0, 0],['2/8/2020', 1, 0, 0],['2/9/2020', 1, 0, 0],['2/10/2020', 1, 0, 0],['2/11/2020', 1, 0, 0],['2/12/2020', 1, 0, 0],['2/13/2020', 1, 0, 0],['2/14/2020', 1, 0, 0],['2/15/2020', 1, 0, 0],['2/16/2020', 1, 0, 0],['2/17/2020', 1, 0, 0],['2/18/2020', 1, 0, 0],['2/19/2020', 1, 0, 0],['2/20/2020', 1, 0, 0],['2/21/2020', 1, 0, 0],['2/22/2020', 1, 0, 0],['2/23/2020', 1, 0, 0],['2/24/2020', 1, 0, 0],['2/25/2020', 1, 0, 0],['2/26/2020', 1, 0, 0],['2/27/2020', 1, 0, 0],['2/28/2020', 1, 0, 1],['2/29/2020', 1, 0, 1],['3/1/2020', 1, 0, 1],['3/2/2020', 1, 0, 1],['3/3/2020', 2, 0, 1],['3/4/2020', 2, 0, 1],['3/5/2020', 2, 0, 1],['3/6/2020', 6, 0, 1],['3/7/2020', 6, 0, 1],['3/8/2020', 22, 0, 1],['3/9/2020', 22, 0, 1],['3/10/2020', 41, 0, 1],['3/11/2020', 92, 0, 1],['3/12/2020', 108, 0, 1],['3/13/2020', 124, 0, 1],['3/14/2020', 139, 0, 1],['3/15/2020', 164, 0, 1],['3/16/2020', 197, 0, 1],['3/17/2020', 218, 0, 1],['3/18/2020', 256, 0, 1],['3/19/2020', 328, 0, 1],['3/20/2020', 413, 1, 1],['3/21/2020', 529, 2, 1],['3/22/2020', 646, 5, 1],['3/23/2020', 777, 9, 1],['3/24/2020', 1159, 11, 1],['3/25/2020', 1838, 15, 1],['3/26/2020', 2417, 25, 1],['3/27/2020', 3240, 35, 1],['3/28/2020', 4257, 44, 1],['3/29/2020', 4955, 48, 1],['3/30/2020', 5752, 56, 1],['3/31/2020', 6620, 89, 1],['4/1/2020', 7738, 122, 10],['4/2/2020', 8966, 154, 10],['4/3/2020', 10402, 192, 10],['4/4/2020', 11736, 216, 10],['4/5/2020', 12500, 231, 10],['4/6/2020', 13837, 260, 257],['4/7/2020', 15202, 356, 311],['4/8/2020', 16790, 433, 311],['4/9/2020', 18941, 503, 311],['4/10/2020', 20974, 599, 729],['4/11/2020', 22860, 686, 729],['4/12/2020', 25475, 756, 729],['4/13/2020', 26867, 844, 729],['4/14/2020', 28164, 957, 729],['4/15/2020', 29918, 1108, 729],['4/16/2020', 32181, 1245, 729],['4/17/2020', 34402, 1404, 729],['4/18/2020', 36372, 1560, 1299],['4/19/2020', 38077, 1706, 1299],['4/20/2020', 39643, 1809, 1299],['4/21/2020', 41199, 1961, 1299],['4/22/2020', 42944, 2182, 1299],['4/23/2020', 46023, 2360, 1299],['4/24/2020', 49516, 2758, 1299],['4/25/2020', 53348, 2730, 8118],['4/26/2020', 54938, 2899, 8118],['4/27/2020', 56462, 3003, 8118],['4/28/2020', 58302, 3153, 8118],['4/29/2020', 60265, 3405, 8118],['4/30/2020', 62205, 3562, 8118],['5/1/2020', 64230, 3702, 8118],['5/2/2020', 66263, 3846, 8118],['5/3/2020', 68087, 4004, 8118],['5/4/2020', 69087, 4090, 8118],['5/5/2020', 70271, 4212, 8118],['5/6/2020', 72025, 4420, 8118],['5/7/2020', 73721, 4552, 8118],['5/8/2020', 75333, 4702, 8118],['5/9/2020', 76743, 4840, 8118],['5/10/2020', 77793, 4979, 22148],['5/11/2020', 77793, 4979, 22148],
     ]);
     var options = {
       curveType: 'none',
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [41.6012, -70.6364, "Barnstable", 1056, 66],[42.3118, -73.1822, "Berkshire", 472, 37],[41.9726, -71.1854, "Bristol", 4847, 260],[42.632, -70.7829, "Essex", 11211, 625],[42.6063, -72.7434, "Franklin", 294, 42],[42.2125, -72.6411, "Hampden", 4647, 445],[42.3757, -72.5188, "Hampshire", 659, 50],[42.4672, -71.2874, "Middlesex", 17307, 1169],[42.1767, -71.1449, "Norfolk", 6887, 635],[42.2121, -70.7652, "Plymouth", 6311, 384],[42.3601, -71.0589, "Suffolk", 15119, 703],[42.4097, -71.8571, "Worcester", 7611, 420],[41.2834704, -70.099451, "Nantucket", 12, 1],[41.4039539, -70.6692655, "Dukes", 22, 0],
+      [41.6012, -70.6364, "Barnstable", 1068, 68],[42.3118, -73.1822, "Berkshire", 475, 37],[41.9726, -71.1854, "Bristol", 4931, 266],[42.632, -70.7829, "Essex", 11353, 644],[42.6063, -72.7434, "Franklin", 294, 42],[42.2125, -72.6411, "Hampden", 4714, 449],[42.3757, -72.5188, "Hampshire", 676, 55],[42.4672, -71.2874, "Middlesex", 17589, 1207],[42.1767, -71.1449, "Norfolk", 6952, 650],[42.2121, -70.7652, "Plymouth", 6382, 393],[42.3601, -71.0589, "Suffolk", 15279, 718],[42.4097, -71.8571, "Worcester", 7743, 444],[41.2834704, -70.099451, "Nantucket", 12, 1],[41.4039539, -70.6692655, "Dukes", 23, 0],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Barnstable", f:"Barnstable"}, 1056, 18, 990, 66, 5, 0],[{v:"Berkshire", f:"Berkshire"}, 472, 0, 435, 37, 0, 0],[{v:"Bristol", f:"Bristol"}, 4847, 177, 4587, 260, 8, 0],[{v:"Essex", f:"Essex"}, 11211, 216, 10586, 625, 24, 0],[{v:"Franklin", f:"Franklin"}, 294, 5, 252, 42, 1, 0],[{v:"Hampden", f:"Hampden"}, 4647, 125, 4202, 445, 4, 0],[{v:"Hampshire", f:"Hampshire"}, 659, 5, 609, 50, 2, 0],[{v:"Middlesex", f:"Middlesex"}, 17307, 293, 15991, 1169, 37, 147],[{v:"Norfolk", f:"Norfolk"}, 6887, 86, 6034, 635, 12, 218],[{v:"Plymouth", f:"Plymouth"}, 6311, 117, 5927, 384, 9, 0],[{v:"Suffolk", f:"Suffolk"}, 15119, 175, 13490, 703, 20, 926],[{v:"Worcester", f:"Worcester"}, 7611, 201, 7183, 420, 16, 8],[{v:"Nantucket", f:"Nantucket"}, 12, 0, 11, 1, 0, 0],[{v:"Dukes", f:"Dukes"}, 22, 0, 22, 0, 0, 0],
+      [{v:"Barnstable", f:"Barnstable"}, 1068, 0, 1000, 68, 0, 0],[{v:"Berkshire", f:"Berkshire"}, 475, 0, 438, 37, 0, 0],[{v:"Bristol", f:"Bristol"}, 4931, 0, 4665, 266, 0, 0],[{v:"Essex", f:"Essex"}, 11353, 0, 10709, 644, 0, 0],[{v:"Franklin", f:"Franklin"}, 294, 0, 252, 42, 0, 0],[{v:"Hampden", f:"Hampden"}, 4714, 0, 4265, 449, 0, 0],[{v:"Hampshire", f:"Hampshire"}, 676, 0, 621, 55, 0, 0],[{v:"Middlesex", f:"Middlesex"}, 17589, 0, 16235, 1207, 0, 147],[{v:"Norfolk", f:"Norfolk"}, 6952, 0, 6084, 650, 0, 218],[{v:"Plymouth", f:"Plymouth"}, 6382, 0, 5989, 393, 0, 0],[{v:"Suffolk", f:"Suffolk"}, 15279, 0, 13635, 718, 0, 926],[{v:"Worcester", f:"Worcester"}, 7743, 0, 7291, 444, 0, 8],[{v:"Nantucket", f:"Nantucket"}, 12, 0, 11, 1, 0, 0],[{v:"Dukes", f:"Dukes"}, 23, 0, 23, 0, 0, 0],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));
@@ -188,54 +188,6 @@ images:
 		<div class="card-excerpt">The Latest on the coronavirus pandemic. The new coronavirus causes mild or moderate symptoms for most people. For some, especially older adults and people with existing health problems, it can</div>
 		<div class="card-meta">
 			<span class="card-provider">Boston Herald</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.cnn.com/world/live-news/coronavirus-pandemic-04-09-20/index.html"><div class="card-image" style="background-image: url(https://cdn.cnn.com/cnnnext/dam/assets/200308142702-02-coronavirus-microscope-image-super-tease.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.cnn.com/world/live-news/coronavirus-pandemic-04-09-20/index.html">Here's the real reason Donald Trump didn't wear a mask in public in Arizona</a></div>
-		<div class="card-excerpt">President Donald Trump traveled to Arizona on Tuesday to visit a Honeywell mask-making plant, his first trip outside of Washington, DC, since the coronavirus paralyzed the country.</div>
-		<div class="card-meta">
-			<span class="card-provider">CNN</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.cnn.com/world/live-news/coronavirus-pandemic-04-09-20/index.html"><div class="card-image" style="background-image: url(https://cdn.cnn.com/cnnnext/dam/assets/200308142702-02-coronavirus-microscope-image-super-tease.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.cnn.com/world/live-news/coronavirus-pandemic-04-09-20/index.html">Case of Georgia man who was chased and killed while jogging will go to grand jury</a></div>
-		<div class="card-excerpt">A Georgia district attorney is recommending that the case of a man who was chased, shot and killed while running more than two months ago go to a grand jury, according to a news release obtained by CNN.</div>
-		<div class="card-meta">
-			<span class="card-provider">CNN</span> • <span class="card-date">5/5/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.chron.com/news/article/More-than-50-dead-as-coronavirus-ravages-15247161.php"><div class="card-image" style="background-image: url(https://s.hdnux.com/photos/01/11/72/40/19376163/5/rawImage.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.chron.com/news/article/More-than-50-dead-as-coronavirus-ravages-15247161.php">More than 50 dead as coronavirus ravages Massachusetts nursing home</a></div>
-		<div class="card-excerpt">In the past four weeks, 54 residents at a nursing home in Massachusetts have died after contracting the novel coronavirus and more than 100 others have tested positive as the number of elder care facilities reporting cases of the potentially deadly virus continues to rise nationwide.</div>
-		<div class="card-meta">
-			<span class="card-provider">Houston Chronicle</span> • <span class="card-date">5/5/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://thehill.com/policy/healthcare/496104-54-dead-more-than-100-test-positive-for-coronavirus-at-massachusetts"><div class="card-image" style="background-image: url(https://thehill.com/sites/default/files/nursinghome_021011getty.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://thehill.com/policy/healthcare/496104-54-dead-more-than-100-test-positive-for-coronavirus-at-massachusetts">54 dead, more than 100 test positive for coronavirus at Massachusetts nursing home</a></div>
-		<div class="card-excerpt">More than 50 residents of a Massachusetts nursing home have died from the novel coronavirus, the latest of a series of outbreaks in such facilities.</div>
-		<div class="card-meta">
-			<span class="card-provider">The Hill</span> • <span class="card-date">5/5/2020</span>
 		</div>
 	</div>
   </div>

@@ -7,14 +7,14 @@
     "isoCode": "DJ",
     "lat": 11.8251
   },
-  "updatedDateTime": "2020-05-10T05:45:39.5345753Z",
+  "updatedDateTime": "2020-05-11T17:42:22.9169553Z",
   "stats": {
-    "totalConfirmedCases": 1189,
-    "newlyConfirmedCases": 54,
+    "totalConfirmedCases": 1210,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 3,
     "newDeaths": 0,
-    "totalRecoveredCases": 834,
-    "newlyRecoveredCases": 10,
+    "totalRecoveredCases": 847,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 1189,
         "deaths": 3,
         "recovered": 834
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 1210,
+        "deaths": 3,
+        "recovered": 847
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 1210,
+        "deaths": 3,
+        "recovered": 847
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "DJ",
           "lat": 11.8251
         },
-        "totalConfirmedCases": 1189,
-        "newlyConfirmedCases": 54,
+        "totalConfirmedCases": 1210,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
-        "totalRecoveredCases": 834,
-        "newlyRecoveredCases": 10
+        "totalRecoveredCases": 847,
+        "newlyRecoveredCases": 0
       }
     ]
   }

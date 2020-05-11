@@ -7,14 +7,14 @@
     "isoCode": "CU",
     "lat": 22.0
   },
-  "updatedDateTime": "2020-05-10T05:45:39.5160947Z",
+  "updatedDateTime": "2020-05-11T17:42:22.8782009Z",
   "stats": {
-    "totalConfirmedCases": 1754,
-    "newlyConfirmedCases": 13,
-    "totalDeaths": 74,
+    "totalConfirmedCases": 1783,
+    "newlyConfirmedCases": 17,
+    "totalDeaths": 77,
     "newDeaths": 0,
-    "totalRecoveredCases": 1140,
-    "newlyRecoveredCases": 62,
+    "totalRecoveredCases": 1229,
+    "newlyRecoveredCases": 36,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 1754,
         "deaths": 74,
         "recovered": 1140
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 1766,
+        "deaths": 77,
+        "recovered": 1193
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 1783,
+        "deaths": 77,
+        "recovered": 1229
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "CU",
           "lat": 22.0
         },
-        "totalConfirmedCases": 1754,
-        "newlyConfirmedCases": 13,
-        "totalDeaths": 74,
+        "totalConfirmedCases": 1783,
+        "newlyConfirmedCases": 17,
+        "totalDeaths": 77,
         "newDeaths": 0,
-        "totalRecoveredCases": 1140,
-        "newlyRecoveredCases": 62
+        "totalRecoveredCases": 1229,
+        "newlyRecoveredCases": 36
       }
     ]
   }

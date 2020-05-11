@@ -7,10 +7,10 @@
     "isoCode": "KM",
     "lat": -11.875001
   },
-  "updatedDateTime": "2020-05-10T05:45:39.4833188Z",
+  "updatedDateTime": "2020-05-11T17:42:22.8112537Z",
   "stats": {
     "totalConfirmedCases": 11,
-    "newlyConfirmedCases": 3,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 1,
     "newDeaths": 0,
     "totalRecoveredCases": 0,
@@ -669,6 +669,18 @@
         "confirmed": 11,
         "deaths": 1,
         "recovered": 0
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 11,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 11,
+        "deaths": 1,
+        "recovered": 0
       }
     ],
     "breakdowns": [
@@ -682,7 +694,7 @@
           "lat": -11.875001
         },
         "totalConfirmedCases": 11,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

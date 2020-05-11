@@ -7,14 +7,14 @@
     "isoCode": "MZ",
     "lat": -18.665695
   },
-  "updatedDateTime": "2020-05-10T05:45:40.2067661Z",
+  "updatedDateTime": "2020-05-11T17:42:23.9137768Z",
   "stats": {
-    "totalConfirmedCases": 87,
-    "newlyConfirmedCases": 5,
+    "totalConfirmedCases": 103,
+    "newlyConfirmedCases": 12,
     "totalDeaths": 0,
     "newDeaths": 0,
     "totalRecoveredCases": 34,
-    "newlyRecoveredCases": 7,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 87,
         "deaths": 0,
         "recovered": 34
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 91,
+        "deaths": 0,
+        "recovered": 34
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 103,
+        "deaths": 0,
+        "recovered": 34
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "MZ",
           "lat": -18.665695
         },
-        "totalConfirmedCases": 87,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 103,
+        "newlyConfirmedCases": 12,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 34,
-        "newlyRecoveredCases": 7
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,7 +7,7 @@
     "isoCode": "BZ",
     "lat": 17.189877
   },
-  "updatedDateTime": "2020-05-10T05:45:39.3183837Z",
+  "updatedDateTime": "2020-05-11T17:42:22.5256532Z",
   "stats": {
     "totalConfirmedCases": 18,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 18,
+        "deaths": 2,
+        "recovered": 16
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 18,
+        "deaths": 2,
+        "recovered": 16
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 18,
         "deaths": 2,
         "recovered": 16

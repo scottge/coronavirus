@@ -7,7 +7,7 @@
     "isoCode": "GL",
     "lat": 71.7069
   },
-  "updatedDateTime": "2020-05-10T05:45:39.7099234Z",
+  "updatedDateTime": "2020-05-11T17:42:23.2238527Z",
   "stats": {
     "totalConfirmedCases": 11,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 11
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 11
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 11,
         "deaths": 0,
         "recovered": 11

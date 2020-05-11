@@ -7,7 +7,7 @@
     "isoCode": "CN-XJ",
     "lat": 41.1129
   },
-  "updatedDateTime": "2020-05-10T05:45:36.7353409Z",
+  "updatedDateTime": "2020-05-11T17:42:19.6880181Z",
   "stats": {
     "totalConfirmedCases": 76,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 76,
+        "deaths": 3,
+        "recovered": 73
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 76,
+        "deaths": 3,
+        "recovered": 73
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 76,
         "deaths": 3,
         "recovered": 73

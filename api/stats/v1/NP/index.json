@@ -7,14 +7,14 @@
     "isoCode": "NP",
     "lat": 28.1667
   },
-  "updatedDateTime": "2020-05-10T05:45:40.2339582Z",
+  "updatedDateTime": "2020-05-11T17:42:23.9530624Z",
   "stats": {
-    "totalConfirmedCases": 110,
-    "newlyConfirmedCases": 1,
+    "totalConfirmedCases": 134,
+    "newlyConfirmedCases": 14,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 31,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 33,
+    "newlyRecoveredCases": 2,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 110,
         "deaths": 0,
         "recovered": 31
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 120,
+        "deaths": 0,
+        "recovered": 31
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 134,
+        "deaths": 0,
+        "recovered": 33
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "NP",
           "lat": 28.1667
         },
-        "totalConfirmedCases": 110,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 134,
+        "newlyConfirmedCases": 14,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 31,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 33,
+        "newlyRecoveredCases": 2
       }
     ]
   }

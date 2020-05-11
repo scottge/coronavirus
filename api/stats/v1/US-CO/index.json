@@ -7,12 +7,12 @@
     "isoCode": "US-CO",
     "lat": 39.550051
   },
-  "updatedDateTime": "2020-05-10T05:45:38.1395988Z",
+  "updatedDateTime": "2020-05-11T17:42:21.3009135Z",
   "stats": {
-    "totalConfirmedCases": 19375,
-    "newlyConfirmedCases": 548,
-    "totalDeaths": 967,
-    "newDeaths": 7,
+    "totalConfirmedCases": 19703,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 971,
+    "newDeaths": 0,
     "totalRecoveredCases": 559,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 19375,
         "deaths": 967,
         "recovered": 559
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 19703,
+        "deaths": 971,
+        "recovered": 559
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 19703,
+        "deaths": 971,
+        "recovered": 559
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "US-CO",
           "lat": 39.7392
         },
-        "totalConfirmedCases": 4001,
-        "newlyConfirmedCases": 109,
-        "totalDeaths": 205,
-        "newDeaths": 3,
+        "totalConfirmedCases": 4070,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 206,
+        "newDeaths": 0,
         "totalRecoveredCases": 370,
         "newlyRecoveredCases": 0
       },
@@ -697,10 +709,10 @@
           "isoCode": "US-CO",
           "lat": 39.7084
         },
-        "totalConfirmedCases": 2205,
-        "newlyConfirmedCases": 88,
+        "totalConfirmedCases": 2242,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 81,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -713,8 +725,8 @@
           "isoCode": "US-CO",
           "lat": 39.6203
         },
-        "totalConfirmedCases": 3228,
-        "newlyConfirmedCases": 80,
+        "totalConfirmedCases": 3272,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 177,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -745,8 +757,8 @@
           "isoCode": "US-CO",
           "lat": 40.8691
         },
-        "totalConfirmedCases": 2120,
-        "newlyConfirmedCases": 33,
+        "totalConfirmedCases": 2139,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 113,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -777,10 +789,10 @@
           "isoCode": "US-CO",
           "lat": 39.58
         },
-        "totalConfirmedCases": 1627,
-        "newlyConfirmedCases": 53,
+        "totalConfirmedCases": 1649,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 94,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -793,9 +805,9 @@
           "isoCode": "US-CO",
           "lat": 40.0726
         },
-        "totalConfirmedCases": 757,
-        "newlyConfirmedCases": 14,
-        "totalDeaths": 50,
+        "totalConfirmedCases": 767,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 53,
         "newDeaths": 0,
         "totalRecoveredCases": 157,
         "newlyRecoveredCases": 0
@@ -809,8 +821,8 @@
           "isoCode": "US-CO",
           "lat": 38.9108
         },
-        "totalConfirmedCases": 1109,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 1124,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 78,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -825,10 +837,10 @@
           "isoCode": "US-CO",
           "lat": 39.9541
         },
-        "totalConfirmedCases": 195,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 198,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -842,7 +854,7 @@
           "lat": 39.6553
         },
         "totalConfirmedCases": 558,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -889,10 +901,10 @@
           "isoCode": "US-CO",
           "lat": 39.2587
         },
-        "totalConfirmedCases": 591,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 601,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 28,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -921,8 +933,8 @@
           "isoCode": "US-CO",
           "lat": 40.6956
         },
-        "totalConfirmedCases": 444,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 448,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 19,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -938,7 +950,7 @@
           "lat": 38.2209
         },
         "totalConfirmedCases": 39,
-        "newlyConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -953,8 +965,8 @@
           "isoCode": "US-CO",
           "lat": 40.3134
         },
-        "totalConfirmedCases": 485,
-        "newlyConfirmedCases": 22,
+        "totalConfirmedCases": 508,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 22,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -969,7 +981,7 @@
           "isoCode": "US-CO",
           "lat": 38.7053
         },
-        "totalConfirmedCases": 54,
+        "totalConfirmedCases": 55,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -985,8 +997,8 @@
           "isoCode": "US-CO",
           "lat": 40.6818
         },
-        "totalConfirmedCases": 389,
-        "newlyConfirmedCases": 39,
+        "totalConfirmedCases": 401,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1017,8 +1029,8 @@
           "isoCode": "US-CO",
           "lat": 38.2351
         },
-        "totalConfirmedCases": 176,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 182,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1049,8 +1061,8 @@
           "isoCode": "US-CO",
           "lat": 39.5912
         },
-        "totalConfirmedCases": 162,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 165,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1081,8 +1093,8 @@
           "isoCode": "US-CO",
           "lat": 38.6084
         },
-        "totalConfirmedCases": 122,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 124,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1097,8 +1109,8 @@
           "isoCode": "US-CO",
           "lat": 39.4667
         },
-        "totalConfirmedCases": 103,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 104,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1130,9 +1142,9 @@
           "lat": 37.0749
         },
         "totalConfirmedCases": 65,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1210,7 +1222,7 @@
           "lat": 39.0877
         },
         "totalConfirmedCases": 51,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 32,
@@ -1226,7 +1238,7 @@
           "lat": 39.3038
         },
         "totalConfirmedCases": 26,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1241,7 +1253,7 @@
           "isoCode": "US-CO",
           "lat": 38.945
         },
-        "totalConfirmedCases": 30,
+        "totalConfirmedCases": 31,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1433,7 +1445,7 @@
           "isoCode": "US-CO",
           "lat": 39.7029
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 11,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1466,7 +1478,7 @@
           "lat": 40.6831
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1498,7 +1510,7 @@
           "lat": 38.0862
         },
         "totalConfirmedCases": 5,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1546,7 +1558,7 @@
           "lat": 39.7963
         },
         "totalConfirmedCases": 3,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1561,7 +1573,7 @@
           "isoCode": "US-CO",
           "lat": 38.074
         },
-        "totalConfirmedCases": 8,
+        "totalConfirmedCases": 9,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1594,7 +1606,7 @@
           "lat": 38.8002562
         },
         "totalConfirmedCases": 4,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1608,6 +1620,22 @@
           "county": "Conejos",
           "isoCode": "US-CO",
           "lat": 37.2689711
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.0817903,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Bent",
+          "isoCode": "US-CO",
+          "lat": 38.0036339
         },
         "totalConfirmedCases": 1,
         "newlyConfirmedCases": 0,

@@ -7,14 +7,14 @@
     "isoCode": "AR",
     "lat": -38.4161
   },
-  "updatedDateTime": "2020-05-10T05:45:39.19375Z",
+  "updatedDateTime": "2020-05-11T17:42:22.3689422Z",
   "stats": {
-    "totalConfirmedCases": 5776,
-    "newlyConfirmedCases": 165,
-    "totalDeaths": 300,
-    "newDeaths": 7,
-    "totalRecoveredCases": 1728,
-    "newlyRecoveredCases": 69,
+    "totalConfirmedCases": 6034,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 305,
+    "newDeaths": 0,
+    "totalRecoveredCases": 1837,
+    "newlyRecoveredCases": 80,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 5776,
         "deaths": 300,
         "recovered": 1728
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 6034,
+        "deaths": 305,
+        "recovered": 1757
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 6034,
+        "deaths": 305,
+        "recovered": 1837
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "AR",
           "lat": -38.4161
         },
-        "totalConfirmedCases": 5776,
-        "newlyConfirmedCases": 165,
-        "totalDeaths": 300,
-        "newDeaths": 7,
-        "totalRecoveredCases": 1728,
-        "newlyRecoveredCases": 69
+        "totalConfirmedCases": 6034,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 305,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1837,
+        "newlyRecoveredCases": 80
       }
     ]
   }

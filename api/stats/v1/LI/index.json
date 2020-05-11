@@ -7,7 +7,7 @@
     "isoCode": "LI",
     "lat": 47.14
   },
-  "updatedDateTime": "2020-05-10T05:45:40.030833Z",
+  "updatedDateTime": "2020-05-11T17:42:23.6660285Z",
   "stats": {
     "totalConfirmedCases": 82,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 82,
+        "deaths": 1,
+        "recovered": 55
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 82,
+        "deaths": 1,
+        "recovered": 55
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 82,
         "deaths": 1,
         "recovered": 55

@@ -7,14 +7,14 @@
     "isoCode": "BW",
     "lat": -22.3285
   },
-  "updatedDateTime": "2020-05-10T05:45:39.3581109Z",
+  "updatedDateTime": "2020-05-11T17:42:22.6039582Z",
   "stats": {
-    "totalConfirmedCases": 23,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 24,
+    "newlyConfirmedCases": 1,
     "totalDeaths": 1,
     "newDeaths": 0,
     "totalRecoveredCases": 12,
-    "newlyRecoveredCases": 3,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 23,
         "deaths": 1,
         "recovered": 12
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 23,
+        "deaths": 1,
+        "recovered": 12
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 24,
+        "deaths": 1,
+        "recovered": 12
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "BW",
           "lat": -22.3285
         },
-        "totalConfirmedCases": 23,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 12,
-        "newlyRecoveredCases": 3
+        "newlyRecoveredCases": 0
       }
     ]
   }

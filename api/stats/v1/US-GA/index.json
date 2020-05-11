@@ -7,12 +7,12 @@
     "isoCode": "US-GA",
     "lat": 32.157435
   },
-  "updatedDateTime": "2020-05-10T05:45:38.3573942Z",
+  "updatedDateTime": "2020-05-11T17:42:21.3582564Z",
   "stats": {
-    "totalConfirmedCases": 32582,
-    "newlyConfirmedCases": 404,
-    "totalDeaths": 1414,
-    "newDeaths": 8,
+    "totalConfirmedCases": 33833,
+    "newlyConfirmedCases": 325,
+    "totalDeaths": 1415,
+    "newDeaths": 0,
     "totalRecoveredCases": 340,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 32582,
         "deaths": 1414,
         "recovered": 340
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 33508,
+        "deaths": 1415,
+        "recovered": 340
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 33833,
+        "deaths": 1415,
+        "recovered": 340
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "US-GA",
           "lat": 31.7642
         },
-        "totalConfirmedCases": 92,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 93,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -697,8 +709,8 @@
           "isoCode": "US-GA",
           "lat": 31.5441
         },
-        "totalConfirmedCases": 41,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 43,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -746,7 +758,7 @@
           "lat": 34.3095
         },
         "totalConfirmedCases": 36,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -777,7 +789,7 @@
           "isoCode": "US-GA",
           "lat": 34.266
         },
-        "totalConfirmedCases": 361,
+        "totalConfirmedCases": 363,
         "newlyConfirmedCases": 0,
         "totalDeaths": 32,
         "newDeaths": 0,
@@ -857,7 +869,7 @@
           "isoCode": "US-GA",
           "lat": 31.9012
         },
-        "totalConfirmedCases": 59,
+        "totalConfirmedCases": 60,
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
@@ -873,8 +885,8 @@
           "isoCode": "US-GA",
           "lat": 32.5383
         },
-        "totalConfirmedCases": 43,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -889,8 +901,8 @@
           "isoCode": "US-GA",
           "lat": 33.0909
         },
-        "totalConfirmedCases": 103,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 107,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -905,8 +917,8 @@
           "isoCode": "US-GA",
           "lat": 33.2524
         },
-        "totalConfirmedCases": 172,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 180,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -921,8 +933,8 @@
           "isoCode": "US-GA",
           "lat": 31.4847
         },
-        "totalConfirmedCases": 116,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 117,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -937,8 +949,8 @@
           "isoCode": "US-GA",
           "lat": 30.7985
         },
-        "totalConfirmedCases": 36,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 37,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -953,7 +965,7 @@
           "isoCode": "US-GA",
           "lat": 32.3958
         },
-        "totalConfirmedCases": 8,
+        "totalConfirmedCases": 9,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -969,8 +981,8 @@
           "isoCode": "US-GA",
           "lat": 33.7305
         },
-        "totalConfirmedCases": 393,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 395,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -986,7 +998,7 @@
           "lat": 34.9318
         },
         "totalConfirmedCases": 53,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1017,8 +1029,8 @@
           "isoCode": "US-GA",
           "lat": 32.1043
         },
-        "totalConfirmedCases": 299,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 304,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1065,8 +1077,8 @@
           "isoCode": "US-GA",
           "lat": 34.2515
         },
-        "totalConfirmedCases": 593,
-        "newlyConfirmedCases": 15,
+        "totalConfirmedCases": 609,
+        "newlyConfirmedCases": 2,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1081,8 +1093,8 @@
           "isoCode": "US-GA",
           "lat": 33.9666
         },
-        "totalConfirmedCases": 182,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 186,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1097,8 +1109,8 @@
           "isoCode": "US-GA",
           "lat": 33.4773
         },
-        "totalConfirmedCases": 901,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 925,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 34,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1114,7 +1126,7 @@
           "lat": 30.6881
         },
         "totalConfirmedCases": 17,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1129,10 +1141,10 @@
           "isoCode": "US-GA",
           "lat": 33.8999
         },
-        "totalConfirmedCases": 2128,
-        "newlyConfirmedCases": 56,
-        "totalDeaths": 116,
-        "newDeaths": 3,
+        "totalConfirmedCases": 2175,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 117,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1146,7 +1158,7 @@
           "lat": 31.6248
         },
         "totalConfirmedCases": 175,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1162,7 +1174,7 @@
           "lat": 31.0683
         },
         "totalConfirmedCases": 207,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1177,8 +1189,8 @@
           "isoCode": "US-GA",
           "lat": 33.4262
         },
-        "totalConfirmedCases": 179,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 183,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1193,7 +1205,7 @@
           "isoCode": "US-GA",
           "lat": 31.0466
         },
-        "totalConfirmedCases": 31,
+        "totalConfirmedCases": 32,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1209,8 +1221,8 @@
           "isoCode": "US-GA",
           "lat": 33.326
         },
-        "totalConfirmedCases": 265,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 276,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1225,7 +1237,7 @@
           "isoCode": "US-GA",
           "lat": 31.9563
         },
-        "totalConfirmedCases": 182,
+        "totalConfirmedCases": 185,
         "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
@@ -1241,7 +1253,7 @@
           "isoCode": "US-GA",
           "lat": 34.4362
         },
-        "totalConfirmedCases": 75,
+        "totalConfirmedCases": 81,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1273,8 +1285,8 @@
           "isoCode": "US-GA",
           "lat": 33.7956
         },
-        "totalConfirmedCases": 2489,
-        "newlyConfirmedCases": 44,
+        "totalConfirmedCases": 2536,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 69,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1305,8 +1317,8 @@
           "isoCode": "US-GA",
           "lat": 32.1956
         },
-        "totalConfirmedCases": 141,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 146,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1321,8 +1333,8 @@
           "isoCode": "US-GA",
           "lat": 31.4756
         },
-        "totalConfirmedCases": 1587,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 1593,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 126,
         "newDeaths": 0,
         "totalRecoveredCases": 340,
@@ -1337,8 +1349,8 @@
           "isoCode": "US-GA",
           "lat": 33.7811
         },
-        "totalConfirmedCases": 400,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 414,
+        "newlyConfirmedCases": 9,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1354,7 +1366,7 @@
           "lat": 31.2988
         },
         "totalConfirmedCases": 226,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 27,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1401,8 +1413,8 @@
           "isoCode": "US-GA",
           "lat": 33.4502
         },
-        "totalConfirmedCases": 195,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 199,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1418,7 +1430,7 @@
           "lat": 37.5455
         },
         "totalConfirmedCases": 157,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1449,8 +1461,8 @@
           "isoCode": "US-GA",
           "lat": 34.2064
         },
-        "totalConfirmedCases": 366,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 388,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1481,8 +1493,8 @@
           "isoCode": "US-GA",
           "lat": 33.8034
         },
-        "totalConfirmedCases": 3385,
-        "newlyConfirmedCases": 68,
+        "totalConfirmedCases": 3509,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 144,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1497,8 +1509,8 @@
           "isoCode": "US-GA",
           "lat": 34.6911
         },
-        "totalConfirmedCases": 95,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 97,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1513,7 +1525,7 @@
           "isoCode": "US-GA",
           "lat": 31.145
         },
-        "totalConfirmedCases": 72,
+        "totalConfirmedCases": 73,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1529,7 +1541,7 @@
           "isoCode": "US-GA",
           "lat": 34.4379
         },
-        "totalConfirmedCases": 121,
+        "totalConfirmedCases": 122,
         "newlyConfirmedCases": 0,
         "totalDeaths": 15,
         "newDeaths": 0,
@@ -1561,8 +1573,8 @@
           "isoCode": "US-GA",
           "lat": 33.9191
         },
-        "totalConfirmedCases": 2403,
-        "newlyConfirmedCases": 80,
+        "totalConfirmedCases": 2447,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 87,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1593,8 +1605,8 @@
           "isoCode": "US-GA",
           "lat": 34.3956
         },
-        "totalConfirmedCases": 2002,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 2012,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 28,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1625,8 +1637,8 @@
           "isoCode": "US-GA",
           "lat": 32.7647
         },
-        "totalConfirmedCases": 65,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 66,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1641,8 +1653,8 @@
           "isoCode": "US-GA",
           "lat": 34.2859
         },
-        "totalConfirmedCases": 16,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1673,8 +1685,8 @@
           "isoCode": "US-GA",
           "lat": 33.4399
         },
-        "totalConfirmedCases": 593,
-        "newlyConfirmedCases": 27,
+        "totalConfirmedCases": 604,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 14,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1689,7 +1701,7 @@
           "isoCode": "US-GA",
           "lat": 32.6341
         },
-        "totalConfirmedCases": 284,
+        "totalConfirmedCases": 286,
         "newlyConfirmedCases": 0,
         "totalDeaths": 15,
         "newDeaths": 0,
@@ -1722,7 +1734,7 @@
           "lat": 34.0933
         },
         "totalConfirmedCases": 123,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1802,7 +1814,7 @@
           "lat": 32.3835
         },
         "totalConfirmedCases": 80,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1817,7 +1829,7 @@
           "isoCode": "US-GA",
           "lat": 31.8128
         },
-        "totalConfirmedCases": 339,
+        "totalConfirmedCases": 340,
         "newlyConfirmedCases": 0,
         "totalDeaths": 22,
         "newDeaths": 0,
@@ -1833,7 +1845,7 @@
           "isoCode": "US-GA",
           "lat": 31.7715
         },
-        "totalConfirmedCases": 43,
+        "totalConfirmedCases": 44,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1881,8 +1893,8 @@
           "isoCode": "US-GA",
           "lat": 30.86
         },
-        "totalConfirmedCases": 184,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 185,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1913,10 +1925,10 @@
           "isoCode": "US-GA",
           "lat": 32.2997
         },
-        "totalConfirmedCases": 82,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 85,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1930,7 +1942,7 @@
           "lat": 34.1727
         },
         "totalConfirmedCases": 29,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1946,7 +1958,7 @@
           "lat": 32.887
         },
         "totalConfirmedCases": 65,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1977,8 +1989,8 @@
           "isoCode": "US-GA",
           "lat": 31.3804
         },
-        "totalConfirmedCases": 350,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 352,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 33,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2009,8 +2021,8 @@
           "isoCode": "US-GA",
           "lat": 33.7378
         },
-        "totalConfirmedCases": 32,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2025,8 +2037,8 @@
           "isoCode": "US-GA",
           "lat": 34.8282
         },
-        "totalConfirmedCases": 46,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 47,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2041,8 +2053,8 @@
           "isoCode": "US-GA",
           "lat": 32.51
         },
-        "totalConfirmedCases": 364,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 371,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2057,8 +2069,8 @@
           "isoCode": "US-GA",
           "lat": 33.5739
         },
-        "totalConfirmedCases": 252,
-        "newlyConfirmedCases": 12,
+        "totalConfirmedCases": 258,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2089,8 +2101,8 @@
           "isoCode": "US-GA",
           "lat": 33.8771
         },
-        "totalConfirmedCases": 222,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 223,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2105,7 +2117,7 @@
           "isoCode": "US-GA",
           "lat": 32.5522
         },
-        "totalConfirmedCases": 62,
+        "totalConfirmedCases": 63,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -2122,7 +2134,7 @@
           "lat": 34.5279
         },
         "totalConfirmedCases": 33,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2137,8 +2149,8 @@
           "isoCode": "US-GA",
           "lat": 31.4088
         },
-        "totalConfirmedCases": 65,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 67,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2153,7 +2165,7 @@
           "isoCode": "US-GA",
           "lat": 33.0918
         },
-        "totalConfirmedCases": 41,
+        "totalConfirmedCases": 44,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -2169,7 +2181,7 @@
           "isoCode": "US-GA",
           "lat": 34.0132
         },
-        "totalConfirmedCases": 65,
+        "totalConfirmedCases": 66,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -2202,9 +2214,9 @@
           "lat": 31.6717
         },
         "totalConfirmedCases": 168,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 21,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -2217,8 +2229,8 @@
           "isoCode": "US-GA",
           "lat": 33.2906
         },
-        "totalConfirmedCases": 444,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 447,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 16,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2233,8 +2245,8 @@
           "isoCode": "US-GA",
           "lat": 33.6645
         },
-        "totalConfirmedCases": 230,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 239,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2281,8 +2293,8 @@
           "isoCode": "US-GA",
           "lat": 33.2418
         },
-        "totalConfirmedCases": 232,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 235,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2313,8 +2325,8 @@
           "isoCode": "US-GA",
           "lat": 32.0736
         },
-        "totalConfirmedCases": 399,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 400,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 32,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2345,7 +2357,7 @@
           "isoCode": "US-GA",
           "lat": 32.5982
         },
-        "totalConfirmedCases": 18,
+        "totalConfirmedCases": 20,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -2394,7 +2406,7 @@
           "lat": 30.8394
         },
         "totalConfirmedCases": 242,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 26,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2409,8 +2421,8 @@
           "isoCode": "US-GA",
           "lat": 31.3389
         },
-        "totalConfirmedCases": 152,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 156,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2426,7 +2438,7 @@
           "lat": 32.1713
         },
         "totalConfirmedCases": 40,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2441,8 +2453,8 @@
           "isoCode": "US-GA",
           "lat": 33.1674
         },
-        "totalConfirmedCases": 185,
-        "newlyConfirmedCases": 9,
+        "totalConfirmedCases": 186,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2458,7 +2470,7 @@
           "lat": 31.671
         },
         "totalConfirmedCases": 78,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2489,8 +2501,8 @@
           "isoCode": "US-GA",
           "lat": 32.9369
         },
-        "totalConfirmedCases": 249,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 250,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 24,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2505,10 +2517,10 @@
           "isoCode": "US-GA",
           "lat": 33.7455
         },
-        "totalConfirmedCases": 151,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 152,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -2521,7 +2533,7 @@
           "isoCode": "US-GA",
           "lat": 31.2406
         },
-        "totalConfirmedCases": 155,
+        "totalConfirmedCases": 165,
         "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
@@ -2553,7 +2565,7 @@
           "isoCode": "US-GA",
           "lat": 32.9827
         },
-        "totalConfirmedCases": 53,
+        "totalConfirmedCases": 57,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -2586,7 +2598,7 @@
           "lat": 34.6437
         },
         "totalConfirmedCases": 88,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2601,8 +2613,8 @@
           "isoCode": "US-GA",
           "lat": 34.8497
         },
-        "totalConfirmedCases": 149,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 154,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2618,7 +2630,7 @@
           "lat": 33.8674
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2633,8 +2645,8 @@
           "isoCode": "US-GA",
           "lat": 31.5103
         },
-        "totalConfirmedCases": 182,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 183,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2649,8 +2661,8 @@
           "isoCode": "US-GA",
           "lat": 32.3875
         },
-        "totalConfirmedCases": 28,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2714,7 +2726,7 @@
           "lat": 32.7265
         },
         "totalConfirmedCases": 66,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2730,7 +2742,7 @@
           "lat": 32.5789
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2826,7 +2838,7 @@
           "lat": 32.0487
         },
         "totalConfirmedCases": 31,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2842,7 +2854,7 @@
           "lat": 32.1084
         },
         "totalConfirmedCases": 95,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2873,10 +2885,10 @@
           "isoCode": "US-GA",
           "lat": 32.5306
         },
-        "totalConfirmedCases": 23,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -2889,8 +2901,8 @@
           "isoCode": "US-GA",
           "lat": 34.9296
         },
-        "totalConfirmedCases": 64,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 65,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2906,7 +2918,7 @@
           "lat": 33.2616
         },
         "totalConfirmedCases": 55,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2937,10 +2949,10 @@
           "isoCode": "US-GA",
           "lat": 31.041
         },
-        "totalConfirmedCases": 10,
+        "totalConfirmedCases": 11,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -2953,8 +2965,8 @@
           "isoCode": "US-GA",
           "lat": 34.2051
         },
-        "totalConfirmedCases": 39,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3033,8 +3045,8 @@
           "isoCode": "US-GA",
           "lat": 31.2065
         },
-        "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3081,8 +3093,8 @@
           "isoCode": "US-GA",
           "lat": 33.2767
         },
-        "totalConfirmedCases": 127,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 128,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3145,8 +3157,8 @@
           "isoCode": "US-GA",
           "lat": 33.7956441
         },
-        "totalConfirmedCases": 1108,
-        "newlyConfirmedCases": 19,
+        "totalConfirmedCases": 1490,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 22,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3193,7 +3205,7 @@
           "isoCode": "US-GA",
           "lat": 33.5258626
         },
-        "totalConfirmedCases": 50,
+        "totalConfirmedCases": 51,
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
@@ -3210,7 +3222,7 @@
           "lat": 31.4748147
         },
         "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

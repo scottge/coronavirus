@@ -7,14 +7,14 @@
     "isoCode": "US-CA",
     "lat": 36.778261
   },
-  "updatedDateTime": "2020-05-10T05:45:38.0665439Z",
+  "updatedDateTime": "2020-05-11T17:42:21.2802463Z",
   "stats": {
-    "totalConfirmedCases": 66687,
-    "newlyConfirmedCases": 2212,
-    "totalDeaths": 2710,
-    "newDeaths": 75,
-    "totalRecoveredCases": 10352,
-    "newlyRecoveredCases": 218,
+    "totalConfirmedCases": 68142,
+    "newlyConfirmedCases": 142,
+    "totalDeaths": 2754,
+    "newDeaths": 11,
+    "totalRecoveredCases": 10980,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 66687,
         "deaths": 2710,
         "recovered": 10352
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 68000,
+        "deaths": 2743,
+        "recovered": 10980
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 68142,
+        "deaths": 2754,
+        "recovered": 10980
       }
     ],
     "breakdowns": [
@@ -681,10 +693,10 @@
           "isoCode": "US-CA",
           "lat": 37.6017
         },
-        "totalConfirmedCases": 2023,
-        "newlyConfirmedCases": 62,
-        "totalDeaths": 71,
-        "newDeaths": 1,
+        "totalConfirmedCases": 2085,
+        "newlyConfirmedCases": 21,
+        "totalDeaths": 75,
+        "newDeaths": 3,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -761,10 +773,10 @@
           "isoCode": "US-CA",
           "lat": 37.8534
         },
-        "totalConfirmedCases": 1036,
-        "newlyConfirmedCases": 22,
+        "totalConfirmedCases": 1048,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 32,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -793,8 +805,8 @@
           "isoCode": "US-CA",
           "lat": 36.9859
         },
-        "totalConfirmedCases": 841,
-        "newlyConfirmedCases": 28,
+        "totalConfirmedCases": 885,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 85,
@@ -825,7 +837,7 @@
           "isoCode": "US-CA",
           "lat": 40.745
         },
-        "totalConfirmedCases": 55,
+        "totalConfirmedCases": 57,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -873,9 +885,9 @@
           "isoCode": "US-CA",
           "lat": 35.6411
         },
-        "totalConfirmedCases": 1228,
-        "newlyConfirmedCases": 62,
-        "totalDeaths": 15,
+        "totalConfirmedCases": 1264,
+        "newlyConfirmedCases": 10,
+        "totalDeaths": 16,
         "newDeaths": 0,
         "totalRecoveredCases": 234,
         "newlyRecoveredCases": 0
@@ -889,8 +901,8 @@
           "isoCode": "US-CA",
           "lat": 36.303
         },
-        "totalConfirmedCases": 265,
-        "newlyConfirmedCases": 21,
+        "totalConfirmedCases": 287,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -905,10 +917,10 @@
           "isoCode": "US-CA",
           "lat": 34.0522
         },
-        "totalConfirmedCases": 31241,
-        "newlyConfirmedCases": 922,
-        "totalDeaths": 1515,
-        "newDeaths": 45,
+        "totalConfirmedCases": 31703,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1531,
+        "newDeaths": 0,
         "totalRecoveredCases": 232,
         "newlyRecoveredCases": 0
       },
@@ -921,8 +933,8 @@
           "isoCode": "US-CA",
           "lat": 37.2519
         },
-        "totalConfirmedCases": 66,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 67,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 11,
@@ -937,8 +949,8 @@
           "isoCode": "US-CA",
           "lat": 38.0834
         },
-        "totalConfirmedCases": 257,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 261,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 14,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -970,7 +982,7 @@
           "lat": 37.4306
         },
         "totalConfirmedCases": 163,
-        "newlyConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 16,
@@ -986,7 +998,7 @@
           "lat": 38.5834
         },
         "totalConfirmedCases": 29,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1001,8 +1013,8 @@
           "isoCode": "US-CA",
           "lat": 36.6247
         },
-        "totalConfirmedCases": 267,
-        "newlyConfirmedCases": 17,
+        "totalConfirmedCases": 279,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 24,
@@ -1049,10 +1061,10 @@
           "isoCode": "US-CA",
           "lat": 33.7879
         },
-        "totalConfirmedCases": 3380,
-        "newlyConfirmedCases": 140,
-        "totalDeaths": 74,
-        "newDeaths": 3,
+        "totalConfirmedCases": 3506,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 76,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1065,8 +1077,8 @@
           "isoCode": "US-CA",
           "lat": 39.0916
         },
-        "totalConfirmedCases": 168,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 169,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1081,10 +1093,10 @@
           "isoCode": "US-CA",
           "lat": 33.9533
         },
-        "totalConfirmedCases": 4992,
-        "newlyConfirmedCases": 236,
-        "totalDeaths": 204,
-        "newDeaths": 12,
+        "totalConfirmedCases": 5039,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 205,
+        "newDeaths": 0,
         "totalRecoveredCases": 700,
         "newlyRecoveredCases": 0
       },
@@ -1097,8 +1109,8 @@
           "isoCode": "US-CA",
           "lat": 38.4747
         },
-        "totalConfirmedCases": 1165,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 1167,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 50,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1114,7 +1126,7 @@
           "lat": 36.5761
         },
         "totalConfirmedCases": 55,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 40,
@@ -1129,10 +1141,10 @@
           "isoCode": "US-CA",
           "lat": 34.0714
         },
-        "totalConfirmedCases": 2902,
-        "newlyConfirmedCases": 273,
+        "totalConfirmedCases": 2964,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 114,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1145,10 +1157,10 @@
           "isoCode": "US-CA",
           "lat": 32.7157
         },
-        "totalConfirmedCases": 4725,
-        "newlyConfirmedCases": 233,
-        "totalDeaths": 189,
-        "newDeaths": 3,
+        "totalConfirmedCases": 4989,
+        "newlyConfirmedCases": 63,
+        "totalDeaths": 194,
+        "newDeaths": 0,
         "totalRecoveredCases": 1138,
         "newlyRecoveredCases": 0
       },
@@ -1161,9 +1173,9 @@
           "isoCode": "US-CA",
           "lat": 37.7749
         },
-        "totalConfirmedCases": 1891,
-        "newlyConfirmedCases": 38,
-        "totalDeaths": 33,
+        "totalConfirmedCases": 1946,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 34,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1177,9 +1189,9 @@
           "isoCode": "US-CA",
           "lat": 36.6066
         },
-        "totalConfirmedCases": 605,
-        "newlyConfirmedCases": 8,
-        "totalDeaths": 28,
+        "totalConfirmedCases": 612,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 29,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1193,8 +1205,8 @@
           "isoCode": "US-CA",
           "lat": 35.7309
         },
-        "totalConfirmedCases": 214,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 220,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 111,
@@ -1209,10 +1221,10 @@
           "isoCode": "US-CA",
           "lat": 37.563
         },
-        "totalConfirmedCases": 1425,
+        "totalConfirmedCases": 1453,
         "newlyConfirmedCases": 28,
-        "totalDeaths": 57,
-        "newDeaths": 1,
+        "totalDeaths": 65,
+        "newDeaths": 8,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1225,10 +1237,10 @@
           "isoCode": "US-CA",
           "lat": 34.4382
         },
-        "totalConfirmedCases": 1250,
-        "newlyConfirmedCases": 528,
+        "totalConfirmedCases": 1308,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 169,
         "newlyRecoveredCases": 0
       },
@@ -1241,9 +1253,9 @@
           "isoCode": "US-CA",
           "lat": 37.3541
         },
-        "totalConfirmedCases": 2307,
-        "newlyConfirmedCases": 17,
-        "totalDeaths": 128,
+        "totalConfirmedCases": 2339,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 129,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
         "newlyRecoveredCases": 0
@@ -1258,7 +1270,7 @@
           "lat": 37.0454
         },
         "totalConfirmedCases": 141,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 48,
@@ -1306,7 +1318,7 @@
           "lat": 38.3105
         },
         "totalConfirmedCases": 356,
-        "newlyConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 143,
@@ -1321,10 +1333,10 @@
           "isoCode": "US-CA",
           "lat": 38.578
         },
-        "totalConfirmedCases": 300,
-        "newlyConfirmedCases": 8,
+        "totalConfirmedCases": 309,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 109,
         "newlyRecoveredCases": 0
       },
@@ -1337,9 +1349,9 @@
           "isoCode": "US-CA",
           "lat": 37.5091
         },
-        "totalConfirmedCases": 488,
-        "newlyConfirmedCases": 12,
-        "totalDeaths": 19,
+        "totalConfirmedCases": 501,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 21,
         "newDeaths": 0,
         "totalRecoveredCases": 94,
         "newlyRecoveredCases": 0
@@ -1369,10 +1381,10 @@
           "isoCode": "US-CA",
           "lat": 36.379
         },
-        "totalConfirmedCases": 1079,
-        "newlyConfirmedCases": 66,
-        "totalDeaths": 46,
-        "newDeaths": 2,
+        "totalConfirmedCases": 1140,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 48,
+        "newDeaths": 0,
         "totalRecoveredCases": 55,
         "newlyRecoveredCases": 0
       },
@@ -1385,8 +1397,8 @@
           "isoCode": "US-CA",
           "lat": 34.3705
         },
-        "totalConfirmedCases": 652,
-        "newlyConfirmedCases": 21,
+        "totalConfirmedCases": 679,
+        "newlyConfirmedCases": 13,
         "totalDeaths": 19,
         "newDeaths": 0,
         "totalRecoveredCases": 222,
@@ -1401,7 +1413,7 @@
           "isoCode": "US-CA",
           "lat": 38.7646
         },
-        "totalConfirmedCases": 172,
+        "totalConfirmedCases": 173,
         "newlyConfirmedCases": 0,
         "totalDeaths": 20,
         "newDeaths": 0,
@@ -1546,7 +1558,7 @@
           "lat": 40.6329485
         },
         "totalConfirmedCases": 1,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

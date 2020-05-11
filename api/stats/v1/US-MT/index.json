@@ -7,14 +7,14 @@
     "isoCode": "US-MT",
     "lat": 46.879682
   },
-  "updatedDateTime": "2020-05-10T05:45:38.9680554Z",
+  "updatedDateTime": "2020-05-11T17:42:22.1428546Z",
   "stats": {
     "totalConfirmedCases": 463,
-    "newlyConfirmedCases": 1,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 16,
     "newDeaths": 0,
-    "totalRecoveredCases": 422,
-    "newlyRecoveredCases": 2,
+    "totalRecoveredCases": 423,
+    "newlyRecoveredCases": 1,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 463,
         "deaths": 16,
         "recovered": 422
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 463,
+        "deaths": 16,
+        "recovered": 422
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 463,
+        "deaths": 16,
+        "recovered": 423
       }
     ],
     "breakdowns": [
@@ -746,7 +758,7 @@
           "lat": 45.6828
         },
         "totalConfirmedCases": 149,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

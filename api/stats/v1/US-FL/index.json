@@ -7,14 +7,14 @@
     "isoCode": "US-FL",
     "lat": 27.664827
   },
-  "updatedDateTime": "2020-05-10T05:45:38.3376035Z",
+  "updatedDateTime": "2020-05-11T17:42:21.3371316Z",
   "stats": {
-    "totalConfirmedCases": 40001,
-    "newlyConfirmedCases": 802,
-    "totalDeaths": 1716,
-    "newDeaths": 47,
+    "totalConfirmedCases": 40982,
+    "newlyConfirmedCases": 386,
+    "totalDeaths": 1735,
+    "newDeaths": 13,
     "totalRecoveredCases": 1046,
-    "newlyRecoveredCases": 360,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 40001,
         "deaths": 1716,
         "recovered": 1046
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 40596,
+        "deaths": 1722,
+        "recovered": 1046
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 40982,
+        "deaths": 1735,
+        "recovered": 1046
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "US-FL",
           "lat": 29.7938
         },
-        "totalConfirmedCases": 308,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 312,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -697,7 +709,7 @@
           "isoCode": "US-FL",
           "lat": 30.2752
         },
-        "totalConfirmedCases": 24,
+        "totalConfirmedCases": 25,
         "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
@@ -746,7 +758,7 @@
           "lat": 28.6928
         },
         "totalConfirmedCases": 328,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -761,10 +773,10 @@
           "isoCode": "US-FL",
           "lat": 26.1901
         },
-        "totalConfirmedCases": 5780,
-        "newlyConfirmedCases": 92,
+        "totalConfirmedCases": 5858,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 257,
-        "newDeaths": 9,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -777,10 +789,10 @@
           "isoCode": "US-FL",
           "lat": 26.8946
         },
-        "totalConfirmedCases": 317,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 329,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 33,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -793,8 +805,8 @@
           "isoCode": "US-FL",
           "lat": 28.8006
         },
-        "totalConfirmedCases": 104,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 106,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -809,8 +821,8 @@
           "isoCode": "US-FL",
           "lat": 30.0472
         },
-        "totalConfirmedCases": 299,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 300,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 19,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -825,8 +837,8 @@
           "isoCode": "US-FL",
           "lat": 26.07
         },
-        "totalConfirmedCases": 734,
-        "newlyConfirmedCases": 22,
+        "totalConfirmedCases": 752,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 27,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -841,7 +853,7 @@
           "isoCode": "US-FL",
           "lat": 30.1855
         },
-        "totalConfirmedCases": 102,
+        "totalConfirmedCases": 103,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -857,8 +869,8 @@
           "isoCode": "US-FL",
           "lat": 30.3165
         },
-        "totalConfirmedCases": 1134,
-        "newlyConfirmedCases": 46,
+        "totalConfirmedCases": 1164,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 29,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -873,8 +885,8 @@
           "isoCode": "US-FL",
           "lat": 30.4158
         },
-        "totalConfirmedCases": 634,
-        "newlyConfirmedCases": 16,
+        "totalConfirmedCases": 638,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -906,7 +918,7 @@
           "lat": 30.4992
         },
         "totalConfirmedCases": 128,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -922,7 +934,7 @@
           "lat": 26.8338
         },
         "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -937,8 +949,8 @@
           "isoCode": "US-FL",
           "lat": 26.7325
         },
-        "totalConfirmedCases": 136,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 145,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 7,
@@ -953,7 +965,7 @@
           "isoCode": "US-FL",
           "lat": 28.469
         },
-        "totalConfirmedCases": 98,
+        "totalConfirmedCases": 100,
         "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
@@ -969,8 +981,8 @@
           "isoCode": "US-FL",
           "lat": 27.5908
         },
-        "totalConfirmedCases": 96,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 98,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -985,8 +997,8 @@
           "isoCode": "US-FL",
           "lat": 27.9904
         },
-        "totalConfirmedCases": 1400,
-        "newlyConfirmedCases": 29,
+        "totalConfirmedCases": 1432,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 37,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1017,7 +1029,7 @@
           "isoCode": "US-FL",
           "lat": 30.7943
         },
-        "totalConfirmedCases": 74,
+        "totalConfirmedCases": 91,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1033,8 +1045,8 @@
           "isoCode": "US-FL",
           "lat": 29.1635
         },
-        "totalConfirmedCases": 240,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 242,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 14,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1049,10 +1061,10 @@
           "isoCode": "US-FL",
           "lat": 26.663
         },
-        "totalConfirmedCases": 1249,
-        "newlyConfirmedCases": 30,
+        "totalConfirmedCases": 1268,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 65,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1065,8 +1077,8 @@
           "isoCode": "US-FL",
           "lat": 30.4551
         },
-        "totalConfirmedCases": 252,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 254,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1097,10 +1109,10 @@
           "isoCode": "US-FL",
           "lat": 27.4799
         },
-        "totalConfirmedCases": 756,
-        "newlyConfirmedCases": 14,
+        "totalConfirmedCases": 776,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 74,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1114,7 +1126,7 @@
           "lat": 29.4494
         },
         "totalConfirmedCases": 210,
-        "newlyConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1129,8 +1141,8 @@
           "isoCode": "US-FL",
           "lat": 27.2161
         },
-        "totalConfirmedCases": 245,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 255,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1145,10 +1157,10 @@
           "isoCode": "US-FL",
           "lat": 25.5516
         },
-        "totalConfirmedCases": 13841,
-        "newlyConfirmedCases": 177,
-        "totalDeaths": 482,
-        "newDeaths": 14,
+        "totalConfirmedCases": 14007,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 487,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1162,7 +1174,7 @@
           "lat": 25.2574
         },
         "totalConfirmedCases": 89,
-        "newlyConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1193,8 +1205,8 @@
           "isoCode": "US-FL",
           "lat": 30.5773
         },
-        "totalConfirmedCases": 168,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 169,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1210,7 +1222,7 @@
           "lat": 28.4727
         },
         "totalConfirmedCases": 1505,
-        "newlyConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 36,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1225,8 +1237,8 @@
           "isoCode": "US-FL",
           "lat": 28.3349
         },
-        "totalConfirmedCases": 564,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 572,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1241,10 +1253,10 @@
           "isoCode": "US-FL",
           "lat": 26.6815
         },
-        "totalConfirmedCases": 3798,
-        "newlyConfirmedCases": 183,
+        "totalConfirmedCases": 3870,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 237,
-        "newDeaths": 8,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1257,8 +1269,8 @@
           "isoCode": "US-FL",
           "lat": 28.3232
         },
-        "totalConfirmedCases": 293,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 297,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1273,9 +1285,9 @@
           "isoCode": "US-FL",
           "lat": 27.8764
         },
-        "totalConfirmedCases": 848,
-        "newlyConfirmedCases": 20,
-        "totalDeaths": 59,
+        "totalConfirmedCases": 861,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 60,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1289,10 +1301,10 @@
           "isoCode": "US-FL",
           "lat": 27.8868
         },
-        "totalConfirmedCases": 623,
-        "newlyConfirmedCases": 22,
+        "totalConfirmedCases": 636,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 33,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1305,8 +1317,8 @@
           "isoCode": "US-FL",
           "lat": 29.6502
         },
-        "totalConfirmedCases": 125,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 126,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1321,8 +1333,8 @@
           "isoCode": "US-FL",
           "lat": 30.769
         },
-        "totalConfirmedCases": 172,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 173,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1337,10 +1349,10 @@
           "isoCode": "US-FL",
           "lat": 27.3328
         },
-        "totalConfirmedCases": 418,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 426,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 57,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1353,10 +1365,10 @@
           "isoCode": "US-FL",
           "lat": 28.7893
         },
-        "totalConfirmedCases": 411,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 415,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 163,
         "newlyRecoveredCases": 0
       },
@@ -1385,8 +1397,8 @@
           "isoCode": "US-FL",
           "lat": 27.4096
         },
-        "totalConfirmedCases": 280,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 282,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 25,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1401,8 +1413,8 @@
           "isoCode": "US-FL",
           "lat": 28.6335
         },
-        "totalConfirmedCases": 240,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 244,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 14,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1417,7 +1429,7 @@
           "isoCode": "US-FL",
           "lat": 30.2956
         },
-        "totalConfirmedCases": 145,
+        "totalConfirmedCases": 146,
         "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
@@ -1433,8 +1445,8 @@
           "isoCode": "US-FL",
           "lat": 29.028
         },
-        "totalConfirmedCases": 540,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 548,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 28,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1465,10 +1477,10 @@
           "isoCode": "US-FL",
           "lat": 30.9746
         },
-        "totalConfirmedCases": 55,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 61,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1514,7 +1526,7 @@
           "lat": 30.5722
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1530,7 +1542,7 @@
           "lat": 30.0638
         },
         "totalConfirmedCases": 6,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1578,7 +1590,7 @@
           "lat": 27.5469
         },
         "totalConfirmedCases": 36,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1593,7 +1605,7 @@
           "isoCode": "US-FL",
           "lat": 27.2172
         },
-        "totalConfirmedCases": 23,
+        "totalConfirmedCases": 28,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1626,7 +1638,7 @@
           "lat": 29.4498
         },
         "totalConfirmedCases": 13,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1657,7 +1669,7 @@
           "isoCode": "US-FL",
           "lat": 30.3317
         },
-        "totalConfirmedCases": 8,
+        "totalConfirmedCases": 18,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1674,7 +1686,7 @@
           "lat": 27.2214
         },
         "totalConfirmedCases": 47,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1737,7 +1749,7 @@
           "isoCode": "US-FL",
           "lat": 30.3906
         },
-        "totalConfirmedCases": 196,
+        "totalConfirmedCases": 198,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,

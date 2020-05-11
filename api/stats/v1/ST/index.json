@@ -7,7 +7,7 @@
     "isoCode": "ST",
     "lat": null
   },
-  "updatedDateTime": "2020-05-10T05:45:40.4073818Z",
+  "updatedDateTime": "2020-05-11T17:42:24.2950632Z",
   "stats": {
     "totalConfirmedCases": 208,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 208,
+        "deaths": 5,
+        "recovered": 4
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 208,
+        "deaths": 5,
+        "recovered": 4
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 208,
         "deaths": 5,
         "recovered": 4

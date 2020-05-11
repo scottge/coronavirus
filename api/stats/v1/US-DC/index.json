@@ -7,14 +7,14 @@
     "isoCode": "US-DC",
     "lat": 38.9072
   },
-  "updatedDateTime": "2020-05-10T05:45:38.8723058Z",
+  "updatedDateTime": "2020-05-11T17:42:21.9846173Z",
   "stats": {
-    "totalConfirmedCases": 6102,
-    "newlyConfirmedCases": 203,
-    "totalDeaths": 311,
-    "newDeaths": 7,
-    "totalRecoveredCases": 879,
-    "newlyRecoveredCases": 54,
+    "totalConfirmedCases": 6389,
+    "newlyConfirmedCases": 117,
+    "totalDeaths": 328,
+    "newDeaths": 5,
+    "totalRecoveredCases": 881,
+    "newlyRecoveredCases": 1,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 6102,
         "deaths": 311,
         "recovered": 879
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 6272,
+        "deaths": 323,
+        "recovered": 880
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 6389,
+        "deaths": 328,
+        "recovered": 881
       }
     ],
     "breakdowns": []

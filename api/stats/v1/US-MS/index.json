@@ -7,12 +7,12 @@
     "isoCode": "US-MS",
     "lat": 32.354668
   },
-  "updatedDateTime": "2020-05-10T05:45:38.9793898Z",
+  "updatedDateTime": "2020-05-11T17:42:22.1638952Z",
   "stats": {
-    "totalConfirmedCases": 9391,
-    "newlyConfirmedCases": 283,
-    "totalDeaths": 424,
-    "newDeaths": 14,
+    "totalConfirmedCases": 9674,
+    "newlyConfirmedCases": 153,
+    "totalDeaths": 435,
+    "newDeaths": 4,
     "totalRecoveredCases": 4421,
     "newlyRecoveredCases": 0,
     "history": [
@@ -669,6 +669,18 @@
         "confirmed": 9391,
         "deaths": 424,
         "recovered": 4421
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 9521,
+        "deaths": 431,
+        "recovered": 4421
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 9674,
+        "deaths": 435,
+        "recovered": 4421
       }
     ],
     "breakdowns": [
@@ -681,9 +693,9 @@
           "isoCode": "US-MS",
           "lat": 31.496
         },
-        "totalConfirmedCases": 158,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 11,
+        "totalConfirmedCases": 159,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -713,8 +725,8 @@
           "isoCode": "US-MS",
           "lat": 31.1611
         },
-        "totalConfirmedCases": 34,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 38,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -730,7 +742,7 @@
           "lat": 33.122
         },
         "totalConfirmedCases": 191,
-        "newlyConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -762,9 +774,9 @@
           "lat": 34.09
         },
         "totalConfirmedCases": 119,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 8,
-        "newDeaths": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 9,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -796,7 +808,7 @@
         "totalConfirmedCases": 111,
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -810,7 +822,7 @@
           "lat": 34.0053
         },
         "totalConfirmedCases": 92,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -825,7 +837,7 @@
           "isoCode": "US-MS",
           "lat": 33.2931
         },
-        "totalConfirmedCases": 15,
+        "totalConfirmedCases": 16,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -842,7 +854,7 @@
           "lat": 31.8804
         },
         "totalConfirmedCases": 41,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -857,9 +869,9 @@
           "isoCode": "US-MS",
           "lat": 32.0441
         },
-        "totalConfirmedCases": 79,
-        "newlyConfirmedCases": 2,
-        "totalDeaths": 7,
+        "totalConfirmedCases": 81,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -873,8 +885,8 @@
           "isoCode": "US-MS",
           "lat": 33.6064
         },
-        "totalConfirmedCases": 65,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 66,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -905,8 +917,8 @@
           "isoCode": "US-MS",
           "lat": 31.9903
         },
-        "totalConfirmedCases": 157,
-        "newlyConfirmedCases": 5,
+        "totalConfirmedCases": 162,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -921,8 +933,8 @@
           "isoCode": "US-MS",
           "lat": 31.5581
         },
-        "totalConfirmedCases": 89,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 90,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -938,7 +950,7 @@
           "lat": 34.85
         },
         "totalConfirmedCases": 333,
-        "newlyConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -953,10 +965,10 @@
           "isoCode": "US-MS",
           "lat": 31.3074
         },
-        "totalConfirmedCases": 309,
-        "newlyConfirmedCases": 15,
+        "totalConfirmedCases": 314,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 21,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -969,7 +981,7 @@
           "isoCode": "US-MS",
           "lat": 31.4721
         },
-        "totalConfirmedCases": 18,
+        "totalConfirmedCases": 19,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1001,8 +1013,8 @@
           "isoCode": "US-MS",
           "lat": 33.7816
         },
-        "totalConfirmedCases": 47,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 51,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1017,10 +1029,10 @@
           "isoCode": "US-MS",
           "lat": 30.3791
         },
-        "totalConfirmedCases": 73,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 74,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1034,7 +1046,7 @@
           "lat": 30.4422
         },
         "totalConfirmedCases": 198,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1049,10 +1061,10 @@
           "isoCode": "US-MS",
           "lat": 32.3163
         },
-        "totalConfirmedCases": 663,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 670,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 15,
-        "newDeaths": 4,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1065,10 +1077,10 @@
           "isoCode": "US-MS",
           "lat": 33.323
         },
-        "totalConfirmedCases": 206,
-        "newlyConfirmedCases": 10,
-        "totalDeaths": 18,
-        "newDeaths": 1,
+        "totalConfirmedCases": 213,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 19,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1082,7 +1094,7 @@
           "lat": 33.0952
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1098,7 +1110,7 @@
           "lat": 34.2327
         },
         "totalConfirmedCases": 68,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1114,7 +1126,7 @@
           "lat": 30.5905
         },
         "totalConfirmedCases": 275,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1145,10 +1157,10 @@
           "isoCode": "US-MS",
           "lat": 31.7879
         },
-        "totalConfirmedCases": 243,
-        "newlyConfirmedCases": 20,
+        "totalConfirmedCases": 247,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1161,8 +1173,8 @@
           "isoCode": "US-MS",
           "lat": 32.8302
         },
-        "totalConfirmedCases": 91,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 92,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1193,8 +1205,8 @@
           "isoCode": "US-MS",
           "lat": 31.3114
         },
-        "totalConfirmedCases": 145,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 152,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1209,10 +1221,10 @@
           "isoCode": "US-MS",
           "lat": 32.5104
         },
-        "totalConfirmedCases": 471,
-        "newlyConfirmedCases": 8,
-        "totalDeaths": 42,
-        "newDeaths": 1,
+        "totalConfirmedCases": 482,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 43,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1225,8 +1237,8 @@
           "isoCode": "US-MS",
           "lat": 31.6048
         },
-        "totalConfirmedCases": 64,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 66,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1242,8 +1254,8 @@
           "lat": 32.6749
         },
         "totalConfirmedCases": 299,
-        "newlyConfirmedCases": 13,
-        "totalDeaths": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
@@ -1258,7 +1270,7 @@
           "lat": 34.2649
         },
         "totalConfirmedCases": 78,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1274,7 +1286,7 @@
           "lat": 33.5173
         },
         "totalConfirmedCases": 185,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1289,10 +1301,10 @@
           "isoCode": "US-MS",
           "lat": 31.5803
         },
-        "totalConfirmedCases": 184,
-        "newlyConfirmedCases": 5,
-        "totalDeaths": 13,
-        "newDeaths": 1,
+        "totalConfirmedCases": 186,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 14,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1305,8 +1317,8 @@
           "isoCode": "US-MS",
           "lat": 33.6276
         },
-        "totalConfirmedCases": 79,
-        "newlyConfirmedCases": 6,
+        "totalConfirmedCases": 83,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1321,8 +1333,8 @@
           "isoCode": "US-MS",
           "lat": 32.5434
         },
-        "totalConfirmedCases": 422,
-        "newlyConfirmedCases": 18,
+        "totalConfirmedCases": 431,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 12,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1338,7 +1350,7 @@
           "lat": 31.2386
         },
         "totalConfirmedCases": 83,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1354,7 +1366,7 @@
           "lat": 34.6492
         },
         "totalConfirmedCases": 55,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1370,9 +1382,9 @@
           "lat": 33.746
         },
         "totalConfirmedCases": 200,
-        "newlyConfirmedCases": 9,
-        "totalDeaths": 20,
-        "newDeaths": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 21,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1385,8 +1397,8 @@
           "isoCode": "US-MS",
           "lat": 33.4404
         },
-        "totalConfirmedCases": 67,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 69,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1401,10 +1413,10 @@
           "isoCode": "US-MS",
           "lat": 32.7889
         },
-        "totalConfirmedCases": 307,
-        "newlyConfirmedCases": 20,
-        "totalDeaths": 13,
-        "newDeaths": 1,
+        "totalConfirmedCases": 315,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 14,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1417,10 +1429,10 @@
           "isoCode": "US-MS",
           "lat": 32.5711
         },
-        "totalConfirmedCases": 137,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 138,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1434,7 +1446,7 @@
           "lat": 33.2367
         },
         "totalConfirmedCases": 102,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1449,8 +1461,8 @@
           "isoCode": "US-MS",
           "lat": 33.3451
         },
-        "totalConfirmedCases": 86,
-        "newlyConfirmedCases": 13,
+        "totalConfirmedCases": 89,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1482,7 +1494,7 @@
           "lat": 30.574
         },
         "totalConfirmedCases": 190,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 24,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1498,7 +1510,7 @@
           "lat": 31.2036
         },
         "totalConfirmedCases": 34,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1514,7 +1526,7 @@
           "lat": 31.0072
         },
         "totalConfirmedCases": 168,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1530,7 +1542,7 @@
           "lat": 34.3611
         },
         "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1545,8 +1557,8 @@
           "isoCode": "US-MS",
           "lat": 34.708
         },
-        "totalConfirmedCases": 35,
-        "newlyConfirmedCases": 2,
+        "totalConfirmedCases": 36,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1561,7 +1573,7 @@
           "isoCode": "US-MS",
           "lat": 34.2006
         },
-        "totalConfirmedCases": 16,
+        "totalConfirmedCases": 17,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1577,8 +1589,8 @@
           "isoCode": "US-MS",
           "lat": 32.2778
         },
-        "totalConfirmedCases": 248,
-        "newlyConfirmedCases": 10,
+        "totalConfirmedCases": 250,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1593,8 +1605,8 @@
           "isoCode": "US-MS",
           "lat": 32.4491
         },
-        "totalConfirmedCases": 454,
-        "newlyConfirmedCases": 16,
+        "totalConfirmedCases": 457,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1626,7 +1638,7 @@
           "lat": 31.873
         },
         "totalConfirmedCases": 61,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1642,7 +1654,7 @@
           "lat": 32.0144
         },
         "totalConfirmedCases": 100,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1690,7 +1702,7 @@
           "lat": 34.6902
         },
         "totalConfirmedCases": 50,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1706,9 +1718,9 @@
           "lat": 34.638
         },
         "totalConfirmedCases": 65,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1738,7 +1750,7 @@
           "lat": 34.4909
         },
         "totalConfirmedCases": 48,
-        "newlyConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1753,7 +1765,7 @@
           "isoCode": "US-MS",
           "lat": 31.1173
         },
-        "totalConfirmedCases": 37,
+        "totalConfirmedCases": 39,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1769,8 +1781,8 @@
           "isoCode": "US-MS",
           "lat": 32.3173
         },
-        "totalConfirmedCases": 98,
-        "newlyConfirmedCases": 4,
+        "totalConfirmedCases": 117,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1786,7 +1798,7 @@
           "lat": 33.385
         },
         "totalConfirmedCases": 82,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1801,7 +1813,7 @@
           "isoCode": "US-MS",
           "lat": 33.539
         },
-        "totalConfirmedCases": 21,
+        "totalConfirmedCases": 22,
         "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
@@ -1817,8 +1829,8 @@
           "isoCode": "US-MS",
           "lat": 31.087
         },
-        "totalConfirmedCases": 75,
-        "newlyConfirmedCases": 1,
+        "totalConfirmedCases": 77,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1833,7 +1845,7 @@
           "isoCode": "US-MS",
           "lat": 33.1224
         },
-        "totalConfirmedCases": 61,
+        "totalConfirmedCases": 63,
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
@@ -1849,8 +1861,8 @@
           "isoCode": "US-MS",
           "lat": 33.9765
         },
-        "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 3,
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1865,7 +1877,7 @@
           "isoCode": "US-MS",
           "lat": 32.672
         },
-        "totalConfirmedCases": 162,
+        "totalConfirmedCases": 164,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
@@ -1882,7 +1894,7 @@
           "lat": 34.4866
         },
         "totalConfirmedCases": 10,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1898,7 +1910,7 @@
           "lat": 32.0722
         },
         "totalConfirmedCases": 86,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1930,7 +1942,7 @@
           "lat": 30.8557
         },
         "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1962,7 +1974,7 @@
           "lat": 31.4961
         },
         "totalConfirmedCases": 53,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

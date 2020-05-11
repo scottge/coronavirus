@@ -1,9 +1,9 @@
 ---
 category: stats
 title: "China - Hong Kong Coronavirus (COVID-19) Live Stats"
-excerpt: "Live stats of COVID-19 in Hong Kong, China. Total Cases: 1045 (-), Deaths: 4 (-), Recoveries: 967(+7)."
-publishedDateTime: 2020-05-10T05:45:41Z
-updatedDateTime: 2020-05-10T05:45:41Z
+excerpt: "Live stats of COVID-19 in Hong Kong, China. Total Cases: 1048 (-), Deaths: 4 (-), Recoveries: 985(+3)."
+publishedDateTime: 2020-05-11T17:42:26Z
+updatedDateTime: 2020-05-11T17:42:26Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/china-hongkong/"
 type: article
 heat: 100
@@ -31,7 +31,7 @@ images:
 <div class="total-stats" style="text-align: center;">
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Confirmed Cases:</div>
-	    1045 (-)
+	    1048 (-)
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Deaths:</div>
@@ -39,7 +39,7 @@ images:
     </h3>
     <h3>
 	    <div style="font-size: 18px; font-weight: 400;">Total Recovered:</div>
-	    967 (<span class='green'>+7</span>)
+	    985 (<span class='green'>+3</span>)
     </h3>
 </div>
 
@@ -52,7 +52,7 @@ images:
   function drawChart() {
     var data = google.visualization.arrayToDataTable([
       ['Date', 'Total Cases', 'Total Deaths', 'Total Recovered'],
-      ['1/22/2020', 0, 0, 0],['1/23/2020', 2, 0, 0],['1/24/2020', 2, 0, 0],['1/25/2020', 5, 0, 0],['1/26/2020', 8, 0, 0],['1/27/2020', 8, 0, 0],['1/28/2020', 8, 0, 0],['1/29/2020', 10, 0, 0],['1/30/2020', 10, 0, 0],['1/31/2020', 12, 0, 0],['2/1/2020', 13, 0, 0],['2/2/2020', 15, 0, 0],['2/3/2020', 15, 0, 0],['2/4/2020', 17, 1, 0],['2/5/2020', 21, 1, 0],['2/6/2020', 24, 1, 0],['2/7/2020', 25, 1, 0],['2/8/2020', 26, 1, 0],['2/9/2020', 29, 1, 0],['2/10/2020', 38, 1, 0],['2/11/2020', 49, 1, 0],['2/12/2020', 50, 1, 1],['2/13/2020', 53, 1, 1],['2/14/2020', 56, 1, 1],['2/15/2020', 56, 1, 1],['2/16/2020', 57, 1, 2],['2/17/2020', 60, 1, 2],['2/18/2020', 62, 1, 2],['2/19/2020', 63, 2, 5],['2/20/2020', 68, 2, 5],['2/21/2020', 68, 2, 5],['2/22/2020', 69, 2, 6],['2/23/2020', 74, 2, 11],['2/24/2020', 79, 2, 19],['2/25/2020', 84, 2, 19],['2/26/2020', 91, 2, 24],['2/27/2020', 92, 2, 24],['2/28/2020', 94, 2, 30],['2/29/2020', 95, 2, 33],['3/1/2020', 96, 2, 36],['3/2/2020', 100, 2, 36],['3/3/2020', 100, 2, 37],['3/4/2020', 105, 2, 37],['3/5/2020', 105, 2, 43],['3/6/2020', 107, 2, 46],['3/7/2020', 108, 2, 51],['3/8/2020', 114, 3, 58],['3/9/2020', 115, 3, 59],['3/10/2020', 120, 3, 65],['3/11/2020', 126, 3, 65],['3/12/2020', 132, 4, 77],['3/13/2020', 138, 4, 78],['3/14/2020', 142, 4, 81],['3/15/2020', 149, 4, 84],['3/16/2020', 157, 4, 88],['3/17/2020', 168, 4, 92],['3/18/2020', 193, 4, 95],['3/19/2020', 208, 4, 98],['3/20/2020', 256, 4, 98],['3/21/2020', 274, 4, 100],['3/22/2020', 318, 4, 100],['3/23/2020', 356, 4, 100],['3/24/2020', 387, 4, 102],['3/25/2020', 411, 4, 106],['3/26/2020', 454, 4, 110],['3/27/2020', 519, 4, 111],['3/28/2020', 582, 4, 112],['3/29/2020', 642, 4, 118],['3/30/2020', 683, 4, 124],['3/31/2020', 715, 4, 128],['4/1/2020', 766, 4, 147],['4/2/2020', 802, 4, 154],['4/3/2020', 845, 4, 173],['4/4/2020', 862, 4, 173],['4/5/2020', 891, 4, 206],['4/6/2020', 915, 4, 216],['4/7/2020', 936, 4, 236],['4/8/2020', 961, 4, 264],['4/9/2020', 974, 4, 293],['4/10/2020', 990, 4, 309],['4/11/2020', 1001, 4, 336],['4/12/2020', 1005, 4, 360],['4/13/2020', 1010, 4, 397],['4/14/2020', 1013, 4, 434],['4/15/2020', 1017, 4, 459],['4/16/2020', 1018, 4, 485],['4/17/2020', 1022, 4, 533],['4/18/2020', 1024, 4, 568],['4/19/2020', 1026, 4, 602],['4/20/2020', 1026, 4, 630],['4/21/2020', 1030, 4, 650],['4/22/2020', 1034, 4, 678],['4/23/2020', 1036, 4, 699],['4/24/2020', 1036, 4, 725],['4/25/2020', 1038, 4, 753],['4/26/2020', 1038, 4, 772],['4/27/2020', 1038, 4, 787],['4/28/2020', 1038, 4, 811],['4/29/2020', 1038, 4, 830],['4/30/2020', 1038, 4, 846],['5/1/2020', 1039, 4, 855],['5/2/2020', 1040, 4, 864],['5/3/2020', 1040, 4, 879],['5/4/2020', 1041, 4, 900],['5/5/2020', 1041, 4, 920],['5/6/2020', 1041, 4, 932],['5/7/2020', 1045, 4, 944],['5/8/2020', 1045, 4, 960],['5/9/2020', 1045, 4, 967],
+      ['1/22/2020', 0, 0, 0],['1/23/2020', 2, 0, 0],['1/24/2020', 2, 0, 0],['1/25/2020', 5, 0, 0],['1/26/2020', 8, 0, 0],['1/27/2020', 8, 0, 0],['1/28/2020', 8, 0, 0],['1/29/2020', 10, 0, 0],['1/30/2020', 10, 0, 0],['1/31/2020', 12, 0, 0],['2/1/2020', 13, 0, 0],['2/2/2020', 15, 0, 0],['2/3/2020', 15, 0, 0],['2/4/2020', 17, 1, 0],['2/5/2020', 21, 1, 0],['2/6/2020', 24, 1, 0],['2/7/2020', 25, 1, 0],['2/8/2020', 26, 1, 0],['2/9/2020', 29, 1, 0],['2/10/2020', 38, 1, 0],['2/11/2020', 49, 1, 0],['2/12/2020', 50, 1, 1],['2/13/2020', 53, 1, 1],['2/14/2020', 56, 1, 1],['2/15/2020', 56, 1, 1],['2/16/2020', 57, 1, 2],['2/17/2020', 60, 1, 2],['2/18/2020', 62, 1, 2],['2/19/2020', 63, 2, 5],['2/20/2020', 68, 2, 5],['2/21/2020', 68, 2, 5],['2/22/2020', 69, 2, 6],['2/23/2020', 74, 2, 11],['2/24/2020', 79, 2, 19],['2/25/2020', 84, 2, 19],['2/26/2020', 91, 2, 24],['2/27/2020', 92, 2, 24],['2/28/2020', 94, 2, 30],['2/29/2020', 95, 2, 33],['3/1/2020', 96, 2, 36],['3/2/2020', 100, 2, 36],['3/3/2020', 100, 2, 37],['3/4/2020', 105, 2, 37],['3/5/2020', 105, 2, 43],['3/6/2020', 107, 2, 46],['3/7/2020', 108, 2, 51],['3/8/2020', 114, 3, 58],['3/9/2020', 115, 3, 59],['3/10/2020', 120, 3, 65],['3/11/2020', 126, 3, 65],['3/12/2020', 132, 4, 77],['3/13/2020', 138, 4, 78],['3/14/2020', 142, 4, 81],['3/15/2020', 149, 4, 84],['3/16/2020', 157, 4, 88],['3/17/2020', 168, 4, 92],['3/18/2020', 193, 4, 95],['3/19/2020', 208, 4, 98],['3/20/2020', 256, 4, 98],['3/21/2020', 274, 4, 100],['3/22/2020', 318, 4, 100],['3/23/2020', 356, 4, 100],['3/24/2020', 387, 4, 102],['3/25/2020', 411, 4, 106],['3/26/2020', 454, 4, 110],['3/27/2020', 519, 4, 111],['3/28/2020', 582, 4, 112],['3/29/2020', 642, 4, 118],['3/30/2020', 683, 4, 124],['3/31/2020', 715, 4, 128],['4/1/2020', 766, 4, 147],['4/2/2020', 802, 4, 154],['4/3/2020', 845, 4, 173],['4/4/2020', 862, 4, 173],['4/5/2020', 891, 4, 206],['4/6/2020', 915, 4, 216],['4/7/2020', 936, 4, 236],['4/8/2020', 961, 4, 264],['4/9/2020', 974, 4, 293],['4/10/2020', 990, 4, 309],['4/11/2020', 1001, 4, 336],['4/12/2020', 1005, 4, 360],['4/13/2020', 1010, 4, 397],['4/14/2020', 1013, 4, 434],['4/15/2020', 1017, 4, 459],['4/16/2020', 1018, 4, 485],['4/17/2020', 1022, 4, 533],['4/18/2020', 1024, 4, 568],['4/19/2020', 1026, 4, 602],['4/20/2020', 1026, 4, 630],['4/21/2020', 1030, 4, 650],['4/22/2020', 1034, 4, 678],['4/23/2020', 1036, 4, 699],['4/24/2020', 1036, 4, 725],['4/25/2020', 1038, 4, 753],['4/26/2020', 1038, 4, 772],['4/27/2020', 1038, 4, 787],['4/28/2020', 1038, 4, 811],['4/29/2020', 1038, 4, 830],['4/30/2020', 1038, 4, 846],['5/1/2020', 1039, 4, 855],['5/2/2020', 1040, 4, 864],['5/3/2020', 1040, 4, 879],['5/4/2020', 1041, 4, 900],['5/5/2020', 1041, 4, 920],['5/6/2020', 1041, 4, 932],['5/7/2020', 1045, 4, 944],['5/8/2020', 1045, 4, 960],['5/9/2020', 1045, 4, 967],['5/10/2020', 1048, 4, 982],['5/11/2020', 1048, 4, 985],
     ]);
     var options = {
       curveType: 'none',
@@ -76,7 +76,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['Location', 'Total Cases', 'Total Deaths'],
-      ["Hong Kong SAR", 1045, 4]
+      ["Hong Kong SAR", 1048, 4]
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -155,66 +155,6 @@ images:
 		<div class="card-excerpt">Hong Kong Exchanges and Clearing, or HKEX, was the top loser among blue chips, as chief executive Charles Li Xiaojia said he will not seek reappointment next year and the stock market operator announced a 13 per cent decline in net profit in the first quarter.</div>
 		<div class="card-meta">
 			<span class="card-provider">South China Morning Post</span> • <span class="card-date">5/7/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://thehill.com/policy/international/china/496328-china-labels-protesters-in-hong-kong-a-political-virus"><div class="card-image" style="background-image: url(https://thehill.com/sites/default/files/hongkong_111819getty.jpg)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://thehill.com/policy/international/china/496328-china-labels-protesters-in-hong-kong-a-political-virus">China labels protesters in Hong Kong a 'political virus'</a></div>
-		<div class="card-excerpt">China's Hong Kong office on Wednesday called the pro-democracy protests that have permeated throughout the semi-autonomous region since 2019 a “political virus," saying there will never be stability amid the ongoing protests.</div>
-		<div class="card-meta">
-			<span class="card-provider">The Hill</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.reuters.com/article/us-hongkong-protests-china-hk-affairs-idUSKBN22I09H"><div class="card-image" style="background-image: url(https://s2.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517609140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4506B)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.reuters.com/article/us-hongkong-protests-china-hk-affairs-idUSKBN22I09H">China says Hong Kong will never be calm unless violent protesters removed</a></div>
-		<div class="card-excerpt">China's Hong Kong affairs office warned on Wednesday that the city will never be calm unless "black-clad violent protesters" were all removed, describing them as a "political virus" that seeks independence from Beijing.</div>
-		<div class="card-meta">
-			<span class="card-provider">Reuters</span> • <span class="card-date">5/6/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.reuters.com/article/uk-hongkong-economy-pmi-idUKKBN22I026"><div class="card-image" style="background-image: url(https://s1.reutersmedia.net/resources/r/?m=02&d=20200506&t=2&i=1517596434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG45012)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.reuters.com/article/uk-hongkong-economy-pmi-idUKKBN22I026">Hong Kong business activity shrinks further in April on slumping demand</a></div>
-		<div class="card-excerpt">Business activity in Hong Kong shrank further in April, a private sector survey showed on Wednesday, as the conronavirus pandemic weighed heavily on demand, output and business confidence.</div>
-		<div class="card-meta">
-			<span class="card-provider">Reuters</span> • <span class="card-date">5/5/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.nytimes.com/reuters/2020/05/05/world/asia/05reuters-hongkong-economy-salesfigures.html"><div class="card-image" style="background-image: url(https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.nytimes.com/reuters/2020/05/05/world/asia/05reuters-hongkong-economy-salesfigures.html">Hong Kong March Retail Sales Plunge 42% Year-On-Year as Coronavirus Hurts Economy</a></div>
-		<div class="card-excerpt">Hong Kong's retail sales fell by 42% in March from a year earlier, as travel restrictions kept tourists away and most residents steered clear of shops and restaurants for fear of catching the coronavirus.</div>
-		<div class="card-meta">
-			<span class="card-provider">New York Times</span> • <span class="card-date">5/5/2020</span>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="col-md-6 col-sm-12">
-  <div class="content-card">
-	<a href="https://www.reuters.com/article/us-health-coronavirus-hongkong-idUSKBN22H0TH"><div class="card-image" style="background-image: url(https://s3.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517494322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440H6)"></div></a>
-	<div class="content">
-		<div class="card-title"><a href="https://www.reuters.com/article/us-health-coronavirus-hongkong-idUSKBN22H0TH">Hong Kong to relax some restrictions as new coronavirus cases dwindle</a></div>
-		<div class="card-excerpt">Hong Kong's government said on Tuesday it will relax restrictions on public gatherings and allow gyms, cinemas and beauty parlours to re-open later this week as only a handful of new coronavirus cases have been reported in recent weeks.</div>
-		<div class="card-meta">
-			<span class="card-provider">Reuters</span> • <span class="card-date">5/5/2020</span>
 		</div>
 	</div>
   </div>

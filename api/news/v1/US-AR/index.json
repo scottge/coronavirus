@@ -7,7 +7,7 @@
     "isoCode": "US-AR",
     "lat": 35.20105
   },
-  "updatedDateTime": "2020-05-10T05:45:38.9669686Z",
+  "updatedDateTime": "2020-05-11T17:42:22.1368897Z",
   "news": [
     {
       "path": "_news/2020-05-08-coronavirus-in-arkansas-pools-splash-pads-and-swim-beaches-can-open-may-22.md",
@@ -78,107 +78,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-abortion-clinic-challenges-arkansas-coronavirus-testing-rule.md",
-      "title": "Abortion clinic challenges Arkansas coronavirus testing rule",
-      "excerpt": "Arkansas' only surgical abortion clinic on Friday challenged a state rule requiring coronavirus tests before elective surgeries, saying it's preventing women from having the procedure. The American Civil Liberties Union of Arkansas,",
-      "heat": null,
-      "tags": [
-        "US-AR"
-      ],
-      "type": "article",
-      "webUrl": "https://www.sfgate.com/news/article/Abortion-clinic-challenges-Arkansas-coronavirus-15241306.php",
-      "ampWebUrl": "https://www.sfgate.com/news/amp/Abortion-clinic-challenges-Arkansas-coronavirus-15241306.php",
-      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Abortion-clinic-challenges-Arkansas-coronavirus-15241306.php",
-      "publishedDateTime": "2020-05-02T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": "Abortion clinic challenges Arkansas coronavirus testing rule",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-aclu-and-abortion-providers-sue-arkansas-over-order-requiring-negative-covid-19-test-before-elective-medical-procedures.md",
-      "title": "ACLU and abortion providers sue Arkansas over order requiring negative Covid-19 test before elective medical procedures",
-      "excerpt": "Arkansas abortion providers and the American Civil Liberties Union are once again suing Arkansas state officials for restricting abortion access during the coronavirus pandemic, this time to keep the state from requiring abortion-seekers to first get a negative Covid-19 test within 48 hours of the procedure.",
-      "heat": null,
-      "tags": [
-        "US-AR"
-      ],
-      "type": "article",
-      "webUrl": "https://edition.cnn.com/2020/05/01/politics/arkansas-abortion-covid-test/index.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Coronavirus in US",
-        "Coronavirus"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-abortion-clinic-challenges-arkansas-coronavirus-testing-rule.md",
-      "title": "Abortion Clinic Challenges Arkansas Coronavirus Testing Rule",
-      "excerpt": "Arkansas' only surgical abortion clinic is challenging a state rule requiring coronavirus tests withing 48 hours of elective procedures.",
-      "heat": null,
-      "tags": [
-        "US-AR"
-      ],
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/us/articles/2020-05-01/abortion-clinic-challenges-arkansas-coronavirus-testing-rule",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

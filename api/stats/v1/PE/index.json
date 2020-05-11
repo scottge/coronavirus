@@ -7,14 +7,14 @@
     "isoCode": "PE",
     "lat": -9.19
   },
-  "updatedDateTime": "2020-05-10T05:45:40.3290668Z",
+  "updatedDateTime": "2020-05-11T17:42:24.1265905Z",
   "stats": {
-    "totalConfirmedCases": 65015,
-    "newlyConfirmedCases": 3168,
-    "totalDeaths": 1814,
-    "newDeaths": 100,
-    "totalRecoveredCases": 20246,
-    "newlyRecoveredCases": 1234,
+    "totalConfirmedCases": 67307,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 1889,
+    "newDeaths": 0,
+    "totalRecoveredCases": 21349,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 65015,
         "deaths": 1814,
         "recovered": 20246
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 67307,
+        "deaths": 1889,
+        "recovered": 21349
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 67307,
+        "deaths": 1889,
+        "recovered": 21349
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "PE",
           "lat": -9.19
         },
-        "totalConfirmedCases": 65015,
-        "newlyConfirmedCases": 3168,
-        "totalDeaths": 1814,
-        "newDeaths": 100,
-        "totalRecoveredCases": 20246,
-        "newlyRecoveredCases": 1234
+        "totalConfirmedCases": 67307,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1889,
+        "newDeaths": 0,
+        "totalRecoveredCases": 21349,
+        "newlyRecoveredCases": 0
       }
     ]
   }

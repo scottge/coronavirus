@@ -7,7 +7,7 @@
     "isoCode": "TL",
     "lat": -8.874217
   },
-  "updatedDateTime": "2020-05-10T05:45:40.5720149Z",
+  "updatedDateTime": "2020-05-11T17:42:24.5776306Z",
   "stats": {
     "totalConfirmedCases": 24,
     "newlyConfirmedCases": 0,
@@ -666,6 +666,18 @@
       },
       {
         "date": "2020-05-09T00:00:00",
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 21
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 21
+      },
+      {
+        "date": "2020-05-11T00:00:00",
         "confirmed": 24,
         "deaths": 0,
         "recovered": 21

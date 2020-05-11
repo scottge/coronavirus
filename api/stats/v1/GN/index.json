@@ -7,14 +7,14 @@
     "isoCode": "GN",
     "lat": 9.945587
   },
-  "updatedDateTime": "2020-05-10T05:45:39.7439673Z",
+  "updatedDateTime": "2020-05-11T17:42:23.2935542Z",
   "stats": {
-    "totalConfirmedCases": 2042,
-    "newlyConfirmedCases": 33,
+    "totalConfirmedCases": 2146,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 11,
     "newDeaths": 0,
-    "totalRecoveredCases": 698,
-    "newlyRecoveredCases": 35,
+    "totalRecoveredCases": 714,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 2042,
         "deaths": 11,
         "recovered": 698
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 2146,
+        "deaths": 11,
+        "recovered": 714
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 2146,
+        "deaths": 11,
+        "recovered": 714
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "GN",
           "lat": 9.945587
         },
-        "totalConfirmedCases": 2042,
-        "newlyConfirmedCases": 33,
+        "totalConfirmedCases": 2146,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
-        "totalRecoveredCases": 698,
-        "newlyRecoveredCases": 35
+        "totalRecoveredCases": 714,
+        "newlyRecoveredCases": 0
       }
     ]
   }

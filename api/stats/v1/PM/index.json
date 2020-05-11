@@ -7,14 +7,14 @@
     "isoCode": "PM",
     "lat": 46.8852
   },
-  "updatedDateTime": "2020-05-10T05:45:40.3877892Z",
+  "updatedDateTime": "2020-05-11T17:42:24.255106Z",
   "stats": {
     "totalConfirmedCases": 1,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 0,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 1,
+    "newlyRecoveredCases": 1,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 1,
         "deaths": 0,
         "recovered": 0
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
       }
     ],
     "breakdowns": [
@@ -685,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 0,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 1
       }
     ]
   }

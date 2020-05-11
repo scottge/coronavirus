@@ -7,10 +7,10 @@
     "isoCode": "UG",
     "lat": 1.373333
   },
-  "updatedDateTime": "2020-05-10T05:45:40.6153011Z",
+  "updatedDateTime": "2020-05-11T17:42:24.6567026Z",
   "stats": {
-    "totalConfirmedCases": 116,
-    "newlyConfirmedCases": 15,
+    "totalConfirmedCases": 121,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
     "totalRecoveredCases": 55,
@@ -669,6 +669,18 @@
         "confirmed": 116,
         "deaths": 0,
         "recovered": 55
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 121,
+        "deaths": 0,
+        "recovered": 55
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 121,
+        "deaths": 0,
+        "recovered": 55
       }
     ],
     "breakdowns": [
@@ -681,8 +693,8 @@
           "isoCode": "UG",
           "lat": 1.373333
         },
-        "totalConfirmedCases": 116,
-        "newlyConfirmedCases": 15,
+        "totalConfirmedCases": 121,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 55,

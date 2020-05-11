@@ -7,14 +7,14 @@
     "isoCode": "MD",
     "lat": 47.4116
   },
-  "updatedDateTime": "2020-05-10T05:45:37.1628182Z",
+  "updatedDateTime": "2020-05-11T17:42:20.4583198Z",
   "stats": {
-    "totalConfirmedCases": 4867,
-    "newlyConfirmedCases": 139,
-    "totalDeaths": 161,
-    "newDeaths": 11,
-    "totalRecoveredCases": 1925,
-    "newlyRecoveredCases": 99,
+    "totalConfirmedCases": 4927,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 171,
+    "newDeaths": 2,
+    "totalRecoveredCases": 1980,
+    "newlyRecoveredCases": 22,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -669,6 +669,18 @@
         "confirmed": 4867,
         "deaths": 161,
         "recovered": 1925
+      },
+      {
+        "date": "2020-05-10T00:00:00",
+        "confirmed": 4927,
+        "deaths": 169,
+        "recovered": 1958
+      },
+      {
+        "date": "2020-05-11T00:00:00",
+        "confirmed": 4927,
+        "deaths": 171,
+        "recovered": 1980
       }
     ],
     "breakdowns": [
@@ -681,12 +693,12 @@
           "isoCode": "MD",
           "lat": 47.4116
         },
-        "totalConfirmedCases": 4867,
-        "newlyConfirmedCases": 139,
-        "totalDeaths": 161,
-        "newDeaths": 11,
-        "totalRecoveredCases": 1925,
-        "newlyRecoveredCases": 99
+        "totalConfirmedCases": 4927,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 171,
+        "newDeaths": 2,
+        "totalRecoveredCases": 1980,
+        "newlyRecoveredCases": 22
       }
     ]
   }
