@@ -2,8 +2,8 @@
 category: stats
 title: "US - South Carolina State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-South Carolina. Total Cases: 7842 (+136), Deaths: 346 (+15), Recoveries: 4881(-)."
-publishedDateTime: 2020-05-12T04:45:11Z
-updatedDateTime: 2020-05-12T04:45:11Z
+publishedDateTime: 2020-05-12T05:45:11Z
+updatedDateTime: 2020-05-12T05:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-sc/"
 type: article
 heat: 100

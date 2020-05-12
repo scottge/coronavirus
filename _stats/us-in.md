@@ -2,8 +2,8 @@
 category: stats
 title: "US - Indiana State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Indiana. Total Cases: 24924 (+472), Deaths: 1540 (+32), Recoveries: 1691(+132)."
-publishedDateTime: 2020-05-12T04:45:11Z
-updatedDateTime: 2020-05-12T04:45:11Z
+publishedDateTime: 2020-05-12T05:45:11Z
+updatedDateTime: 2020-05-12T05:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-in/"
 type: article
 heat: 100

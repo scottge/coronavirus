@@ -2,8 +2,8 @@
 category: stats
 title: "US - Oklahoma State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Oklahoma. Total Cases: 4620 (+27), Deaths: 274 (+2), Recoveries: 3204(-)."
-publishedDateTime: 2020-05-12T04:45:11Z
-updatedDateTime: 2020-05-12T04:45:11Z
+publishedDateTime: 2020-05-12T05:45:11Z
+updatedDateTime: 2020-05-12T05:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ok/"
 type: article
 heat: 100

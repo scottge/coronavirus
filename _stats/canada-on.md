@@ -2,8 +2,8 @@
 category: stats
 title: "Canada - Ontario Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Canada-Ontario. Total Cases: 21817 (+348), Deaths: 1788 (+37), Recoveries: 0(-)."
-publishedDateTime: 2020-05-12T04:45:11Z
-updatedDateTime: 2020-05-12T04:45:11Z
+publishedDateTime: 2020-05-12T05:45:11Z
+updatedDateTime: 2020-05-12T05:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/canada-on/"
 type: article
 heat: 100

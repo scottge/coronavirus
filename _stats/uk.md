@@ -2,8 +2,8 @@
 category: stats
 title: "UK Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in UK. Total Cases: 223060 (+3877), Deaths: 32065 (+210), Recoveries: 344(-)."
-publishedDateTime: 2020-05-12T04:45:11Z
-updatedDateTime: 2020-05-12T04:45:11Z
+publishedDateTime: 2020-05-12T05:45:11Z
+updatedDateTime: 2020-05-12T05:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/uk/"
 type: article
 heat: 100
