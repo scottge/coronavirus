@@ -2,8 +2,8 @@
 category: stats
 title: "US - Hawaii State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Hawaii. Total Cases: 634 (-), Deaths: 17 (-), Recoveries: 561(-)."
-publishedDateTime: 2020-05-12T09:45:10Z
-updatedDateTime: 2020-05-12T09:45:10Z
+publishedDateTime: 2020-05-12T10:45:10Z
+updatedDateTime: 2020-05-12T10:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-hi/"
 type: article
 heat: 100

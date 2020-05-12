@@ -2,8 +2,8 @@
 category: stats
 title: "US - Iowa State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Iowa. Total Cases: 12382 (-), Deaths: 271 (-), Recoveries: 5249(-)."
-publishedDateTime: 2020-05-12T09:45:10Z
-updatedDateTime: 2020-05-12T09:45:10Z
+publishedDateTime: 2020-05-12T10:45:10Z
+updatedDateTime: 2020-05-12T10:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ia/"
 type: article
 heat: 100

@@ -2,8 +2,8 @@
 category: stats
 title: "US - Illinois State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Illinois. Total Cases: 79007 (-), Deaths: 3463 (-), Recoveries: 645(-)."
-publishedDateTime: 2020-05-12T09:45:10Z
-updatedDateTime: 2020-05-12T09:45:10Z
+publishedDateTime: 2020-05-12T10:45:10Z
+updatedDateTime: 2020-05-12T10:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-il/"
 type: article
 heat: 100
