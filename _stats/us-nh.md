@@ -2,8 +2,8 @@
 category: stats
 title: "US - New Hampshire State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-New Hampshire. Total Cases: 3160 (-), Deaths: 134 (-), Recoveries: 1231(-)."
-publishedDateTime: 2020-05-12T12:45:10Z
-updatedDateTime: 2020-05-12T12:45:10Z
+publishedDateTime: 2020-05-12T13:45:10Z
+updatedDateTime: 2020-05-12T13:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-nh/"
 type: article
 heat: 100

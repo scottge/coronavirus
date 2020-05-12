@@ -7,12 +7,12 @@
     "isoCode": "US",
     "lat": 37.09024
   },
-  "updatedDateTime": "2020-05-12T12:45:09.6593317Z",
+  "updatedDateTime": "2020-05-12T13:45:09.9003676Z",
   "stats": {
-    "totalConfirmedCases": 1376229,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 81535,
-    "newDeaths": 0,
+    "totalConfirmedCases": 1377122,
+    "newlyConfirmedCases": 893,
+    "totalDeaths": 81593,
+    "newDeaths": 58,
     "totalRecoveredCases": 252193,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 1376229,
-        "deaths": 81535,
+        "confirmed": 1377122,
+        "deaths": 81593,
         "recovered": 252193
       }
     ],
@@ -939,10 +939,10 @@
           "isoCode": "US-GA",
           "lat": 32.157435
         },
-        "totalConfirmedCases": 34002,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 1444,
-        "newDeaths": 0,
+        "totalConfirmedCases": 34165,
+        "newlyConfirmedCases": 163,
+        "totalDeaths": 1460,
+        "newDeaths": 16,
         "totalRecoveredCases": 340,
         "newlyRecoveredCases": 0
       },
@@ -1037,8 +1037,8 @@
         },
         "totalConfirmedCases": 7242,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 181,
-        "newDeaths": 0,
+        "totalDeaths": 182,
+        "newDeaths": 1,
         "totalRecoveredCases": 1675,
         "newlyRecoveredCases": 0
       },
@@ -1531,10 +1531,10 @@
           "isoCode": "US-VA",
           "lat": 37.431573
         },
-        "totalConfirmedCases": 25070,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 850,
-        "newDeaths": 0,
+        "totalConfirmedCases": 25800,
+        "newlyConfirmedCases": 730,
+        "totalDeaths": 891,
+        "newDeaths": 41,
         "totalRecoveredCases": 3124,
         "newlyRecoveredCases": 0
       },

@@ -7,14 +7,14 @@
     "isoCode": "SA",
     "lat": 24.0
   },
-  "updatedDateTime": "2020-05-12T12:45:09.4802876Z",
+  "updatedDateTime": "2020-05-12T13:45:09.7235392Z",
   "stats": {
-    "totalConfirmedCases": 41014,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 255,
-    "newDeaths": 0,
-    "totalRecoveredCases": 12737,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 42925,
+    "newlyConfirmedCases": 1911,
+    "totalDeaths": 264,
+    "newDeaths": 9,
+    "totalRecoveredCases": 15257,
+    "newlyRecoveredCases": 2520,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 41014,
-        "deaths": 255,
-        "recovered": 12737
+        "confirmed": 42925,
+        "deaths": 264,
+        "recovered": 15257
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "SA",
           "lat": 24.0
         },
-        "totalConfirmedCases": 41014,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 255,
-        "newDeaths": 0,
-        "totalRecoveredCases": 12737,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 42925,
+        "newlyConfirmedCases": 1911,
+        "totalDeaths": 264,
+        "newDeaths": 9,
+        "totalRecoveredCases": 15257,
+        "newlyRecoveredCases": 2520
       }
     ]
   }
