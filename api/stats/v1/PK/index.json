@@ -7,12 +7,12 @@
     "isoCode": "PK",
     "lat": 30.3753
   },
-  "updatedDateTime": "2020-05-12T10:45:09.5853587Z",
+  "updatedDateTime": "2020-05-12T11:45:10.6671154Z",
   "stats": {
-    "totalConfirmedCases": 32081,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 706,
-    "newDeaths": 0,
+    "totalConfirmedCases": 32674,
+    "newlyConfirmedCases": 593,
+    "totalDeaths": 724,
+    "newDeaths": 18,
     "totalRecoveredCases": 8555,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 32081,
-        "deaths": 706,
+        "confirmed": 32674,
+        "deaths": 724,
         "recovered": 8555
       }
     ],
@@ -699,10 +699,10 @@
           "isoCode": "PK",
           "lat": 30.3753
         },
-        "totalConfirmedCases": 32081,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 706,
-        "newDeaths": 0,
+        "totalConfirmedCases": 32674,
+        "newlyConfirmedCases": 593,
+        "totalDeaths": 724,
+        "newDeaths": 18,
         "totalRecoveredCases": 8555,
         "newlyRecoveredCases": 0
       }

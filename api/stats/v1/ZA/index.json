@@ -7,10 +7,10 @@
     "isoCode": "ZA",
     "lat": -30.5595
   },
-  "updatedDateTime": "2020-05-12T10:45:09.7414104Z",
+  "updatedDateTime": "2020-05-12T11:45:10.8245519Z",
   "stats": {
-    "totalConfirmedCases": 10652,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 11350,
+    "newlyConfirmedCases": 698,
     "totalDeaths": 206,
     "newDeaths": 0,
     "totalRecoveredCases": 4357,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 10652,
+        "confirmed": 11350,
         "deaths": 206,
         "recovered": 4357
       }
@@ -699,8 +699,8 @@
           "isoCode": "ZA",
           "lat": -30.5595
         },
-        "totalConfirmedCases": 10652,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 11350,
+        "newlyConfirmedCases": 698,
         "totalDeaths": 206,
         "newDeaths": 0,
         "totalRecoveredCases": 4357,

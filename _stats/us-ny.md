@@ -2,8 +2,8 @@
 category: stats
 title: "US - New York Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-New York. Total Cases: 347151 (-), Deaths: 27225 (-), Recoveries: 58363(-)."
-publishedDateTime: 2020-05-12T10:45:10Z
-updatedDateTime: 2020-05-12T10:45:10Z
+publishedDateTime: 2020-05-12T11:45:11Z
+updatedDateTime: 2020-05-12T11:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ny/"
 type: article
 heat: 100

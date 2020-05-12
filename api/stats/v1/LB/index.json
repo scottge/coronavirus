@@ -7,10 +7,10 @@
     "isoCode": "LB",
     "lat": 33.8547
   },
-  "updatedDateTime": "2020-05-12T10:45:09.3877279Z",
+  "updatedDateTime": "2020-05-12T11:45:10.4705057Z",
   "stats": {
-    "totalConfirmedCases": 859,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 870,
+    "newlyConfirmedCases": 11,
     "totalDeaths": 26,
     "newDeaths": 0,
     "totalRecoveredCases": 234,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 859,
+        "confirmed": 870,
         "deaths": 26,
         "recovered": 234
       }
@@ -699,8 +699,8 @@
           "isoCode": "LB",
           "lat": 33.8547
         },
-        "totalConfirmedCases": 859,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 870,
+        "newlyConfirmedCases": 11,
         "totalDeaths": 26,
         "newDeaths": 0,
         "totalRecoveredCases": 234,

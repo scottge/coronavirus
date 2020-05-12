@@ -2,8 +2,8 @@
 category: stats
 title: "US - Kansas State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Kansas. Total Cases: 7242 (-), Deaths: 181 (-), Recoveries: 1675(-)."
-publishedDateTime: 2020-05-12T10:45:10Z
-updatedDateTime: 2020-05-12T10:45:10Z
+publishedDateTime: 2020-05-12T11:45:11Z
+updatedDateTime: 2020-05-12T11:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ks/"
 type: article
 heat: 100

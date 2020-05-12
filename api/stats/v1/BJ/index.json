@@ -7,14 +7,14 @@
     "isoCode": "BJ",
     "lat": 9.3077
   },
-  "updatedDateTime": "2020-05-12T10:45:08.8973763Z",
+  "updatedDateTime": "2020-05-12T11:45:09.9843464Z",
   "stats": {
-    "totalConfirmedCases": 319,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 327,
+    "newlyConfirmedCases": 8,
     "totalDeaths": 2,
     "newDeaths": 0,
-    "totalRecoveredCases": 62,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 76,
+    "newlyRecoveredCases": 14,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 319,
+        "confirmed": 327,
         "deaths": 2,
-        "recovered": 62
+        "recovered": 76
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "BJ",
           "lat": 9.3077
         },
-        "totalConfirmedCases": 319,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 327,
+        "newlyConfirmedCases": 8,
         "totalDeaths": 2,
         "newDeaths": 0,
-        "totalRecoveredCases": 62,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 76,
+        "newlyRecoveredCases": 14
       }
     ]
   }
