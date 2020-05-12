@@ -7,10 +7,10 @@
     "isoCode": "CA-SK",
     "lat": 52.9399
   },
-  "updatedDateTime": "2020-05-12T19:45:07.0145133Z",
+  "updatedDateTime": "2020-05-12T20:45:07.2080941Z",
   "stats": {
-    "totalConfirmedCases": 568,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 573,
+    "newlyConfirmedCases": 5,
     "totalDeaths": 7,
     "newDeaths": 0,
     "totalRecoveredCases": 0,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 568,
+        "confirmed": 573,
         "deaths": 7,
         "recovered": 0
       }
@@ -699,8 +699,8 @@
           "isoCode": "CA-SK",
           "lat": 52.9399
         },
-        "totalConfirmedCases": 568,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 573,
+        "newlyConfirmedCases": 5,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

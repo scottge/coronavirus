@@ -7,14 +7,14 @@
     "isoCode": "US-UT",
     "lat": 39.32098
   },
-  "updatedDateTime": "2020-05-12T19:45:08.3483575Z",
+  "updatedDateTime": "2020-05-12T20:45:08.5375294Z",
   "stats": {
     "totalConfirmedCases": 6599,
     "newlyConfirmedCases": 25,
     "totalDeaths": 74,
     "newDeaths": 3,
-    "totalRecoveredCases": 3181,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 3267,
+    "newlyRecoveredCases": 86,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -686,7 +686,7 @@
         "date": "2020-05-12T00:00:00",
         "confirmed": 6599,
         "deaths": 74,
-        "recovered": 3181
+        "recovered": 3267
       }
     ],
     "breakdowns": [

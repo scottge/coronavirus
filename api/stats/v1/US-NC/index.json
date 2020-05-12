@@ -7,10 +7,10 @@
     "isoCode": "US-NC",
     "lat": 35.759573
   },
-  "updatedDateTime": "2020-05-12T19:45:08.2172031Z",
+  "updatedDateTime": "2020-05-12T20:45:08.4163397Z",
   "stats": {
-    "totalConfirmedCases": 15515,
-    "newlyConfirmedCases": 158,
+    "totalConfirmedCases": 15591,
+    "newlyConfirmedCases": 234,
     "totalDeaths": 596,
     "newDeaths": 21,
     "totalRecoveredCases": 2426,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 15515,
+        "confirmed": 15591,
         "deaths": 596,
         "recovered": 2426
       }

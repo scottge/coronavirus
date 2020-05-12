@@ -2,8 +2,8 @@
 category: stats
 title: "US - Georgia State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Georgia. Total Cases: 34635 (+633), Deaths: 1469 (+25), Recoveries: 340(-)."
-publishedDateTime: 2020-05-12T19:45:10Z
-updatedDateTime: 2020-05-12T19:45:10Z
+publishedDateTime: 2020-05-12T20:45:10Z
+updatedDateTime: 2020-05-12T20:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ga/"
 type: article
 heat: 100

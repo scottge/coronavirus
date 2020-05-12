@@ -7,14 +7,14 @@
     "isoCode": "RW",
     "lat": -1.940278
   },
-  "updatedDateTime": "2020-05-12T19:45:09.4223461Z",
+  "updatedDateTime": "2020-05-12T20:45:09.6077212Z",
   "stats": {
-    "totalConfirmedCases": 285,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 286,
+    "newlyConfirmedCases": 1,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 150,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 153,
+    "newlyRecoveredCases": 3,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 285,
+        "confirmed": 286,
         "deaths": 0,
-        "recovered": 150
+        "recovered": 153
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "RW",
           "lat": -1.940278
         },
-        "totalConfirmedCases": 285,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 286,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 150,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 153,
+        "newlyRecoveredCases": 3
       }
     ]
   }

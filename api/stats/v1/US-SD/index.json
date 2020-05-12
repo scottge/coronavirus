@@ -7,14 +7,14 @@
     "isoCode": "US-SD",
     "lat": 43.969515
   },
-  "updatedDateTime": "2020-05-12T19:45:08.447491Z",
+  "updatedDateTime": "2020-05-12T20:45:08.6355883Z",
   "stats": {
-    "totalConfirmedCases": 3618,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 35,
-    "newDeaths": 0,
-    "totalRecoveredCases": 2187,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 3663,
+    "newlyConfirmedCases": 45,
+    "totalDeaths": 39,
+    "newDeaths": 4,
+    "totalRecoveredCases": 2309,
+    "newlyRecoveredCases": 122,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 3618,
-        "deaths": 35,
-        "recovered": 2187
+        "confirmed": 3663,
+        "deaths": 39,
+        "recovered": 2309
       }
     ],
     "breakdowns": [

@@ -2,8 +2,8 @@
 category: stats
 title: "US - Texas State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Texas. Total Cases: 41095 (+240), Deaths: 1155 (+2), Recoveries: 24251(+659)."
-publishedDateTime: 2020-05-12T19:45:10Z
-updatedDateTime: 2020-05-12T19:45:10Z
+publishedDateTime: 2020-05-12T20:45:10Z
+updatedDateTime: 2020-05-12T20:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-tx/"
 type: article
 heat: 100
