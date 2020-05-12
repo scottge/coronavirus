@@ -7,14 +7,14 @@
     "isoCode": "US-NY",
     "lat": 43.299428
   },
-  "updatedDateTime": "2020-05-12T18:45:11.7669397Z",
+  "updatedDateTime": "2020-05-12T19:45:08.2045749Z",
   "stats": {
-    "totalConfirmedCases": 347151,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 348470,
+    "newlyConfirmedCases": 1319,
     "totalDeaths": 27247,
     "newDeaths": 22,
-    "totalRecoveredCases": 58363,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 58679,
+    "newlyRecoveredCases": 316,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 347151,
+        "confirmed": 348470,
         "deaths": 27247,
-        "recovered": 58363
+        "recovered": 58679
       }
     ],
     "breakdowns": [

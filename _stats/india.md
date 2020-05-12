@@ -2,8 +2,8 @@
 category: stats
 title: "India Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in India. Total Cases: 74243 (+3416), Deaths: 2415 (+121), Recoveries: 24124(+1575)."
-publishedDateTime: 2020-05-12T18:45:13Z
-updatedDateTime: 2020-05-12T18:45:13Z
+publishedDateTime: 2020-05-12T19:45:10Z
+updatedDateTime: 2020-05-12T19:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/india/"
 type: article
 heat: 100

@@ -7,12 +7,12 @@
     "isoCode": "CA",
     "lat": 56.130366
   },
-  "updatedDateTime": "2020-05-12T18:45:12.2932932Z",
+  "updatedDateTime": "2020-05-12T19:45:08.7380266Z",
   "stats": {
-    "totalConfirmedCases": 72124,
-    "newlyConfirmedCases": 860,
-    "totalDeaths": 5249,
-    "newDeaths": 133,
+    "totalConfirmedCases": 72135,
+    "newlyConfirmedCases": 871,
+    "totalDeaths": 5253,
+    "newDeaths": 137,
     "totalRecoveredCases": 8210,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 72124,
-        "deaths": 5249,
+        "confirmed": 72135,
+        "deaths": 5253,
         "recovered": 8210
       }
     ],
@@ -827,10 +827,10 @@
           "isoCode": "CA-ON",
           "lat": 51.2538
         },
-        "totalConfirmedCases": 21920,
-        "newlyConfirmedCases": 103,
-        "totalDeaths": 1803,
-        "newDeaths": 15,
+        "totalConfirmedCases": 21931,
+        "newlyConfirmedCases": 114,
+        "totalDeaths": 1807,
+        "newDeaths": 19,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },

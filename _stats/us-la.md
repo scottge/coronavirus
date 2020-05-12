@@ -2,8 +2,8 @@
 category: stats
 title: "US - Louisiana State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Louisiana. Total Cases: 32050 (+235), Deaths: 2347 (+39), Recoveries: 20316(-)."
-publishedDateTime: 2020-05-12T18:45:13Z
-updatedDateTime: 2020-05-12T18:45:13Z
+publishedDateTime: 2020-05-12T19:45:10Z
+updatedDateTime: 2020-05-12T19:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-la/"
 type: article
 heat: 100
