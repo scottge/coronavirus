@@ -7,14 +7,14 @@
     "isoCode": "PH",
     "lat": 13.0
   },
-  "updatedDateTime": "2020-05-12T07:45:09.3261785Z",
+  "updatedDateTime": "2020-05-12T08:45:09.4454902Z",
   "stats": {
-    "totalConfirmedCases": 11086,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 726,
-    "newDeaths": 0,
-    "totalRecoveredCases": 1999,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 11350,
+    "newlyConfirmedCases": 264,
+    "totalDeaths": 751,
+    "newDeaths": 25,
+    "totalRecoveredCases": 2106,
+    "newlyRecoveredCases": 107,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 11086,
-        "deaths": 726,
-        "recovered": 1999
+        "confirmed": 11350,
+        "deaths": 751,
+        "recovered": 2106
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "PH",
           "lat": 13.0
         },
-        "totalConfirmedCases": 11086,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 726,
-        "newDeaths": 0,
-        "totalRecoveredCases": 1999,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 11350,
+        "newlyConfirmedCases": 264,
+        "totalDeaths": 751,
+        "newDeaths": 25,
+        "totalRecoveredCases": 2106,
+        "newlyRecoveredCases": 107
       }
     ]
   }

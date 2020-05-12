@@ -2,8 +2,8 @@
 category: stats
 title: "China Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in China. Total Cases: 84012 (-), Deaths: 4637 (-), Recoveries: 80040(-)."
-publishedDateTime: 2020-05-12T07:45:10Z
-updatedDateTime: 2020-05-12T07:45:10Z
+publishedDateTime: 2020-05-12T08:45:10Z
+updatedDateTime: 2020-05-12T08:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/china/"
 type: article
 heat: 800

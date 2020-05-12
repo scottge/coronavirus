@@ -7,10 +7,10 @@
     "isoCode": "OM",
     "lat": 21.0
   },
-  "updatedDateTime": "2020-05-12T07:45:09.2908619Z",
+  "updatedDateTime": "2020-05-12T08:45:09.4109598Z",
   "stats": {
-    "totalConfirmedCases": 3573,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 3721,
+    "newlyConfirmedCases": 148,
     "totalDeaths": 17,
     "newDeaths": 0,
     "totalRecoveredCases": 1250,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 3573,
+        "confirmed": 3721,
         "deaths": 17,
         "recovered": 1250
       }
@@ -699,8 +699,8 @@
           "isoCode": "OM",
           "lat": 21.0
         },
-        "totalConfirmedCases": 3573,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 3721,
+        "newlyConfirmedCases": 148,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 1250,
