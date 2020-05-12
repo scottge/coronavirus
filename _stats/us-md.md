@@ -2,8 +2,8 @@
 category: stats
 title: "US - Maryland State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Maryland. Total Cases: 33373 (+786), Deaths: 1683 (+39), Recoveries: 2298(+257)."
-publishedDateTime: 2020-05-12T05:45:11Z
-updatedDateTime: 2020-05-12T05:45:11Z
+publishedDateTime: 2020-05-12T06:45:10Z
+updatedDateTime: 2020-05-12T06:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-md/"
 type: article
 heat: 100

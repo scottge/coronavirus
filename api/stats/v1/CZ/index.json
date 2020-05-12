@@ -7,14 +7,14 @@
     "isoCode": "CZ",
     "lat": 49.8175
   },
-  "updatedDateTime": "2020-05-12T05:45:08.7801842Z",
+  "updatedDateTime": "2020-05-12T06:45:07.5830814Z",
   "stats": {
-    "totalConfirmedCases": 8176,
-    "newlyConfirmedCases": 53,
-    "totalDeaths": 282,
-    "newDeaths": 2,
-    "totalRecoveredCases": 4711,
-    "newlyRecoveredCases": 237,
+    "totalConfirmedCases": 8177,
+    "newlyConfirmedCases": 54,
+    "totalDeaths": 283,
+    "newDeaths": 3,
+    "totalRecoveredCases": 4738,
+    "newlyRecoveredCases": 264,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 8176,
-        "deaths": 282,
-        "recovered": 4711
+        "confirmed": 8177,
+        "deaths": 283,
+        "recovered": 4738
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "CZ",
           "lat": 49.8175
         },
-        "totalConfirmedCases": 8176,
-        "newlyConfirmedCases": 53,
-        "totalDeaths": 282,
-        "newDeaths": 2,
-        "totalRecoveredCases": 4711,
-        "newlyRecoveredCases": 237
+        "totalConfirmedCases": 8177,
+        "newlyConfirmedCases": 54,
+        "totalDeaths": 283,
+        "newDeaths": 3,
+        "totalRecoveredCases": 4738,
+        "newlyRecoveredCases": 264
       }
     ]
   }

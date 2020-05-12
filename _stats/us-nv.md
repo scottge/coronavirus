@@ -2,8 +2,8 @@
 category: stats
 title: "US - Nevada State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Nevada. Total Cases: 6172 (+20), Deaths: 312 (+6), Recoveries: 4197(-)."
-publishedDateTime: 2020-05-12T05:45:11Z
-updatedDateTime: 2020-05-12T05:45:11Z
+publishedDateTime: 2020-05-12T06:45:10Z
+updatedDateTime: 2020-05-12T06:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-nv/"
 type: article
 heat: 100
