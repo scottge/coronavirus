@@ -7,12 +7,12 @@
     "isoCode": "NG",
     "lat": 9.082
   },
-  "updatedDateTime": "2020-05-12T20:45:09.5324758Z",
+  "updatedDateTime": "2020-05-12T21:45:14.3516615Z",
   "stats": {
     "totalConfirmedCases": 4641,
     "newlyConfirmedCases": 0,
-    "totalDeaths": 150,
-    "newDeaths": 0,
+    "totalDeaths": 152,
+    "newDeaths": 2,
     "totalRecoveredCases": 902,
     "newlyRecoveredCases": 0,
     "history": [
@@ -685,7 +685,7 @@
       {
         "date": "2020-05-12T00:00:00",
         "confirmed": 4641,
-        "deaths": 150,
+        "deaths": 152,
         "recovered": 902
       }
     ],
@@ -701,8 +701,8 @@
         },
         "totalConfirmedCases": 4641,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 150,
-        "newDeaths": 0,
+        "totalDeaths": 152,
+        "newDeaths": 2,
         "totalRecoveredCases": 902,
         "newlyRecoveredCases": 0
       }

@@ -7,10 +7,10 @@
     "isoCode": "US-GA",
     "lat": 32.157435
   },
-  "updatedDateTime": "2020-05-12T20:45:08.215281Z",
+  "updatedDateTime": "2020-05-12T21:45:13.0287131Z",
   "stats": {
-    "totalConfirmedCases": 34635,
-    "newlyConfirmedCases": 633,
+    "totalConfirmedCases": 34737,
+    "newlyConfirmedCases": 735,
     "totalDeaths": 1469,
     "newDeaths": 25,
     "totalRecoveredCases": 340,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 34635,
+        "confirmed": 34737,
         "deaths": 1469,
         "recovered": 340
       }

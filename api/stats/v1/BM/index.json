@@ -7,10 +7,10 @@
     "isoCode": "BM",
     "lat": 32.321384
   },
-  "updatedDateTime": "2020-05-12T20:45:08.8609139Z",
+  "updatedDateTime": "2020-05-12T21:45:13.6869405Z",
   "stats": {
-    "totalConfirmedCases": 119,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 121,
+    "newlyConfirmedCases": 2,
     "totalDeaths": 8,
     "newDeaths": 0,
     "totalRecoveredCases": 66,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 119,
+        "confirmed": 121,
         "deaths": 8,
         "recovered": 66
       }
@@ -699,8 +699,8 @@
           "isoCode": "BM",
           "lat": 32.321384
         },
-        "totalConfirmedCases": 119,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 121,
+        "newlyConfirmedCases": 2,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 66,

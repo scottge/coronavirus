@@ -2,8 +2,8 @@
 category: stats
 title: "US - Pennsylvania State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Pennsylvania. Total Cases: 61346 (+770), Deaths: 3917 (+72), Recoveries: 6313(+5213)."
-publishedDateTime: 2020-05-12T20:45:10Z
-updatedDateTime: 2020-05-12T20:45:10Z
+publishedDateTime: 2020-05-12T21:45:15Z
+updatedDateTime: 2020-05-12T21:45:15Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-pa/"
 type: article
 heat: 100
