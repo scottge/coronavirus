@@ -7,12 +7,12 @@
     "isoCode": "PL",
     "lat": 51.9194
   },
-  "updatedDateTime": "2020-05-12T15:45:10.0008439Z",
+  "updatedDateTime": "2020-05-12T16:45:09.97559Z",
   "stats": {
-    "totalConfirmedCases": 16561,
-    "newlyConfirmedCases": 235,
-    "totalDeaths": 827,
-    "newDeaths": 16,
+    "totalConfirmedCases": 16921,
+    "newlyConfirmedCases": 595,
+    "totalDeaths": 839,
+    "newDeaths": 28,
     "totalRecoveredCases": 6131,
     "newlyRecoveredCases": 315,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 16561,
-        "deaths": 827,
+        "confirmed": 16921,
+        "deaths": 839,
         "recovered": 6131
       }
     ],
@@ -699,10 +699,10 @@
           "isoCode": "PL",
           "lat": 51.9194
         },
-        "totalConfirmedCases": 16561,
-        "newlyConfirmedCases": 235,
-        "totalDeaths": 827,
-        "newDeaths": 16,
+        "totalConfirmedCases": 16921,
+        "newlyConfirmedCases": 595,
+        "totalDeaths": 839,
+        "newDeaths": 28,
         "totalRecoveredCases": 6131,
         "newlyRecoveredCases": 315
       }

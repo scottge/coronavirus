@@ -7,14 +7,14 @@
     "isoCode": "DO",
     "lat": 18.7357
   },
-  "updatedDateTime": "2020-05-12T15:45:09.4542647Z",
+  "updatedDateTime": "2020-05-12T16:45:09.4382132Z",
   "stats": {
     "totalConfirmedCases": 10900,
     "newlyConfirmedCases": 266,
     "totalDeaths": 402,
     "newDeaths": 9,
-    "totalRecoveredCases": 2870,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 3221,
+    "newlyRecoveredCases": 351,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -686,7 +686,7 @@
         "date": "2020-05-12T00:00:00",
         "confirmed": 10900,
         "deaths": 402,
-        "recovered": 2870
+        "recovered": 3221
       }
     ],
     "breakdowns": [
@@ -703,8 +703,8 @@
         "newlyConfirmedCases": 266,
         "totalDeaths": 402,
         "newDeaths": 9,
-        "totalRecoveredCases": 2870,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 3221,
+        "newlyRecoveredCases": 351
       }
     ]
   }

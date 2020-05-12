@@ -7,14 +7,14 @@
     "isoCode": "SG",
     "lat": 1.2833
   },
-  "updatedDateTime": "2020-05-12T15:45:10.0970983Z",
+  "updatedDateTime": "2020-05-12T16:45:10.0687424Z",
   "stats": {
     "totalConfirmedCases": 24671,
     "newlyConfirmedCases": 849,
     "totalDeaths": 21,
     "newDeaths": 0,
-    "totalRecoveredCases": 3225,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 3851,
+    "newlyRecoveredCases": 626,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -686,7 +686,7 @@
         "date": "2020-05-12T00:00:00",
         "confirmed": 24671,
         "deaths": 21,
-        "recovered": 3225
+        "recovered": 3851
       }
     ],
     "breakdowns": [
@@ -703,8 +703,8 @@
         "newlyConfirmedCases": 849,
         "totalDeaths": 21,
         "newDeaths": 0,
-        "totalRecoveredCases": 3225,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 3851,
+        "newlyRecoveredCases": 626
       }
     ]
   }

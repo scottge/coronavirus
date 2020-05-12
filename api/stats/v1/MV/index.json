@@ -7,10 +7,10 @@
     "isoCode": "MV",
     "lat": 3.2028
   },
-  "updatedDateTime": "2020-05-12T15:45:09.8176534Z",
+  "updatedDateTime": "2020-05-12T16:45:09.7945654Z",
   "stats": {
-    "totalConfirmedCases": 897,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 904,
+    "newlyConfirmedCases": 7,
     "totalDeaths": 3,
     "newDeaths": 0,
     "totalRecoveredCases": 29,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 897,
+        "confirmed": 904,
         "deaths": 3,
         "recovered": 29
       }
@@ -699,8 +699,8 @@
           "isoCode": "MV",
           "lat": 3.2028
         },
-        "totalConfirmedCases": 897,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 904,
+        "newlyConfirmedCases": 7,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 29,

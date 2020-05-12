@@ -7,12 +7,12 @@
     "isoCode": "US-MS",
     "lat": 32.354668
   },
-  "updatedDateTime": "2020-05-12T15:45:09.0962461Z",
+  "updatedDateTime": "2020-05-12T16:45:09.0814507Z",
   "stats": {
-    "totalConfirmedCases": 9686,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 438,
-    "newDeaths": 0,
+    "totalConfirmedCases": 9908,
+    "newlyConfirmedCases": 222,
+    "totalDeaths": 457,
+    "newDeaths": 19,
     "totalRecoveredCases": 4421,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 9686,
-        "deaths": 438,
+        "confirmed": 9908,
+        "deaths": 457,
         "recovered": 4421
       }
     ],

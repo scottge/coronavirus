@@ -7,14 +7,14 @@
     "isoCode": "US-IA",
     "lat": 41.878003
   },
-  "updatedDateTime": "2020-05-12T15:45:08.6742333Z",
+  "updatedDateTime": "2020-05-12T16:45:08.6641377Z",
   "stats": {
     "totalConfirmedCases": 12912,
     "newlyConfirmedCases": 530,
     "totalDeaths": 289,
     "newDeaths": 18,
-    "totalRecoveredCases": 5249,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 5618,
+    "newlyRecoveredCases": 369,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -686,7 +686,7 @@
         "date": "2020-05-12T00:00:00",
         "confirmed": 12912,
         "deaths": 289,
-        "recovered": 5249
+        "recovered": 5618
       }
     ],
     "breakdowns": [

@@ -7,12 +7,12 @@
     "isoCode": "US-IN",
     "lat": 40.551217
   },
-  "updatedDateTime": "2020-05-12T15:45:08.6613604Z",
+  "updatedDateTime": "2020-05-12T16:45:08.6505151Z",
   "stats": {
     "totalConfirmedCases": 25144,
     "newlyConfirmedCases": 220,
-    "totalDeaths": 1540,
-    "newDeaths": 0,
+    "totalDeaths": 1578,
+    "newDeaths": 38,
     "totalRecoveredCases": 1691,
     "newlyRecoveredCases": 0,
     "history": [
@@ -685,7 +685,7 @@
       {
         "date": "2020-05-12T00:00:00",
         "confirmed": 25144,
-        "deaths": 1540,
+        "deaths": 1578,
         "recovered": 1691
       }
     ],

@@ -7,12 +7,12 @@
     "isoCode": "US-AZ",
     "lat": 34.048928
   },
-  "updatedDateTime": "2020-05-12T15:45:08.5649372Z",
+  "updatedDateTime": "2020-05-12T16:45:08.5606697Z",
   "stats": {
-    "totalConfirmedCases": 11383,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 542,
-    "newDeaths": 0,
+    "totalConfirmedCases": 11736,
+    "newlyConfirmedCases": 353,
+    "totalDeaths": 562,
+    "newDeaths": 20,
     "totalRecoveredCases": 70,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 11383,
-        "deaths": 542,
+        "confirmed": 11736,
+        "deaths": 562,
         "recovered": 70
       }
     ],
