@@ -7,14 +7,14 @@
     "isoCode": "US-NJ",
     "lat": 40.058324
   },
-  "updatedDateTime": "2020-05-12T22:45:08.4188499Z",
+  "updatedDateTime": "2020-05-12T23:45:13.4578727Z",
   "stats": {
-    "totalConfirmedCases": 142046,
-    "newlyConfirmedCases": 909,
-    "totalDeaths": 9532,
-    "newDeaths": 191,
-    "totalRecoveredCases": 1549,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 142079,
+    "newlyConfirmedCases": 942,
+    "totalDeaths": 9541,
+    "newDeaths": 200,
+    "totalRecoveredCases": 3228,
+    "newlyRecoveredCases": 1679,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 142046,
-        "deaths": 9532,
-        "recovered": 1549
+        "confirmed": 142079,
+        "deaths": 9541,
+        "recovered": 3228
       }
     ],
     "breakdowns": [

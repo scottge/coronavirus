@@ -2,8 +2,8 @@
 category: stats
 title: "Canada Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Canada. Total Cases: 72419 (+1155), Deaths: 5299 (+183), Recoveries: 8210(-)."
-publishedDateTime: 2020-05-12T22:45:10Z
-updatedDateTime: 2020-05-12T22:45:10Z
+publishedDateTime: 2020-05-12T23:45:15Z
+updatedDateTime: 2020-05-12T23:45:15Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/canada/"
 type: article
 heat: 100

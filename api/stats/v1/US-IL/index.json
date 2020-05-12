@@ -7,14 +7,14 @@
     "isoCode": "US-IL",
     "lat": 40.633125
   },
-  "updatedDateTime": "2020-05-12T22:45:08.2662693Z",
+  "updatedDateTime": "2020-05-12T23:45:13.301899Z",
   "stats": {
     "totalConfirmedCases": 83021,
     "newlyConfirmedCases": 4014,
     "totalDeaths": 3601,
     "newDeaths": 138,
-    "totalRecoveredCases": 645,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 8776,
+    "newlyRecoveredCases": 8131,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -686,7 +686,7 @@
         "date": "2020-05-12T00:00:00",
         "confirmed": 83021,
         "deaths": 3601,
-        "recovered": 645
+        "recovered": 8776
       }
     ],
     "breakdowns": [

@@ -7,10 +7,10 @@
     "isoCode": "US-NE",
     "lat": 41.492537
   },
-  "updatedDateTime": "2020-05-12T22:45:08.3888226Z",
+  "updatedDateTime": "2020-05-12T23:45:13.4261529Z",
   "stats": {
-    "totalConfirmedCases": 8593,
-    "newlyConfirmedCases": 21,
+    "totalConfirmedCases": 8692,
+    "newlyConfirmedCases": 120,
     "totalDeaths": 108,
     "newDeaths": 4,
     "totalRecoveredCases": 22,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 8593,
+        "confirmed": 8692,
         "deaths": 108,
         "recovered": 22
       }
