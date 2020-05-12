@@ -2,8 +2,8 @@
 category: stats
 title: "US - Michigan State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Michigan. Total Cases: 47552 (-), Deaths: 4584 (-), Recoveries: 22686(-)."
-publishedDateTime: 2020-05-12T16:45:10Z
-updatedDateTime: 2020-05-12T16:45:10Z
+publishedDateTime: 2020-05-12T17:45:10Z
+updatedDateTime: 2020-05-12T17:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-mi/"
 type: article
 heat: 100

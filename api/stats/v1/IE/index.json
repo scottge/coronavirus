@@ -7,12 +7,12 @@
     "isoCode": "IE",
     "lat": 53.1424
   },
-  "updatedDateTime": "2020-05-12T16:45:09.6660932Z",
+  "updatedDateTime": "2020-05-12T17:45:09.1967652Z",
   "stats": {
-    "totalConfirmedCases": 23135,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 1467,
-    "newDeaths": 0,
+    "totalConfirmedCases": 23242,
+    "newlyConfirmedCases": 107,
+    "totalDeaths": 1488,
+    "newDeaths": 21,
     "totalRecoveredCases": 17110,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 23135,
-        "deaths": 1467,
+        "confirmed": 23242,
+        "deaths": 1488,
         "recovered": 17110
       }
     ],
@@ -699,10 +699,10 @@
           "isoCode": "IE",
           "lat": 53.1424
         },
-        "totalConfirmedCases": 23135,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 1467,
-        "newDeaths": 0,
+        "totalConfirmedCases": 23242,
+        "newlyConfirmedCases": 107,
+        "totalDeaths": 1488,
+        "newDeaths": 21,
         "totalRecoveredCases": 17110,
         "newlyRecoveredCases": 0
       }

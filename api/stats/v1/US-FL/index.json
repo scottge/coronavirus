@@ -7,14 +7,14 @@
     "isoCode": "US-FL",
     "lat": 27.664827
   },
-  "updatedDateTime": "2020-05-12T16:45:08.6017395Z",
+  "updatedDateTime": "2020-05-12T17:45:08.134442Z",
   "stats": {
     "totalConfirmedCases": 41923,
     "newlyConfirmedCases": 941,
-    "totalDeaths": 1779,
-    "newDeaths": 41,
-    "totalRecoveredCases": 1046,
-    "newlyRecoveredCases": 0,
+    "totalDeaths": 1782,
+    "newDeaths": 44,
+    "totalRecoveredCases": 7093,
+    "newlyRecoveredCases": 6047,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -685,8 +685,8 @@
       {
         "date": "2020-05-12T00:00:00",
         "confirmed": 41923,
-        "deaths": 1779,
-        "recovered": 1046
+        "deaths": 1782,
+        "recovered": 7093
       }
     ],
     "breakdowns": [

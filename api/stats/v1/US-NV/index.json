@@ -7,10 +7,10 @@
     "isoCode": "US-NV",
     "lat": 38.80261
   },
-  "updatedDateTime": "2020-05-12T16:45:08.7737862Z",
+  "updatedDateTime": "2020-05-12T17:45:08.3072196Z",
   "stats": {
-    "totalConfirmedCases": 6175,
-    "newlyConfirmedCases": 3,
+    "totalConfirmedCases": 6311,
+    "newlyConfirmedCases": 139,
     "totalDeaths": 312,
     "newDeaths": 0,
     "totalRecoveredCases": 4197,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 6175,
+        "confirmed": 6311,
         "deaths": 312,
         "recovered": 4197
       }

@@ -7,12 +7,12 @@
     "isoCode": "US-OK",
     "lat": 35.007752
   },
-  "updatedDateTime": "2020-05-12T16:45:08.8519079Z",
+  "updatedDateTime": "2020-05-12T17:45:08.3859857Z",
   "stats": {
-    "totalConfirmedCases": 4620,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 274,
-    "newDeaths": 0,
+    "totalConfirmedCases": 4732,
+    "newlyConfirmedCases": 112,
+    "totalDeaths": 278,
+    "newDeaths": 4,
     "totalRecoveredCases": 3204,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 4620,
-        "deaths": 274,
+        "confirmed": 4732,
+        "deaths": 278,
         "recovered": 3204
       }
     ],

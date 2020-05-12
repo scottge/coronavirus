@@ -7,12 +7,12 @@
     "isoCode": "US-LA",
     "lat": 31.244823
   },
-  "updatedDateTime": "2020-05-12T16:45:08.7034306Z",
+  "updatedDateTime": "2020-05-12T17:45:08.2336273Z",
   "stats": {
-    "totalConfirmedCases": 31815,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 2308,
-    "newDeaths": 0,
+    "totalConfirmedCases": 32050,
+    "newlyConfirmedCases": 235,
+    "totalDeaths": 2347,
+    "newDeaths": 39,
     "totalRecoveredCases": 20316,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 31815,
-        "deaths": 2308,
+        "confirmed": 32050,
+        "deaths": 2347,
         "recovered": 20316
       }
     ],
