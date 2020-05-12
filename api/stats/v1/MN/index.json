@@ -7,14 +7,14 @@
     "isoCode": "MN",
     "lat": 46.8625
   },
-  "updatedDateTime": "2020-05-12T02:45:08.9534831Z",
+  "updatedDateTime": "2020-05-12T03:45:09.0817493Z",
   "stats": {
     "totalConfirmedCases": 42,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 14,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 15,
+    "newlyRecoveredCases": 1,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -680,7 +680,7 @@
         "date": "2020-05-11T00:00:00",
         "confirmed": 42,
         "deaths": 0,
-        "recovered": 14
+        "recovered": 15
       }
     ],
     "breakdowns": [
@@ -697,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 14,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 15,
+        "newlyRecoveredCases": 1
       }
     ]
   }

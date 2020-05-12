@@ -2,8 +2,8 @@
 category: stats
 title: "US - Missouri State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Missouri. Total Cases: 10149 (+141), Deaths: 507 (+10), Recoveries: 2529(+466)."
-publishedDateTime: 2020-05-12T02:45:09Z
-updatedDateTime: 2020-05-12T02:45:09Z
+publishedDateTime: 2020-05-12T03:45:09Z
+updatedDateTime: 2020-05-12T03:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-mo/"
 type: article
 heat: 100

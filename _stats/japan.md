@@ -2,8 +2,8 @@
 category: stats
 title: "Japan Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Japan. Total Cases: 15847 (+70), Deaths: 633 (+9), Recoveries: 8293(+166)."
-publishedDateTime: 2020-05-12T02:45:09Z
-updatedDateTime: 2020-05-12T02:45:09Z
+publishedDateTime: 2020-05-12T03:45:09Z
+updatedDateTime: 2020-05-12T03:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/japan/"
 type: article
 heat: 500

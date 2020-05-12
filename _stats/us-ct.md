@@ -2,8 +2,8 @@
 category: stats
 title: "US - Connecticut State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Connecticut. Total Cases: 33765 (+211), Deaths: 3008 (+41), Recoveries: 65(-)."
-publishedDateTime: 2020-05-12T02:45:09Z
-updatedDateTime: 2020-05-12T02:45:09Z
+publishedDateTime: 2020-05-12T03:45:09Z
+updatedDateTime: 2020-05-12T03:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ct/"
 type: article
 heat: 100

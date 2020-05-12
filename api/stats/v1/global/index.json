@@ -7,14 +7,14 @@
     "isoCode": null,
     "lat": null
   },
-  "updatedDateTime": "2020-05-12T02:45:03.2115335Z",
+  "updatedDateTime": "2020-05-12T03:45:03.2143897Z",
   "stats": {
-    "totalConfirmedCases": 4248374,
-    "newlyConfirmedCases": 71728,
-    "totalDeaths": 286945,
-    "newDeaths": 3217,
-    "totalRecoveredCases": 1495109,
-    "newlyRecoveredCases": 32350,
+    "totalConfirmedCases": 4249516,
+    "newlyConfirmedCases": 72870,
+    "totalDeaths": 286984,
+    "newDeaths": 3256,
+    "totalRecoveredCases": 1495461,
+    "newlyRecoveredCases": 32702,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 4248374,
-        "deaths": 286945,
-        "recovered": 1495109
+        "confirmed": 4249516,
+        "deaths": 286984,
+        "recovered": 1495461
       }
     ],
     "breakdowns": [
@@ -1045,8 +1045,8 @@
           "isoCode": "BT",
           "lat": 27.5142
         },
-        "totalConfirmedCases": 9,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 2,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 5,
@@ -2713,8 +2713,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 14,
         "newDeaths": 0,
-        "totalRecoveredCases": 83,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 91,
+        "newlyRecoveredCases": 8
       },
       {
         "location": {
@@ -2825,8 +2825,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 14,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 15,
+        "newlyRecoveredCases": 1
       },
       {
         "location": {
@@ -3109,12 +3109,12 @@
           "isoCode": "PK",
           "lat": 30.3753
         },
-        "totalConfirmedCases": 30941,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 667,
-        "newDeaths": 0,
-        "totalRecoveredCases": 8212,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 32081,
+        "newlyConfirmedCases": 1140,
+        "totalDeaths": 706,
+        "newDeaths": 39,
+        "totalRecoveredCases": 8555,
+        "newlyRecoveredCases": 343
       },
       {
         "location": {

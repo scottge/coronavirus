@@ -2,8 +2,8 @@
 category: stats
 title: "China - Hong Kong Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Hong Kong, China. Total Cases: 1048 (-), Deaths: 4 (-), Recoveries: 985(+3)."
-publishedDateTime: 2020-05-12T02:45:09Z
-updatedDateTime: 2020-05-12T02:45:09Z
+publishedDateTime: 2020-05-12T03:45:09Z
+updatedDateTime: 2020-05-12T03:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/china-hongkong/"
 type: article
 heat: 100
