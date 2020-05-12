@@ -2,8 +2,8 @@
 category: stats
 title: "China - Hubei Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Hubei, China. Total Cases: 68134 (-), Deaths: 4512 (-), Recoveries: 64452(-)."
-publishedDateTime: 2020-05-12T01:45:10Z
-updatedDateTime: 2020-05-12T01:45:10Z
+publishedDateTime: 2020-05-12T02:45:09Z
+updatedDateTime: 2020-05-12T02:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/china-hubei/"
 type: article
 heat: 100

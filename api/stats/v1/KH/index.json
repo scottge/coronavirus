@@ -7,14 +7,14 @@
     "isoCode": "KH",
     "lat": 11.55
   },
-  "updatedDateTime": "2020-05-12T01:45:08.7914671Z",
+  "updatedDateTime": "2020-05-12T02:45:08.4194382Z",
   "stats": {
     "totalConfirmedCases": 122,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
-    "totalRecoveredCases": 120,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 121,
+    "newlyRecoveredCases": 1,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -680,7 +680,7 @@
         "date": "2020-05-11T00:00:00",
         "confirmed": 122,
         "deaths": 0,
-        "recovered": 120
+        "recovered": 121
       }
     ],
     "breakdowns": [
@@ -697,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
-        "totalRecoveredCases": 120,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 121,
+        "newlyRecoveredCases": 1
       }
     ]
   }

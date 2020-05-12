@@ -7,10 +7,10 @@
     "isoCode": "LK",
     "lat": 7.0
   },
-  "updatedDateTime": "2020-05-12T01:45:09.5962049Z",
+  "updatedDateTime": "2020-05-12T02:45:09.2135316Z",
   "stats": {
-    "totalConfirmedCases": 863,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 869,
+    "newlyConfirmedCases": 6,
     "totalDeaths": 9,
     "newDeaths": 0,
     "totalRecoveredCases": 343,
@@ -678,7 +678,7 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 863,
+        "confirmed": 869,
         "deaths": 9,
         "recovered": 343
       }
@@ -693,8 +693,8 @@
           "isoCode": "LK",
           "lat": 7.0
         },
-        "totalConfirmedCases": 863,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 869,
+        "newlyConfirmedCases": 6,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 343,

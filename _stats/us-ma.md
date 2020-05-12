@@ -2,8 +2,8 @@
 category: stats
 title: "US - Massachusetts State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Massachusetts. Total Cases: 78462 (+669), Deaths: 5108 (+129), Recoveries: 22148(-)."
-publishedDateTime: 2020-05-12T01:45:10Z
-updatedDateTime: 2020-05-12T01:45:10Z
+publishedDateTime: 2020-05-12T02:45:09Z
+updatedDateTime: 2020-05-12T02:45:09Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ma/"
 type: article
 heat: 100

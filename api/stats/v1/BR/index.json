@@ -7,12 +7,12 @@
     "isoCode": "BR",
     "lat": -14.235
   },
-  "updatedDateTime": "2020-05-12T01:45:08.7691675Z",
+  "updatedDateTime": "2020-05-12T02:45:08.396437Z",
   "stats": {
-    "totalConfirmedCases": 169143,
-    "newlyConfirmedCases": 6444,
-    "totalDeaths": 11625,
-    "newDeaths": 502,
+    "totalConfirmedCases": 169594,
+    "newlyConfirmedCases": 6895,
+    "totalDeaths": 11653,
+    "newDeaths": 530,
     "totalRecoveredCases": 67384,
     "newlyRecoveredCases": 2427,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 169143,
-        "deaths": 11625,
+        "confirmed": 169594,
+        "deaths": 11653,
         "recovered": 67384
       }
     ],
@@ -693,10 +693,10 @@
           "isoCode": "BR",
           "lat": -14.235
         },
-        "totalConfirmedCases": 169143,
-        "newlyConfirmedCases": 6444,
-        "totalDeaths": 11625,
-        "newDeaths": 502,
+        "totalConfirmedCases": 169594,
+        "newlyConfirmedCases": 6895,
+        "totalDeaths": 11653,
+        "newDeaths": 530,
         "totalRecoveredCases": 67384,
         "newlyRecoveredCases": 2427
       }
