@@ -7,14 +7,14 @@
     "isoCode": "HN",
     "lat": 15.2
   },
-  "updatedDateTime": "2020-05-12T00:45:09.7318522Z",
+  "updatedDateTime": "2020-05-12T01:45:09.0998285Z",
   "stats": {
-    "totalConfirmedCases": 1972,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 108,
-    "newDeaths": 0,
-    "totalRecoveredCases": 203,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 2100,
+    "newlyConfirmedCases": 128,
+    "totalDeaths": 116,
+    "newDeaths": 8,
+    "totalRecoveredCases": 206,
+    "newlyRecoveredCases": 3,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 1972,
-        "deaths": 108,
-        "recovered": 203
+        "confirmed": 2100,
+        "deaths": 116,
+        "recovered": 206
       }
     ],
     "breakdowns": [
@@ -693,12 +693,12 @@
           "isoCode": "HN",
           "lat": 15.2
         },
-        "totalConfirmedCases": 1972,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 108,
-        "newDeaths": 0,
-        "totalRecoveredCases": 203,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 2100,
+        "newlyConfirmedCases": 128,
+        "totalDeaths": 116,
+        "newDeaths": 8,
+        "totalRecoveredCases": 206,
+        "newlyRecoveredCases": 3
       }
     ]
   }

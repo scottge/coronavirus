@@ -2,8 +2,8 @@
 category: stats
 title: "Canada - Quebec Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Canada-Quebec. Total Cases: 38480 (+748), Deaths: 3014 (+85), Recoveries: 0(-)."
-publishedDateTime: 2020-05-12T00:45:10Z
-updatedDateTime: 2020-05-12T00:45:10Z
+publishedDateTime: 2020-05-12T01:45:10Z
+updatedDateTime: 2020-05-12T01:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/canada-qc/"
 type: article
 heat: 100

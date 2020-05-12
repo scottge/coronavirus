@@ -7,14 +7,14 @@
     "isoCode": null,
     "lat": null
   },
-  "updatedDateTime": "2020-05-12T00:45:03.9041867Z",
+  "updatedDateTime": "2020-05-12T01:45:03.3738603Z",
   "stats": {
-    "totalConfirmedCases": 4247396,
-    "newlyConfirmedCases": 70750,
-    "totalDeaths": 286902,
-    "newDeaths": 3174,
-    "totalRecoveredCases": 1494975,
-    "newlyRecoveredCases": 32216,
+    "totalConfirmedCases": 4247917,
+    "newlyConfirmedCases": 71271,
+    "totalDeaths": 286917,
+    "newDeaths": 3189,
+    "totalRecoveredCases": 1495108,
+    "newlyRecoveredCases": 32349,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 4247396,
-        "deaths": 286902,
-        "recovered": 1494975
+        "confirmed": 4247917,
+        "deaths": 286917,
+        "recovered": 1495108
       }
     ],
     "breakdowns": [
@@ -853,8 +853,8 @@
           "isoCode": "AU",
           "lat": -25.274398
         },
-        "totalConfirmedCases": 6970,
-        "newlyConfirmedCases": 21,
+        "totalConfirmedCases": 6971,
+        "newlyConfirmedCases": 22,
         "totalDeaths": 97,
         "newDeaths": 0,
         "totalRecoveredCases": 6213,
@@ -1061,12 +1061,12 @@
           "isoCode": "BO",
           "lat": -16.2902
         },
-        "totalConfirmedCases": 2556,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 118,
-        "newDeaths": 0,
-        "totalRecoveredCases": 273,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 2831,
+        "newlyConfirmedCases": 275,
+        "totalDeaths": 122,
+        "newDeaths": 4,
+        "totalRecoveredCases": 299,
+        "newlyRecoveredCases": 26
       },
       {
         "location": {
@@ -1381,12 +1381,12 @@
           "isoCode": "CN",
           "lat": 35.86166
         },
-        "totalConfirmedCases": 84011,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 84012,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 4637,
         "newDeaths": 0,
-        "totalRecoveredCases": 80012,
-        "newlyRecoveredCases": 4
+        "totalRecoveredCases": 80038,
+        "newlyRecoveredCases": 30
       },
       {
         "location": {
@@ -2069,12 +2069,12 @@
           "isoCode": "GT",
           "lat": 15.783471
         },
-        "totalConfirmedCases": 1052,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 1114,
+        "newlyConfirmedCases": 62,
         "totalDeaths": 26,
         "newDeaths": 0,
-        "totalRecoveredCases": 110,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 111,
+        "newlyRecoveredCases": 1
       },
       {
         "location": {
@@ -2149,10 +2149,10 @@
           "isoCode": "HT",
           "lat": 18.971187
         },
-        "totalConfirmedCases": 182,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 15,
-        "newDeaths": 0,
+        "totalConfirmedCases": 209,
+        "newlyConfirmedCases": 27,
+        "totalDeaths": 16,
+        "newDeaths": 1,
         "totalRecoveredCases": 17,
         "newlyRecoveredCases": 0
       },
@@ -2181,12 +2181,12 @@
           "isoCode": "HN",
           "lat": 15.2
         },
-        "totalConfirmedCases": 1972,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 108,
-        "newDeaths": 0,
-        "totalRecoveredCases": 203,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 2100,
+        "newlyConfirmedCases": 128,
+        "totalDeaths": 116,
+        "newDeaths": 8,
+        "totalRecoveredCases": 206,
+        "newlyRecoveredCases": 3
       },
       {
         "location": {
@@ -3001,8 +3001,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 21,
         "newDeaths": 0,
-        "totalRecoveredCases": 1386,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 1398,
+        "newlyRecoveredCases": 12
       },
       {
         "location": {
@@ -3605,12 +3605,12 @@
           "isoCode": "KR",
           "lat": 36.0
         },
-        "totalConfirmedCases": 10909,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 256,
-        "newDeaths": 0,
-        "totalRecoveredCases": 9632,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 10936,
+        "newlyConfirmedCases": 27,
+        "totalDeaths": 258,
+        "newDeaths": 2,
+        "totalRecoveredCases": 9670,
+        "newlyRecoveredCases": 38
       },
       {
         "location": {
@@ -3865,8 +3865,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 45,
         "newDeaths": 0,
-        "totalRecoveredCases": 700,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 727,
+        "newlyRecoveredCases": 27
       },
       {
         "location": {

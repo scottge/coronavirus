@@ -7,12 +7,12 @@
     "isoCode": "HT",
     "lat": 18.971187
   },
-  "updatedDateTime": "2020-05-12T00:45:09.7199491Z",
+  "updatedDateTime": "2020-05-12T01:45:09.0880431Z",
   "stats": {
-    "totalConfirmedCases": 182,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 15,
-    "newDeaths": 0,
+    "totalConfirmedCases": 209,
+    "newlyConfirmedCases": 27,
+    "totalDeaths": 16,
+    "newDeaths": 1,
     "totalRecoveredCases": 17,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 182,
-        "deaths": 15,
+        "confirmed": 209,
+        "deaths": 16,
         "recovered": 17
       }
     ],
@@ -693,10 +693,10 @@
           "isoCode": "HT",
           "lat": 18.971187
         },
-        "totalConfirmedCases": 182,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 15,
-        "newDeaths": 0,
+        "totalConfirmedCases": 209,
+        "newlyConfirmedCases": 27,
+        "totalDeaths": 16,
+        "newDeaths": 1,
         "totalRecoveredCases": 17,
         "newlyRecoveredCases": 0
       }
