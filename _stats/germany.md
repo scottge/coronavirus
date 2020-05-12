@@ -2,8 +2,8 @@
 category: stats
 title: "Germany Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Germany. Total Cases: 172576 (+697), Deaths: 7661 (+92), Recoveries: 145617(+17)."
-publishedDateTime: 2020-05-11T23:45:10Z
-updatedDateTime: 2020-05-11T23:45:10Z
+publishedDateTime: 2020-05-12T00:45:10Z
+updatedDateTime: 2020-05-12T00:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/germany/"
 type: article
 heat: 100

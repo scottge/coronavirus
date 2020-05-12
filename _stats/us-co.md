@@ -2,8 +2,8 @@
 category: stats
 title: "US - Colorado State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Colorado. Total Cases: 19879 (+176), Deaths: 987 (+16), Recoveries: 612(+53)."
-publishedDateTime: 2020-05-11T23:45:10Z
-updatedDateTime: 2020-05-11T23:45:10Z
+publishedDateTime: 2020-05-12T00:45:10Z
+updatedDateTime: 2020-05-12T00:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-co/"
 type: article
 heat: 100

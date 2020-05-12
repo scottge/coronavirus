@@ -2,8 +2,8 @@
 category: stats
 title: "Australia Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Australia. Total Cases: 6970 (+21), Deaths: 97 (-), Recoveries: 6213(+32)."
-publishedDateTime: 2020-05-11T23:45:10Z
-updatedDateTime: 2020-05-11T23:45:10Z
+publishedDateTime: 2020-05-12T00:45:10Z
+updatedDateTime: 2020-05-12T00:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/australia/"
 type: article
 heat: 500

@@ -7,12 +7,12 @@
     "isoCode": "US-ID",
     "lat": 44.068202
   },
-  "updatedDateTime": "2020-05-11T23:45:09.0649671Z",
+  "updatedDateTime": "2020-05-12T00:45:09.1346416Z",
   "stats": {
-    "totalConfirmedCases": 2235,
-    "newlyConfirmedCases": 2,
-    "totalDeaths": 68,
-    "newDeaths": 0,
+    "totalConfirmedCases": 2260,
+    "newlyConfirmedCases": 27,
+    "totalDeaths": 70,
+    "newDeaths": 2,
     "totalRecoveredCases": 1379,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 2235,
-        "deaths": 68,
+        "confirmed": 2260,
+        "deaths": 70,
         "recovered": 1379
       }
     ],

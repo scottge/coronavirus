@@ -7,12 +7,12 @@
     "isoCode": "MX",
     "lat": 23.6345
   },
-  "updatedDateTime": "2020-05-11T23:45:09.8465616Z",
+  "updatedDateTime": "2020-05-12T00:45:09.9469531Z",
   "stats": {
-    "totalConfirmedCases": 35022,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 3465,
-    "newDeaths": 0,
+    "totalConfirmedCases": 36327,
+    "newlyConfirmedCases": 1305,
+    "totalDeaths": 3573,
+    "newDeaths": 108,
     "totalRecoveredCases": 23100,
     "newlyRecoveredCases": 0,
     "history": [
@@ -678,8 +678,8 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 35022,
-        "deaths": 3465,
+        "confirmed": 36327,
+        "deaths": 3573,
         "recovered": 23100
       }
     ],
@@ -693,10 +693,10 @@
           "isoCode": "MX",
           "lat": 23.6345
         },
-        "totalConfirmedCases": 35022,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 3465,
-        "newDeaths": 0,
+        "totalConfirmedCases": 36327,
+        "newlyConfirmedCases": 1305,
+        "totalDeaths": 3573,
+        "newDeaths": 108,
         "totalRecoveredCases": 23100,
         "newlyRecoveredCases": 0
       }

@@ -7,14 +7,14 @@
     "isoCode": "US-MD",
     "lat": 39.045755
   },
-  "updatedDateTime": "2020-05-11T23:45:08.7444363Z",
+  "updatedDateTime": "2020-05-12T00:45:08.8014991Z",
   "stats": {
     "totalConfirmedCases": 33373,
     "newlyConfirmedCases": 786,
     "totalDeaths": 1683,
     "newDeaths": 39,
-    "totalRecoveredCases": 2041,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 2298,
+    "newlyRecoveredCases": 257,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -680,7 +680,7 @@
         "date": "2020-05-11T00:00:00",
         "confirmed": 33373,
         "deaths": 1683,
-        "recovered": 2041
+        "recovered": 2298
       }
     ],
     "breakdowns": [
