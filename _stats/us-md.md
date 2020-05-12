@@ -2,8 +2,8 @@
 category: stats
 title: "US - Maryland State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Maryland. Total Cases: 34061 (+688), Deaths: 1756 (+73), Recoveries: 2394(+96)."
-publishedDateTime: 2020-05-12T14:45:11Z
-updatedDateTime: 2020-05-12T14:45:11Z
+publishedDateTime: 2020-05-12T15:45:10Z
+updatedDateTime: 2020-05-12T15:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-md/"
 type: article
 heat: 100
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [39.1457, -76.7745, "Anne Arundel", 2492, 124],[39.424, -76.6177, "Baltimore", 3948, 194],[38.4728, -76.4895, "Calvert", 209, 11],[38.917, -75.9419, "Caroline", 167, 0],[39.657, -77.1683, "Carroll", 583, 58],[39.7003, -76.0586, "Cecil", 267, 13],[38.2646, -76.8496, "Charles", 756, 54],[39.3237, -77.3411, "Frederick", 1267, 74],[39.2924, -79.3525, "Garrett", 6, 0],[39.5839, -76.3637, "Harford", 609, 25],[39.1941, -76.7427, "Howard", 1223, 31],[39.3425, -75.8787, "Kent", 116, 13],[39.1547, -77.2405, "Montgomery", 6909, 388],[38.7849, -76.8721, "Prince George's", 9687, 359],[38.9853, -76.1677, "Queen Anne's", 100, 9],[38.0831, -75.8521, "Somerset", 50, 0],[38.1155, -76.4771, "St. Mary's", 244, 9],[38.7884, -76.2243, "Talbot", 61, 1],[39.3767, -77.7341, "Washington", 283, 9],[38.2672, -75.8938, "Wicomico", 690, 16],[38.1655, -75.3968, "Worcester", 113, 4],[38.3357, -76.2238, "Dorchester", 98, 2],[39.5653, -78.7054, "Allegany", 146, 12],
+      [39.1457, -76.7745, "Anne Arundel", 2501, 124],[39.424, -76.6177, "Baltimore", 3964, 194],[38.4728, -76.4895, "Calvert", 210, 11],[38.917, -75.9419, "Caroline", 167, 0],[39.657, -77.1683, "Carroll", 583, 58],[39.7003, -76.0586, "Cecil", 267, 13],[38.2646, -76.8496, "Charles", 757, 54],[39.3237, -77.3411, "Frederick", 1273, 74],[39.2924, -79.3525, "Garrett", 6, 0],[39.5839, -76.3637, "Harford", 609, 25],[39.1941, -76.7427, "Howard", 1224, 31],[39.3425, -75.8787, "Kent", 116, 13],[39.1547, -77.2405, "Montgomery", 6944, 388],[38.7849, -76.8721, "Prince George's", 9704, 359],[38.9853, -76.1677, "Queen Anne's", 100, 9],[38.0831, -75.8521, "Somerset", 50, 0],[38.1155, -76.4771, "St. Mary's", 244, 9],[38.7884, -76.2243, "Talbot", 61, 1],[39.3767, -77.7341, "Washington", 283, 9],[38.2672, -75.8938, "Wicomico", 690, 16],[38.1655, -75.3968, "Worcester", 114, 4],[38.3357, -76.2238, "Dorchester", 98, 2],[39.5653, -78.7054, "Allegany", 146, 12],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Anne Arundel", f:"Anne Arundel"}, 2492, 0, 2368, 124, 0, 0],[{v:"Baltimore", f:"Baltimore"}, 3948, 0, 3754, 194, 0, 0],[{v:"Calvert", f:"Calvert"}, 209, 0, 198, 11, 0, 0],[{v:"Caroline", f:"Caroline"}, 167, 0, 167, 0, 0, 0],[{v:"Carroll", f:"Carroll"}, 583, 0, 525, 58, 0, 0],[{v:"Cecil", f:"Cecil"}, 267, 0, 254, 13, 0, 0],[{v:"Charles", f:"Charles"}, 756, 0, 702, 54, 0, 0],[{v:"Frederick", f:"Frederick"}, 1267, 0, 1141, 74, 0, 52],[{v:"Garrett", f:"Garrett"}, 6, 0, 6, 0, 0, 0],[{v:"Harford", f:"Harford"}, 609, 0, 584, 25, 0, 0],[{v:"Howard", f:"Howard"}, 1223, 0, 1192, 31, 0, 0],[{v:"Kent", f:"Kent"}, 116, 0, 103, 13, 0, 0],[{v:"Montgomery", f:"Montgomery"}, 6909, 0, 6518, 388, 0, 3],[{v:"Prince George's", f:"Prince George's"}, 9687, 0, 9328, 359, 0, 0],[{v:"Queen Anne's", f:"Queen Anne's"}, 100, 0, 91, 9, 0, 0],[{v:"Somerset", f:"Somerset"}, 50, 0, 50, 0, 0, 0],[{v:"St. Mary's", f:"St. Mary's"}, 244, 0, 235, 9, 0, 0],[{v:"Talbot", f:"Talbot"}, 61, 0, 60, 1, 0, 0],[{v:"Washington", f:"Washington"}, 283, 0, 274, 9, 0, 0],[{v:"Wicomico", f:"Wicomico"}, 690, 0, 674, 16, 0, 0],[{v:"Worcester", f:"Worcester"}, 113, 0, 109, 4, 0, 0],[{v:"Dorchester", f:"Dorchester"}, 98, 0, 96, 2, 0, 0],[{v:"Allegany", f:"Allegany"}, 146, 0, 134, 12, 0, 0],
+      [{v:"Anne Arundel", f:"Anne Arundel"}, 2501, 9, 2377, 124, 0, 0],[{v:"Baltimore", f:"Baltimore"}, 3964, 16, 3770, 194, 0, 0],[{v:"Calvert", f:"Calvert"}, 210, 1, 199, 11, 0, 0],[{v:"Caroline", f:"Caroline"}, 167, 0, 167, 0, 0, 0],[{v:"Carroll", f:"Carroll"}, 583, 0, 525, 58, 0, 0],[{v:"Cecil", f:"Cecil"}, 267, 0, 254, 13, 0, 0],[{v:"Charles", f:"Charles"}, 757, 1, 703, 54, 0, 0],[{v:"Frederick", f:"Frederick"}, 1273, 6, 1147, 74, 0, 52],[{v:"Garrett", f:"Garrett"}, 6, 0, 6, 0, 0, 0],[{v:"Harford", f:"Harford"}, 609, 0, 584, 25, 0, 0],[{v:"Howard", f:"Howard"}, 1224, 1, 1193, 31, 0, 0],[{v:"Kent", f:"Kent"}, 116, 0, 103, 13, 0, 0],[{v:"Montgomery", f:"Montgomery"}, 6944, 35, 6553, 388, 0, 3],[{v:"Prince George's", f:"Prince George's"}, 9704, 17, 9345, 359, 0, 0],[{v:"Queen Anne's", f:"Queen Anne's"}, 100, 0, 91, 9, 0, 0],[{v:"Somerset", f:"Somerset"}, 50, 0, 50, 0, 0, 0],[{v:"St. Mary's", f:"St. Mary's"}, 244, 0, 235, 9, 0, 0],[{v:"Talbot", f:"Talbot"}, 61, 0, 60, 1, 0, 0],[{v:"Washington", f:"Washington"}, 283, 0, 274, 9, 0, 0],[{v:"Wicomico", f:"Wicomico"}, 690, 0, 674, 16, 0, 0],[{v:"Worcester", f:"Worcester"}, 114, 1, 110, 4, 0, 0],[{v:"Dorchester", f:"Dorchester"}, 98, 0, 96, 2, 0, 0],[{v:"Allegany", f:"Allegany"}, 146, 0, 134, 12, 0, 0],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));

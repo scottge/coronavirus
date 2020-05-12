@@ -7,12 +7,12 @@
     "isoCode": "US-NY",
     "lat": 43.299428
   },
-  "updatedDateTime": "2020-05-12T14:45:09.9368924Z",
+  "updatedDateTime": "2020-05-12T15:45:08.8137978Z",
   "stats": {
     "totalConfirmedCases": 347151,
     "newlyConfirmedCases": 0,
-    "totalDeaths": 27225,
-    "newDeaths": 0,
+    "totalDeaths": 27247,
+    "newDeaths": 22,
     "totalRecoveredCases": 58363,
     "newlyRecoveredCases": 0,
     "history": [
@@ -685,7 +685,7 @@
       {
         "date": "2020-05-12T00:00:00",
         "confirmed": 347151,
-        "deaths": 27225,
+        "deaths": 27247,
         "recovered": 58363
       }
     ],
@@ -701,8 +701,8 @@
         },
         "totalConfirmedCases": 1456,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 74,
-        "newDeaths": 0,
+        "totalDeaths": 75,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -733,8 +733,8 @@
         },
         "totalConfirmedCases": 378,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 27,
-        "newDeaths": 0,
+        "totalDeaths": 28,
+        "newDeaths": 1,
         "totalRecoveredCases": 86,
         "newlyRecoveredCases": 0
       },
@@ -909,8 +909,8 @@
         },
         "totalConfirmedCases": 4483,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 359,
-        "newDeaths": 0,
+        "totalDeaths": 370,
+        "newDeaths": 11,
         "totalRecoveredCases": 479,
         "newlyRecoveredCases": 0
       },
@@ -957,8 +957,8 @@
         },
         "totalConfirmedCases": 109,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 9,
-        "newDeaths": 0,
+        "totalDeaths": 11,
+        "newDeaths": 2,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1083,10 +1083,10 @@
           "isoCode": "US-NY",
           "lat": 41.3046
         },
-        "totalConfirmedCases": 1850,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 147,
-        "newDeaths": 0,
+        "totalConfirmedCases": 1851,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 149,
+        "newDeaths": 2,
         "totalRecoveredCases": 525,
         "newlyRecoveredCases": 0
       },
@@ -1149,8 +1149,8 @@
         },
         "totalConfirmedCases": 655,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 46,
-        "newDeaths": 0,
+        "totalDeaths": 47,
+        "newDeaths": 1,
         "totalRecoveredCases": 154,
         "newlyRecoveredCases": 0
       },
@@ -1211,8 +1211,8 @@
           "isoCode": "US-NY",
           "lat": 41.3782
         },
-        "totalConfirmedCases": 9584,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 9599,
+        "newlyConfirmedCases": 15,
         "totalDeaths": 388,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1357,8 +1357,8 @@
         },
         "totalConfirmedCases": 46,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 1,
-        "newDeaths": 0,
+        "totalDeaths": 2,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1437,8 +1437,8 @@
         },
         "totalConfirmedCases": 1109,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 25,
-        "newDeaths": 0,
+        "totalDeaths": 26,
+        "newDeaths": 1,
         "totalRecoveredCases": 346,
         "newlyRecoveredCases": 0
       },
@@ -1517,8 +1517,8 @@
         },
         "totalConfirmedCases": 210,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 12,
-        "newDeaths": 0,
+        "totalDeaths": 13,
+        "newDeaths": 1,
         "totalRecoveredCases": 39,
         "newlyRecoveredCases": 0
       },
@@ -1613,8 +1613,8 @@
         },
         "totalConfirmedCases": 21,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 3,
-        "newDeaths": 0,
+        "totalDeaths": 4,
+        "newDeaths": 1,
         "totalRecoveredCases": 2,
         "newlyRecoveredCases": 0
       }

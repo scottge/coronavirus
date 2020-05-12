@@ -7,12 +7,12 @@
     "isoCode": "US-WA",
     "lat": 47.751074
   },
-  "updatedDateTime": "2020-05-12T14:45:10.0993374Z",
+  "updatedDateTime": "2020-05-12T15:45:08.9859308Z",
   "stats": {
-    "totalConfirmedCases": 18029,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 953,
-    "newDeaths": 0,
+    "totalConfirmedCases": 18302,
+    "newlyConfirmedCases": 273,
+    "totalDeaths": 958,
+    "newDeaths": 5,
     "totalRecoveredCases": 3718,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 18029,
-        "deaths": 953,
+        "confirmed": 18302,
+        "deaths": 958,
         "recovered": 3718
       }
     ],
@@ -715,10 +715,10 @@
           "isoCode": "US-WA",
           "lat": 46.2826
         },
-        "totalConfirmedCases": 705,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 51,
-        "newDeaths": 0,
+        "totalConfirmedCases": 719,
+        "newlyConfirmedCases": 14,
+        "totalDeaths": 54,
+        "newDeaths": 3,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -731,8 +731,8 @@
           "isoCode": "US-WA",
           "lat": 47.5175
         },
-        "totalConfirmedCases": 152,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 153,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -763,10 +763,10 @@
           "isoCode": "US-WA",
           "lat": 45.7466
         },
-        "totalConfirmedCases": 375,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 23,
-        "newDeaths": 0,
+        "totalConfirmedCases": 386,
+        "newlyConfirmedCases": 11,
+        "totalDeaths": 24,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -843,8 +843,8 @@
           "isoCode": "US-WA",
           "lat": 46.5737
         },
-        "totalConfirmedCases": 516,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 525,
+        "newlyConfirmedCases": 9,
         "totalDeaths": 16,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -923,10 +923,10 @@
           "isoCode": "US-WA",
           "lat": 47.6062
         },
-        "totalConfirmedCases": 7365,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 502,
-        "newDeaths": 0,
+        "totalConfirmedCases": 7434,
+        "newlyConfirmedCases": 69,
+        "totalDeaths": 507,
+        "newDeaths": 5,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1051,10 +1051,10 @@
           "isoCode": "US-WA",
           "lat": 47.0676
         },
-        "totalConfirmedCases": 1694,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 60,
-        "newDeaths": 0,
+        "totalConfirmedCases": 1718,
+        "newlyConfirmedCases": 24,
+        "totalDeaths": 62,
+        "newDeaths": 2,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1115,10 +1115,10 @@
           "isoCode": "US-WA",
           "lat": 48.033
         },
-        "totalConfirmedCases": 2932,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 116,
-        "newDeaths": 0,
+        "totalConfirmedCases": 2970,
+        "newlyConfirmedCases": 38,
+        "totalDeaths": 118,
+        "newDeaths": 2,
         "totalRecoveredCases": 1528,
         "newlyRecoveredCases": 0
       },
@@ -1131,10 +1131,10 @@
           "isoCode": "US-WA",
           "lat": 47.4513
         },
-        "totalConfirmedCases": 386,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 28,
-        "newDeaths": 0,
+        "totalConfirmedCases": 390,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 29,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1179,8 +1179,8 @@
           "isoCode": "US-WA",
           "lat": 46.1991
         },
-        "totalConfirmedCases": 103,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 104,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 15,
@@ -1227,10 +1227,10 @@
           "isoCode": "US-WA",
           "lat": 46.7026
         },
-        "totalConfirmedCases": 1864,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 62,
-        "newDeaths": 0,
+        "totalConfirmedCases": 1966,
+        "newlyConfirmedCases": 102,
+        "totalDeaths": 63,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },

@@ -7,7 +7,7 @@
     "isoCode": "US-MD",
     "lat": 39.045755
   },
-  "updatedDateTime": "2020-05-12T14:45:09.8530529Z",
+  "updatedDateTime": "2020-05-12T15:45:08.7251084Z",
   "stats": {
     "totalConfirmedCases": 34061,
     "newlyConfirmedCases": 688,
@@ -699,8 +699,8 @@
           "isoCode": "US-MD",
           "lat": 39.1457
         },
-        "totalConfirmedCases": 2492,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 2501,
+        "newlyConfirmedCases": 9,
         "totalDeaths": 124,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -715,8 +715,8 @@
           "isoCode": "US-MD",
           "lat": 39.424
         },
-        "totalConfirmedCases": 3948,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 3964,
+        "newlyConfirmedCases": 16,
         "totalDeaths": 194,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -731,8 +731,8 @@
           "isoCode": "US-MD",
           "lat": 38.4728
         },
-        "totalConfirmedCases": 209,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 210,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -795,8 +795,8 @@
           "isoCode": "US-MD",
           "lat": 38.2646
         },
-        "totalConfirmedCases": 756,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 757,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 54,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -811,8 +811,8 @@
           "isoCode": "US-MD",
           "lat": 39.3237
         },
-        "totalConfirmedCases": 1267,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 1273,
+        "newlyConfirmedCases": 6,
         "totalDeaths": 74,
         "newDeaths": 0,
         "totalRecoveredCases": 52,
@@ -859,8 +859,8 @@
           "isoCode": "US-MD",
           "lat": 39.1941
         },
-        "totalConfirmedCases": 1223,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 1224,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 31,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -891,8 +891,8 @@
           "isoCode": "US-MD",
           "lat": 39.1547
         },
-        "totalConfirmedCases": 6909,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 6944,
+        "newlyConfirmedCases": 35,
         "totalDeaths": 388,
         "newDeaths": 0,
         "totalRecoveredCases": 3,
@@ -907,8 +907,8 @@
           "isoCode": "US-MD",
           "lat": 38.7849
         },
-        "totalConfirmedCases": 9687,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 9704,
+        "newlyConfirmedCases": 17,
         "totalDeaths": 359,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1019,8 +1019,8 @@
           "isoCode": "US-MD",
           "lat": 38.1655
         },
-        "totalConfirmedCases": 113,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 114,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

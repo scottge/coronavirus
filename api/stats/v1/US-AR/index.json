@@ -7,12 +7,12 @@
     "isoCode": "US-AR",
     "lat": 35.20105
   },
-  "updatedDateTime": "2020-05-12T14:45:10.1835717Z",
+  "updatedDateTime": "2020-05-12T15:45:09.0733652Z",
   "stats": {
     "totalConfirmedCases": 4043,
     "newlyConfirmedCases": 0,
-    "totalDeaths": 94,
-    "newDeaths": 0,
+    "totalDeaths": 96,
+    "newDeaths": 2,
     "totalRecoveredCases": 3149,
     "newlyRecoveredCases": 0,
     "history": [
@@ -685,7 +685,7 @@
       {
         "date": "2020-05-12T00:00:00",
         "confirmed": 4043,
-        "deaths": 94,
+        "deaths": 96,
         "recovered": 3149
       }
     ],
@@ -1405,8 +1405,8 @@
         },
         "totalConfirmedCases": 76,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 2,
-        "newDeaths": 0,
+        "totalDeaths": 4,
+        "newDeaths": 2,
         "totalRecoveredCases": 12,
         "newlyRecoveredCases": 0
       },

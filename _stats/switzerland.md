@@ -2,8 +2,8 @@
 category: stats
 title: "Switzerland Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Switzerland. Total Cases: 30380 (+36), Deaths: 1857 (+12), Recoveries: 26800(-)."
-publishedDateTime: 2020-05-12T14:45:11Z
-updatedDateTime: 2020-05-12T14:45:11Z
+publishedDateTime: 2020-05-12T15:45:10Z
+updatedDateTime: 2020-05-12T15:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/switzerland/"
 type: article
 heat: 100

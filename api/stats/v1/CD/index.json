@@ -7,14 +7,14 @@
     "isoCode": "CD",
     "lat": -4.3224
   },
-  "updatedDateTime": "2020-05-12T14:45:10.5183495Z",
+  "updatedDateTime": "2020-05-12T15:45:09.4086044Z",
   "stats": {
-    "totalConfirmedCases": 1024,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 41,
-    "newDeaths": 0,
-    "totalRecoveredCases": 141,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 1102,
+    "newlyConfirmedCases": 78,
+    "totalDeaths": 44,
+    "newDeaths": 3,
+    "totalRecoveredCases": 146,
+    "newlyRecoveredCases": 5,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 1024,
-        "deaths": 41,
-        "recovered": 141
+        "confirmed": 1102,
+        "deaths": 44,
+        "recovered": 146
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "CD",
           "lat": -4.3224
         },
-        "totalConfirmedCases": 1024,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 41,
-        "newDeaths": 0,
-        "totalRecoveredCases": 141,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 1102,
+        "newlyConfirmedCases": 78,
+        "totalDeaths": 44,
+        "newDeaths": 3,
+        "totalRecoveredCases": 146,
+        "newlyRecoveredCases": 5
       }
     ]
   }

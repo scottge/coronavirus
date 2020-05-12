@@ -7,12 +7,12 @@
     "isoCode": "US-NC",
     "lat": 35.759573
   },
-  "updatedDateTime": "2020-05-12T14:45:09.9482863Z",
+  "updatedDateTime": "2020-05-12T15:45:08.826552Z",
   "stats": {
-    "totalConfirmedCases": 15358,
-    "newlyConfirmedCases": 1,
-    "totalDeaths": 581,
-    "newDeaths": 6,
+    "totalConfirmedCases": 15515,
+    "newlyConfirmedCases": 158,
+    "totalDeaths": 596,
+    "newDeaths": 21,
     "totalRecoveredCases": 2426,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 15358,
-        "deaths": 581,
+        "confirmed": 15515,
+        "deaths": 596,
         "recovered": 2426
       }
     ],
@@ -1115,10 +1115,10 @@
           "isoCode": "US-NC",
           "lat": 36.0418
         },
-        "totalConfirmedCases": 886,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 34,
-        "newDeaths": 0,
+        "totalConfirmedCases": 897,
+        "newlyConfirmedCases": 11,
+        "totalDeaths": 35,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1613,8 +1613,8 @@
         },
         "totalConfirmedCases": 82,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 3,
-        "newDeaths": 0,
+        "totalDeaths": 5,
+        "newDeaths": 2,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },

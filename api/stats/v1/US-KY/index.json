@@ -7,12 +7,12 @@
     "isoCode": "US-KY",
     "lat": 37.839333
   },
-  "updatedDateTime": "2020-05-12T14:45:09.8280305Z",
+  "updatedDateTime": "2020-05-12T15:45:08.6997715Z",
   "stats": {
-    "totalConfirmedCases": 6709,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 312,
-    "newDeaths": 0,
+    "totalConfirmedCases": 6738,
+    "newlyConfirmedCases": 29,
+    "totalDeaths": 316,
+    "newDeaths": 4,
     "totalRecoveredCases": 2335,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 6709,
-        "deaths": 312,
+        "confirmed": 6738,
+        "deaths": 316,
         "recovered": 2335
       }
     ],
@@ -971,10 +971,10 @@
           "isoCode": "US-KY",
           "lat": 38.0606
         },
-        "totalConfirmedCases": 392,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 9,
-        "newDeaths": 0,
+        "totalConfirmedCases": 411,
+        "newlyConfirmedCases": 19,
+        "totalDeaths": 10,
+        "newDeaths": 1,
         "totalRecoveredCases": 132,
         "newlyRecoveredCases": 0
       },
@@ -1101,8 +1101,8 @@
         },
         "totalConfirmedCases": 82,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 2,
-        "newDeaths": 0,
+        "totalDeaths": 3,
+        "newDeaths": 1,
         "totalRecoveredCases": 10,
         "newlyRecoveredCases": 0
       },
@@ -1115,10 +1115,10 @@
           "isoCode": "US-KY",
           "lat": 37.186
         },
-        "totalConfirmedCases": 214,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 25,
-        "newDeaths": 0,
+        "totalConfirmedCases": 215,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 27,
+        "newDeaths": 2,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -1211,8 +1211,8 @@
           "isoCode": "US-KY",
           "lat": 36.8394
         },
-        "totalConfirmedCases": 57,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 63,
+        "newlyConfirmedCases": 6,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2027,8 +2027,8 @@
           "isoCode": "US-KY",
           "lat": 37.3359
         },
-        "totalConfirmedCases": 102,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 105,
+        "newlyConfirmedCases": 3,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 2,

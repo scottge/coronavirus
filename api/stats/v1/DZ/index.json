@@ -7,14 +7,14 @@
     "isoCode": "DZ",
     "lat": 28.0339
   },
-  "updatedDateTime": "2020-05-12T14:45:10.2799888Z",
+  "updatedDateTime": "2020-05-12T15:45:09.1675465Z",
   "stats": {
-    "totalConfirmedCases": 5891,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 507,
-    "newDeaths": 0,
-    "totalRecoveredCases": 2841,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 6067,
+    "newlyConfirmedCases": 176,
+    "totalDeaths": 515,
+    "newDeaths": 8,
+    "totalRecoveredCases": 2998,
+    "newlyRecoveredCases": 157,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 5891,
-        "deaths": 507,
-        "recovered": 2841
+        "confirmed": 6067,
+        "deaths": 515,
+        "recovered": 2998
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "DZ",
           "lat": 28.0339
         },
-        "totalConfirmedCases": 5891,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 507,
-        "newDeaths": 0,
-        "totalRecoveredCases": 2841,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 6067,
+        "newlyConfirmedCases": 176,
+        "totalDeaths": 515,
+        "newDeaths": 8,
+        "totalRecoveredCases": 2998,
+        "newlyRecoveredCases": 157
       }
     ]
   }

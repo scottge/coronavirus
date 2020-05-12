@@ -7,14 +7,14 @@
     "isoCode": "CL",
     "lat": -35.6751
   },
-  "updatedDateTime": "2020-05-12T14:45:10.4861965Z",
+  "updatedDateTime": "2020-05-12T15:45:09.3773917Z",
   "stats": {
-    "totalConfirmedCases": 30063,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 323,
-    "newDeaths": 0,
-    "totalRecoveredCases": 13605,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 31721,
+    "newlyConfirmedCases": 1658,
+    "totalDeaths": 335,
+    "newDeaths": 12,
+    "totalRecoveredCases": 14125,
+    "newlyRecoveredCases": 520,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 30063,
-        "deaths": 323,
-        "recovered": 13605
+        "confirmed": 31721,
+        "deaths": 335,
+        "recovered": 14125
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "CL",
           "lat": -35.6751
         },
-        "totalConfirmedCases": 30063,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 323,
-        "newDeaths": 0,
-        "totalRecoveredCases": 13605,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 31721,
+        "newlyConfirmedCases": 1658,
+        "totalDeaths": 335,
+        "newDeaths": 12,
+        "totalRecoveredCases": 14125,
+        "newlyRecoveredCases": 520
       }
     ]
   }

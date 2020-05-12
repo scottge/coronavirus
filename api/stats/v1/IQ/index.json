@@ -7,14 +7,14 @@
     "isoCode": "IQ",
     "lat": 33.0
   },
-  "updatedDateTime": "2020-05-12T14:45:10.7863076Z",
+  "updatedDateTime": "2020-05-12T15:45:09.6803347Z",
   "stats": {
-    "totalConfirmedCases": 2818,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 110,
-    "newDeaths": 0,
-    "totalRecoveredCases": 1790,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 2913,
+    "newlyConfirmedCases": 95,
+    "totalDeaths": 112,
+    "newDeaths": 2,
+    "totalRecoveredCases": 1903,
+    "newlyRecoveredCases": 113,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 2818,
-        "deaths": 110,
-        "recovered": 1790
+        "confirmed": 2913,
+        "deaths": 112,
+        "recovered": 1903
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "IQ",
           "lat": 33.0
         },
-        "totalConfirmedCases": 2818,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 110,
-        "newDeaths": 0,
-        "totalRecoveredCases": 1790,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 2913,
+        "newlyConfirmedCases": 95,
+        "totalDeaths": 112,
+        "newDeaths": 2,
+        "totalRecoveredCases": 1903,
+        "newlyRecoveredCases": 113
       }
     ]
   }

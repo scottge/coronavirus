@@ -7,12 +7,12 @@
     "isoCode": "US-NM",
     "lat": 34.97273
   },
-  "updatedDateTime": "2020-05-12T14:45:10.1538814Z",
+  "updatedDateTime": "2020-05-12T15:45:09.0414303Z",
   "stats": {
-    "totalConfirmedCases": 5490,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 211,
-    "newDeaths": 0,
+    "totalConfirmedCases": 5750,
+    "newlyConfirmedCases": 260,
+    "totalDeaths": 214,
+    "newDeaths": 3,
     "totalRecoveredCases": 1300,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 5490,
-        "deaths": 211,
+        "confirmed": 5750,
+        "deaths": 214,
         "recovered": 1300
       }
     ],
@@ -733,8 +733,8 @@
         },
         "totalConfirmedCases": 86,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 3,
-        "newDeaths": 0,
+        "totalDeaths": 4,
+        "newDeaths": 1,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -971,8 +971,8 @@
           "isoCode": "US-NM",
           "lat": 33.1473
         },
-        "totalConfirmedCases": 16,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 4,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1231,6 +1231,22 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.7234639,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Mexico",
+          "county": "Doña Ana",
+          "isoCode": "US-NM",
+          "lat": 32.485767
+        },
+        "totalConfirmedCases": 256,
+        "newlyConfirmedCases": 256,
+        "totalDeaths": 2,
+        "newDeaths": 2,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       }

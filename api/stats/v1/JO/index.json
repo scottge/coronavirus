@@ -7,10 +7,10 @@
     "isoCode": "JO",
     "lat": 31.24
   },
-  "updatedDateTime": "2020-05-12T14:45:10.8348506Z",
+  "updatedDateTime": "2020-05-12T15:45:09.7291988Z",
   "stats": {
-    "totalConfirmedCases": 562,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 576,
+    "newlyConfirmedCases": 14,
     "totalDeaths": 9,
     "newDeaths": 0,
     "totalRecoveredCases": 390,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 562,
+        "confirmed": 576,
         "deaths": 9,
         "recovered": 390
       }
@@ -699,8 +699,8 @@
           "isoCode": "JO",
           "lat": 31.24
         },
-        "totalConfirmedCases": 562,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 576,
+        "newlyConfirmedCases": 14,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 390,

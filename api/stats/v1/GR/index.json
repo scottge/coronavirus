@@ -7,12 +7,12 @@
     "isoCode": "GR",
     "lat": 39.0742
   },
-  "updatedDateTime": "2020-05-12T14:45:10.6875315Z",
+  "updatedDateTime": "2020-05-12T15:45:09.5793648Z",
   "stats": {
-    "totalConfirmedCases": 2726,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 151,
-    "newDeaths": 0,
+    "totalConfirmedCases": 2744,
+    "newlyConfirmedCases": 18,
+    "totalDeaths": 152,
+    "newDeaths": 1,
     "totalRecoveredCases": 1374,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 2726,
-        "deaths": 151,
+        "confirmed": 2744,
+        "deaths": 152,
         "recovered": 1374
       }
     ],
@@ -699,10 +699,10 @@
           "isoCode": "GR",
           "lat": 39.0742
         },
-        "totalConfirmedCases": 2726,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 151,
-        "newDeaths": 0,
+        "totalConfirmedCases": 2744,
+        "newlyConfirmedCases": 18,
+        "totalDeaths": 152,
+        "newDeaths": 1,
         "totalRecoveredCases": 1374,
         "newlyRecoveredCases": 0
       }
