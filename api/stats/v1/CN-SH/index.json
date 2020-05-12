@@ -7,14 +7,14 @@
     "isoCode": "CN-SH",
     "lat": 31.202
   },
-  "updatedDateTime": "2020-05-12T03:45:07.0178242Z",
+  "updatedDateTime": "2020-05-12T04:45:08.1824777Z",
   "stats": {
     "totalConfirmedCases": 659,
     "newlyConfirmedCases": 0,
     "totalDeaths": 7,
     "newDeaths": 0,
-    "totalRecoveredCases": 629,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 631,
+    "newlyRecoveredCases": 2,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -680,7 +680,7 @@
         "date": "2020-05-11T00:00:00",
         "confirmed": 659,
         "deaths": 7,
-        "recovered": 629
+        "recovered": 631
       }
     ],
     "breakdowns": [
@@ -697,8 +697,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
-        "totalRecoveredCases": 629,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 631,
+        "newlyRecoveredCases": 2
       }
     ]
   }

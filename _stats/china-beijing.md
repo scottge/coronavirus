@@ -2,8 +2,8 @@
 category: stats
 title: "China - Beijing Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Beijing, China. Total Cases: 593 (-), Deaths: 9 (-), Recoveries: 571(+3)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:11Z
+updatedDateTime: 2020-05-12T04:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/china-beijing/"
 type: article
 heat: 100

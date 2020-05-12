@@ -2,8 +2,8 @@
 category: stats
 title: "US - Connecticut State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Connecticut. Total Cases: 33765 (+211), Deaths: 3008 (+41), Recoveries: 65(-)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:11Z
+updatedDateTime: 2020-05-12T04:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ct/"
 type: article
 heat: 100
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [41.256, -73.3709, "Fairfield", 13236, 1024],[41.5832, -72.8915, "Hartford", 7263, 909],[41.7866, -73.2765, "Litchfield", 1153, 107],[41.3823, -72.4386, "Middlesex", 798, 115],[41.3265, -73.0833, "New Haven", 9209, 701],[41.3502, -72.1023, "New London", 782, 54],[41.7736, -72.3287, "Tolland", 543, 47],[41.1954, -73.4379, "Wilton", 1, 0],[41.9862, -71.9034, "Windham", 270, 7],
+      [41.256, -73.3709, "Fairfield", 13312, 1034],[41.5832, -72.8915, "Hartford", 7358, 921],[41.7866, -73.2765, "Litchfield", 1161, 109],[41.3823, -72.4386, "Middlesex", 801, 115],[41.3265, -73.0833, "New Haven", 9260, 716],[41.3502, -72.1023, "New London", 784, 56],[41.7736, -72.3287, "Tolland", 545, 47],[41.1954, -73.4379, "Wilton", 1, 0],[41.9862, -71.9034, "Windham", 271, 7],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Fairfield", f:"Fairfield"}, 13236, 0, 12149, 1024, 0, 63],[{v:"Hartford", f:"Hartford"}, 7263, 0, 6354, 909, 0, 0],[{v:"Litchfield", f:"Litchfield"}, 1153, 0, 1046, 107, 0, 0],[{v:"Middlesex", f:"Middlesex"}, 798, 0, 683, 115, 0, 0],[{v:"New Haven", f:"New Haven"}, 9209, 0, 8508, 701, 0, 0],[{v:"New London", f:"New London"}, 782, 0, 728, 54, 0, 0],[{v:"Tolland", f:"Tolland"}, 543, 0, 496, 47, 0, 0],[{v:"Wilton", f:"Wilton"}, 1, 0, 1, 0, 0, 0],[{v:"Windham", f:"Windham"}, 270, 0, 263, 7, 0, 0],
+      [{v:"Fairfield", f:"Fairfield"}, 13312, 76, 12215, 1034, 10, 63],[{v:"Hartford", f:"Hartford"}, 7358, 95, 6437, 921, 12, 0],[{v:"Litchfield", f:"Litchfield"}, 1161, 8, 1052, 109, 2, 0],[{v:"Middlesex", f:"Middlesex"}, 801, 3, 686, 115, 0, 0],[{v:"New Haven", f:"New Haven"}, 9260, 51, 8544, 716, 15, 0],[{v:"New London", f:"New London"}, 784, 2, 728, 56, 2, 0],[{v:"Tolland", f:"Tolland"}, 545, 2, 498, 47, 0, 0],[{v:"Wilton", f:"Wilton"}, 1, 0, 1, 0, 0, 0],[{v:"Windham", f:"Windham"}, 271, 1, 264, 7, 0, 0],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));

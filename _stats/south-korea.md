@@ -2,8 +2,8 @@
 category: stats
 title: "South Korea Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in South Korea. Total Cases: 10936 (+27), Deaths: 258 (+2), Recoveries: 9670(+38)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:11Z
+updatedDateTime: 2020-05-12T04:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/south-korea/"
 type: article
 heat: 500

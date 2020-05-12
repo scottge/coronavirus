@@ -2,8 +2,8 @@
 category: stats
 title: "Netherlands Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Netherlands. Total Cases: 42788 (+161), Deaths: 5456 (+16), Recoveries: 250(-)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:11Z
+updatedDateTime: 2020-05-12T04:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/netherlands/"
 type: article
 heat: 100

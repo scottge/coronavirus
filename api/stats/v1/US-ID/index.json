@@ -7,10 +7,10 @@
     "isoCode": "US-ID",
     "lat": 44.068202
   },
-  "updatedDateTime": "2020-05-12T03:45:08.2718865Z",
+  "updatedDateTime": "2020-05-12T04:45:09.4559828Z",
   "stats": {
-    "totalConfirmedCases": 2260,
-    "newlyConfirmedCases": 27,
+    "totalConfirmedCases": 2263,
+    "newlyConfirmedCases": 30,
     "totalDeaths": 70,
     "newDeaths": 2,
     "totalRecoveredCases": 1379,
@@ -678,7 +678,7 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 2260,
+        "confirmed": 2263,
         "deaths": 70,
         "recovered": 1379
       }
@@ -693,10 +693,10 @@
           "isoCode": "US-ID",
           "lat": 43.7223
         },
-        "totalConfirmedCases": 733,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 19,
-        "newDeaths": 0,
+        "totalConfirmedCases": 739,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 21,
+        "newDeaths": 2,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -709,8 +709,8 @@
           "isoCode": "US-ID",
           "lat": 42.6504
         },
-        "totalConfirmedCases": 12,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -741,8 +741,8 @@
           "isoCode": "US-ID",
           "lat": 43.5141
         },
-        "totalConfirmedCases": 503,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 506,
+        "newlyConfirmedCases": 3,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -789,8 +789,8 @@
           "isoCode": "US-ID",
           "lat": 43.7864
         },
-        "totalConfirmedCases": 272,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 274,
+        "newlyConfirmedCases": 2,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -901,8 +901,8 @@
           "isoCode": "US-ID",
           "lat": 47.6726
         },
-        "totalConfirmedCases": 63,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 64,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1013,8 +1013,8 @@
           "isoCode": "US-ID",
           "lat": 42.5313
         },
-        "totalConfirmedCases": 259,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 269,
+        "newlyConfirmedCases": 10,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1061,8 +1061,8 @@
           "isoCode": "US-ID",
           "lat": 42.7183
         },
-        "totalConfirmedCases": 71,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 75,
+        "newlyConfirmedCases": 4,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1125,8 +1125,8 @@
           "isoCode": "US-ID",
           "lat": 42.7745
         },
-        "totalConfirmedCases": 17,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

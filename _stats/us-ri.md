@@ -2,8 +2,8 @@
 category: stats
 title: "US - Rhode Island Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Rhode Island. Total Cases: 11450 (+176), Deaths: 430 (+8), Recoveries: 730(-)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:11Z
+updatedDateTime: 2020-05-12T04:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ri/"
 type: article
 heat: 100
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [41.6988, -71.7339, "Kent", 703, 28],[41.4803, -71.3205, "Newport", 161, 1],[41.8882, -71.4774, "Providence", 7138, 203],[41.5151, -71.72, "Washington", 363, 20],[41.7257893, -71.3111773, "Bristol", 154, 1],
+      [41.6988, -71.7339, "Kent", 859, 28],[41.4803, -71.3205, "Newport", 182, 1],[41.8882, -71.4774, "Providence", 8674, 203],[41.5151, -71.72, "Washington", 406, 20],[41.7257893, -71.3111773, "Bristol", 171, 1],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Kent", f:"Kent"}, 703, 0, 675, 28, 0, 0],[{v:"Newport", f:"Newport"}, 161, 0, 160, 1, 0, 0],[{v:"Providence", f:"Providence"}, 7138, 0, 6935, 203, 0, 0],[{v:"Washington", f:"Washington"}, 363, 0, 343, 20, 0, 0],[{v:"Bristol", f:"Bristol"}, 154, 0, 153, 1, 0, 0],
+      [{v:"Kent", f:"Kent"}, 859, 156, 831, 28, 0, 0],[{v:"Newport", f:"Newport"}, 182, 21, 181, 1, 0, 0],[{v:"Providence", f:"Providence"}, 8674, 1536, 8471, 203, 0, 0],[{v:"Washington", f:"Washington"}, 406, 43, 386, 20, 0, 0],[{v:"Bristol", f:"Bristol"}, 171, 17, 170, 1, 0, 0],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));

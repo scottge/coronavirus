@@ -2,8 +2,8 @@
 category: stats
 title: "US - Hawaii State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Hawaii. Total Cases: 634 (+2), Deaths: 17 (-), Recoveries: 561(-)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:11Z
+updatedDateTime: 2020-05-12T04:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-hi/"
 type: article
 heat: 100
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [20.0397, -155.3696, "Hawaii", 75, 0],[21.307, -157.8584, "Honolulu", 408, 11],[22.2186, -159.561, "Kauai", 21, 0],[21.0704, -156.8355, "Maui", 117, 6],[19.5429151, -155.6658568, "Out of HI", 11, 0],
+      [20.0397, -155.3696, "Hawaii", 75, 0],[21.307, -157.8584, "Honolulu", 410, 11],[22.2186, -159.561, "Kauai", 21, 0],[21.0704, -156.8355, "Maui", 117, 6],[19.5429151, -155.6658568, "Out of HI", 11, 0],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Hawaii", f:"Hawaii"}, 75, 0, 75, 0, 0, 0],[{v:"Honolulu", f:"Honolulu"}, 408, 0, 397, 11, 0, 0],[{v:"Kauai", f:"Kauai"}, 21, 0, 21, 0, 0, 0],[{v:"Maui", f:"Maui"}, 117, 0, 111, 6, 0, 0],[{v:"Out of HI", f:"Out of HI"}, 11, 0, 11, 0, 0, 0],
+      [{v:"Hawaii", f:"Hawaii"}, 75, 0, 75, 0, 0, 0],[{v:"Honolulu", f:"Honolulu"}, 410, 2, 399, 11, 0, 0],[{v:"Kauai", f:"Kauai"}, 21, 0, 21, 0, 0, 0],[{v:"Maui", f:"Maui"}, 117, 0, 111, 6, 0, 0],[{v:"Out of HI", f:"Out of HI"}, 11, 0, 11, 0, 0, 0],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));

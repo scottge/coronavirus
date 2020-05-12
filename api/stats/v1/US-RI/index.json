@@ -7,7 +7,7 @@
     "isoCode": "US-RI",
     "lat": 41.580095
   },
-  "updatedDateTime": "2020-05-12T03:45:08.1144915Z",
+  "updatedDateTime": "2020-05-12T04:45:09.2927284Z",
   "stats": {
     "totalConfirmedCases": 11450,
     "newlyConfirmedCases": 176,
@@ -693,8 +693,8 @@
           "isoCode": "US-RI",
           "lat": 41.6988
         },
-        "totalConfirmedCases": 703,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 859,
+        "newlyConfirmedCases": 156,
         "totalDeaths": 28,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -709,8 +709,8 @@
           "isoCode": "US-RI",
           "lat": 41.4803
         },
-        "totalConfirmedCases": 161,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 182,
+        "newlyConfirmedCases": 21,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -725,8 +725,8 @@
           "isoCode": "US-RI",
           "lat": 41.8882
         },
-        "totalConfirmedCases": 7138,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 8674,
+        "newlyConfirmedCases": 1536,
         "totalDeaths": 203,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -741,8 +741,8 @@
           "isoCode": "US-RI",
           "lat": 41.5151
         },
-        "totalConfirmedCases": 363,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 406,
+        "newlyConfirmedCases": 43,
         "totalDeaths": 20,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -757,8 +757,8 @@
           "isoCode": "US-RI",
           "lat": 41.7257893
         },
-        "totalConfirmedCases": 154,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 171,
+        "newlyConfirmedCases": 17,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

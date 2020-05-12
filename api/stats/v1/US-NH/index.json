@@ -7,7 +7,7 @@
     "isoCode": "US-NH",
     "lat": 43.193852
   },
-  "updatedDateTime": "2020-05-12T03:45:08.0134845Z",
+  "updatedDateTime": "2020-05-12T04:45:09.1837536Z",
   "stats": {
     "totalConfirmedCases": 3160,
     "newlyConfirmedCases": 89,
@@ -773,8 +773,8 @@
           "isoCode": "US-NH",
           "lat": 43.9088
         },
-        "totalConfirmedCases": 56,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 58,
+        "newlyConfirmedCases": 2,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -789,8 +789,8 @@
           "isoCode": "US-NH",
           "lat": 43.001
         },
-        "totalConfirmedCases": 1438,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 1496,
+        "newlyConfirmedCases": 58,
         "totalDeaths": 56,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -805,8 +805,8 @@
           "isoCode": "US-NH",
           "lat": 43.2232
         },
-        "totalConfirmedCases": 237,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 243,
+        "newlyConfirmedCases": 6,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -821,8 +821,8 @@
           "isoCode": "US-NH",
           "lat": 42.9931
         },
-        "totalConfirmedCases": 978,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 994,
+        "newlyConfirmedCases": 16,
         "totalDeaths": 53,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -837,8 +837,8 @@
           "isoCode": "US-NH",
           "lat": 43.2534
         },
-        "totalConfirmedCases": 192,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 196,
+        "newlyConfirmedCases": 4,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

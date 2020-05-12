@@ -2,8 +2,8 @@
 category: stats
 title: "US - New Jersey State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-New Jersey. Total Cases: 141137 (+1129), Deaths: 9341 (+77), Recoveries: 1549(+14)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:11Z
+updatedDateTime: 2020-05-12T04:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-nj/"
 type: article
 heat: 100
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [39.564, -74.5961, "Atlantic", 1510, 72],[40.9263, -74.077, "Bergen", 16929, 1355],[40.0712, -74.8649, "Burlington", 3574, 198],[39.9259, -75.1196, "Camden", 4870, 225],[38.9765, -74.9516, "Cape May", 458, 32],[39.3265, -75.0306, "Cumberland", 1287, 36],[40.8428, -74.2014, "Essex", 15646, 1423],[39.7458, -75.3117, "Gloucester", 1654, 81],[40.7453, -74.0535, "Hudson", 17513, 969],[40.6159, -74.772, "Hunterdon", 714, 46],[40.2236, -74.7641, "Mercer", 5317, 334],[40.5726, -74.4927, "Middlesex", 13937, 793],[40.2589, -74.124, "Monmouth", 6894, 443],[40.7966, -74.4772, "Morris", 5854, 516],[40.0384, -74.1678, "Ocean", 7462, 540],[40.8568, -74.1285, "Passaic", 14543, 744],[39.6503, -75.3251, "Salem", 411, 18],[40.5361, -74.5745, "Somerset", 4054, 333],[41.1874, -74.5015, "Sussex", 1026, 127],[40.6976, -74.2632, "Union", 14057, 867],[40.6774, -75.1558, "Warren", 1044, 104],
+      [39.564, -74.5961, "Atlantic", 1533, 77],[40.9263, -74.077, "Bergen", 17028, 1358],[40.0712, -74.8649, "Burlington", 3665, 200],[39.9259, -75.1196, "Camden", 4959, 227],[38.9765, -74.9516, "Cape May", 462, 32],[39.3265, -75.0306, "Cumberland", 1363, 40],[40.8428, -74.2014, "Essex", 15727, 1431],[39.7458, -75.3117, "Gloucester", 1690, 83],[40.7453, -74.0535, "Hudson", 17801, 996],[40.6159, -74.772, "Hunterdon", 723, 46],[40.2236, -74.7641, "Mercer", 5393, 340],[40.5726, -74.4927, "Middlesex", 14036, 794],[40.2589, -74.124, "Monmouth", 6988, 445],[40.7966, -74.4772, "Morris", 5876, 518],[40.0384, -74.1678, "Ocean", 7569, 547],[40.8568, -74.1285, "Passaic", 14645, 747],[39.6503, -75.3251, "Salem", 411, 18],[40.5361, -74.5745, "Somerset", 4093, 335],[41.1874, -74.5015, "Sussex", 1033, 128],[40.6976, -74.2632, "Union", 14164, 875],[40.6774, -75.1558, "Warren", 1047, 104],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Atlantic", f:"Atlantic"}, 1510, 0, 1367, 72, 0, 71],[{v:"Bergen", f:"Bergen"}, 16929, 0, 15574, 1355, 0, 0],[{v:"Burlington", f:"Burlington"}, 3574, 0, 3376, 198, 0, 0],[{v:"Camden", f:"Camden"}, 4870, 0, 4645, 225, 0, 0],[{v:"Cape May", f:"Cape May"}, 458, 0, 381, 32, 0, 45],[{v:"Cumberland", f:"Cumberland"}, 1287, 0, 1251, 36, 0, 0],[{v:"Essex", f:"Essex"}, 15646, 0, 14163, 1423, 0, 60],[{v:"Gloucester", f:"Gloucester"}, 1654, 0, 1573, 81, 0, 0],[{v:"Hudson", f:"Hudson"}, 17513, 0, 16230, 969, 0, 314],[{v:"Hunterdon", f:"Hunterdon"}, 714, 0, 668, 46, 0, 0],[{v:"Mercer", f:"Mercer"}, 5317, 0, 4971, 334, 0, 12],[{v:"Middlesex", f:"Middlesex"}, 13937, 0, 13144, 793, 0, 0],[{v:"Monmouth", f:"Monmouth"}, 6894, 0, 6451, 443, 0, 0],[{v:"Morris", f:"Morris"}, 5854, 0, 5337, 516, 0, 1],[{v:"Ocean", f:"Ocean"}, 7462, 0, 6922, 540, 0, 0],[{v:"Passaic", f:"Passaic"}, 14543, 0, 13799, 744, 0, 0],[{v:"Salem", f:"Salem"}, 411, 0, 393, 18, 0, 0],[{v:"Somerset", f:"Somerset"}, 4054, 0, 3721, 333, 0, 0],[{v:"Sussex", f:"Sussex"}, 1026, 0, 899, 127, 0, 0],[{v:"Union", f:"Union"}, 14057, 0, 13039, 867, 0, 151],[{v:"Warren", f:"Warren"}, 1044, 0, 864, 104, 0, 76],
+      [{v:"Atlantic", f:"Atlantic"}, 1533, 23, 1385, 77, 5, 71],[{v:"Bergen", f:"Bergen"}, 17028, 99, 15670, 1358, 3, 0],[{v:"Burlington", f:"Burlington"}, 3665, 91, 3465, 200, 2, 0],[{v:"Camden", f:"Camden"}, 4959, 89, 4732, 227, 2, 0],[{v:"Cape May", f:"Cape May"}, 462, 4, 385, 32, 0, 45],[{v:"Cumberland", f:"Cumberland"}, 1363, 76, 1323, 40, 4, 0],[{v:"Essex", f:"Essex"}, 15727, 81, 14236, 1431, 8, 60],[{v:"Gloucester", f:"Gloucester"}, 1690, 36, 1607, 83, 2, 0],[{v:"Hudson", f:"Hudson"}, 17801, 288, 16491, 996, 27, 314],[{v:"Hunterdon", f:"Hunterdon"}, 723, 9, 677, 46, 0, 0],[{v:"Mercer", f:"Mercer"}, 5393, 76, 5041, 340, 6, 12],[{v:"Middlesex", f:"Middlesex"}, 14036, 99, 13242, 794, 1, 0],[{v:"Monmouth", f:"Monmouth"}, 6988, 94, 6543, 445, 2, 0],[{v:"Morris", f:"Morris"}, 5876, 22, 5357, 518, 2, 1],[{v:"Ocean", f:"Ocean"}, 7569, 107, 7022, 547, 7, 0],[{v:"Passaic", f:"Passaic"}, 14645, 102, 13898, 747, 3, 0],[{v:"Salem", f:"Salem"}, 411, 0, 393, 18, 0, 0],[{v:"Somerset", f:"Somerset"}, 4093, 39, 3758, 335, 2, 0],[{v:"Sussex", f:"Sussex"}, 1033, 7, 905, 128, 1, 0],[{v:"Union", f:"Union"}, 14164, 107, 13138, 875, 8, 151],[{v:"Warren", f:"Warren"}, 1047, 3, 867, 104, 0, 76],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));

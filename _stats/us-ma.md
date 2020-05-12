@@ -2,8 +2,8 @@
 category: stats
 title: "US - Massachusetts State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Massachusetts. Total Cases: 78462 (+669), Deaths: 5108 (+129), Recoveries: 22148(-)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:10Z
+updatedDateTime: 2020-05-12T04:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ma/"
 type: article
 heat: 100
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [41.6012, -70.6364, "Barnstable", 1068, 68],[42.3118, -73.1822, "Berkshire", 475, 37],[41.9726, -71.1854, "Bristol", 4931, 266],[42.632, -70.7829, "Essex", 11353, 644],[42.6063, -72.7434, "Franklin", 294, 42],[42.2125, -72.6411, "Hampden", 4714, 449],[42.3757, -72.5188, "Hampshire", 676, 55],[42.4672, -71.2874, "Middlesex", 17589, 1207],[42.1767, -71.1449, "Norfolk", 6952, 650],[42.2121, -70.7652, "Plymouth", 6382, 393],[42.3601, -71.0589, "Suffolk", 15279, 718],[42.4097, -71.8571, "Worcester", 7743, 444],[41.2834704, -70.099451, "Nantucket", 12, 1],[41.4039539, -70.6692655, "Dukes", 23, 0],
+      [41.6012, -70.6364, "Barnstable", 1075, 73],[42.3118, -73.1822, "Berkshire", 478, 37],[41.9726, -71.1854, "Bristol", 4999, 274],[42.632, -70.7829, "Essex", 11432, 669],[42.6063, -72.7434, "Franklin", 296, 42],[42.2125, -72.6411, "Hampden", 4763, 458],[42.3757, -72.5188, "Hampshire", 688, 57],[42.4672, -71.2874, "Middlesex", 17774, 1235],[42.1767, -71.1449, "Norfolk", 7004, 661],[42.2121, -70.7652, "Plymouth", 6457, 408],[42.3601, -71.0589, "Suffolk", 15356, 731],[42.4097, -71.8571, "Worcester", 7818, 457],[41.2834704, -70.099451, "Nantucket", 12, 1],[41.4039539, -70.6692655, "Dukes", 23, 0],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Barnstable", f:"Barnstable"}, 1068, 0, 1000, 68, 0, 0],[{v:"Berkshire", f:"Berkshire"}, 475, 0, 438, 37, 0, 0],[{v:"Bristol", f:"Bristol"}, 4931, 0, 4665, 266, 0, 0],[{v:"Essex", f:"Essex"}, 11353, 0, 10709, 644, 0, 0],[{v:"Franklin", f:"Franklin"}, 294, 0, 252, 42, 0, 0],[{v:"Hampden", f:"Hampden"}, 4714, 0, 4265, 449, 0, 0],[{v:"Hampshire", f:"Hampshire"}, 676, 0, 621, 55, 0, 0],[{v:"Middlesex", f:"Middlesex"}, 17589, 0, 16235, 1207, 0, 147],[{v:"Norfolk", f:"Norfolk"}, 6952, 0, 6084, 650, 0, 218],[{v:"Plymouth", f:"Plymouth"}, 6382, 0, 5989, 393, 0, 0],[{v:"Suffolk", f:"Suffolk"}, 15279, 0, 13635, 718, 0, 926],[{v:"Worcester", f:"Worcester"}, 7743, 0, 7291, 444, 0, 8],[{v:"Nantucket", f:"Nantucket"}, 12, 0, 11, 1, 0, 0],[{v:"Dukes", f:"Dukes"}, 23, 0, 23, 0, 0, 0],
+      [{v:"Barnstable", f:"Barnstable"}, 1075, 7, 1002, 73, 5, 0],[{v:"Berkshire", f:"Berkshire"}, 478, 3, 441, 37, 0, 0],[{v:"Bristol", f:"Bristol"}, 4999, 68, 4725, 274, 8, 0],[{v:"Essex", f:"Essex"}, 11432, 79, 10763, 669, 25, 0],[{v:"Franklin", f:"Franklin"}, 296, 2, 254, 42, 0, 0],[{v:"Hampden", f:"Hampden"}, 4763, 49, 4305, 458, 9, 0],[{v:"Hampshire", f:"Hampshire"}, 688, 12, 631, 57, 2, 0],[{v:"Middlesex", f:"Middlesex"}, 17774, 185, 16392, 1235, 28, 147],[{v:"Norfolk", f:"Norfolk"}, 7004, 52, 6125, 661, 11, 218],[{v:"Plymouth", f:"Plymouth"}, 6457, 75, 6049, 408, 15, 0],[{v:"Suffolk", f:"Suffolk"}, 15356, 77, 13699, 731, 13, 926],[{v:"Worcester", f:"Worcester"}, 7818, 75, 7353, 457, 13, 8],[{v:"Nantucket", f:"Nantucket"}, 12, 0, 11, 1, 0, 0],[{v:"Dukes", f:"Dukes"}, 23, 0, 23, 0, 0, 0],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));

@@ -7,14 +7,14 @@
     "isoCode": null,
     "lat": null
   },
-  "updatedDateTime": "2020-05-12T03:45:03.2143897Z",
+  "updatedDateTime": "2020-05-12T04:45:04.1735018Z",
   "stats": {
-    "totalConfirmedCases": 4249516,
-    "newlyConfirmedCases": 72870,
-    "totalDeaths": 286984,
-    "newDeaths": 3256,
-    "totalRecoveredCases": 1495461,
-    "newlyRecoveredCases": 32702,
+    "totalConfirmedCases": 4251131,
+    "newlyConfirmedCases": 74485,
+    "totalDeaths": 287271,
+    "newDeaths": 3543,
+    "totalRecoveredCases": 1495484,
+    "newlyRecoveredCases": 32725,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,9 +678,9 @@
       },
       {
         "date": "2020-05-11T00:00:00",
-        "confirmed": 4249516,
-        "deaths": 286984,
-        "recovered": 1495461
+        "confirmed": 4251131,
+        "deaths": 287271,
+        "recovered": 1495484
       }
     ],
     "breakdowns": [
@@ -1385,8 +1385,8 @@
         "newlyConfirmedCases": 1,
         "totalDeaths": 4637,
         "newDeaths": 0,
-        "totalRecoveredCases": 80038,
-        "newlyRecoveredCases": 30
+        "totalRecoveredCases": 80040,
+        "newlyRecoveredCases": 32
       },
       {
         "location": {
@@ -2053,10 +2053,10 @@
           "isoCode": "US",
           "lat": 37.09024
         },
-        "totalConfirmedCases": 1374694,
-        "newlyConfirmedCases": 16234,
-        "totalDeaths": 81248,
-        "newDeaths": 807,
+        "totalConfirmedCases": 1376229,
+        "newlyConfirmedCases": 17769,
+        "totalDeaths": 81535,
+        "newDeaths": 1094,
         "totalRecoveredCases": 252193,
         "newlyRecoveredCases": 5461
       },
@@ -2229,8 +2229,8 @@
           "isoCode": "IN",
           "lat": 21.0
         },
-        "totalConfirmedCases": 70768,
-        "newlyConfirmedCases": 3509,
+        "totalConfirmedCases": 70827,
+        "newlyConfirmedCases": 3568,
         "totalDeaths": 2294,
         "newDeaths": 82,
         "totalRecoveredCases": 22549,
@@ -2485,12 +2485,12 @@
           "isoCode": "KG",
           "lat": 41.20438
         },
-        "totalConfirmedCases": 1016,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 1037,
+        "newlyConfirmedCases": 21,
         "totalDeaths": 12,
         "newDeaths": 0,
-        "totalRecoveredCases": 688,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 709,
+        "newlyRecoveredCases": 21
       },
       {
         "location": {

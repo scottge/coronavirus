@@ -2,8 +2,8 @@
 category: stats
 title: "US - New Hampshire State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-New Hampshire. Total Cases: 3160 (+89), Deaths: 134 (-), Recoveries: 1231(+2)."
-publishedDateTime: 2020-05-12T03:45:09Z
-updatedDateTime: 2020-05-12T03:45:09Z
+publishedDateTime: 2020-05-12T04:45:11Z
+updatedDateTime: 2020-05-12T04:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-nh/"
 type: article
 heat: 100
@@ -75,7 +75,7 @@ images:
   function drawRegionsMap() {
     var data = google.visualization.arrayToDataTable([
       ['LATITUDE', 'LONGITUDE', 'DESCRIPTION', 'Total Cases', 'Total Deaths'],
-      [43.443, -71.5937, "Belknap", 46, 0],[43.443, -71.5937, "Berknap", 2, 0],[44.0524, -71.1247, "Carroll", 37, 0],[42.9494, -72.2997, "Cheshire", 43, 2],[44.4869, -71.2599, "Coos", 2, 0],[43.9088, -71.826, "Grafton", 56, 1],[43.001, -71.5171, "Hillsborough", 1438, 56],[43.2232, -71.7129, "Merrimack", 237, 10],[42.9931, -71.0498, "Rockingham", 978, 53],[43.2534, -70.8856, "Strafford", 192, 11],[43.379, -72.3368, "Sullivan", 14, 1],
+      [43.443, -71.5937, "Belknap", 46, 0],[43.443, -71.5937, "Berknap", 2, 0],[44.0524, -71.1247, "Carroll", 37, 0],[42.9494, -72.2997, "Cheshire", 43, 2],[44.4869, -71.2599, "Coos", 2, 0],[43.9088, -71.826, "Grafton", 58, 1],[43.001, -71.5171, "Hillsborough", 1496, 56],[43.2232, -71.7129, "Merrimack", 243, 10],[42.9931, -71.0498, "Rockingham", 994, 53],[43.2534, -70.8856, "Strafford", 196, 11],[43.379, -72.3368, "Sullivan", 14, 1],
     ]);
     var options = {
       backgroundColor: {fill:'transparent',stroke:'#FFF' ,strokeWidth:0 }, 
@@ -104,7 +104,7 @@ images:
     data.addColumn('number', 'New Deaths');
     data.addColumn('number', 'Total Recovered');
     data.addRows([
-      [{v:"Belknap", f:"Belknap"}, 46, 0, 46, 0, 0, 0],[{v:"Berknap", f:"Berknap"}, 2, 0, 2, 0, 0, 0],[{v:"Carroll", f:"Carroll"}, 37, 0, 37, 0, 0, 0],[{v:"Cheshire", f:"Cheshire"}, 43, 0, 41, 2, 0, 0],[{v:"Coos", f:"Coos"}, 2, 0, 2, 0, 0, 0],[{v:"Grafton", f:"Grafton"}, 56, 0, 55, 1, 0, 0],[{v:"Hillsborough", f:"Hillsborough"}, 1438, 0, 1382, 56, 0, 0],[{v:"Merrimack", f:"Merrimack"}, 237, 0, 227, 10, 0, 0],[{v:"Rockingham", f:"Rockingham"}, 978, 0, 925, 53, 0, 0],[{v:"Strafford", f:"Strafford"}, 192, 0, 181, 11, 0, 0],[{v:"Sullivan", f:"Sullivan"}, 14, 0, 13, 1, 0, 0],
+      [{v:"Belknap", f:"Belknap"}, 46, 0, 46, 0, 0, 0],[{v:"Berknap", f:"Berknap"}, 2, 0, 2, 0, 0, 0],[{v:"Carroll", f:"Carroll"}, 37, 0, 37, 0, 0, 0],[{v:"Cheshire", f:"Cheshire"}, 43, 0, 41, 2, 0, 0],[{v:"Coos", f:"Coos"}, 2, 0, 2, 0, 0, 0],[{v:"Grafton", f:"Grafton"}, 58, 2, 57, 1, 0, 0],[{v:"Hillsborough", f:"Hillsborough"}, 1496, 58, 1440, 56, 0, 0],[{v:"Merrimack", f:"Merrimack"}, 243, 6, 233, 10, 0, 0],[{v:"Rockingham", f:"Rockingham"}, 994, 16, 941, 53, 0, 0],[{v:"Strafford", f:"Strafford"}, 196, 4, 185, 11, 0, 0],[{v:"Sullivan", f:"Sullivan"}, 14, 0, 13, 1, 0, 0],
     ]);
     data.setProperty(0, 0, 'style', 'min-width:100px');
     var table = new google.visualization.Table(document.getElementById('geo_table'));

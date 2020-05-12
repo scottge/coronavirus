@@ -7,7 +7,7 @@
     "isoCode": "US-HI",
     "lat": 19.898682
   },
-  "updatedDateTime": "2020-05-12T03:45:07.8621614Z",
+  "updatedDateTime": "2020-05-12T04:45:09.0304799Z",
   "stats": {
     "totalConfirmedCases": 634,
     "newlyConfirmedCases": 2,
@@ -709,8 +709,8 @@
           "isoCode": "US-HI",
           "lat": 21.307
         },
-        "totalConfirmedCases": 408,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 410,
+        "newlyConfirmedCases": 2,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
