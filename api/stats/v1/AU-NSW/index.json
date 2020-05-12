@@ -7,14 +7,14 @@
     "isoCode": "AU-NSW",
     "lat": -33.8688
   },
-  "updatedDateTime": "2020-05-12T21:45:11.7366704Z",
+  "updatedDateTime": "2020-05-12T22:45:06.9133798Z",
   "stats": {
-    "totalConfirmedCases": 3054,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 44,
-    "newDeaths": 0,
-    "totalRecoveredCases": 2543,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 3059,
+    "newlyConfirmedCases": 5,
+    "totalDeaths": 45,
+    "newDeaths": 1,
+    "totalRecoveredCases": 2571,
+    "newlyRecoveredCases": 28,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 3054,
-        "deaths": 44,
-        "recovered": 2543
+        "confirmed": 3059,
+        "deaths": 45,
+        "recovered": 2571
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "AU",
           "lat": -25.274398
         },
-        "totalConfirmedCases": 3054,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 44,
-        "newDeaths": 0,
-        "totalRecoveredCases": 2543,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 3059,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 45,
+        "newDeaths": 1,
+        "totalRecoveredCases": 2571,
+        "newlyRecoveredCases": 28
       }
     ]
   }

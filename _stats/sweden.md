@@ -2,8 +2,8 @@
 category: stats
 title: "Sweden Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Sweden. Total Cases: 27272 (+602), Deaths: 3313 (+57), Recoveries: 4971(-)."
-publishedDateTime: 2020-05-12T21:45:15Z
-updatedDateTime: 2020-05-12T21:45:15Z
+publishedDateTime: 2020-05-12T22:45:10Z
+updatedDateTime: 2020-05-12T22:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/sweden/"
 type: article
 heat: 100

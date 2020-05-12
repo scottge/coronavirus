@@ -7,12 +7,12 @@
     "isoCode": "US-WA",
     "lat": 47.751074
   },
-  "updatedDateTime": "2020-05-12T21:45:13.3936377Z",
+  "updatedDateTime": "2020-05-12T22:45:08.5965502Z",
   "stats": {
     "totalConfirmedCases": 18302,
     "newlyConfirmedCases": 273,
-    "totalDeaths": 958,
-    "newDeaths": 5,
+    "totalDeaths": 960,
+    "newDeaths": 7,
     "totalRecoveredCases": 3718,
     "newlyRecoveredCases": 0,
     "history": [
@@ -685,7 +685,7 @@
       {
         "date": "2020-05-12T00:00:00",
         "confirmed": 18302,
-        "deaths": 958,
+        "deaths": 960,
         "recovered": 3718
       }
     ],

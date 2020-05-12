@@ -7,14 +7,14 @@
     "isoCode": "US-KY",
     "lat": 37.839333
   },
-  "updatedDateTime": "2020-05-12T21:45:13.1032529Z",
+  "updatedDateTime": "2020-05-12T22:45:08.317302Z",
   "stats": {
-    "totalConfirmedCases": 6738,
-    "newlyConfirmedCases": 29,
-    "totalDeaths": 316,
-    "newDeaths": 4,
-    "totalRecoveredCases": 2335,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 6853,
+    "newlyConfirmedCases": 144,
+    "totalDeaths": 321,
+    "newDeaths": 9,
+    "totalRecoveredCases": 2546,
+    "newlyRecoveredCases": 211,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 6738,
-        "deaths": 316,
-        "recovered": 2335
+        "confirmed": 6853,
+        "deaths": 321,
+        "recovered": 2546
       }
     ],
     "breakdowns": [

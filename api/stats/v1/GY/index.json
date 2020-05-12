@@ -7,10 +7,10 @@
     "isoCode": "GY",
     "lat": 5.0
   },
-  "updatedDateTime": "2020-05-12T21:45:14.0351081Z",
+  "updatedDateTime": "2020-05-12T22:45:09.2249146Z",
   "stats": {
-    "totalConfirmedCases": 109,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 113,
+    "newlyConfirmedCases": 4,
     "totalDeaths": 10,
     "newDeaths": 0,
     "totalRecoveredCases": 36,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 109,
+        "confirmed": 113,
         "deaths": 10,
         "recovered": 36
       }
@@ -699,8 +699,8 @@
           "isoCode": "GY",
           "lat": 5.0
         },
-        "totalConfirmedCases": 109,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 113,
+        "newlyConfirmedCases": 4,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 36,

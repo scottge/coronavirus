@@ -7,12 +7,12 @@
     "isoCode": "SV",
     "lat": 13.794185
   },
-  "updatedDateTime": "2020-05-12T21:45:13.8817233Z",
+  "updatedDateTime": "2020-05-12T22:45:09.0737285Z",
   "stats": {
     "totalConfirmedCases": 998,
     "newlyConfirmedCases": 0,
-    "totalDeaths": 18,
-    "newDeaths": 0,
+    "totalDeaths": 19,
+    "newDeaths": 1,
     "totalRecoveredCases": 349,
     "newlyRecoveredCases": 0,
     "history": [
@@ -685,7 +685,7 @@
       {
         "date": "2020-05-12T00:00:00",
         "confirmed": 998,
-        "deaths": 18,
+        "deaths": 19,
         "recovered": 349
       }
     ],
@@ -701,8 +701,8 @@
         },
         "totalConfirmedCases": 998,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 18,
-        "newDeaths": 0,
+        "totalDeaths": 19,
+        "newDeaths": 1,
         "totalRecoveredCases": 349,
         "newlyRecoveredCases": 0
       }
