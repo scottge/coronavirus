@@ -7,14 +7,14 @@
     "isoCode": "US-VT",
     "lat": 44.558803
   },
-  "updatedDateTime": "2020-05-12T13:45:08.6420457Z",
+  "updatedDateTime": "2020-05-12T14:45:10.0764652Z",
   "stats": {
     "totalConfirmedCases": 927,
     "newlyConfirmedCases": 0,
     "totalDeaths": 54,
     "newDeaths": 0,
-    "totalRecoveredCases": 785,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 787,
+    "newlyRecoveredCases": 2,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -686,7 +686,7 @@
         "date": "2020-05-12T00:00:00",
         "confirmed": 927,
         "deaths": 54,
-        "recovered": 785
+        "recovered": 787
       }
     ],
     "breakdowns": [

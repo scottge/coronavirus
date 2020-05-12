@@ -7,12 +7,12 @@
     "isoCode": "GB",
     "lat": 55.0
   },
-  "updatedDateTime": "2020-05-12T13:45:09.8931494Z",
+  "updatedDateTime": "2020-05-12T14:45:11.3329821Z",
   "stats": {
-    "totalConfirmedCases": 223060,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 32065,
-    "newDeaths": 0,
+    "totalConfirmedCases": 226463,
+    "newlyConfirmedCases": 3403,
+    "totalDeaths": 32692,
+    "newDeaths": 627,
     "totalRecoveredCases": 344,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 223060,
-        "deaths": 32065,
+        "confirmed": 226463,
+        "deaths": 32692,
         "recovered": 344
       }
     ],
@@ -699,10 +699,10 @@
           "isoCode": "GB",
           "lat": 55.0
         },
-        "totalConfirmedCases": 223060,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 32065,
-        "newDeaths": 0,
+        "totalConfirmedCases": 226463,
+        "newlyConfirmedCases": 3403,
+        "totalDeaths": 32692,
+        "newDeaths": 627,
         "totalRecoveredCases": 344,
         "newlyRecoveredCases": 0
       }

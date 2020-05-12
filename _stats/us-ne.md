@@ -2,8 +2,8 @@
 category: stats
 title: "US - Nebraska State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Nebraska. Total Cases: 8572 (-), Deaths: 104 (-), Recoveries: 22(-)."
-publishedDateTime: 2020-05-12T13:45:10Z
-updatedDateTime: 2020-05-12T13:45:10Z
+publishedDateTime: 2020-05-12T14:45:11Z
+updatedDateTime: 2020-05-12T14:45:11Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ne/"
 type: article
 heat: 100
