@@ -2,8 +2,8 @@
 category: stats
 title: "US - Washington, D.C. Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Washington D.C.. Total Cases: 6389 (-), Deaths: 328 (-), Recoveries: 881(-)."
-publishedDateTime: 2020-05-12T08:45:10Z
-updatedDateTime: 2020-05-12T08:45:10Z
+publishedDateTime: 2020-05-12T09:45:10Z
+updatedDateTime: 2020-05-12T09:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-dc/"
 type: article
 heat: 100
