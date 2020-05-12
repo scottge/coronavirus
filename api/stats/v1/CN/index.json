@@ -7,14 +7,14 @@
     "isoCode": "CN",
     "lat": 35.86166
   },
-  "updatedDateTime": "2020-05-12T06:45:09.0117327Z",
+  "updatedDateTime": "2020-05-12T07:45:08.7274991Z",
   "stats": {
     "totalConfirmedCases": 84012,
-    "newlyConfirmedCases": 1,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 4637,
     "newDeaths": 0,
     "totalRecoveredCases": 80040,
-    "newlyRecoveredCases": 32,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 84012,
         "deaths": 4637,
         "recovered": 80040
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 84012,
+        "deaths": 4637,
+        "recovered": 80040
       }
     ],
     "breakdowns": [
@@ -714,7 +720,7 @@
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 571,
-        "newlyRecoveredCases": 3
+        "newlyRecoveredCases": 0
       },
       {
         "location": {
@@ -858,7 +864,7 @@
         "totalDeaths": 13,
         "newDeaths": 0,
         "totalRecoveredCases": 924,
-        "newlyRecoveredCases": 20
+        "newlyRecoveredCases": 0
       },
       {
         "location": {
@@ -890,7 +896,7 @@
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 985,
-        "newlyRecoveredCases": 3
+        "newlyRecoveredCases": 0
       },
       {
         "location": {
@@ -1002,7 +1008,7 @@
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 42,
-        "newlyRecoveredCases": 1
+        "newlyRecoveredCases": 0
       },
       {
         "location": {
@@ -1014,11 +1020,11 @@
           "lat": 44.0935
         },
         "totalConfirmedCases": 209,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 188,
-        "newlyRecoveredCases": 1
+        "newlyRecoveredCases": 0
       },
       {
         "location": {
@@ -1066,7 +1072,7 @@
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 296,
-        "newlyRecoveredCases": 2
+        "newlyRecoveredCases": 0
       },
       {
         "location": {
@@ -1098,7 +1104,7 @@
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 631,
-        "newlyRecoveredCases": 2
+        "newlyRecoveredCases": 0
       },
       {
         "location": {

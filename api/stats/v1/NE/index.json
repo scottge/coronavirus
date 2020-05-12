@@ -7,14 +7,14 @@
     "isoCode": "NE",
     "lat": 17.607789
   },
-  "updatedDateTime": "2020-05-12T06:45:09.5625493Z",
+  "updatedDateTime": "2020-05-12T07:45:09.2736131Z",
   "stats": {
     "totalConfirmedCases": 832,
-    "newlyConfirmedCases": 11,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 46,
     "newDeaths": 0,
     "totalRecoveredCases": 637,
-    "newlyRecoveredCases": 13,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 832,
         "deaths": 46,
         "recovered": 637
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 832,
+        "deaths": 46,
+        "recovered": 637
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 17.607789
         },
         "totalConfirmedCases": 832,
-        "newlyConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 46,
         "newDeaths": 0,
         "totalRecoveredCases": 637,
-        "newlyRecoveredCases": 13
+        "newlyRecoveredCases": 0
       }
     ]
   }

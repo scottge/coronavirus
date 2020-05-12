@@ -7,7 +7,7 @@
     "isoCode": "CN-TJ",
     "lat": 39.3054
   },
-  "updatedDateTime": "2020-05-12T06:45:07.5156266Z",
+  "updatedDateTime": "2020-05-12T07:45:07.2075719Z",
   "stats": {
     "totalConfirmedCases": 191,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 191,
+        "deaths": 3,
+        "recovered": 186
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 191,
         "deaths": 3,
         "recovered": 186

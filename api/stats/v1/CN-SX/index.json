@@ -7,7 +7,7 @@
     "isoCode": "CN-SX",
     "lat": 37.5777
   },
-  "updatedDateTime": "2020-05-12T06:45:07.5028343Z",
+  "updatedDateTime": "2020-05-12T07:45:07.1950371Z",
   "stats": {
     "totalConfirmedCases": 198,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 198,
+        "deaths": 0,
+        "recovered": 197
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 198,
         "deaths": 0,
         "recovered": 197

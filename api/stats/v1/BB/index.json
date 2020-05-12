@@ -7,7 +7,7 @@
     "isoCode": "BB",
     "lat": 13.193887
   },
-  "updatedDateTime": "2020-05-12T06:45:08.882685Z",
+  "updatedDateTime": "2020-05-12T07:45:08.5986344Z",
   "stats": {
     "totalConfirmedCases": 84,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 84,
+        "deaths": 7,
+        "recovered": 57
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 84,
         "deaths": 7,
         "recovered": 57

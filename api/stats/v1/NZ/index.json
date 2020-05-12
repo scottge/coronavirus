@@ -7,14 +7,14 @@
     "isoCode": "NZ",
     "lat": -40.9006
   },
-  "updatedDateTime": "2020-05-12T06:45:09.5512421Z",
+  "updatedDateTime": "2020-05-12T07:45:09.2625067Z",
   "stats": {
     "totalConfirmedCases": 1497,
     "newlyConfirmedCases": 0,
     "totalDeaths": 21,
     "newDeaths": 0,
     "totalRecoveredCases": 1398,
-    "newlyRecoveredCases": 12,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 1497,
         "deaths": 21,
         "recovered": 1398
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 1497,
+        "deaths": 21,
+        "recovered": 1398
       }
     ],
     "breakdowns": [
@@ -698,7 +704,7 @@
         "totalDeaths": 21,
         "newDeaths": 0,
         "totalRecoveredCases": 1398,
-        "newlyRecoveredCases": 12
+        "newlyRecoveredCases": 0
       }
     ]
   }

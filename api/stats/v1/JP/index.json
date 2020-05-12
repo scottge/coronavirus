@@ -7,14 +7,14 @@
     "isoCode": "JP",
     "lat": 36.0
   },
-  "updatedDateTime": "2020-05-12T06:45:09.3425133Z",
+  "updatedDateTime": "2020-05-12T07:45:09.0492406Z",
   "stats": {
     "totalConfirmedCases": 15847,
-    "newlyConfirmedCases": 70,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 633,
-    "newDeaths": 9,
+    "newDeaths": 0,
     "totalRecoveredCases": 8293,
-    "newlyRecoveredCases": 166,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 15847,
         "deaths": 633,
         "recovered": 8293
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 15847,
+        "deaths": 633,
+        "recovered": 8293
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 36.0
         },
         "totalConfirmedCases": 15847,
-        "newlyConfirmedCases": 70,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 633,
-        "newDeaths": 9,
+        "newDeaths": 0,
         "totalRecoveredCases": 8293,
-        "newlyRecoveredCases": 166
+        "newlyRecoveredCases": 0
       }
     ]
   }

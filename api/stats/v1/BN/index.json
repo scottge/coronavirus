@@ -7,7 +7,7 @@
     "isoCode": "BN",
     "lat": 4.5353
   },
-  "updatedDateTime": "2020-05-12T06:45:07.2073002Z",
+  "updatedDateTime": "2020-05-12T07:45:06.906198Z",
   "stats": {
     "totalConfirmedCases": 141,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 141,
+        "deaths": 1,
+        "recovered": 134
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 141,
         "deaths": 1,
         "recovered": 134

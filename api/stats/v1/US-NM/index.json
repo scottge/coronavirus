@@ -7,14 +7,14 @@
     "isoCode": "US-NM",
     "lat": 34.97273
   },
-  "updatedDateTime": "2020-05-12T06:45:08.6820629Z",
+  "updatedDateTime": "2020-05-12T07:45:08.3946466Z",
   "stats": {
     "totalConfirmedCases": 5490,
-    "newlyConfirmedCases": 424,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 211,
-    "newDeaths": 9,
+    "newDeaths": 0,
     "totalRecoveredCases": 1300,
-    "newlyRecoveredCases": 175,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 5490,
         "deaths": 211,
         "recovered": 1300
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 5490,
+        "deaths": 211,
+        "recovered": 1300
       }
     ],
     "breakdowns": [
@@ -694,9 +700,9 @@
           "lat": 35.0178
         },
         "totalConfirmedCases": 1086,
-        "newlyConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 48,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -742,7 +748,7 @@
           "lat": 34.8217
         },
         "totalConfirmedCases": 31,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -790,9 +796,9 @@
           "lat": 35.0708
         },
         "totalConfirmedCases": 1585,
-        "newlyConfirmedCases": 63,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 50,
-        "newDeaths": 4,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -806,7 +812,7 @@
           "lat": 36.1769
         },
         "totalConfirmedCases": 28,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -838,7 +844,7 @@
           "lat": 36.2834
         },
         "totalConfirmedCases": 1107,
-        "newlyConfirmedCases": 73,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 71,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -854,7 +860,7 @@
           "lat": 35.3037
         },
         "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -870,7 +876,7 @@
           "lat": 35.2366
         },
         "totalConfirmedCases": 467,
-        "newlyConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 21,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -886,7 +892,7 @@
           "lat": 35.8464
         },
         "totalConfirmedCases": 112,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -902,9 +908,9 @@
           "lat": 33.8837
         },
         "totalConfirmedCases": 49,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -934,7 +940,7 @@
           "lat": 34.7687
         },
         "totalConfirmedCases": 57,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -966,7 +972,7 @@
           "lat": 33.1473
         },
         "totalConfirmedCases": 16,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1062,7 +1068,7 @@
           "lat": 32.3161
         },
         "totalConfirmedCases": 8,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1142,7 +1148,7 @@
           "lat": 32.485767
         },
         "totalConfirmedCases": 245,
-        "newlyConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1201,7 +1207,7 @@
           "long": -106.7234639,
           "countryOrRegion": "United States",
           "provinceOrState": "New Mexico",
-          "county": "Do��a",
+          "county": "Do���",
           "isoCode": "US-NM",
           "lat": 32.485767
         },
@@ -1217,14 +1223,14 @@
           "long": -106.7234639,
           "countryOrRegion": "United States",
           "provinceOrState": "New Mexico",
-          "county": "Doña Ana",
+          "county": "Do��a",
           "isoCode": "US-NM",
           "lat": 32.485767
         },
         "totalConfirmedCases": 232,
-        "newlyConfirmedCases": 232,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       }

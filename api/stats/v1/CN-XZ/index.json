@@ -7,7 +7,7 @@
     "isoCode": "CN-XZ",
     "lat": 31.6927
   },
-  "updatedDateTime": "2020-05-12T06:45:07.5220846Z",
+  "updatedDateTime": "2020-05-12T07:45:07.2138543Z",
   "stats": {
     "totalConfirmedCases": 1,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 1,
         "deaths": 0,
         "recovered": 1

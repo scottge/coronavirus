@@ -7,12 +7,12 @@
     "isoCode": "US-NV",
     "lat": 38.80261
   },
-  "updatedDateTime": "2020-05-12T06:45:08.4342398Z",
+  "updatedDateTime": "2020-05-12T07:45:08.1469251Z",
   "stats": {
     "totalConfirmedCases": 6172,
-    "newlyConfirmedCases": 20,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 312,
-    "newDeaths": 6,
+    "newDeaths": 0,
     "totalRecoveredCases": 4197,
     "newlyRecoveredCases": 0,
     "history": [
@@ -681,6 +681,12 @@
         "confirmed": 6172,
         "deaths": 312,
         "recovered": 4197
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 6172,
+        "deaths": 312,
+        "recovered": 4197
       }
     ],
     "breakdowns": [
@@ -694,7 +700,7 @@
           "lat": 39.1511
         },
         "totalConfirmedCases": 56,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -710,7 +716,7 @@
           "lat": 36.0796
         },
         "totalConfirmedCases": 4762,
-        "newlyConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 260,
         "newDeaths": 0,
         "totalRecoveredCases": 2144,
@@ -774,7 +780,7 @@
           "lat": 39.2639
         },
         "totalConfirmedCases": 44,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 5,
@@ -806,7 +812,7 @@
           "lat": 40.5608
         },
         "totalConfirmedCases": 1100,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 39,
         "newDeaths": 0,
         "totalRecoveredCases": 224,

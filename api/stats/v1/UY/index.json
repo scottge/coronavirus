@@ -7,14 +7,14 @@
     "isoCode": "UY",
     "lat": -32.522779
   },
-  "updatedDateTime": "2020-05-12T06:45:09.9890268Z",
+  "updatedDateTime": "2020-05-12T07:45:09.6890362Z",
   "stats": {
     "totalConfirmedCases": 711,
-    "newlyConfirmedCases": 4,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 19,
     "newDeaths": 0,
     "totalRecoveredCases": 523,
-    "newlyRecoveredCases": 6,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 711,
         "deaths": 19,
         "recovered": 523
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 711,
+        "deaths": 19,
+        "recovered": 523
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": -32.522779
         },
         "totalConfirmedCases": 711,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 19,
         "newDeaths": 0,
         "totalRecoveredCases": 523,
-        "newlyRecoveredCases": 6
+        "newlyRecoveredCases": 0
       }
     ]
   }

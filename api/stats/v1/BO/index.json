@@ -7,14 +7,14 @@
     "isoCode": "BO",
     "lat": -16.2902
   },
-  "updatedDateTime": "2020-05-12T06:45:08.9244897Z",
+  "updatedDateTime": "2020-05-12T07:45:08.6399605Z",
   "stats": {
     "totalConfirmedCases": 2831,
-    "newlyConfirmedCases": 275,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 122,
-    "newDeaths": 4,
+    "newDeaths": 0,
     "totalRecoveredCases": 299,
-    "newlyRecoveredCases": 26,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 2831,
         "deaths": 122,
         "recovered": 299
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 2831,
+        "deaths": 122,
+        "recovered": 299
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": -16.2902
         },
         "totalConfirmedCases": 2831,
-        "newlyConfirmedCases": 275,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 122,
-        "newDeaths": 4,
+        "newDeaths": 0,
         "totalRecoveredCases": 299,
-        "newlyRecoveredCases": 26
+        "newlyRecoveredCases": 0
       }
     ]
   }

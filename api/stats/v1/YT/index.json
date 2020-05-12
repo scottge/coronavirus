@@ -7,7 +7,7 @@
     "isoCode": "YT",
     "lat": -12.8275
   },
-  "updatedDateTime": "2020-05-12T06:45:09.4764028Z",
+  "updatedDateTime": "2020-05-12T07:45:09.1843981Z",
   "stats": {
     "totalConfirmedCases": 1023,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 1023,
+        "deaths": 11,
+        "recovered": 492
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 1023,
         "deaths": 11,
         "recovered": 492

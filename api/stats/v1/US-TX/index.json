@@ -7,14 +7,14 @@
     "isoCode": "US-TX",
     "lat": 31.968599
   },
-  "updatedDateTime": "2020-05-12T06:45:08.5763946Z",
+  "updatedDateTime": "2020-05-12T07:45:08.2906659Z",
   "stats": {
     "totalConfirmedCases": 40855,
-    "newlyConfirmedCases": 965,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 1153,
-    "newDeaths": 20,
+    "newDeaths": 0,
     "totalRecoveredCases": 23592,
-    "newlyRecoveredCases": 3,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 40855,
         "deaths": 1153,
         "recovered": 23592
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 40855,
+        "deaths": 1153,
+        "recovered": 23592
       }
     ],
     "breakdowns": [
@@ -758,7 +764,7 @@
           "lat": 28.9643
         },
         "totalConfirmedCases": 24,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 6,
@@ -806,7 +812,7 @@
           "lat": 30.2819
         },
         "totalConfirmedCases": 110,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 6,
@@ -934,7 +940,7 @@
           "lat": 29.0455
         },
         "totalConfirmedCases": 661,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 210,
@@ -950,7 +956,7 @@
           "lat": 30.5852
         },
         "totalConfirmedCases": 271,
-        "newlyConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
         "newDeaths": 0,
         "totalRecoveredCases": 50,
@@ -1046,7 +1052,7 @@
           "lat": 29.8785
         },
         "totalConfirmedCases": 30,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1158,7 +1164,7 @@
           "lat": 29.7269
         },
         "totalConfirmedCases": 50,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 21,
@@ -1206,7 +1212,7 @@
           "lat": 33.1795
         },
         "totalConfirmedCases": 920,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 28,
         "newDeaths": 0,
         "totalRecoveredCases": 429,
@@ -1318,9 +1324,9 @@
           "lat": 32.7767
         },
         "totalConfirmedCases": 6123,
-        "newlyConfirmedCases": 253,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 145,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 2,
         "newlyRecoveredCases": 0
       },
@@ -1382,7 +1388,7 @@
           "lat": 33.133
         },
         "totalConfirmedCases": 922,
-        "newlyConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 25,
         "newDeaths": 0,
         "totalRecoveredCases": 321,
@@ -1462,7 +1468,7 @@
           "lat": 32.0105
         },
         "totalConfirmedCases": 102,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 23,
@@ -1478,9 +1484,9 @@
           "lat": 31.811
         },
         "totalConfirmedCases": 1340,
-        "newlyConfirmedCases": 18,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 33,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 121,
         "newlyRecoveredCases": 0
       },
@@ -1494,7 +1500,7 @@
           "lat": 32.314
         },
         "totalConfirmedCases": 211,
-        "newlyConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1622,9 +1628,9 @@
           "lat": 29.5693
         },
         "totalConfirmedCases": 1385,
-        "newlyConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 38,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 104,
         "newlyRecoveredCases": 0
       },
@@ -1702,7 +1708,7 @@
           "lat": 29.4128
         },
         "totalConfirmedCases": 685,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 29,
         "newDeaths": 0,
         "totalRecoveredCases": 243,
@@ -1734,7 +1740,7 @@
           "lat": 33.6233
         },
         "totalConfirmedCases": 91,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -1798,7 +1804,7 @@
           "lat": 29.4892
         },
         "totalConfirmedCases": 97,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 27,
@@ -1878,9 +1884,9 @@
           "lat": 29.7752
         },
         "totalConfirmedCases": 8176,
-        "newlyConfirmedCases": 298,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 179,
-        "newDeaths": 7,
+        "newDeaths": 0,
         "totalRecoveredCases": 1459,
         "newlyRecoveredCases": 0
       },
@@ -1990,7 +1996,7 @@
           "lat": 26.2585
         },
         "totalConfirmedCases": 389,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 79,
@@ -2038,7 +2044,7 @@
           "lat": 36.0579
         },
         "totalConfirmedCases": 14,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -2198,7 +2204,7 @@
           "lat": 30.0522
         },
         "totalConfirmedCases": 381,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 25,
         "newDeaths": 0,
         "totalRecoveredCases": 36,
@@ -2294,7 +2300,7 @@
           "lat": 32.7315
         },
         "totalConfirmedCases": 120,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2422,7 +2428,7 @@
           "lat": 30.047
         },
         "totalConfirmedCases": 66,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2486,7 +2492,7 @@
           "lat": 33.6901
         },
         "totalConfirmedCases": 592,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 49,
         "newDeaths": 0,
         "totalRecoveredCases": 149,
@@ -2646,7 +2652,7 @@
           "lat": 29.3532
         },
         "totalConfirmedCases": 32,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 2,
@@ -2742,9 +2748,9 @@
           "lat": 30.3883
         },
         "totalConfirmedCases": 724,
-        "newlyConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 134,
         "newlyRecoveredCases": 0
       },
@@ -2822,7 +2828,7 @@
           "lat": 29.2698
         },
         "totalConfirmedCases": 59,
-        "newlyConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -2838,7 +2844,7 @@
           "lat": 31.8126
         },
         "totalConfirmedCases": 211,
-        "newlyConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 20,
@@ -2886,7 +2892,7 @@
           "lat": 27.8094
         },
         "totalConfirmedCases": 132,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 3,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -2998,7 +3004,7 @@
           "lat": 31.6997
         },
         "totalConfirmedCases": 7,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3094,9 +3100,9 @@
           "lat": 32.917
         },
         "totalConfirmedCases": 104,
-        "newlyConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 5,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       },
@@ -3158,7 +3164,7 @@
           "lat": 28.0969
         },
         "totalConfirmedCases": 22,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3270,9 +3276,9 @@
           "lat": 32.7732
         },
         "totalConfirmedCases": 3695,
-        "newlyConfirmedCases": 485,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 103,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 265,
         "newlyRecoveredCases": 0
       },
@@ -3334,9 +3340,9 @@
           "lat": 30.4088
         },
         "totalConfirmedCases": 2171,
-        "newlyConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 65,
-        "newDeaths": 5,
+        "newDeaths": 0,
         "totalRecoveredCases": 267,
         "newlyRecoveredCases": 0
       },
@@ -3510,7 +3516,7 @@
           "lat": 30.705
         },
         "totalConfirmedCases": 342,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 14,
@@ -3526,7 +3532,7 @@
           "lat": 30.0996
         },
         "totalConfirmedCases": 39,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3574,7 +3580,7 @@
           "lat": 27.6555
         },
         "totalConfirmedCases": 435,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 17,
         "newDeaths": 0,
         "totalRecoveredCases": 88,
@@ -3670,9 +3676,9 @@
           "lat": 30.513
         },
         "totalConfirmedCases": 380,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 14,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 83,
         "newlyRecoveredCases": 0
       },
@@ -3686,7 +3692,7 @@
           "lat": 32.8898
         },
         "totalConfirmedCases": 95,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 0,
@@ -3702,7 +3708,7 @@
           "lat": 29.2358
         },
         "totalConfirmedCases": 36,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 4,

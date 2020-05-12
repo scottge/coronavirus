@@ -7,7 +7,7 @@
     "isoCode": "CN-GS",
     "lat": 36.0611
   },
-  "updatedDateTime": "2020-05-12T06:45:07.3600306Z",
+  "updatedDateTime": "2020-05-12T07:45:07.0536038Z",
   "stats": {
     "totalConfirmedCases": 139,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 139,
+        "deaths": 2,
+        "recovered": 137
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 139,
         "deaths": 2,
         "recovered": 137

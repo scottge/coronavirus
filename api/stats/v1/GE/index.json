@@ -7,14 +7,14 @@
     "isoCode": "GE",
     "lat": 42.3154
   },
-  "updatedDateTime": "2020-05-12T06:45:09.1831079Z",
+  "updatedDateTime": "2020-05-12T07:45:08.8949507Z",
   "stats": {
     "totalConfirmedCases": 639,
-    "newlyConfirmedCases": 1,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 11,
-    "newDeaths": 1,
+    "newDeaths": 0,
     "totalRecoveredCases": 349,
-    "newlyRecoveredCases": 32,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 639,
         "deaths": 11,
         "recovered": 349
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 639,
+        "deaths": 11,
+        "recovered": 349
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 42.3154
         },
         "totalConfirmedCases": 639,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 349,
-        "newlyRecoveredCases": 32
+        "newlyRecoveredCases": 0
       }
     ]
   }

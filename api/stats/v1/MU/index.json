@@ -7,14 +7,14 @@
     "isoCode": "MU",
     "lat": -20.348404
   },
-  "updatedDateTime": "2020-05-12T06:45:09.4704214Z",
+  "updatedDateTime": "2020-05-12T07:45:09.1785627Z",
   "stats": {
     "totalConfirmedCases": 334,
     "newlyConfirmedCases": 0,
     "totalDeaths": 10,
     "newDeaths": 0,
     "totalRecoveredCases": 322,
-    "newlyRecoveredCases": 2,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 334,
         "deaths": 10,
         "recovered": 322
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 334,
+        "deaths": 10,
+        "recovered": 322
       }
     ],
     "breakdowns": [
@@ -698,7 +704,7 @@
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 322,
-        "newlyRecoveredCases": 2
+        "newlyRecoveredCases": 0
       }
     ]
   }

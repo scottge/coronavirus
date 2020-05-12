@@ -7,10 +7,10 @@
     "isoCode": "CA-MB",
     "lat": 53.7609
   },
-  "updatedDateTime": "2020-05-12T06:45:07.285745Z",
+  "updatedDateTime": "2020-05-12T07:45:06.9803303Z",
   "stats": {
     "totalConfirmedCases": 289,
-    "newlyConfirmedCases": 2,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 7,
     "newDeaths": 0,
     "totalRecoveredCases": 0,
@@ -681,6 +681,12 @@
         "confirmed": 289,
         "deaths": 7,
         "recovered": 0
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 289,
+        "deaths": 7,
+        "recovered": 0
       }
     ],
     "breakdowns": [
@@ -694,7 +700,7 @@
           "lat": 53.7609
         },
         "totalConfirmedCases": 289,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 7,
         "newDeaths": 0,
         "totalRecoveredCases": 0,

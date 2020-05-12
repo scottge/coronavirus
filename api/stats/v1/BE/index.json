@@ -7,14 +7,14 @@
     "isoCode": "BE",
     "lat": 50.8333
   },
-  "updatedDateTime": "2020-05-12T06:45:08.8956681Z",
+  "updatedDateTime": "2020-05-12T07:45:08.6109548Z",
   "stats": {
     "totalConfirmedCases": 53449,
-    "newlyConfirmedCases": 368,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 8707,
-    "newDeaths": 51,
+    "newDeaths": 0,
     "totalRecoveredCases": 13697,
-    "newlyRecoveredCases": 55,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 53449,
         "deaths": 8707,
         "recovered": 13697
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 53449,
+        "deaths": 8707,
+        "recovered": 13697
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 50.8333
         },
         "totalConfirmedCases": 53449,
-        "newlyConfirmedCases": 368,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8707,
-        "newDeaths": 51,
+        "newDeaths": 0,
         "totalRecoveredCases": 13697,
-        "newlyRecoveredCases": 55
+        "newlyRecoveredCases": 0
       }
     ]
   }

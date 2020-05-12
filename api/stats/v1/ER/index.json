@@ -7,14 +7,14 @@
     "isoCode": "ER",
     "lat": 15.179384
   },
-  "updatedDateTime": "2020-05-12T06:45:09.1115806Z",
+  "updatedDateTime": "2020-05-12T07:45:08.8250027Z",
   "stats": {
     "totalConfirmedCases": 39,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
     "totalRecoveredCases": 38,
-    "newlyRecoveredCases": 1,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 39,
         "deaths": 0,
         "recovered": 38
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 39,
+        "deaths": 0,
+        "recovered": 38
       }
     ],
     "breakdowns": [
@@ -698,7 +704,7 @@
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 38,
-        "newlyRecoveredCases": 1
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,12 +7,12 @@
     "isoCode": "CA-BC",
     "lat": 49.2827
   },
-  "updatedDateTime": "2020-05-12T06:45:07.2593904Z",
+  "updatedDateTime": "2020-05-12T07:45:06.954423Z",
   "stats": {
     "totalConfirmedCases": 2353,
-    "newlyConfirmedCases": 23,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 131,
-    "newDeaths": 2,
+    "newDeaths": 0,
     "totalRecoveredCases": 0,
     "newlyRecoveredCases": 0,
     "history": [
@@ -681,6 +681,12 @@
         "confirmed": 2353,
         "deaths": 131,
         "recovered": 0
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 2353,
+        "deaths": 131,
+        "recovered": 0
       }
     ],
     "breakdowns": [
@@ -694,9 +700,9 @@
           "lat": 49.2827
         },
         "totalConfirmedCases": 2353,
-        "newlyConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 131,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       }

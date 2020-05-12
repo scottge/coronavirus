@@ -7,14 +7,14 @@
     "isoCode": "MM",
     "lat": null
   },
-  "updatedDateTime": "2020-05-12T06:45:09.522478Z",
+  "updatedDateTime": "2020-05-12T07:45:09.2306055Z",
   "stats": {
     "totalConfirmedCases": 180,
     "newlyConfirmedCases": 0,
     "totalDeaths": 6,
     "newDeaths": 0,
     "totalRecoveredCases": 74,
-    "newlyRecoveredCases": 2,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 180,
         "deaths": 6,
         "recovered": 74
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 180,
+        "deaths": 6,
+        "recovered": 74
       }
     ],
     "breakdowns": [
@@ -698,7 +704,7 @@
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 74,
-        "newlyRecoveredCases": 2
+        "newlyRecoveredCases": 0
       }
     ]
   }

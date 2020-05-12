@@ -7,14 +7,14 @@
     "isoCode": "MA",
     "lat": 31.7917
   },
-  "updatedDateTime": "2020-05-12T06:45:09.5105972Z",
+  "updatedDateTime": "2020-05-12T07:45:09.2185493Z",
   "stats": {
     "totalConfirmedCases": 6281,
-    "newlyConfirmedCases": 218,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 188,
     "newDeaths": 0,
     "totalRecoveredCases": 2811,
-    "newlyRecoveredCases": 257,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 6281,
         "deaths": 188,
         "recovered": 2811
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 6281,
+        "deaths": 188,
+        "recovered": 2811
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 31.7917
         },
         "totalConfirmedCases": 6281,
-        "newlyConfirmedCases": 218,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 188,
         "newDeaths": 0,
         "totalRecoveredCases": 2811,
-        "newlyRecoveredCases": 257
+        "newlyRecoveredCases": 0
       }
     ]
   }

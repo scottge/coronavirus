@@ -7,14 +7,14 @@
     "isoCode": "CG",
     "lat": -4.2661
   },
-  "updatedDateTime": "2020-05-12T06:45:09.0317673Z",
+  "updatedDateTime": "2020-05-12T07:45:08.7466932Z",
   "stats": {
     "totalConfirmedCases": 333,
-    "newlyConfirmedCases": 59,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 11,
-    "newDeaths": 1,
+    "newDeaths": 0,
     "totalRecoveredCases": 53,
-    "newlyRecoveredCases": 20,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 333,
         "deaths": 11,
         "recovered": 53
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 333,
+        "deaths": 11,
+        "recovered": 53
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": -4.2661
         },
         "totalConfirmedCases": 333,
-        "newlyConfirmedCases": 59,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 11,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 53,
-        "newlyRecoveredCases": 20
+        "newlyRecoveredCases": 0
       }
     ]
   }

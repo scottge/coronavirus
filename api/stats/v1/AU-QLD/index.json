@@ -7,14 +7,14 @@
     "isoCode": "AU-QLD",
     "lat": -28.0167
   },
-  "updatedDateTime": "2020-05-12T06:45:07.0930704Z",
+  "updatedDateTime": "2020-05-12T07:45:06.7835159Z",
   "stats": {
     "totalConfirmedCases": 1051,
-    "newlyConfirmedCases": 6,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 6,
     "newDeaths": 0,
     "totalRecoveredCases": 1027,
-    "newlyRecoveredCases": 6,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 1051,
         "deaths": 6,
         "recovered": 1027
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 1051,
+        "deaths": 6,
+        "recovered": 1027
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": -25.274398
         },
         "totalConfirmedCases": 1051,
-        "newlyConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 6,
         "newDeaths": 0,
         "totalRecoveredCases": 1027,
-        "newlyRecoveredCases": 6
+        "newlyRecoveredCases": 0
       }
     ]
   }

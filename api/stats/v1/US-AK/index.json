@@ -7,14 +7,14 @@
     "isoCode": "US-AK",
     "lat": 63.588753
   },
-  "updatedDateTime": "2020-05-12T06:45:08.7767168Z",
+  "updatedDateTime": "2020-05-12T07:45:08.4889759Z",
   "stats": {
     "totalConfirmedCases": 381,
-    "newlyConfirmedCases": 1,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 10,
     "newDeaths": 0,
     "totalRecoveredCases": 328,
-    "newlyRecoveredCases": 4,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 381,
+        "deaths": 10,
+        "recovered": 328
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 381,
         "deaths": 10,
         "recovered": 328

@@ -7,7 +7,7 @@
     "isoCode": "AU-NT",
     "lat": -12.4634
   },
-  "updatedDateTime": "2020-05-12T06:45:07.0846143Z",
+  "updatedDateTime": "2020-05-12T07:45:06.7755039Z",
   "stats": {
     "totalConfirmedCases": 29,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 29,
+        "deaths": 0,
+        "recovered": 27
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 29,
         "deaths": 0,
         "recovered": 27

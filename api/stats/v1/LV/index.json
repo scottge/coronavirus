@@ -7,14 +7,14 @@
     "isoCode": "LV",
     "lat": 56.8796
   },
-  "updatedDateTime": "2020-05-12T06:45:09.3840426Z",
+  "updatedDateTime": "2020-05-12T07:45:09.0907105Z",
   "stats": {
-    "totalConfirmedCases": 946,
-    "newlyConfirmedCases": 7,
+    "totalConfirmedCases": 950,
+    "newlyConfirmedCases": 4,
     "totalDeaths": 18,
     "newDeaths": 0,
-    "totalRecoveredCases": 464,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 627,
+    "newlyRecoveredCases": 163,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 946,
         "deaths": 18,
         "recovered": 464
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 950,
+        "deaths": 18,
+        "recovered": 627
       }
     ],
     "breakdowns": [
@@ -693,12 +699,12 @@
           "isoCode": "LV",
           "lat": 56.8796
         },
-        "totalConfirmedCases": 946,
-        "newlyConfirmedCases": 7,
+        "totalConfirmedCases": 950,
+        "newlyConfirmedCases": 4,
         "totalDeaths": 18,
         "newDeaths": 0,
-        "totalRecoveredCases": 464,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 627,
+        "newlyRecoveredCases": 163
       }
     ]
   }

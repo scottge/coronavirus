@@ -7,7 +7,7 @@
     "isoCode": "CN-GX",
     "lat": 23.8298
   },
-  "updatedDateTime": "2020-05-12T06:45:07.3727085Z",
+  "updatedDateTime": "2020-05-12T07:45:07.0667919Z",
   "stats": {
     "totalConfirmedCases": 254,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 254,
+        "deaths": 2,
+        "recovered": 252
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 254,
         "deaths": 2,
         "recovered": 252

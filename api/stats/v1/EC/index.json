@@ -7,12 +7,12 @@
     "isoCode": "EC",
     "lat": -1.8312
   },
-  "updatedDateTime": "2020-05-12T06:45:09.089148Z",
+  "updatedDateTime": "2020-05-12T07:45:08.802535Z",
   "stats": {
     "totalConfirmedCases": 30298,
     "newlyConfirmedCases": 0,
     "totalDeaths": 2145,
-    "newDeaths": 18,
+    "newDeaths": 0,
     "totalRecoveredCases": 3433,
     "newlyRecoveredCases": 0,
     "history": [
@@ -681,6 +681,12 @@
         "confirmed": 30298,
         "deaths": 2145,
         "recovered": 3433
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 30298,
+        "deaths": 2145,
+        "recovered": 3433
       }
     ],
     "breakdowns": [
@@ -696,7 +702,7 @@
         "totalConfirmedCases": 30298,
         "newlyConfirmedCases": 0,
         "totalDeaths": 2145,
-        "newDeaths": 18,
+        "newDeaths": 0,
         "totalRecoveredCases": 3433,
         "newlyRecoveredCases": 0
       }

@@ -7,14 +7,14 @@
     "isoCode": "KR",
     "lat": 36.0
   },
-  "updatedDateTime": "2020-05-12T06:45:08.0147307Z",
+  "updatedDateTime": "2020-05-12T07:45:07.7206283Z",
   "stats": {
     "totalConfirmedCases": 10936,
-    "newlyConfirmedCases": 27,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 258,
-    "newDeaths": 2,
+    "newDeaths": 0,
     "totalRecoveredCases": 9670,
-    "newlyRecoveredCases": 38,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 10936,
         "deaths": 258,
         "recovered": 9670
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 10936,
+        "deaths": 258,
+        "recovered": 9670
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 36.0
         },
         "totalConfirmedCases": 10936,
-        "newlyConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 258,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 9670,
-        "newlyRecoveredCases": 38
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "EG",
     "lat": 26.0
   },
-  "updatedDateTime": "2020-05-12T06:45:09.0946856Z",
+  "updatedDateTime": "2020-05-12T07:45:08.8081003Z",
   "stats": {
     "totalConfirmedCases": 9746,
-    "newlyConfirmedCases": 346,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 533,
-    "newDeaths": 8,
+    "newDeaths": 0,
     "totalRecoveredCases": 2172,
-    "newlyRecoveredCases": 97,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 9746,
         "deaths": 533,
         "recovered": 2172
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 9746,
+        "deaths": 533,
+        "recovered": 2172
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 26.0
         },
         "totalConfirmedCases": 9746,
-        "newlyConfirmedCases": 346,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 533,
-        "newDeaths": 8,
+        "newDeaths": 0,
         "totalRecoveredCases": 2172,
-        "newlyRecoveredCases": 97
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "RS",
     "lat": 44.0165
   },
-  "updatedDateTime": "2020-05-12T06:45:09.6932011Z",
+  "updatedDateTime": "2020-05-12T07:45:09.4050587Z",
   "stats": {
     "totalConfirmedCases": 10176,
-    "newlyConfirmedCases": 62,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 218,
-    "newDeaths": 3,
+    "newDeaths": 0,
     "totalRecoveredCases": 3290,
-    "newlyRecoveredCases": 284,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 10176,
         "deaths": 218,
         "recovered": 3290
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 10176,
+        "deaths": 218,
+        "recovered": 3290
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 44.0165
         },
         "totalConfirmedCases": 10176,
-        "newlyConfirmedCases": 62,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 218,
-        "newDeaths": 3,
+        "newDeaths": 0,
         "totalRecoveredCases": 3290,
-        "newlyRecoveredCases": 284
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "US-ME",
     "lat": 45.253783
   },
-  "updatedDateTime": "2020-05-12T06:45:08.7673406Z",
+  "updatedDateTime": "2020-05-12T07:45:08.4798988Z",
   "stats": {
     "totalConfirmedCases": 1462,
-    "newlyConfirmedCases": 26,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 65,
-    "newDeaths": 1,
+    "newDeaths": 0,
     "totalRecoveredCases": 872,
-    "newlyRecoveredCases": 11,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 1462,
         "deaths": 65,
         "recovered": 872
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 1462,
+        "deaths": 65,
+        "recovered": 872
       }
     ],
     "breakdowns": [
@@ -694,7 +700,7 @@
           "lat": 44.0086
         },
         "totalConfirmedCases": 92,
-        "newlyConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2,
         "newDeaths": 0,
         "totalRecoveredCases": 21,
@@ -710,9 +716,9 @@
           "lat": 43.6954
         },
         "totalConfirmedCases": 714,
-        "newlyConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 31,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 232,
         "newlyRecoveredCases": 0
       },
@@ -758,7 +764,7 @@
           "lat": 44.191
         },
         "totalConfirmedCases": 110,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 25,
@@ -774,7 +780,7 @@
           "lat": 44.1274
         },
         "totalConfirmedCases": 19,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 9,
@@ -870,7 +876,7 @@
           "lat": 43.4244
         },
         "totalConfirmedCases": 262,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 8,
         "newDeaths": 0,
         "totalRecoveredCases": 112,

@@ -7,7 +7,7 @@
     "isoCode": "FO",
     "lat": 61.8926
   },
-  "updatedDateTime": "2020-05-12T06:45:09.1353433Z",
+  "updatedDateTime": "2020-05-12T07:45:08.8485867Z",
   "stats": {
     "totalConfirmedCases": 187,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 187,
+        "deaths": 0,
+        "recovered": 187
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 187,
         "deaths": 0,
         "recovered": 187

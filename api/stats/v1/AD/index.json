@@ -7,7 +7,7 @@
     "isoCode": "AD",
     "lat": 42.5063
   },
-  "updatedDateTime": "2020-05-12T06:45:08.8086058Z",
+  "updatedDateTime": "2020-05-12T07:45:08.5216627Z",
   "stats": {
     "totalConfirmedCases": 755,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 755,
+        "deaths": 48,
+        "recovered": 550
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 755,
         "deaths": 48,
         "recovered": 550

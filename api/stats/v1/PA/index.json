@@ -7,12 +7,12 @@
     "isoCode": "PA",
     "lat": 8.538
   },
-  "updatedDateTime": "2020-05-12T06:45:09.5918177Z",
+  "updatedDateTime": "2020-05-12T07:45:09.3023286Z",
   "stats": {
     "totalConfirmedCases": 8616,
-    "newlyConfirmedCases": 168,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 249,
-    "newDeaths": 5,
+    "newDeaths": 0,
     "totalRecoveredCases": 4687,
     "newlyRecoveredCases": 0,
     "history": [
@@ -681,6 +681,12 @@
         "confirmed": 8616,
         "deaths": 249,
         "recovered": 4687
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 8616,
+        "deaths": 249,
+        "recovered": 4687
       }
     ],
     "breakdowns": [
@@ -694,9 +700,9 @@
           "lat": 8.538
         },
         "totalConfirmedCases": 8616,
-        "newlyConfirmedCases": 168,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 249,
-        "newDeaths": 5,
+        "newDeaths": 0,
         "totalRecoveredCases": 4687,
         "newlyRecoveredCases": 0
       }

@@ -7,14 +7,14 @@
     "isoCode": "SK",
     "lat": 48.669
   },
-  "updatedDateTime": "2020-05-12T06:45:09.7160923Z",
+  "updatedDateTime": "2020-05-12T07:45:09.4278854Z",
   "stats": {
-    "totalConfirmedCases": 1457,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 26,
-    "newDeaths": 0,
-    "totalRecoveredCases": 959,
-    "newlyRecoveredCases": 18,
+    "totalConfirmedCases": 1465,
+    "newlyConfirmedCases": 8,
+    "totalDeaths": 27,
+    "newDeaths": 1,
+    "totalRecoveredCases": 983,
+    "newlyRecoveredCases": 24,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 1457,
         "deaths": 26,
         "recovered": 959
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 1465,
+        "deaths": 27,
+        "recovered": 983
       }
     ],
     "breakdowns": [
@@ -693,12 +699,12 @@
           "isoCode": "SK",
           "lat": 48.669
         },
-        "totalConfirmedCases": 1457,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 26,
-        "newDeaths": 0,
-        "totalRecoveredCases": 959,
-        "newlyRecoveredCases": 18
+        "totalConfirmedCases": 1465,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 27,
+        "newDeaths": 1,
+        "totalRecoveredCases": 983,
+        "newlyRecoveredCases": 24
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "IN",
     "lat": 21.0
   },
-  "updatedDateTime": "2020-05-12T06:45:09.2889198Z",
+  "updatedDateTime": "2020-05-12T07:45:08.9966904Z",
   "stats": {
     "totalConfirmedCases": 70827,
-    "newlyConfirmedCases": 3568,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 2294,
-    "newDeaths": 82,
+    "newDeaths": 0,
     "totalRecoveredCases": 22549,
-    "newlyRecoveredCases": 1580,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 70827,
         "deaths": 2294,
         "recovered": 22549
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 70827,
+        "deaths": 2294,
+        "recovered": 22549
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 21.0
         },
         "totalConfirmedCases": 70827,
-        "newlyConfirmedCases": 3568,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 2294,
-        "newDeaths": 82,
+        "newDeaths": 0,
         "totalRecoveredCases": 22549,
-        "newlyRecoveredCases": 1580
+        "newlyRecoveredCases": 0
       }
     ]
   }

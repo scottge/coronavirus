@@ -7,7 +7,7 @@
     "isoCode": "TC",
     "lat": 21.694
   },
-  "updatedDateTime": "2020-05-12T06:45:09.8253017Z",
+  "updatedDateTime": "2020-05-12T07:45:09.5352771Z",
   "stats": {
     "totalConfirmedCases": 12,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 12,
+        "deaths": 1,
+        "recovered": 8
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 12,
         "deaths": 1,
         "recovered": 8

@@ -7,14 +7,14 @@
     "isoCode": "US-SD",
     "lat": 43.969515
   },
-  "updatedDateTime": "2020-05-12T06:45:08.6922527Z",
+  "updatedDateTime": "2020-05-12T07:45:08.4044906Z",
   "stats": {
     "totalConfirmedCases": 3618,
-    "newlyConfirmedCases": 98,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 35,
     "newDeaths": 0,
     "totalRecoveredCases": 2187,
-    "newlyRecoveredCases": 62,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 3618,
         "deaths": 35,
         "recovered": 2187
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 3618,
+        "deaths": 35,
+        "recovered": 2187
       }
     ],
     "breakdowns": [
@@ -758,7 +764,7 @@
           "lat": 45.2442
         },
         "totalConfirmedCases": 127,
-        "newlyConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 15,
@@ -982,7 +988,7 @@
           "lat": 43.3479
         },
         "totalConfirmedCases": 191,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 67,
@@ -1046,7 +1052,7 @@
           "lat": 44.411
         },
         "totalConfirmedCases": 4,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 1,
@@ -1062,7 +1068,7 @@
           "lat": 43.6632
         },
         "totalConfirmedCases": 2952,
-        "newlyConfirmedCases": 85,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 29,
         "newDeaths": 0,
         "totalRecoveredCases": 954,
@@ -1078,7 +1084,7 @@
           "lat": 43.8901
         },
         "totalConfirmedCases": 27,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 1,
         "newDeaths": 0,
         "totalRecoveredCases": 10,
@@ -1110,7 +1116,7 @@
           "lat": 43.3061
         },
         "totalConfirmedCases": 10,
-        "newlyConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 1,

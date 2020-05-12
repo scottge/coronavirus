@@ -7,7 +7,7 @@
     "isoCode": "CN-JL",
     "lat": 43.6661
   },
-  "updatedDateTime": "2020-05-12T06:45:07.4453361Z",
+  "updatedDateTime": "2020-05-12T07:45:07.137941Z",
   "stats": {
     "totalConfirmedCases": 127,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 127,
+        "deaths": 1,
+        "recovered": 105
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 127,
         "deaths": 1,
         "recovered": 105

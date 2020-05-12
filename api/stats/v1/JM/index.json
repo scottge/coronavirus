@@ -7,10 +7,10 @@
     "isoCode": "JM",
     "lat": 18.1096
   },
-  "updatedDateTime": "2020-05-12T06:45:09.3367232Z",
+  "updatedDateTime": "2020-05-12T07:45:09.0434956Z",
   "stats": {
     "totalConfirmedCases": 505,
-    "newlyConfirmedCases": 3,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 9,
     "newDeaths": 0,
     "totalRecoveredCases": 90,
@@ -681,6 +681,12 @@
         "confirmed": 505,
         "deaths": 9,
         "recovered": 90
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 505,
+        "deaths": 9,
+        "recovered": 90
       }
     ],
     "breakdowns": [
@@ -694,7 +700,7 @@
           "lat": 18.1096
         },
         "totalConfirmedCases": 505,
-        "newlyConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 9,
         "newDeaths": 0,
         "totalRecoveredCases": 90,

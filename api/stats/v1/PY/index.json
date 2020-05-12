@@ -7,14 +7,14 @@
     "isoCode": "PY",
     "lat": -23.4425
   },
-  "updatedDateTime": "2020-05-12T06:45:09.6030785Z",
+  "updatedDateTime": "2020-05-12T07:45:09.313387Z",
   "stats": {
     "totalConfirmedCases": 724,
-    "newlyConfirmedCases": 11,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 10,
     "newDeaths": 0,
     "totalRecoveredCases": 170,
-    "newlyRecoveredCases": 5,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 724,
         "deaths": 10,
         "recovered": 170
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 724,
+        "deaths": 10,
+        "recovered": 170
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": -23.4425
         },
         "totalConfirmedCases": 724,
-        "newlyConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 10,
         "newDeaths": 0,
         "totalRecoveredCases": 170,
-        "newlyRecoveredCases": 5
+        "newlyRecoveredCases": 0
       }
     ]
   }

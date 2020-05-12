@@ -7,7 +7,7 @@
     "isoCode": "TZ",
     "lat": -6.369028
   },
-  "updatedDateTime": "2020-05-12T06:45:09.7852978Z",
+  "updatedDateTime": "2020-05-12T07:45:09.4960377Z",
   "stats": {
     "totalConfirmedCases": 509,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 509,
+        "deaths": 21,
+        "recovered": 183
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 509,
         "deaths": 21,
         "recovered": 183

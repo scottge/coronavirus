@@ -7,7 +7,7 @@
     "isoCode": "BJ",
     "lat": 9.3077
   },
-  "updatedDateTime": "2020-05-12T06:45:08.9071882Z",
+  "updatedDateTime": "2020-05-12T07:45:08.6225027Z",
   "stats": {
     "totalConfirmedCases": 319,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 319,
+        "deaths": 2,
+        "recovered": 62
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 319,
         "deaths": 2,
         "recovered": 62

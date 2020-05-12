@@ -7,14 +7,14 @@
     "isoCode": "LU",
     "lat": 49.8153
   },
-  "updatedDateTime": "2020-05-12T06:45:09.4189702Z",
+  "updatedDateTime": "2020-05-12T07:45:09.1263554Z",
   "stats": {
     "totalConfirmedCases": 3888,
-    "newlyConfirmedCases": 2,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 101,
     "newDeaths": 0,
     "totalRecoveredCases": 3602,
-    "newlyRecoveredCases": 16,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 3888,
         "deaths": 101,
         "recovered": 3602
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 3888,
+        "deaths": 101,
+        "recovered": 3602
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 49.8153
         },
         "totalConfirmedCases": 3888,
-        "newlyConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 101,
         "newDeaths": 0,
         "totalRecoveredCases": 3602,
-        "newlyRecoveredCases": 16
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,14 +7,14 @@
     "isoCode": "SV",
     "lat": 13.794185
   },
-  "updatedDateTime": "2020-05-12T06:45:09.100406Z",
+  "updatedDateTime": "2020-05-12T07:45:08.8136051Z",
   "stats": {
     "totalConfirmedCases": 998,
-    "newlyConfirmedCases": 40,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 18,
-    "newDeaths": 1,
+    "newDeaths": 0,
     "totalRecoveredCases": 349,
-    "newlyRecoveredCases": 24,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 998,
         "deaths": 18,
         "recovered": 349
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 998,
+        "deaths": 18,
+        "recovered": 349
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 13.794185
         },
         "totalConfirmedCases": 998,
-        "newlyConfirmedCases": 40,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 18,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 349,
-        "newlyRecoveredCases": 24
+        "newlyRecoveredCases": 0
       }
     ]
   }

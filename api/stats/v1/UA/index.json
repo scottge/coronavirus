@@ -7,14 +7,14 @@
     "isoCode": "UA",
     "lat": 48.3794
   },
-  "updatedDateTime": "2020-05-12T06:45:09.8376592Z",
+  "updatedDateTime": "2020-05-12T07:45:09.5465131Z",
   "stats": {
     "totalConfirmedCases": 16023,
-    "newlyConfirmedCases": 791,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 425,
-    "newDeaths": 34,
+    "newDeaths": 0,
     "totalRecoveredCases": 3373,
-    "newlyRecoveredCases": 313,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 16023,
         "deaths": 425,
         "recovered": 3373
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 16023,
+        "deaths": 425,
+        "recovered": 3373
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 48.3794
         },
         "totalConfirmedCases": 16023,
-        "newlyConfirmedCases": 791,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 425,
-        "newDeaths": 34,
+        "newDeaths": 0,
         "totalRecoveredCases": 3373,
-        "newlyRecoveredCases": 313
+        "newlyRecoveredCases": 0
       }
     ]
   }

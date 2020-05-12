@@ -7,14 +7,14 @@
     "isoCode": "SM",
     "lat": 43.9424
   },
-  "updatedDateTime": "2020-05-12T06:45:09.6704553Z",
+  "updatedDateTime": "2020-05-12T07:45:09.3823591Z",
   "stats": {
     "totalConfirmedCases": 637,
     "newlyConfirmedCases": 0,
     "totalDeaths": 41,
     "newDeaths": 0,
     "totalRecoveredCases": 130,
-    "newlyRecoveredCases": 4,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 637,
         "deaths": 41,
         "recovered": 130
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 637,
+        "deaths": 41,
+        "recovered": 130
       }
     ],
     "breakdowns": [
@@ -698,7 +704,7 @@
         "totalDeaths": 41,
         "newDeaths": 0,
         "totalRecoveredCases": 130,
-        "newlyRecoveredCases": 4
+        "newlyRecoveredCases": 0
       }
     ]
   }

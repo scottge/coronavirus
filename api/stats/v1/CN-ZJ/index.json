@@ -7,7 +7,7 @@
     "isoCode": "CN-ZJ",
     "lat": 29.1832
   },
-  "updatedDateTime": "2020-05-12T06:45:07.541046Z",
+  "updatedDateTime": "2020-05-12T07:45:07.2340685Z",
   "stats": {
     "totalConfirmedCases": 1268,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 1268,
+        "deaths": 1,
+        "recovered": 1267
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 1268,
         "deaths": 1,
         "recovered": 1267

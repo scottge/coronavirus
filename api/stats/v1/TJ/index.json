@@ -7,12 +7,12 @@
     "isoCode": "TJ",
     "lat": 38.861034
   },
-  "updatedDateTime": "2020-05-12T06:45:09.7795858Z",
+  "updatedDateTime": "2020-05-12T07:45:09.4904545Z",
   "stats": {
     "totalConfirmedCases": 661,
-    "newlyConfirmedCases": 49,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 21,
-    "newDeaths": 1,
+    "newDeaths": 0,
     "totalRecoveredCases": 0,
     "newlyRecoveredCases": 0,
     "history": [
@@ -681,6 +681,12 @@
         "confirmed": 661,
         "deaths": 21,
         "recovered": 0
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 661,
+        "deaths": 21,
+        "recovered": 0
       }
     ],
     "breakdowns": [
@@ -694,9 +700,9 @@
           "lat": 38.861034
         },
         "totalConfirmedCases": 661,
-        "newlyConfirmedCases": 49,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 21,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 0,
         "newlyRecoveredCases": 0
       }

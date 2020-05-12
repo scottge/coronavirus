@@ -7,7 +7,7 @@
     "isoCode": "CN-HN",
     "lat": 27.6104
   },
-  "updatedDateTime": "2020-05-12T06:45:07.4254929Z",
+  "updatedDateTime": "2020-05-12T07:45:07.1190707Z",
   "stats": {
     "totalConfirmedCases": 1019,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 1019,
+        "deaths": 4,
+        "recovered": 1015
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 1019,
         "deaths": 4,
         "recovered": 1015

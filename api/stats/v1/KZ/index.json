@@ -7,14 +7,14 @@
     "isoCode": "KZ",
     "lat": 48.019573
   },
-  "updatedDateTime": "2020-05-12T06:45:09.3609526Z",
+  "updatedDateTime": "2020-05-12T07:45:09.067564Z",
   "stats": {
-    "totalConfirmedCases": 5240,
-    "newlyConfirmedCases": 114,
+    "totalConfirmedCases": 5279,
+    "newlyConfirmedCases": 39,
     "totalDeaths": 32,
-    "newDeaths": 1,
+    "newDeaths": 0,
     "totalRecoveredCases": 2108,
-    "newlyRecoveredCases": 167,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 5240,
         "deaths": 32,
         "recovered": 2108
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 5279,
+        "deaths": 32,
+        "recovered": 2108
       }
     ],
     "breakdowns": [
@@ -693,12 +699,12 @@
           "isoCode": "KZ",
           "lat": 48.019573
         },
-        "totalConfirmedCases": 5240,
-        "newlyConfirmedCases": 114,
+        "totalConfirmedCases": 5279,
+        "newlyConfirmedCases": 39,
         "totalDeaths": 32,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 2108,
-        "newlyRecoveredCases": 167
+        "newlyRecoveredCases": 0
       }
     ]
   }

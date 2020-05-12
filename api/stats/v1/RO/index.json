@@ -7,14 +7,14 @@
     "isoCode": "RO",
     "lat": 45.9432
   },
-  "updatedDateTime": "2020-05-12T06:45:09.6370864Z",
+  "updatedDateTime": "2020-05-12T07:45:09.3488387Z",
   "stats": {
     "totalConfirmedCases": 15588,
-    "newlyConfirmedCases": 226,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 982,
-    "newDeaths": 21,
+    "newDeaths": 0,
     "totalRecoveredCases": 7245,
-    "newlyRecoveredCases": 194,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 15588,
         "deaths": 982,
         "recovered": 7245
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 15588,
+        "deaths": 982,
+        "recovered": 7245
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 45.9432
         },
         "totalConfirmedCases": 15588,
-        "newlyConfirmedCases": 226,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 982,
-        "newDeaths": 21,
+        "newDeaths": 0,
         "totalRecoveredCases": 7245,
-        "newlyRecoveredCases": 194
+        "newlyRecoveredCases": 0
       }
     ]
   }

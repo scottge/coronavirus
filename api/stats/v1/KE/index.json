@@ -7,14 +7,14 @@
     "isoCode": "KE",
     "lat": -0.023559
   },
-  "updatedDateTime": "2020-05-12T06:45:09.3667063Z",
+  "updatedDateTime": "2020-05-12T07:45:09.0734166Z",
   "stats": {
     "totalConfirmedCases": 700,
-    "newlyConfirmedCases": 28,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 33,
-    "newDeaths": 1,
+    "newDeaths": 0,
     "totalRecoveredCases": 251,
-    "newlyRecoveredCases": 12,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 700,
         "deaths": 33,
         "recovered": 251
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 700,
+        "deaths": 33,
+        "recovered": 251
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": -0.023559
         },
         "totalConfirmedCases": 700,
-        "newlyConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 33,
-        "newDeaths": 1,
+        "newDeaths": 0,
         "totalRecoveredCases": 251,
-        "newlyRecoveredCases": 12
+        "newlyRecoveredCases": 0
       }
     ]
   }

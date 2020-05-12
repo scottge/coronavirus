@@ -7,14 +7,14 @@
     "isoCode": "VN",
     "lat": 16.0
   },
-  "updatedDateTime": "2020-05-12T06:45:08.7862473Z",
+  "updatedDateTime": "2020-05-12T07:45:08.4986109Z",
   "stats": {
     "totalConfirmedCases": 288,
     "newlyConfirmedCases": 0,
     "totalDeaths": 0,
     "newDeaths": 0,
     "totalRecoveredCases": 249,
-    "newlyRecoveredCases": 8,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 288,
         "deaths": 0,
         "recovered": 249
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 288,
+        "deaths": 0,
+        "recovered": 249
       }
     ],
     "breakdowns": [
@@ -698,7 +704,7 @@
         "totalDeaths": 0,
         "newDeaths": 0,
         "totalRecoveredCases": 249,
-        "newlyRecoveredCases": 8
+        "newlyRecoveredCases": 0
       }
     ]
   }

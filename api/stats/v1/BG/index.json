@@ -7,14 +7,14 @@
     "isoCode": "BG",
     "lat": 42.7339
   },
-  "updatedDateTime": "2020-05-12T06:45:08.947219Z",
+  "updatedDateTime": "2020-05-12T07:45:08.6643235Z",
   "stats": {
     "totalConfirmedCases": 2004,
-    "newlyConfirmedCases": 23,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 93,
-    "newDeaths": 2,
+    "newDeaths": 0,
     "totalRecoveredCases": 476,
-    "newlyRecoveredCases": 15,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 2004,
         "deaths": 93,
         "recovered": 476
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 2004,
+        "deaths": 93,
+        "recovered": 476
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 42.7339
         },
         "totalConfirmedCases": 2004,
-        "newlyConfirmedCases": 23,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 93,
-        "newDeaths": 2,
+        "newDeaths": 0,
         "totalRecoveredCases": 476,
-        "newlyRecoveredCases": 15
+        "newlyRecoveredCases": 0
       }
     ]
   }

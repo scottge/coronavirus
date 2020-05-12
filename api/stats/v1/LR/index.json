@@ -7,14 +7,14 @@
     "isoCode": "LR",
     "lat": 6.428055
   },
-  "updatedDateTime": "2020-05-12T06:45:09.3954307Z",
+  "updatedDateTime": "2020-05-12T07:45:09.1029529Z",
   "stats": {
     "totalConfirmedCases": 211,
-    "newlyConfirmedCases": 12,
+    "newlyConfirmedCases": 0,
     "totalDeaths": 20,
     "newDeaths": 0,
     "totalRecoveredCases": 85,
-    "newlyRecoveredCases": 6,
+    "newlyRecoveredCases": 0,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -681,6 +681,12 @@
         "confirmed": 211,
         "deaths": 20,
         "recovered": 85
+      },
+      {
+        "date": "2020-05-12T00:00:00",
+        "confirmed": 211,
+        "deaths": 20,
+        "recovered": 85
       }
     ],
     "breakdowns": [
@@ -694,11 +700,11 @@
           "lat": 6.428055
         },
         "totalConfirmedCases": 211,
-        "newlyConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
         "totalDeaths": 20,
         "newDeaths": 0,
         "totalRecoveredCases": 85,
-        "newlyRecoveredCases": 6
+        "newlyRecoveredCases": 0
       }
     ]
   }

@@ -7,7 +7,7 @@
     "isoCode": "RE",
     "lat": -21.1151
   },
-  "updatedDateTime": "2020-05-12T06:45:07.9518327Z",
+  "updatedDateTime": "2020-05-12T07:45:07.6565377Z",
   "stats": {
     "totalConfirmedCases": 436,
     "newlyConfirmedCases": 0,
@@ -678,6 +678,12 @@
       },
       {
         "date": "2020-05-11T00:00:00",
+        "confirmed": 436,
+        "deaths": 0,
+        "recovered": 354
+      },
+      {
+        "date": "2020-05-12T00:00:00",
         "confirmed": 436,
         "deaths": 0,
         "recovered": 354
