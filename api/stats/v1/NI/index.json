@@ -7,12 +7,12 @@
     "isoCode": "NI",
     "lat": 13.1333
   },
-  "updatedDateTime": "2020-05-12T17:45:09.4501952Z",
+  "updatedDateTime": "2020-05-12T18:45:12.8806045Z",
   "stats": {
-    "totalConfirmedCases": 16,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 5,
-    "newDeaths": 0,
+    "totalConfirmedCases": 25,
+    "newlyConfirmedCases": 9,
+    "totalDeaths": 8,
+    "newDeaths": 3,
     "totalRecoveredCases": 7,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 16,
-        "deaths": 5,
+        "confirmed": 25,
+        "deaths": 8,
         "recovered": 7
       }
     ],
@@ -699,10 +699,10 @@
           "isoCode": "NI",
           "lat": 13.1333
         },
-        "totalConfirmedCases": 16,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 5,
-        "newDeaths": 0,
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 8,
+        "newDeaths": 3,
         "totalRecoveredCases": 7,
         "newlyRecoveredCases": 0
       }

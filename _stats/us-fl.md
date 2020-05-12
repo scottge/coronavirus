@@ -2,8 +2,8 @@
 category: stats
 title: "US - Florida State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Florida. Total Cases: 41923 (+941), Deaths: 1782 (+44), Recoveries: 7093(+6047)."
-publishedDateTime: 2020-05-12T17:45:10Z
-updatedDateTime: 2020-05-12T17:45:10Z
+publishedDateTime: 2020-05-12T18:45:13Z
+updatedDateTime: 2020-05-12T18:45:13Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-fl/"
 type: article
 heat: 100

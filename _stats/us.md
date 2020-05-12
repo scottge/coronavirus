@@ -2,8 +2,8 @@
 category: stats
 title: "US Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US. Total Cases: 1385500 (+9271), Deaths: 82288 (+753), Recoveries: 264869(+12676)."
-publishedDateTime: 2020-05-12T17:45:10Z
-updatedDateTime: 2020-05-12T17:45:10Z
+publishedDateTime: 2020-05-12T18:45:13Z
+updatedDateTime: 2020-05-12T18:45:13Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us/"
 type: article
 heat: 900

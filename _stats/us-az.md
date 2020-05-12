@@ -2,8 +2,8 @@
 category: stats
 title: "US - Arizona State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Arizona. Total Cases: 11736 (+353), Deaths: 562 (+20), Recoveries: 70(-)."
-publishedDateTime: 2020-05-12T17:45:10Z
-updatedDateTime: 2020-05-12T17:45:10Z
+publishedDateTime: 2020-05-12T18:45:13Z
+updatedDateTime: 2020-05-12T18:45:13Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-az/"
 type: article
 heat: 100

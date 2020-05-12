@@ -7,14 +7,14 @@
     "isoCode": "BH",
     "lat": 26.0275
   },
-  "updatedDateTime": "2020-05-12T17:45:08.7508319Z",
+  "updatedDateTime": "2020-05-12T18:45:12.1847774Z",
   "stats": {
-    "totalConfirmedCases": 5409,
-    "newlyConfirmedCases": 173,
+    "totalConfirmedCases": 5522,
+    "newlyConfirmedCases": 286,
     "totalDeaths": 9,
     "newDeaths": 1,
-    "totalRecoveredCases": 2182,
-    "newlyRecoveredCases": 30,
+    "totalRecoveredCases": 2192,
+    "newlyRecoveredCases": 40,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 5409,
+        "confirmed": 5522,
         "deaths": 9,
-        "recovered": 2182
+        "recovered": 2192
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "BH",
           "lat": 26.0275
         },
-        "totalConfirmedCases": 5409,
-        "newlyConfirmedCases": 173,
+        "totalConfirmedCases": 5522,
+        "newlyConfirmedCases": 286,
         "totalDeaths": 9,
         "newDeaths": 1,
-        "totalRecoveredCases": 2182,
-        "newlyRecoveredCases": 30
+        "totalRecoveredCases": 2192,
+        "newlyRecoveredCases": 40
       }
     ]
   }

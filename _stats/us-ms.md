@@ -2,8 +2,8 @@
 category: stats
 title: "US - Mississippi State Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in US-Mississippi. Total Cases: 9908 (+222), Deaths: 457 (+19), Recoveries: 4421(-)."
-publishedDateTime: 2020-05-12T17:45:10Z
-updatedDateTime: 2020-05-12T17:45:10Z
+publishedDateTime: 2020-05-12T18:45:13Z
+updatedDateTime: 2020-05-12T18:45:13Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/us-ms/"
 type: article
 heat: 100
