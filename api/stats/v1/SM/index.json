@@ -7,14 +7,14 @@
     "isoCode": "SM",
     "lat": 43.9424
   },
-  "updatedDateTime": "2020-05-12T11:45:10.7585292Z",
+  "updatedDateTime": "2020-05-12T12:45:09.4680868Z",
   "stats": {
-    "totalConfirmedCases": 637,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 638,
+    "newlyConfirmedCases": 1,
     "totalDeaths": 41,
     "newDeaths": 0,
-    "totalRecoveredCases": 130,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 161,
+    "newlyRecoveredCases": 31,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 637,
+        "confirmed": 638,
         "deaths": 41,
-        "recovered": 130
+        "recovered": 161
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "SM",
           "lat": 43.9424
         },
-        "totalConfirmedCases": 637,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 638,
+        "newlyConfirmedCases": 1,
         "totalDeaths": 41,
         "newDeaths": 0,
-        "totalRecoveredCases": 130,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 161,
+        "newlyRecoveredCases": 31
       }
     ]
   }

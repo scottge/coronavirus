@@ -7,10 +7,10 @@
     "isoCode": "MT",
     "lat": 35.9375
   },
-  "updatedDateTime": "2020-05-12T11:45:10.5331506Z",
+  "updatedDateTime": "2020-05-12T12:45:09.2438073Z",
   "stats": {
-    "totalConfirmedCases": 503,
-    "newlyConfirmedCases": 0,
+    "totalConfirmedCases": 506,
+    "newlyConfirmedCases": 3,
     "totalDeaths": 5,
     "newDeaths": 0,
     "totalRecoveredCases": 434,
@@ -684,7 +684,7 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 503,
+        "confirmed": 506,
         "deaths": 5,
         "recovered": 434
       }
@@ -699,8 +699,8 @@
           "isoCode": "MT",
           "lat": 35.9375
         },
-        "totalConfirmedCases": 503,
-        "newlyConfirmedCases": 0,
+        "totalConfirmedCases": 506,
+        "newlyConfirmedCases": 3,
         "totalDeaths": 5,
         "newDeaths": 0,
         "totalRecoveredCases": 434,

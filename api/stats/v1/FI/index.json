@@ -7,14 +7,14 @@
     "isoCode": "FI",
     "lat": 64.0
   },
-  "updatedDateTime": "2020-05-12T11:45:10.2276117Z",
+  "updatedDateTime": "2020-05-12T12:45:08.9327319Z",
   "stats": {
     "totalConfirmedCases": 6003,
     "newlyConfirmedCases": 19,
-    "totalDeaths": 271,
-    "newDeaths": 0,
-    "totalRecoveredCases": 4000,
-    "newlyRecoveredCases": 0,
+    "totalDeaths": 275,
+    "newDeaths": 4,
+    "totalRecoveredCases": 4300,
+    "newlyRecoveredCases": 300,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -685,8 +685,8 @@
       {
         "date": "2020-05-12T00:00:00",
         "confirmed": 6003,
-        "deaths": 271,
-        "recovered": 4000
+        "deaths": 275,
+        "recovered": 4300
       }
     ],
     "breakdowns": [
@@ -701,10 +701,10 @@
         },
         "totalConfirmedCases": 6003,
         "newlyConfirmedCases": 19,
-        "totalDeaths": 271,
-        "newDeaths": 0,
-        "totalRecoveredCases": 4000,
-        "newlyRecoveredCases": 0
+        "totalDeaths": 275,
+        "newDeaths": 4,
+        "totalRecoveredCases": 4300,
+        "newlyRecoveredCases": 300
       }
     ]
   }

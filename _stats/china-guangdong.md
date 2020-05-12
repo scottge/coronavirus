@@ -2,8 +2,8 @@
 category: stats
 title: "China - Guangdong Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Guangdong, China. Total Cases: 1589 (-), Deaths: 8 (-), Recoveries: 1580(-)."
-publishedDateTime: 2020-05-12T11:45:11Z
-updatedDateTime: 2020-05-12T11:45:11Z
+publishedDateTime: 2020-05-12T12:45:10Z
+updatedDateTime: 2020-05-12T12:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/china-guangdong/"
 type: article
 heat: 100

@@ -7,14 +7,14 @@
     "isoCode": "BA",
     "lat": 43.9159
   },
-  "updatedDateTime": "2020-05-12T11:45:10.0068894Z",
+  "updatedDateTime": "2020-05-12T12:45:08.7100491Z",
   "stats": {
-    "totalConfirmedCases": 2141,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 113,
-    "newDeaths": 0,
-    "totalRecoveredCases": 1114,
-    "newlyRecoveredCases": 0,
+    "totalConfirmedCases": 2158,
+    "newlyConfirmedCases": 17,
+    "totalDeaths": 117,
+    "newDeaths": 4,
+    "totalRecoveredCases": 1168,
+    "newlyRecoveredCases": 54,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -684,9 +684,9 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 2141,
-        "deaths": 113,
-        "recovered": 1114
+        "confirmed": 2158,
+        "deaths": 117,
+        "recovered": 1168
       }
     ],
     "breakdowns": [
@@ -699,12 +699,12 @@
           "isoCode": "BA",
           "lat": 43.9159
         },
-        "totalConfirmedCases": 2141,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 113,
-        "newDeaths": 0,
-        "totalRecoveredCases": 1114,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 2158,
+        "newlyConfirmedCases": 17,
+        "totalDeaths": 117,
+        "newDeaths": 4,
+        "totalRecoveredCases": 1168,
+        "newlyRecoveredCases": 54
       }
     ]
   }

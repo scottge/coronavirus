@@ -7,14 +7,14 @@
     "isoCode": "PS",
     "lat": null
   },
-  "updatedDateTime": "2020-05-12T11:45:08.96773Z",
+  "updatedDateTime": "2020-05-12T12:45:07.6529032Z",
   "stats": {
     "totalConfirmedCases": 375,
     "newlyConfirmedCases": 0,
     "totalDeaths": 4,
     "newDeaths": 0,
-    "totalRecoveredCases": 301,
-    "newlyRecoveredCases": 0,
+    "totalRecoveredCases": 316,
+    "newlyRecoveredCases": 15,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -686,7 +686,7 @@
         "date": "2020-05-12T00:00:00",
         "confirmed": 375,
         "deaths": 4,
-        "recovered": 301
+        "recovered": 316
       }
     ],
     "breakdowns": [
@@ -703,8 +703,8 @@
         "newlyConfirmedCases": 0,
         "totalDeaths": 4,
         "newDeaths": 0,
-        "totalRecoveredCases": 301,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 316,
+        "newlyRecoveredCases": 15
       }
     ]
   }

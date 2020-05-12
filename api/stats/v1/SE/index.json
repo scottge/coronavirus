@@ -7,12 +7,12 @@
     "isoCode": "SE",
     "lat": 63.0
   },
-  "updatedDateTime": "2020-05-12T11:45:10.8589414Z",
+  "updatedDateTime": "2020-05-12T12:45:09.5689567Z",
   "stats": {
-    "totalConfirmedCases": 26670,
-    "newlyConfirmedCases": 0,
-    "totalDeaths": 3256,
-    "newDeaths": 0,
+    "totalConfirmedCases": 27272,
+    "newlyConfirmedCases": 602,
+    "totalDeaths": 3313,
+    "newDeaths": 57,
     "totalRecoveredCases": 4971,
     "newlyRecoveredCases": 0,
     "history": [
@@ -684,8 +684,8 @@
       },
       {
         "date": "2020-05-12T00:00:00",
-        "confirmed": 26670,
-        "deaths": 3256,
+        "confirmed": 27272,
+        "deaths": 3313,
         "recovered": 4971
       }
     ],
@@ -699,10 +699,10 @@
           "isoCode": "SE",
           "lat": 63.0
         },
-        "totalConfirmedCases": 26670,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 3256,
-        "newDeaths": 0,
+        "totalConfirmedCases": 27272,
+        "newlyConfirmedCases": 602,
+        "totalDeaths": 3313,
+        "newDeaths": 57,
         "totalRecoveredCases": 4971,
         "newlyRecoveredCases": 0
       }

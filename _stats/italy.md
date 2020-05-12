@@ -2,8 +2,8 @@
 category: stats
 title: "Italy Coronavirus (COVID-19) Live Stats"
 excerpt: "Live stats of COVID-19 in Italy. Total Cases: 219814 (-), Deaths: 30739 (-), Recoveries: 106587(-)."
-publishedDateTime: 2020-05-12T11:45:11Z
-updatedDateTime: 2020-05-12T11:45:11Z
+publishedDateTime: 2020-05-12T12:45:10Z
+updatedDateTime: 2020-05-12T12:45:10Z
 webUrl: "https://smartable.ai/apps/coronavirus/stats/italy/"
 type: article
 heat: 100
